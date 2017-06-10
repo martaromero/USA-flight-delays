@@ -1,0 +1,1077 @@
+"","DAY_OF_WEEK","NAME_AIRLINE","NAME_AIRPORT","COUNT","data_deptimeblk_mean$MEAN"
+"1",4,"SkyWest Airlines Inc.","Aberdeen, SD: Aberdeen Regional",431,4.18446601941748
+"2",4,"ExpressJet Airlines Inc.","Abilene, TX: Abilene Regional",280,13.3333333333333
+"3",4,"Alaska Airlines Inc.","Adak Island, AK: Adak",406,7.96078431372549
+"4",4,"JetBlue Airways","Aguadilla, PR: Rafael Hernandez",1374,7.89655172413793
+"5",4,"Spirit Air Lines","Aguadilla, PR: Rafael Hernandez",419,13.9666666666667
+"6",4,"United Air Lines Inc.","Aguadilla, PR: Rafael Hernandez",1036,19.5471698113208
+"7",4,"Delta Air Lines Inc.","Akron, OH: Akron-Canton Regional",1718,8.29951690821256
+"8",4,"ExpressJet Airlines Inc.","Akron, OH: Akron-Canton Regional",4430,14.1987179487179
+"9",4,"SkyWest Airlines Inc.","Akron, OH: Akron-Canton Regional",408,8.5
+"10",4,"Southwest Airlines Co.","Akron, OH: Akron-Canton Regional",3128,14.6168224299065
+"11",4,"Spirit Air Lines","Akron, OH: Akron-Canton Regional",161,7
+"12",4,"ExpressJet Airlines Inc.","Albany, GA: Southwest Georgia Regional",1981,12.6987179487179
+"13",4,"American Airlines Inc.","Albany, NY: Albany International",1180,7.61290322580645
+"14",4,"Delta Air Lines Inc.","Albany, NY: Albany International",1162,5.4811320754717
+"15",4,"ExpressJet Airlines Inc.","Albany, NY: Albany International",1705,23.0405405405405
+"16",4,"JetBlue Airways","Albany, NY: Albany International",1652,15.7333333333333
+"17",4,"SkyWest Airlines Inc.","Albany, NY: Albany International",495,6.97183098591549
+"18",4,"Southwest Airlines Co.","Albany, NY: Albany International",4654,7.1820987654321
+"19",4,"United Air Lines Inc.","Albany, NY: Albany International",1484,12.904347826087
+"20",4,"Alaska Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport",332,6.26415094339623
+"21",4,"American Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport",3263,12.9484126984127
+"22",4,"Delta Air Lines Inc.","Albuquerque, NM: Albuquerque International Sunport",1305,6.27403846153846
+"23",4,"ExpressJet Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport",850,18.8888888888889
+"24",4,"JetBlue Airways","Albuquerque, NM: Albuquerque International Sunport",1104,21.2307692307692
+"25",4,"SkyWest Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport",3480,10.8411214953271
+"26",4,"Southwest Airlines Co.","Albuquerque, NM: Albuquerque International Sunport",21368,12.0654997176736
+"27",4,"United Air Lines Inc.","Albuquerque, NM: Albuquerque International Sunport",1758,12.9264705882353
+"28",4,"ExpressJet Airlines Inc.","Alexandria, LA: Alexandria International",4970,11.09375
+"29",4,"Delta Air Lines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International",190,3.72549019607843
+"30",4,"ExpressJet Airlines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International",3775,14.5752895752896
+"31",4,"SkyWest Airlines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International",46,0.686567164179104
+"32",4,"SkyWest Airlines Inc.","Alpena, MI: Alpena County Regional",1549,15.3366336633663
+"33",4,"American Airlines Inc.","Amarillo, TX: Rick Husband Amarillo International",37,2.17647058823529
+"34",4,"ExpressJet Airlines Inc.","Amarillo, TX: Rick Husband Amarillo International",1244,8.46258503401361
+"35",4,"SkyWest Airlines Inc.","Amarillo, TX: Rick Husband Amarillo International",247,6.5
+"36",4,"Southwest Airlines Co.","Amarillo, TX: Rick Husband Amarillo International",2284,8.65151515151515
+"37",4,"Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International",6305,3.17792338709677
+"38",4,"American Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International",2387,37.8888888888889
+"39",4,"Delta Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International",2633,8.35873015873016
+"40",4,"JetBlue Airways","Anchorage, AK: Ted Stevens Anchorage International",642,11.8888888888889
+"41",4,"United Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International",1663,12.5037593984962
+"42",4,"Delta Air Lines Inc.","Appleton, WI: Appleton International",615,6.08910891089109
+"43",4,"ExpressJet Airlines Inc.","Appleton, WI: Appleton International",1982,9.30516431924883
+"44",4,"SkyWest Airlines Inc.","Appleton, WI: Appleton International",1805,8.47417840375587
+"45",4,"SkyWest Airlines Inc.","Arcata/Eureka, CA: Arcata",3110,15.9487179487179
+"46",4,"Delta Air Lines Inc.","Asheville, NC: Asheville Regional",805,6.70833333333333
+"47",4,"ExpressJet Airlines Inc.","Asheville, NC: Asheville Regional",4515,17.1673003802281
+"48",4,"SkyWest Airlines Inc.","Asheville, NC: Asheville Regional",1605,12.84
+"49",4,"SkyWest Airlines Inc.","Aspen, CO: Aspen Pitkin County Sardy Field",9614,15.7865353037767
+"50",4,"Alaska Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",438,3.71186440677966
+"51",4,"American Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",19513,10.8646993318486
+"52",4,"Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",295592,7.8631623749734
+"53",4,"ExpressJet Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",118043,13.3141213625085
+"54",4,"Frontier Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",6916,12.0909090909091
+"55",4,"SkyWest Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",18436,18.4175824175824
+"56",4,"Southwest Airlines Co.","Atlanta, GA: Hartsfield-Jackson Atlanta International",83227,13.0184576880964
+"57",4,"Spirit Air Lines","Atlanta, GA: Hartsfield-Jackson Atlanta International",16283,15.6567307692308
+"58",4,"United Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",13049,14.3711453744493
+"59",4,"Spirit Air Lines","Atlantic City, NJ: Atlantic City International",7392,14.1880998080614
+"60",4,"Delta Air Lines Inc.","Augusta, GA: Augusta Regional at Bush Field",341,2.58333333333333
+"61",4,"ExpressJet Airlines Inc.","Augusta, GA: Augusta Regional at Bush Field",5345,19.507299270073
+"62",4,"Alaska Airlines Inc.","Austin, TX: Austin - Bergstrom International",412,4.96385542168675
+"63",4,"American Airlines Inc.","Austin, TX: Austin - Bergstrom International",15154,11.053245805981
+"64",4,"Delta Air Lines Inc.","Austin, TX: Austin - Bergstrom International",6135,9.337899543379
+"65",4,"ExpressJet Airlines Inc.","Austin, TX: Austin - Bergstrom International",218,24.2222222222222
+"66",4,"Frontier Airlines Inc.","Austin, TX: Austin - Bergstrom International",2398,16.887323943662
+"67",4,"JetBlue Airways","Austin, TX: Austin - Bergstrom International",6517,20.7547770700637
+"68",4,"SkyWest Airlines Inc.","Austin, TX: Austin - Bergstrom International",6814,17.2070707070707
+"69",4,"Southwest Airlines Co.","Austin, TX: Austin - Bergstrom International",33842,10.9273490474653
+"70",4,"United Air Lines Inc.","Austin, TX: Austin - Bergstrom International",10957,15.3030726256983
+"71",4,"Virgin America","Austin, TX: Austin - Bergstrom International",1333,12.5754716981132
+"72",4,"SkyWest Airlines Inc.","Bakersfield, CA: Meadows Field",4486,11.2431077694236
+"73",4,"Alaska Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",1030,9.71698113207547
+"74",4,"American Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",10208,11.5475113122172
+"75",4,"Delta Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",12253,10.8337754199823
+"76",4,"ExpressJet Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",110,5.23809523809524
+"77",4,"JetBlue Airways","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",4311,9.75339366515837
+"78",4,"SkyWest Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",233,13.7058823529412
+"79",4,"Southwest Airlines Co.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",125116,11.9237586962737
+"80",4,"Spirit Air Lines","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",12044,15.8057742782152
+"81",4,"United Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",5394,11.7516339869281
+"82",4,"Delta Air Lines Inc.","Bangor, ME: Bangor International",1317,69.3157894736842
+"83",4,"ExpressJet Airlines Inc.","Bangor, ME: Bangor International",766,11.4328358208955
+"84",4,"Alaska Airlines Inc.","Barrow, AK: Wiley Post/Will Rogers Memorial",460,4.46601941747573
+"85",4,"Delta Air Lines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",749,12.2786885245902
+"86",4,"ExpressJet Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",23998,24.7147270854789
+"87",4,"SkyWest Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",105,8.75
+"88",4,"ExpressJet Airlines Inc.","Beaumont/Port Arthur, TX: Jack Brooks Regional",1595,20.4487179487179
+"89",4,"Alaska Airlines Inc.","Bellingham, WA: Bellingham International",609,9.22727272727273
+"90",4,"SkyWest Airlines Inc.","Bemidji, MN: Bemidji Regional",690,6.63461538461539
+"91",4,"SkyWest Airlines Inc.","Bend/Redmond, OR: Roberts Field",5182,12.7635467980296
+"92",4,"Alaska Airlines Inc.","Bethel, AK: Bethel Airport",606,3.96078431372549
+"93",4,"Delta Air Lines Inc.","Billings, MT: Billings Logan International",1735,11.4144736842105
+"94",4,"ExpressJet Airlines Inc.","Billings, MT: Billings Logan International",0,0
+"95",4,"SkyWest Airlines Inc.","Billings, MT: Billings Logan International",1709,7.06198347107438
+"96",4,"United Air Lines Inc.","Billings, MT: Billings Logan International",382,3.57009345794393
+"97",4,"SkyWest Airlines Inc.","Binghamton, NY: Greater Binghamton/Edwin A. Link Field",1514,11.2148148148148
+"98",4,"Delta Air Lines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International",2226,4.24
+"99",4,"ExpressJet Airlines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International",7435,14.054820415879
+"100",4,"SkyWest Airlines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International",1566,8.32978723404255
+"101",4,"Southwest Airlines Co.","Birmingham, AL: Birmingham-Shuttlesworth International",7293,11.2894736842105
+"102",4,"Delta Air Lines Inc.","Bismarck/Mandan, ND: Bismarck Municipal",581,8.42028985507246
+"103",4,"ExpressJet Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal",640,30.4761904761905
+"104",4,"Frontier Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal",915,24.0789473684211
+"105",4,"SkyWest Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal",4317,16.6038461538462
+"106",4,"Delta Air Lines Inc.","Bloomington/Normal, IL: Central Illinois Regional",43,1.02380952380952
+"107",4,"ExpressJet Airlines Inc.","Bloomington/Normal, IL: Central Illinois Regional",1329,11.4568965517241
+"108",4,"SkyWest Airlines Inc.","Bloomington/Normal, IL: Central Illinois Regional",444,5.92
+"109",4,"American Airlines Inc.","Boise, ID: Boise Air Terminal",933,6.52447552447552
+"110",4,"Delta Air Lines Inc.","Boise, ID: Boise Air Terminal",1820,9.89130434782609
+"111",4,"SkyWest Airlines Inc.","Boise, ID: Boise Air Terminal",17914,14.5879478827362
+"112",4,"Southwest Airlines Co.","Boise, ID: Boise Air Terminal",6302,11.9130434782609
+"113",4,"United Air Lines Inc.","Boise, ID: Boise Air Terminal",1037,10.4747474747475
+"114",4,"Alaska Airlines Inc.","Boston, MA: Logan International",1525,6.32780082987552
+"115",4,"American Airlines Inc.","Boston, MA: Logan International",36454,8.33043875685558
+"116",4,"Delta Air Lines Inc.","Boston, MA: Logan International",31481,13.0626556016598
+"117",4,"ExpressJet Airlines Inc.","Boston, MA: Logan International",5266,16.9324758842444
+"118",4,"JetBlue Airways","Boston, MA: Logan International",78281,11.8356516480194
+"119",4,"SkyWest Airlines Inc.","Boston, MA: Logan International",309,44.1428571428571
+"120",4,"Southwest Airlines Co.","Boston, MA: Logan International",23214,12.4873587950511
+"121",4,"Spirit Air Lines","Boston, MA: Logan International",13394,25.3674242424242
+"122",4,"United Air Lines Inc.","Boston, MA: Logan International",26240,13.0352707401888
+"123",4,"Virgin America","Boston, MA: Logan International",3279,11.7107142857143
+"124",4,"Delta Air Lines Inc.","Bozeman, MT: Bozeman Yellowstone International",2154,13.4625
+"125",4,"Frontier Airlines Inc.","Bozeman, MT: Bozeman Yellowstone International",1029,28.5833333333333
+"126",4,"SkyWest Airlines Inc.","Bozeman, MT: Bozeman Yellowstone International",2524,9.48872180451128
+"127",4,"United Air Lines Inc.","Bozeman, MT: Bozeman Yellowstone International",1766,13.9055118110236
+"128",4,"SkyWest Airlines Inc.","Brainerd, MN: Brainerd Lakes Regional",926,8.81904761904762
+"129",4,"Delta Air Lines Inc.","Bristol/Johnson City/Kingsport, TN: Tri-Cities Regional TN/VA",62,1.01639344262295
+"130",4,"ExpressJet Airlines Inc.","Bristol/Johnson City/Kingsport, TN: Tri-Cities Regional TN/VA",4054,14.5304659498208
+"131",4,"ExpressJet Airlines Inc.","Brownsville, TX: Brownsville South Padre Island International",3308,11.6070175438596
+"132",4,"SkyWest Airlines Inc.","Brownsville, TX: Brownsville South Padre Island International",87,2.41666666666667
+"133",4,"ExpressJet Airlines Inc.","Brunswick, GA: Brunswick Golden Isles",1339,8.58333333333333
+"134",4,"American Airlines Inc.","Buffalo, NY: Buffalo Niagara International",1565,7.56038647342995
+"135",4,"Delta Air Lines Inc.","Buffalo, NY: Buffalo Niagara International",3168,7.48936170212766
+"136",4,"ExpressJet Airlines Inc.","Buffalo, NY: Buffalo Niagara International",5877,18.2515527950311
+"137",4,"JetBlue Airways","Buffalo, NY: Buffalo Niagara International",9883,14.6849925705795
+"138",4,"SkyWest Airlines Inc.","Buffalo, NY: Buffalo Niagara International",761,14.0925925925926
+"139",4,"Southwest Airlines Co.","Buffalo, NY: Buffalo Niagara International",6456,7.09450549450549
+"140",4,"United Air Lines Inc.","Buffalo, NY: Buffalo Niagara International",792,10.1538461538462
+"141",4,"Alaska Airlines Inc.","Burbank, CA: Bob Hope",430,2.45714285714286
+"142",4,"JetBlue Airways","Burbank, CA: Bob Hope",1326,26
+"143",4,"SkyWest Airlines Inc.","Burbank, CA: Bob Hope",12858,17.8583333333333
+"144",4,"Southwest Airlines Co.","Burbank, CA: Bob Hope",24904,10.0338436744561
+"145",4,"Delta Air Lines Inc.","Burlington, VT: Burlington International",29,1.70588235294118
+"146",4,"ExpressJet Airlines Inc.","Burlington, VT: Burlington International",6715,19.4075144508671
+"147",4,"JetBlue Airways","Burlington, VT: Burlington International",2398,14.189349112426
+"148",4,"United Air Lines Inc.","Burlington, VT: Burlington International",281,5.85416666666667
+"149",4,"SkyWest Airlines Inc.","Butte, MT: Bert Mooney",248,2.45544554455446
+"150",4,"SkyWest Airlines Inc.","Casper, WY: Casper/Natrona County International",878,4.06481481481481
+"151",4,"SkyWest Airlines Inc.","Cedar City, UT: Cedar City Regional",758,7.21904761904762
+"152",4,"Delta Air Lines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa",3,0.230769230769231
+"153",4,"ExpressJet Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa",1804,9.25128205128205
+"154",4,"Frontier Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa",816,20.9230769230769
+"155",4,"SkyWest Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa",4766,10.4517543859649
+"156",4,"American Airlines Inc.","Charleston, SC: Charleston AFB/International",411,4.37234042553191
+"157",4,"Delta Air Lines Inc.","Charleston, SC: Charleston AFB/International",3494,5.40866873065016
+"158",4,"ExpressJet Airlines Inc.","Charleston, SC: Charleston AFB/International",10392,20.7011952191235
+"159",4,"JetBlue Airways","Charleston, SC: Charleston AFB/International",7920,20.4651162790698
+"160",4,"SkyWest Airlines Inc.","Charleston, SC: Charleston AFB/International",598,8.54285714285714
+"161",4,"Southwest Airlines Co.","Charleston, SC: Charleston AFB/International",4624,11.3333333333333
+"162",4,"United Air Lines Inc.","Charleston, SC: Charleston AFB/International",369,9.46153846153846
+"163",4,"Delta Air Lines Inc.","Charleston/Dunbar, WV: Yeager",674,13.2156862745098
+"164",4,"ExpressJet Airlines Inc.","Charleston/Dunbar, WV: Yeager",7870,23.4925373134328
+"165",4,"American Airlines Inc.","Charlotte Amalie, VI: Cyril E King",4969,16.5633333333333
+"166",4,"Delta Air Lines Inc.","Charlotte Amalie, VI: Cyril E King",638,4.36986301369863
+"167",4,"JetBlue Airways","Charlotte Amalie, VI: Cyril E King",1611,12.4883720930233
+"168",4,"Spirit Air Lines","Charlotte Amalie, VI: Cyril E King",377,7.25
+"169",4,"United Air Lines Inc.","Charlotte Amalie, VI: Cyril E King",1390,27.2549019607843
+"170",4,"American Airlines Inc.","Charlotte, NC: Charlotte Douglas International",156530,10.7959169597903
+"171",4,"Delta Air Lines Inc.","Charlotte, NC: Charlotte Douglas International",10665,10.6437125748503
+"172",4,"ExpressJet Airlines Inc.","Charlotte, NC: Charlotte Douglas International",2944,24.5333333333333
+"173",4,"Frontier Airlines Inc.","Charlotte, NC: Charlotte Douglas International",1781,21.9876543209877
+"174",4,"JetBlue Airways","Charlotte, NC: Charlotte Douglas International",4382,21.0673076923077
+"175",4,"SkyWest Airlines Inc.","Charlotte, NC: Charlotte Douglas International",5153,17.2341137123746
+"176",4,"Southwest Airlines Co.","Charlotte, NC: Charlotte Douglas International",5913,17.1889534883721
+"177",4,"United Air Lines Inc.","Charlotte, NC: Charlotte Douglas International",1563,9.64814814814815
+"178",4,"Delta Air Lines Inc.","Charlottesville, VA: Charlottesville Albemarle",856,16.1509433962264
+"179",4,"ExpressJet Airlines Inc.","Charlottesville, VA: Charlottesville Albemarle",2500,15.7232704402516
+"180",4,"SkyWest Airlines Inc.","Charlottesville, VA: Charlottesville Albemarle",3145,20.6907894736842
+"181",4,"Delta Air Lines Inc.","Chattanooga, TN: Lovell Field",1119,8.35074626865672
+"182",4,"ExpressJet Airlines Inc.","Chattanooga, TN: Lovell Field",6243,16.692513368984
+"183",4,"SkyWest Airlines Inc.","Chattanooga, TN: Lovell Field",3741,16.1948051948052
+"184",4,"Delta Air Lines Inc.","Chicago, IL: Chicago Midway International",3021,7.72634271099744
+"185",4,"ExpressJet Airlines Inc.","Chicago, IL: Chicago Midway International",2505,16.3725490196078
+"186",4,"SkyWest Airlines Inc.","Chicago, IL: Chicago Midway International",1328,13.5510204081633
+"187",4,"Southwest Airlines Co.","Chicago, IL: Chicago Midway International",138717,11.1178167828805
+"188",4,"Alaska Airlines Inc.","Chicago, IL: Chicago O'Hare International",4440,14.5098039215686
+"189",4,"American Airlines Inc.","Chicago, IL: Chicago O'Hare International",141419,15.4051198257081
+"190",4,"Delta Air Lines Inc.","Chicago, IL: Chicago O'Hare International",14454,11.8281505728314
+"191",4,"ExpressJet Airlines Inc.","Chicago, IL: Chicago O'Hare International",54554,9.00528227137669
+"192",4,"Frontier Airlines Inc.","Chicago, IL: Chicago O'Hare International",13092,20.4882629107981
+"193",4,"JetBlue Airways","Chicago, IL: Chicago O'Hare International",6331,17.5373961218837
+"194",4,"SkyWest Airlines Inc.","Chicago, IL: Chicago O'Hare International",78205,12.5731511254019
+"195",4,"Spirit Air Lines","Chicago, IL: Chicago O'Hare International",28382,18.771164021164
+"196",4,"United Air Lines Inc.","Chicago, IL: Chicago O'Hare International",191506,17.647069664578
+"197",4,"Virgin America","Chicago, IL: Chicago O'Hare International",2784,12.2105263157895
+"198",4,"American Airlines Inc.","Christiansted, VI: Henry E. Rohlsen",2195,25.5232558139535
+"199",4,"Delta Air Lines Inc.","Christiansted, VI: Henry E. Rohlsen",0,0
+"200",4,"JetBlue Airways","Christiansted, VI: Henry E. Rohlsen",580,10.9433962264151
+"201",4,"Delta Air Lines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International",8870,9.18219461697723
+"202",4,"ExpressJet Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International",3307,12.2029520295203
+"203",4,"Frontier Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International",4944,16.2098360655738
+"204",4,"SkyWest Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International",12392,13.5877192982456
+"205",4,"United Air Lines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International",158,6.32
+"206",4,"American Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International",3424,9.05820105820106
+"207",4,"Delta Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International",3313,7.46171171171171
+"208",4,"ExpressJet Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International",26175,16.3389513108614
+"209",4,"Frontier Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International",6358,14.8205128205128
+"210",4,"JetBlue Airways","Cleveland, OH: Cleveland-Hopkins International",2386,12.2989690721649
+"211",4,"SkyWest Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International",1263,8.30921052631579
+"212",4,"Southwest Airlines Co.","Cleveland, OH: Cleveland-Hopkins International",7016,8.71552795031056
+"213",4,"Spirit Air Lines","Cleveland, OH: Cleveland-Hopkins International",9412,22.9002433090024
+"214",4,"United Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International",9931,11.7945368171021
+"215",4,"SkyWest Airlines Inc.","Cody, WY: Yellowstone Regional",1164,9.38709677419355
+"216",4,"ExpressJet Airlines Inc.","College Station/Bryan, TX: Easterwood Field",2065,11.0427807486631
+"217",4,"American Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal",4035,24.3072289156627
+"218",4,"Delta Air Lines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal",323,6.09433962264151
+"219",4,"ExpressJet Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal",415,9.43181818181818
+"220",4,"Frontier Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal",2513,34.9027777777778
+"221",4,"SkyWest Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal",12773,13.8385698808234
+"222",4,"Delta Air Lines Inc.","Columbia, SC: Columbia Metropolitan",535,2.75773195876289
+"223",4,"ExpressJet Airlines Inc.","Columbia, SC: Columbia Metropolitan",6725,13.5584677419355
+"224",4,"SkyWest Airlines Inc.","Columbia, SC: Columbia Metropolitan",124,31
+"225",4,"ExpressJet Airlines Inc.","Columbus, GA: Columbus Airport",1755,8.90862944162436
+"226",4,"ExpressJet Airlines Inc.","Columbus, MS: Golden Triangle Regional",1983,12.7935483870968
+"227",4,"American Airlines Inc.","Columbus, OH: Port Columbus International",4682,12.0359897172237
+"228",4,"Delta Air Lines Inc.","Columbus, OH: Port Columbus International",3423,6.23497267759563
+"229",4,"ExpressJet Airlines Inc.","Columbus, OH: Port Columbus International",6478,17.6512261580381
+"230",4,"Frontier Airlines Inc.","Columbus, OH: Port Columbus International",2953,26.1327433628319
+"231",4,"SkyWest Airlines Inc.","Columbus, OH: Port Columbus International",1427,8.75460122699386
+"232",4,"Southwest Airlines Co.","Columbus, OH: Port Columbus International",13928,7.7249029395452
+"233",4,"United Air Lines Inc.","Columbus, OH: Port Columbus International",2472,13.7333333333333
+"234",4,"Alaska Airlines Inc.","Cordova, AK: Merle K Mudhole Smith",478,4.64077669902913
+"235",4,"American Airlines Inc.","Corpus Christi, TX: Corpus Christi International",341,56.8333333333333
+"236",4,"ExpressJet Airlines Inc.","Corpus Christi, TX: Corpus Christi International",1907,10.0368421052632
+"237",4,"SkyWest Airlines Inc.","Corpus Christi, TX: Corpus Christi International",277,8.65625
+"238",4,"Southwest Airlines Co.","Corpus Christi, TX: Corpus Christi International",1881,9.04326923076923
+"239",4,"Delta Air Lines Inc.","Dallas, TX: Dallas Love Field",2633,10.2054263565891
+"240",4,"ExpressJet Airlines Inc.","Dallas, TX: Dallas Love Field",10,2.5
+"241",4,"Southwest Airlines Co.","Dallas, TX: Dallas Love Field",120731,12.8273480662983
+"242",4,"Virgin America","Dallas, TX: Dallas Love Field",8512,10.8571428571429
+"243",4,"Alaska Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",1710,8.22115384615385
+"244",4,"American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",316605,15.1246835140687
+"245",4,"Delta Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",8960,10.3823870220162
+"246",4,"ExpressJet Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",70536,16.3999069983725
+"247",4,"Frontier Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",3104,18.4761904761905
+"248",4,"JetBlue Airways","Dallas/Fort Worth, TX: Dallas/Fort Worth International",1486,14.4271844660194
+"249",4,"SkyWest Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",11208,17.9328
+"250",4,"Spirit Air Lines","Dallas/Fort Worth, TX: Dallas/Fort Worth International",14906,11.953488372093
+"251",4,"United Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",10971,14.5119047619048
+"252",4,"American Airlines Inc.","Dayton, OH: James M Cox/Dayton International",1223,13.7415730337079
+"253",4,"Delta Air Lines Inc.","Dayton, OH: James M Cox/Dayton International",1620,7.7511961722488
+"254",4,"ExpressJet Airlines Inc.","Dayton, OH: James M Cox/Dayton International",3159,13.5579399141631
+"255",4,"SkyWest Airlines Inc.","Dayton, OH: James M Cox/Dayton International",2253,8.43820224719101
+"256",4,"Southwest Airlines Co.","Dayton, OH: James M Cox/Dayton International",716,4.06818181818182
+"257",4,"Delta Air Lines Inc.","Daytona Beach, FL: Daytona Beach International",1132,4.73640167364017
+"258",4,"JetBlue Airways","Daytona Beach, FL: Daytona Beach International",1850,35.5769230769231
+"259",4,"Alaska Airlines Inc.","Deadhorse, AK: Deadhorse Airport",341,3.27884615384615
+"260",4,"Alaska Airlines Inc.","Denver, CO: Denver International",1547,6.58297872340426
+"261",4,"American Airlines Inc.","Denver, CO: Denver International",15612,10.0852713178295
+"262",4,"Delta Air Lines Inc.","Denver, CO: Denver International",19401,14.2759381898455
+"263",4,"Frontier Airlines Inc.","Denver, CO: Denver International",56458,17.2812978267524
+"264",4,"JetBlue Airways","Denver, CO: Denver International",3606,21.7228915662651
+"265",4,"SkyWest Airlines Inc.","Denver, CO: Denver International",81834,10.906837265094
+"266",4,"Southwest Airlines Co.","Denver, CO: Denver International",115631,11.8668924466338
+"267",4,"Spirit Air Lines","Denver, CO: Denver International",10810,16.9170579029734
+"268",4,"United Air Lines Inc.","Denver, CO: Denver International",127093,14.1089031971581
+"269",4,"Virgin America","Denver, CO: Denver International",1917,15.336
+"270",4,"American Airlines Inc.","Des Moines, IA: Des Moines International",1801,8.96019900497512
+"271",4,"Delta Air Lines Inc.","Des Moines, IA: Des Moines International",1623,10.6776315789474
+"272",4,"ExpressJet Airlines Inc.","Des Moines, IA: Des Moines International",1359,8.94078947368421
+"273",4,"Frontier Airlines Inc.","Des Moines, IA: Des Moines International",1509,23.2153846153846
+"274",4,"SkyWest Airlines Inc.","Des Moines, IA: Des Moines International",2262,10.0533333333333
+"275",4,"Southwest Airlines Co.","Des Moines, IA: Des Moines International",1624,10.2784810126582
+"276",4,"United Air Lines Inc.","Des Moines, IA: Des Moines International",1971,8.2125
+"277",4,"Alaska Airlines Inc.","Detroit, MI: Detroit Metro Wayne County",519,7.98461538461538
+"278",4,"American Airlines Inc.","Detroit, MI: Detroit Metro Wayne County",13670,13.8922764227642
+"279",4,"Delta Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County",99877,11.3059769074032
+"280",4,"ExpressJet Airlines Inc.","Detroit, MI: Detroit Metro Wayne County",44445,15.3100241129866
+"281",4,"Frontier Airlines Inc.","Detroit, MI: Detroit Metro Wayne County",1690,12.9007633587786
+"282",4,"JetBlue Airways","Detroit, MI: Detroit Metro Wayne County",1864,8.91866028708134
+"283",4,"SkyWest Airlines Inc.","Detroit, MI: Detroit Metro Wayne County",38726,11.4948055802909
+"284",4,"Southwest Airlines Co.","Detroit, MI: Detroit Metro Wayne County",11671,10.9176800748363
+"285",4,"Spirit Air Lines","Detroit, MI: Detroit Metro Wayne County",15763,12.4313880126183
+"286",4,"United Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County",2874,11.7786885245902
+"287",4,"SkyWest Airlines Inc.","Devils Lake, ND: Devils Lake Regional",1985,20.0505050505051
+"288",4,"Alaska Airlines Inc.","Dillingham, AK: Dillingham Airport",74,6.16666666666667
+"289",4,"ExpressJet Airlines Inc.","Dothan, AL: Dothan Regional",2296,10.9856459330144
+"290",4,"Delta Air Lines Inc.","Duluth, MN: Duluth International",950,39.5833333333333
+"291",4,"SkyWest Airlines Inc.","Duluth, MN: Duluth International",3079,9.24624624624625
+"292",4,"ExpressJet Airlines Inc.","Durango, CO: Durango La Plata County",1051,21.4489795918367
+"293",4,"SkyWest Airlines Inc.","Durango, CO: Durango La Plata County",2799,11.6141078838174
+"294",4,"American Airlines Inc.","Eagle, CO: Eagle County Regional",935,7.92372881355932
+"295",4,"Delta Air Lines Inc.","Eagle, CO: Eagle County Regional",126,9
+"296",4,"SkyWest Airlines Inc.","Eagle, CO: Eagle County Regional",418,7.08474576271186
+"297",4,"United Air Lines Inc.","Eagle, CO: Eagle County Regional",146,4.70967741935484
+"298",4,"SkyWest Airlines Inc.","Eau Claire, WI: Chippewa Valley Regional",1167,11.5544554455446
+"299",4,"American Airlines Inc.","El Paso, TX: El Paso International",3351,16.755
+"300",4,"Delta Air Lines Inc.","El Paso, TX: El Paso International",702,4.94366197183099
+"301",4,"ExpressJet Airlines Inc.","El Paso, TX: El Paso International",2141,15.4028776978417
+"302",4,"SkyWest Airlines Inc.","El Paso, TX: El Paso International",1313,7.37640449438202
+"303",4,"Southwest Airlines Co.","El Paso, TX: El Paso International",13394,12.4363974001857
+"304",4,"SkyWest Airlines Inc.","Elko, NV: Elko Regional",724,6.96153846153846
+"305",4,"ExpressJet Airlines Inc.","Elmira/Corning, NY: Elmira/Corning Regional",2292,8.15658362989324
+"306",4,"ExpressJet Airlines Inc.","Erie, PA: Erie International/Tom Ridge Field",1199,11.311320754717
+"307",4,"SkyWest Airlines Inc.","Erie, PA: Erie International/Tom Ridge Field",1042,148.857142857143
+"308",4,"SkyWest Airlines Inc.","Escanaba, MI: Delta County",2347,23.47
+"309",4,"SkyWest Airlines Inc.","Eugene, OR: Mahlon Sweet Field",6960,16.5714285714286
+"310",4,"United Air Lines Inc.","Eugene, OR: Mahlon Sweet Field",1682,18.6888888888889
+"311",4,"Delta Air Lines Inc.","Evansville, IN: Evansville Regional",8,0.156862745098039
+"312",4,"ExpressJet Airlines Inc.","Evansville, IN: Evansville Regional",4201,12.8470948012232
+"313",4,"SkyWest Airlines Inc.","Evansville, IN: Evansville Regional",338,7.68181818181818
+"314",4,"Alaska Airlines Inc.","Fairbanks, AK: Fairbanks International",803,2.58199356913183
+"315",4,"Delta Air Lines Inc.","Fairbanks, AK: Fairbanks International",655,13.936170212766
+"316",4,"United Air Lines Inc.","Fairbanks, AK: Fairbanks International",510,51
+"317",4,"Delta Air Lines Inc.","Fargo, ND: Hector International",3366,22
+"318",4,"ExpressJet Airlines Inc.","Fargo, ND: Hector International",1672,14.2905982905983
+"319",4,"SkyWest Airlines Inc.","Fargo, ND: Hector International",3973,11.5830903790087
+"320",4,"American Airlines Inc.","Fayetteville, AR: Northwest Arkansas Regional",0,0
+"321",4,"Delta Air Lines Inc.","Fayetteville, AR: Northwest Arkansas Regional",256,2.56
+"322",4,"ExpressJet Airlines Inc.","Fayetteville, AR: Northwest Arkansas Regional",6272,13.8454746136865
+"323",4,"SkyWest Airlines Inc.","Fayetteville, AR: Northwest Arkansas Regional",3833,9.80306905370844
+"324",4,"Delta Air Lines Inc.","Fayetteville, NC: Fayetteville Regional/Grannis Field",281,3.26744186046512
+"325",4,"ExpressJet Airlines Inc.","Fayetteville, NC: Fayetteville Regional/Grannis Field",1951,10.7790055248619
+"326",4,"SkyWest Airlines Inc.","Flagstaff, AZ: Flagstaff Pulliam",1571,5.92830188679245
+"327",4,"Delta Air Lines Inc.","Flint, MI: Bishop International",711,4.5
+"328",4,"ExpressJet Airlines Inc.","Flint, MI: Bishop International",2067,13
+"329",4,"SkyWest Airlines Inc.","Flint, MI: Bishop International",321,4.72058823529412
+"330",4,"Southwest Airlines Co.","Flint, MI: Bishop International",917,4.85185185185185
+"331",4,"Alaska Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",466,9.13725490196078
+"332",4,"American Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",12776,10.6112956810631
+"333",4,"Delta Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",19053,11.3275862068966
+"334",4,"Frontier Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",249,11.8571428571429
+"335",4,"JetBlue Airways","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",60897,19.1259422110553
+"336",4,"Southwest Airlines Co.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",32458,11.5632347702173
+"337",4,"Spirit Air Lines","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",29976,15.2938775510204
+"338",4,"United Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",12082,15.2936708860759
+"339",4,"Virgin America","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",2904,13.1402714932127
+"340",4,"American Airlines Inc.","Fort Myers, FL: Southwest Florida International",5296,7.81120943952802
+"341",4,"Delta Air Lines Inc.","Fort Myers, FL: Southwest Florida International",6748,7.84651162790698
+"342",4,"Frontier Airlines Inc.","Fort Myers, FL: Southwest Florida International",3468,12.75
+"343",4,"JetBlue Airways","Fort Myers, FL: Southwest Florida International",15305,21.7709815078236
+"344",4,"Southwest Airlines Co.","Fort Myers, FL: Southwest Florida International",10528,10.8201438848921
+"345",4,"Spirit Air Lines","Fort Myers, FL: Southwest Florida International",7397,19.6728723404255
+"346",4,"United Air Lines Inc.","Fort Myers, FL: Southwest Florida International",3055,8.53351955307263
+"347",4,"ExpressJet Airlines Inc.","Fort Smith, AR: Fort Smith Regional",1177,6.92352941176471
+"348",4,"ExpressJet Airlines Inc.","Fort Wayne, IN: Fort Wayne International",83,4.36842105263158
+"349",4,"SkyWest Airlines Inc.","Fort Wayne, IN: Fort Wayne International",8994,14.4134615384615
+"350",4,"American Airlines Inc.","Fresno, CA: Fresno Yosemite International",1767,15.7767857142857
+"351",4,"SkyWest Airlines Inc.","Fresno, CA: Fresno Yosemite International",12643,11.3187108325873
+"352",4,"Delta Air Lines Inc.","Gainesville, FL: Gainesville Regional",114,2.85
+"353",4,"ExpressJet Airlines Inc.","Gainesville, FL: Gainesville Regional",3255,10.3006329113924
+"354",4,"ExpressJet Airlines Inc.","Garden City, KS: Garden City Regional",1025,16.5322580645161
+"355",4,"SkyWest Airlines Inc.","Gillette, WY: Gillette Campbell County",2421,15.6193548387097
+"356",4,"SkyWest Airlines Inc.","Grand Forks, ND: Grand Forks International",1560,6.52719665271966
+"357",4,"ExpressJet Airlines Inc.","Grand Island, NE: Central Nebraska Regional",454,10.8095238095238
+"358",4,"ExpressJet Airlines Inc.","Grand Junction, CO: Grand Junction Regional",42,8.4
+"359",4,"SkyWest Airlines Inc.","Grand Junction, CO: Grand Junction Regional",3128,7.125284738041
+"360",4,"Delta Air Lines Inc.","Grand Rapids, MI: Gerald R. Ford International",2980,5.86614173228346
+"361",4,"ExpressJet Airlines Inc.","Grand Rapids, MI: Gerald R. Ford International",4701,13.7055393586006
+"362",4,"SkyWest Airlines Inc.","Grand Rapids, MI: Gerald R. Ford International",2409,11.4714285714286
+"363",4,"Southwest Airlines Co.","Grand Rapids, MI: Gerald R. Ford International",2114,6.73248407643312
+"364",4,"United Air Lines Inc.","Grand Rapids, MI: Gerald R. Ford International",535,9.90740740740741
+"365",4,"SkyWest Airlines Inc.","Great Falls, MT: Great Falls International",2242,8.49242424242424
+"366",4,"Delta Air Lines Inc.","Green Bay, WI: Green Bay Austin Straubel International",962,7.9504132231405
+"367",4,"ExpressJet Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International",2024,7.66666666666667
+"368",4,"SkyWest Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International",2937,15.8756756756757
+"369",4,"American Airlines Inc.","Greensboro/High Point, NC: Piedmont Triad International",106,4.81818181818182
+"370",4,"Delta Air Lines Inc.","Greensboro/High Point, NC: Piedmont Triad International",1895,5.14945652173913
+"371",4,"ExpressJet Airlines Inc.","Greensboro/High Point, NC: Piedmont Triad International",8837,17.259765625
+"372",4,"Frontier Airlines Inc.","Greensboro/High Point, NC: Piedmont Triad International",626,18.4117647058824
+"373",4,"SkyWest Airlines Inc.","Greensboro/High Point, NC: Piedmont Triad International",0,0
+"374",4,"Delta Air Lines Inc.","Greer, SC: Greenville-Spartanburg International",2788,8.08115942028986
+"375",4,"ExpressJet Airlines Inc.","Greer, SC: Greenville-Spartanburg International",9651,17.1725978647687
+"376",4,"SkyWest Airlines Inc.","Greer, SC: Greenville-Spartanburg International",390,7.5
+"377",4,"Southwest Airlines Co.","Greer, SC: Greenville-Spartanburg International",1014,5.45161290322581
+"378",4,"United Air Lines Inc.","Guam, TT: Guam International",225,4.32692307692308
+"379",4,"Delta Air Lines Inc.","Gulfport/Biloxi, MS: Gulfport-Biloxi International",2369,12.4684210526316
+"380",4,"ExpressJet Airlines Inc.","Gulfport/Biloxi, MS: Gulfport-Biloxi International",4072,14.2877192982456
+"381",4,"American Airlines Inc.","Gunnison, CO: Gunnison-Crested Butte Regional",1389,81.7058823529412
+"382",4,"SkyWest Airlines Inc.","Gunnison, CO: Gunnison-Crested Butte Regional",0,0
+"383",4,"United Air Lines Inc.","Gunnison, CO: Gunnison-Crested Butte Regional",58,29
+"384",4,"Alaska Airlines Inc.","Gustavus, AK: Gustavus Airport",27,2.25
+"385",4,"SkyWest Airlines Inc.","Hancock/Houghton, MI: Houghton County Memorial",2118,21.18
+"386",4,"ExpressJet Airlines Inc.","Harlingen/San Benito, TX: Valley International",588,5.44444444444444
+"387",4,"SkyWest Airlines Inc.","Harlingen/San Benito, TX: Valley International",36,1.38461538461538
+"388",4,"Southwest Airlines Co.","Harlingen/San Benito, TX: Valley International",2889,9.20063694267516
+"389",4,"American Airlines Inc.","Harrisburg, PA: Harrisburg International",493,9.30188679245283
+"390",4,"Delta Air Lines Inc.","Harrisburg, PA: Harrisburg International",1040,6.62420382165605
+"391",4,"ExpressJet Airlines Inc.","Harrisburg, PA: Harrisburg International",274,3.97101449275362
+"392",4,"SkyWest Airlines Inc.","Harrisburg, PA: Harrisburg International",977,17.7636363636364
+"393",4,"United Air Lines Inc.","Harrisburg, PA: Harrisburg International",1139,19.9824561403509
+"394",4,"American Airlines Inc.","Hartford, CT: Bradley International",4666,8.07266435986159
+"395",4,"Delta Air Lines Inc.","Hartford, CT: Bradley International",4908,7.21764705882353
+"396",4,"ExpressJet Airlines Inc.","Hartford, CT: Bradley International",710,10.1428571428571
+"397",4,"JetBlue Airways","Hartford, CT: Bradley International",8614,16.6293436293436
+"398",4,"SkyWest Airlines Inc.","Hartford, CT: Bradley International",777,9.59259259259259
+"399",4,"Southwest Airlines Co.","Hartford, CT: Bradley International",6939,7.43729903536977
+"400",4,"United Air Lines Inc.","Hartford, CT: Bradley International",1787,9.60752688172043
+"401",4,"ExpressJet Airlines Inc.","Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",1425,13.5714285714286
+"402",4,"American Airlines Inc.","Hayden, CO: Yampa Valley",337,18.7222222222222
+"403",4,"Delta Air Lines Inc.","Hayden, CO: Yampa Valley",98,7
+"404",4,"ExpressJet Airlines Inc.","Hayden, CO: Yampa Valley",290,145
+"405",4,"SkyWest Airlines Inc.","Hayden, CO: Yampa Valley",754,10.1891891891892
+"406",4,"United Air Lines Inc.","Hayden, CO: Yampa Valley",209,16.0769230769231
+"407",4,"SkyWest Airlines Inc.","Hays, KS: Hays Regional",484,4.74509803921569
+"408",4,"SkyWest Airlines Inc.","Helena, MT: Helena Regional",967,3.83730158730159
+"409",4,"SkyWest Airlines Inc.","Hibbing, MN: Range Regional",2033,13.2012987012987
+"410",4,"Hawaiian Airlines Inc.","Hilo, HI: Hilo International",4026,4.79285714285714
+"411",4,"United Air Lines Inc.","Hilo, HI: Hilo International",473,8.92452830188679
+"412",4,"ExpressJet Airlines Inc.","Hobbs, NM: Lea County Regional",1736,17.1881188118812
+"413",4,"Alaska Airlines Inc.","Honolulu, HI: Honolulu International",3714,10.4915254237288
+"414",4,"American Airlines Inc.","Honolulu, HI: Honolulu International",3882,8.70403587443946
+"415",4,"Delta Air Lines Inc.","Honolulu, HI: Honolulu International",3510,8.22014051522248
+"416",4,"Hawaiian Airlines Inc.","Honolulu, HI: Honolulu International",17263,3.6714164185453
+"417",4,"United Air Lines Inc.","Honolulu, HI: Honolulu International",10345,13.3311855670103
+"418",4,"Virgin America","Honolulu, HI: Honolulu International",859,9.65168539325843
+"419",4,"Alaska Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston",944,11.1058823529412
+"420",4,"American Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston",12829,10.7355648535565
+"421",4,"Delta Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston",7288,16.3042505592841
+"422",4,"ExpressJet Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston",56788,7.94904815229563
+"423",4,"Frontier Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston",4680,21.1764705882353
+"424",4,"SkyWest Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston",29766,13.8446511627907
+"425",4,"Spirit Air Lines","Houston, TX: George Bush Intercontinental/Houston",14691,17.5519713261649
+"426",4,"United Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston",156165,17.9458745116065
+"427",4,"American Airlines Inc.","Houston, TX: William P Hobby",58,4.14285714285714
+"428",4,"Delta Air Lines Inc.","Houston, TX: William P Hobby",2717,9.36896551724138
+"429",4,"ExpressJet Airlines Inc.","Houston, TX: William P Hobby",2902,18.484076433121
+"430",4,"JetBlue Airways","Houston, TX: William P Hobby",2968,28
+"431",4,"Southwest Airlines Co.","Houston, TX: William P Hobby",97540,12.8022050137813
+"432",4,"Delta Air Lines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field",1324,3.83768115942029
+"433",4,"ExpressJet Airlines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field",3205,10.864406779661
+"434",4,"SkyWest Airlines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field",0,0
+"435",4,"JetBlue Airways","Hyannis, MA: Barnstable Municipal-Boardman/Polando Field",356,18.7368421052632
+"436",4,"SkyWest Airlines Inc.","Idaho Falls, ID: Idaho Falls Regional",2642,7.40056022408964
+"437",4,"American Airlines Inc.","Indianapolis, IN: Indianapolis International",5284,8.37400950871632
+"438",4,"Delta Air Lines Inc.","Indianapolis, IN: Indianapolis International",7667,9.89290322580645
+"439",4,"ExpressJet Airlines Inc.","Indianapolis, IN: Indianapolis International",7784,20.5382585751979
+"440",4,"Frontier Airlines Inc.","Indianapolis, IN: Indianapolis International",2862,17.8875
+"441",4,"SkyWest Airlines Inc.","Indianapolis, IN: Indianapolis International",657,13.9787234042553
+"442",4,"Southwest Airlines Co.","Indianapolis, IN: Indianapolis International",22180,11.679831490258
+"443",4,"United Air Lines Inc.","Indianapolis, IN: Indianapolis International",3243,15.4428571428571
+"444",4,"SkyWest Airlines Inc.","International Falls, MN: Falls International Einarson Field",1583,15.368932038835
+"445",4,"SkyWest Airlines Inc.","Iron Mountain/Kingsfd, MI: Ford",1480,14.2307692307692
+"446",4,"Southwest Airlines Co.","Islip, NY: Long Island MacArthur",5766,8.46696035242291
+"447",4,"SkyWest Airlines Inc.","Ithaca/Cortland, NY: Ithaca Tompkins Regional",3672,25.8591549295775
+"448",4,"American Airlines Inc.","Jackson, WY: Jackson Hole",2538,28.2
+"449",4,"Delta Air Lines Inc.","Jackson, WY: Jackson Hole",1262,13.2842105263158
+"450",4,"SkyWest Airlines Inc.","Jackson, WY: Jackson Hole",2564,15.2619047619048
+"451",4,"United Air Lines Inc.","Jackson, WY: Jackson Hole",1894,13.3380281690141
+"452",4,"Delta Air Lines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",1699,5.13293051359517
+"453",4,"ExpressJet Airlines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",6392,13.6873661670236
+"454",4,"American Airlines Inc.","Jacksonville, FL: Jacksonville International",6350,11.2190812720848
+"455",4,"Delta Air Lines Inc.","Jacksonville, FL: Jacksonville International",3934,5.47148817802503
+"456",4,"ExpressJet Airlines Inc.","Jacksonville, FL: Jacksonville International",3615,16.5068493150685
+"457",4,"JetBlue Airways","Jacksonville, FL: Jacksonville International",8732,16.8571428571429
+"458",4,"SkyWest Airlines Inc.","Jacksonville, FL: Jacksonville International",1131,13
+"459",4,"Southwest Airlines Co.","Jacksonville, FL: Jacksonville International",5162,7.72754491017964
+"460",4,"United Air Lines Inc.","Jacksonville, FL: Jacksonville International",2457,48.1764705882353
+"461",4,"Delta Air Lines Inc.","Jacksonville/Camp Lejeune, NC: Albert J Ellis",0,0
+"462",4,"ExpressJet Airlines Inc.","Jacksonville/Camp Lejeune, NC: Albert J Ellis",2516,13.8241758241758
+"463",4,"SkyWest Airlines Inc.","Jamestown, ND: Jamestown Regional",4583,30.1513157894737
+"464",4,"ExpressJet Airlines Inc.","Joplin, MO: Joplin Regional",151,2.5593220338983
+"465",4,"Alaska Airlines Inc.","Juneau, AK: Juneau International",3151,4.91575663026521
+"466",4,"Delta Air Lines Inc.","Juneau, AK: Juneau International",529,15.1142857142857
+"467",4,"Alaska Airlines Inc.","Kahului, HI: Kahului Airport",3109,7.60146699266504
+"468",4,"American Airlines Inc.","Kahului, HI: Kahului Airport",3806,13.2613240418118
+"469",4,"Delta Air Lines Inc.","Kahului, HI: Kahului Airport",3021,19.120253164557
+"470",4,"Hawaiian Airlines Inc.","Kahului, HI: Kahului Airport",10243,5.03341523341523
+"471",4,"United Air Lines Inc.","Kahului, HI: Kahului Airport",4659,13.504347826087
+"472",4,"Virgin America","Kahului, HI: Kahului Airport",857,10.5802469135802
+"473",4,"ExpressJet Airlines Inc.","Kalamazoo, MI: Kalamazoo/Battle Creek International",2677,13.5888324873096
+"474",4,"SkyWest Airlines Inc.","Kalamazoo, MI: Kalamazoo/Battle Creek International",1183,10.4690265486726
+"475",4,"Delta Air Lines Inc.","Kalispell, MT: Glacier Park International",301,8.85294117647059
+"476",4,"SkyWest Airlines Inc.","Kalispell, MT: Glacier Park International",2623,8.95221843003413
+"477",4,"Alaska Airlines Inc.","Kansas City, MO: Kansas City International",369,4.34117647058823
+"478",4,"American Airlines Inc.","Kansas City, MO: Kansas City International",9468,10.5669642857143
+"479",4,"Delta Air Lines Inc.","Kansas City, MO: Kansas City International",8221,8.49276859504132
+"480",4,"ExpressJet Airlines Inc.","Kansas City, MO: Kansas City International",1386,13.2
+"481",4,"Frontier Airlines Inc.","Kansas City, MO: Kansas City International",2100,14.4827586206897
+"482",4,"SkyWest Airlines Inc.","Kansas City, MO: Kansas City International",4387,12.2200557103064
+"483",4,"Southwest Airlines Co.","Kansas City, MO: Kansas City International",37167,10.1438318777293
+"484",4,"Spirit Air Lines","Kansas City, MO: Kansas City International",3695,22.125748502994
+"485",4,"United Air Lines Inc.","Kansas City, MO: Kansas City International",1140,4.71074380165289
+"486",4,"Alaska Airlines Inc.","Ketchikan, AK: Ketchikan International",1887,5.53372434017595
+"487",4,"SkyWest Airlines Inc.","Ketchikan, AK: Ketchikan International",256,17.0666666666667
+"488",4,"Delta Air Lines Inc.","Key West, FL: Key West International",473,2.78235294117647
+"489",4,"ExpressJet Airlines Inc.","Key West, FL: Key West International",926,11.4320987654321
+"490",4,"ExpressJet Airlines Inc.","Killeen, TX: Robert Gray AAF",3099,9.62422360248447
+"491",4,"Alaska Airlines Inc.","King Salmon, AK: King Salmon Airport",0,0
+"492",4,"Delta Air Lines Inc.","Knoxville, TN: McGhee Tyson",1718,9.28648648648649
+"493",4,"ExpressJet Airlines Inc.","Knoxville, TN: McGhee Tyson",13239,15.5205158264947
+"494",4,"SkyWest Airlines Inc.","Knoxville, TN: McGhee Tyson",848,14.8771929824561
+"495",4,"Alaska Airlines Inc.","Kodiak, AK: Kodiak Airport",322,3.78823529411765
+"496",4,"Alaska Airlines Inc.","Kona, HI: Kona International Airport at Keahole",1013,4.99014778325123
+"497",4,"American Airlines Inc.","Kona, HI: Kona International Airport at Keahole",2376,19.3170731707317
+"498",4,"Delta Air Lines Inc.","Kona, HI: Kona International Airport at Keahole",2058,19.9805825242718
+"499",4,"Hawaiian Airlines Inc.","Kona, HI: Kona International Airport at Keahole",3746,3.27734033245844
+"500",4,"United Air Lines Inc.","Kona, HI: Kona International Airport at Keahole",1570,8.48648648648649
+"501",4,"Alaska Airlines Inc.","Kotzebue, AK: Ralph Wien Memorial",348,3.51515151515152
+"502",4,"SkyWest Airlines Inc.","La Crosse, WI: La Crosse Regional",1473,14.3009708737864
+"503",4,"Delta Air Lines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field",68,1.28301886792453
+"504",4,"ExpressJet Airlines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field",5293,14.266846361186
+"505",4,"SkyWest Airlines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field",1545,33.5869565217391
+"506",4,"ExpressJet Airlines Inc.","Lake Charles, LA: Lake Charles Regional",2478,12.90625
+"507",4,"ExpressJet Airlines Inc.","Lansing, MI: Capital Region International",3169,15.1626794258373
+"508",4,"SkyWest Airlines Inc.","Lansing, MI: Capital Region International",2103,12.4437869822485
+"509",4,"SkyWest Airlines Inc.","Laramie, WY: Laramie Regional",1616,16.3232323232323
+"510",4,"ExpressJet Airlines Inc.","Laredo, TX: Laredo International",4807,15.2120253164557
+"511",4,"Alaska Airlines Inc.","Las Vegas, NV: McCarran International",4607,6.73538011695906
+"512",4,"American Airlines Inc.","Las Vegas, NV: McCarran International",32282,14.4567845947156
+"513",4,"Delta Air Lines Inc.","Las Vegas, NV: McCarran International",25397,12.4495098039216
+"514",4,"Frontier Airlines Inc.","Las Vegas, NV: McCarran International",18577,19.868449197861
+"515",4,"Hawaiian Airlines Inc.","Las Vegas, NV: McCarran International",1103,10.4056603773585
+"516",4,"JetBlue Airways","Las Vegas, NV: McCarran International",19043,27.7594752186589
+"517",4,"SkyWest Airlines Inc.","Las Vegas, NV: McCarran International",2600,13.7566137566138
+"518",4,"Southwest Airlines Co.","Las Vegas, NV: McCarran International",168523,15.1128149941709
+"519",4,"Spirit Air Lines","Las Vegas, NV: McCarran International",25636,15.8246913580247
+"520",4,"United Air Lines Inc.","Las Vegas, NV: McCarran International",24372,13.6690970274818
+"521",4,"Virgin America","Las Vegas, NV: McCarran International",13473,18.7385257301808
+"522",4,"Spirit Air Lines","Latrobe, PA: Arnold Palmer Regional",1468,9.59477124183007
+"523",4,"ExpressJet Airlines Inc.","Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",1711,10.1845238095238
+"524",4,"SkyWest Airlines Inc.","Lewiston, ID: Lewiston Nez Perce County",2039,19.6057692307692
+"525",4,"Delta Air Lines Inc.","Lexington, KY: Blue Grass",1366,8.4320987654321
+"526",4,"ExpressJet Airlines Inc.","Lexington, KY: Blue Grass",6457,13.4520833333333
+"527",4,"SkyWest Airlines Inc.","Lexington, KY: Blue Grass",2878,21.1617647058824
+"528",4,"Alaska Airlines Inc.","Lihue, HI: Lihue Airport",822,4.39572192513369
+"529",4,"American Airlines Inc.","Lihue, HI: Lihue Airport",2957,20.6783216783217
+"530",4,"Delta Air Lines Inc.","Lihue, HI: Lihue Airport",293,5.52830188679245
+"531",4,"Hawaiian Airlines Inc.","Lihue, HI: Lihue Airport",3875,3.29506802721088
+"532",4,"United Air Lines Inc.","Lihue, HI: Lihue Airport",2349,18.6428571428571
+"533",4,"ExpressJet Airlines Inc.","Lincoln, NE: Lincoln Airport",1712,10.3132530120482
+"534",4,"SkyWest Airlines Inc.","Lincoln, NE: Lincoln Airport",3061,10.5189003436426
+"535",4,"Delta Air Lines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",1809,5.33628318584071
+"536",4,"ExpressJet Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",4115,9.35227272727273
+"537",4,"SkyWest Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",1456,11.030303030303
+"538",4,"Southwest Airlines Co.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",3573,9.63072776280323
+"539",4,"Delta Air Lines Inc.","Long Beach, CA: Long Beach Airport",13,1.3
+"540",4,"JetBlue Airways","Long Beach, CA: Long Beach Airport",22653,17.6838407494145
+"541",4,"SkyWest Airlines Inc.","Long Beach, CA: Long Beach Airport",1387,7.0765306122449
+"542",4,"Southwest Airlines Co.","Long Beach, CA: Long Beach Airport",1168,7.1219512195122
+"543",4,"ExpressJet Airlines Inc.","Longview, TX: East Texas Regional",1375,23.3050847457627
+"544",4,"Alaska Airlines Inc.","Los Angeles, CA: Los Angeles International",8080,6.26356589147287
+"545",4,"American Airlines Inc.","Los Angeles, CA: Los Angeles International",93940,15.4202232435982
+"546",4,"Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International",80836,14.7108280254777
+"547",4,"Frontier Airlines Inc.","Los Angeles, CA: Los Angeles International",4185,16.9433198380567
+"548",4,"Hawaiian Airlines Inc.","Los Angeles, CA: Los Angeles International",1645,7
+"549",4,"JetBlue Airways","Los Angeles, CA: Los Angeles International",10861,13.8887468030691
+"550",4,"SkyWest Airlines Inc.","Los Angeles, CA: Los Angeles International",46351,12.7372904644133
+"551",4,"Southwest Airlines Co.","Los Angeles, CA: Los Angeles International",118065,18.5665985217802
+"552",4,"Spirit Air Lines","Los Angeles, CA: Los Angeles International",24033,18.9236220472441
+"553",4,"United Air Lines Inc.","Los Angeles, CA: Los Angeles International",67022,15.5503480278422
+"554",4,"Virgin America","Los Angeles, CA: Los Angeles International",29662,13.8542737038767
+"555",4,"American Airlines Inc.","Louisville, KY: Louisville International-Standiford Field",1615,28.8392857142857
+"556",4,"Delta Air Lines Inc.","Louisville, KY: Louisville International-Standiford Field",4552,10.0264317180617
+"557",4,"ExpressJet Airlines Inc.","Louisville, KY: Louisville International-Standiford Field",5359,19.9962686567164
+"558",4,"SkyWest Airlines Inc.","Louisville, KY: Louisville International-Standiford Field",715,10.3623188405797
+"559",4,"Southwest Airlines Co.","Louisville, KY: Louisville International-Standiford Field",6417,9.73748103186646
+"560",4,"United Air Lines Inc.","Louisville, KY: Louisville International-Standiford Field",0,0
+"561",4,"American Airlines Inc.","Lubbock, TX: Lubbock Preston Smith International",512,11.906976744186
+"562",4,"ExpressJet Airlines Inc.","Lubbock, TX: Lubbock Preston Smith International",2868,15.1746031746032
+"563",4,"SkyWest Airlines Inc.","Lubbock, TX: Lubbock Preston Smith International",641,7.36781609195402
+"564",4,"Southwest Airlines Co.","Lubbock, TX: Lubbock Preston Smith International",3648,9.83288409703504
+"565",4,"Delta Air Lines Inc.","Madison, WI: Dane County Regional-Truax Field",3747,7.80625
+"566",4,"ExpressJet Airlines Inc.","Madison, WI: Dane County Regional-Truax Field",3995,15.8531746031746
+"567",4,"SkyWest Airlines Inc.","Madison, WI: Dane County Regional-Truax Field",2535,9.18478260869565
+"568",4,"United Air Lines Inc.","Madison, WI: Dane County Regional-Truax Field",1787,13.4360902255639
+"569",4,"SkyWest Airlines Inc.","Mammoth Lakes, CA: Mammoth Lakes Airport",57,5.18181818181818
+"570",4,"Delta Air Lines Inc.","Manchester, NH: Manchester-Boston Regional",131,1.98484848484848
+"571",4,"ExpressJet Airlines Inc.","Manchester, NH: Manchester-Boston Regional",5465,22.6763485477178
+"572",4,"SkyWest Airlines Inc.","Manchester, NH: Manchester-Boston Regional",0,0
+"573",4,"Southwest Airlines Co.","Manchester, NH: Manchester-Boston Regional",3583,5.17774566473988
+"574",4,"SkyWest Airlines Inc.","Marquette, MI: Sawyer International",1819,17.4903846153846
+"575",4,"JetBlue Airways","Martha's Vineyard, MA: Martha's Vineyard Airport",1187,28.2619047619048
+"576",4,"SkyWest Airlines Inc.","Medford, OR: Rogue Valley International - Medford",5903,13.9221698113208
+"577",4,"Delta Air Lines Inc.","Melbourne, FL: Melbourne International",931,4.60891089108911
+"578",4,"ExpressJet Airlines Inc.","Melbourne, FL: Melbourne International",393,12.6774193548387
+"579",4,"American Airlines Inc.","Memphis, TN: Memphis International",5450,14.8097826086957
+"580",4,"Delta Air Lines Inc.","Memphis, TN: Memphis International",3980,5.66951566951567
+"581",4,"ExpressJet Airlines Inc.","Memphis, TN: Memphis International",4024,13.8281786941581
+"582",4,"Frontier Airlines Inc.","Memphis, TN: Memphis International",470,8.86792452830189
+"583",4,"SkyWest Airlines Inc.","Memphis, TN: Memphis International",1262,7.33720930232558
+"584",4,"Southwest Airlines Co.","Memphis, TN: Memphis International",5446,11.2057613168724
+"585",4,"United Air Lines Inc.","Memphis, TN: Memphis International",936,9.0873786407767
+"586",4,"ExpressJet Airlines Inc.","Meridian, MS: Key Field",5532,35.4615384615385
+"587",4,"American Airlines Inc.","Miami, FL: Miami International",117625,15.0859304860844
+"588",4,"Delta Air Lines Inc.","Miami, FL: Miami International",22138,15.2570640937285
+"589",4,"Frontier Airlines Inc.","Miami, FL: Miami International",4747,17.0755395683453
+"590",4,"SkyWest Airlines Inc.","Miami, FL: Miami International",180,22.5
+"591",4,"United Air Lines Inc.","Miami, FL: Miami International",7063,12.7952898550725
+"592",4,"ExpressJet Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port",3702,14.8674698795181
+"593",4,"SkyWest Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port",712,4.16374269005848
+"594",4,"Southwest Airlines Co.","Midland/Odessa, TX: Midland International Air and Space Port",2983,6.30655391120507
+"595",4,"American Airlines Inc.","Milwaukee, WI: General Mitchell International",3336,12.588679245283
+"596",4,"Delta Air Lines Inc.","Milwaukee, WI: General Mitchell International",6540,7.73049645390071
+"597",4,"ExpressJet Airlines Inc.","Milwaukee, WI: General Mitchell International",6164,15.0341463414634
+"598",4,"Frontier Airlines Inc.","Milwaukee, WI: General Mitchell International",3233,17.1058201058201
+"599",4,"SkyWest Airlines Inc.","Milwaukee, WI: General Mitchell International",12724,11.1029668411867
+"600",4,"Southwest Airlines Co.","Milwaukee, WI: General Mitchell International",19127,9.23563495895703
+"601",4,"United Air Lines Inc.","Milwaukee, WI: General Mitchell International",567,12.8863636363636
+"602",4,"Alaska Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International",384,3.33913043478261
+"603",4,"American Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International",17954,13.6221547799697
+"604",4,"Delta Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International",91070,9.40708604483008
+"605",4,"ExpressJet Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International",16125,25.9244372990354
+"606",4,"Frontier Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International",1510,8.93491124260355
+"607",4,"SkyWest Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International",51667,9.81889015583428
+"608",4,"Southwest Airlines Co.","Minneapolis, MN: Minneapolis-St Paul International",15113,11.4232804232804
+"609",4,"Spirit Air Lines","Minneapolis, MN: Minneapolis-St Paul International",12133,18.78173374613
+"610",4,"United Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International",8464,13.8300653594771
+"611",4,"ExpressJet Airlines Inc.","Minot, ND: Minot International",58,19.3333333333333
+"612",4,"SkyWest Airlines Inc.","Minot, ND: Minot International",4939,20.7521008403361
+"613",4,"American Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International",2164,13.7834394904459
+"614",4,"ExpressJet Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International",106,2.03846153846154
+"615",4,"SkyWest Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International",36,7.2
+"616",4,"United Air Lines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International",2545,24.0094339622642
+"617",4,"Delta Air Lines Inc.","Missoula, MT: Missoula International",391,4.71084337349398
+"618",4,"SkyWest Airlines Inc.","Missoula, MT: Missoula International",3003,10.6868327402135
+"619",4,"Delta Air Lines Inc.","Mobile, AL: Mobile Regional",647,9.65671641791045
+"620",4,"ExpressJet Airlines Inc.","Mobile, AL: Mobile Regional",7677,11.2897058823529
+"621",4,"SkyWest Airlines Inc.","Mobile, AL: Mobile Regional",4,0.5
+"622",4,"ExpressJet Airlines Inc.","Moline, IL: Quad City International",1484,7.7696335078534
+"623",4,"SkyWest Airlines Inc.","Moline, IL: Quad City International",3177,15.4975609756098
+"624",4,"ExpressJet Airlines Inc.","Monroe, LA: Monroe Regional",5141,10.7104166666667
+"625",4,"SkyWest Airlines Inc.","Monroe, LA: Monroe Regional",84,14
+"626",4,"SkyWest Airlines Inc.","Monterey, CA: Monterey Regional",4184,11.3081081081081
+"627",4,"ExpressJet Airlines Inc.","Montgomery, AL: Montgomery Regional",6305,16.7686170212766
+"628",4,"SkyWest Airlines Inc.","Montgomery, AL: Montgomery Regional",190,27.1428571428571
+"629",4,"American Airlines Inc.","Montrose/Delta, CO: Montrose Regional",156,9.75
+"630",4,"Delta Air Lines Inc.","Montrose/Delta, CO: Montrose Regional",114,57
+"631",4,"ExpressJet Airlines Inc.","Montrose/Delta, CO: Montrose Regional",156,5.77777777777778
+"632",4,"SkyWest Airlines Inc.","Montrose/Delta, CO: Montrose Regional",1426,15.5
+"633",4,"United Air Lines Inc.","Montrose/Delta, CO: Montrose Regional",3,1.5
+"634",4,"ExpressJet Airlines Inc.","Mosinee, WI: Central Wisconsin",243,3.24
+"635",4,"SkyWest Airlines Inc.","Mosinee, WI: Central Wisconsin",812,15.3207547169811
+"636",4,"SkyWest Airlines Inc.","Muskegon, MI: Muskegon County",1355,13.0288461538462
+"637",4,"Delta Air Lines Inc.","Myrtle Beach, SC: Myrtle Beach International",730,5.44776119402985
+"638",4,"ExpressJet Airlines Inc.","Myrtle Beach, SC: Myrtle Beach International",2260,14.7712418300654
+"639",4,"Spirit Air Lines","Myrtle Beach, SC: Myrtle Beach International",10808,20.3924528301887
+"640",4,"JetBlue Airways","Nantucket, MA: Nantucket Memorial",975,12.3417721518987
+"641",4,"Alaska Airlines Inc.","Nashville, TN: Nashville International",796,15.0188679245283
+"642",4,"American Airlines Inc.","Nashville, TN: Nashville International",10729,13.2130541871921
+"643",4,"Delta Air Lines Inc.","Nashville, TN: Nashville International",5902,6.5287610619469
+"644",4,"ExpressJet Airlines Inc.","Nashville, TN: Nashville International",6438,20.9025974025974
+"645",4,"Frontier Airlines Inc.","Nashville, TN: Nashville International",2490,21.8421052631579
+"646",4,"JetBlue Airways","Nashville, TN: Nashville International",1403,13.2358490566038
+"647",4,"SkyWest Airlines Inc.","Nashville, TN: Nashville International",7943,12.8527508090615
+"648",4,"Southwest Airlines Co.","Nashville, TN: Nashville International",55480,11.9106912838128
+"649",4,"United Air Lines Inc.","Nashville, TN: Nashville International",3657,12.3547297297297
+"650",4,"ExpressJet Airlines Inc.","New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",1830,17.2641509433962
+"651",4,"Alaska Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International",511,9.29090909090909
+"652",4,"American Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International",10846,13.1307506053269
+"653",4,"Delta Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International",10163,8.37840065952185
+"654",4,"ExpressJet Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International",375,31.25
+"655",4,"Frontier Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International",1297,15.4404761904762
+"656",4,"JetBlue Airways","New Orleans, LA: Louis Armstrong New Orleans International",4041,19.061320754717
+"657",4,"SkyWest Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International",326,5.09375
+"658",4,"Southwest Airlines Co.","New Orleans, LA: Louis Armstrong New Orleans International",30249,10.711402266289
+"659",4,"Spirit Air Lines","New Orleans, LA: Louis Armstrong New Orleans International",6947,18.0911458333333
+"660",4,"United Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International",12074,14.3226571767497
+"661",4,"Alaska Airlines Inc.","New York, NY: John F. Kennedy International",53,1
+"662",4,"American Airlines Inc.","New York, NY: John F. Kennedy International",42631,15.2908895265423
+"663",4,"Delta Air Lines Inc.","New York, NY: John F. Kennedy International",66206,14.5156763867573
+"664",4,"Hawaiian Airlines Inc.","New York, NY: John F. Kennedy International",1258,23.7358490566038
+"665",4,"JetBlue Airways","New York, NY: John F. Kennedy International",116202,17.9185813415574
+"666",4,"Virgin America","New York, NY: John F. Kennedy International",7027,10.7118902439024
+"667",4,"American Airlines Inc.","New York, NY: LaGuardia",43648,10.6328867235079
+"668",4,"Delta Air Lines Inc.","New York, NY: LaGuardia",71698,18.3089887640449
+"669",4,"ExpressJet Airlines Inc.","New York, NY: LaGuardia",60942,30.7167338709677
+"670",4,"Frontier Airlines Inc.","New York, NY: LaGuardia",4760,33.0555555555556
+"671",4,"JetBlue Airways","New York, NY: LaGuardia",23885,25.5728051391863
+"672",4,"SkyWest Airlines Inc.","New York, NY: LaGuardia",1270,18.6764705882353
+"673",4,"Southwest Airlines Co.","New York, NY: LaGuardia",29568,17.3317702227433
+"674",4,"Spirit Air Lines","New York, NY: LaGuardia",10468,18.6595365418895
+"675",4,"United Air Lines Inc.","New York, NY: LaGuardia",20678,14.8976945244957
+"676",4,"Virgin America","New York, NY: LaGuardia",2705,13.3910891089109
+"677",4,"Alaska Airlines Inc.","Newark, NJ: Newark Liberty International",1267,10.7372881355932
+"678",4,"American Airlines Inc.","Newark, NJ: Newark Liberty International",25538,20.4467574059247
+"679",4,"Delta Air Lines Inc.","Newark, NJ: Newark Liberty International",14543,17.0692488262911
+"680",4,"ExpressJet Airlines Inc.","Newark, NJ: Newark Liberty International",79618,16.1104815864023
+"681",4,"JetBlue Airways","Newark, NJ: Newark Liberty International",25929,22.6652097902098
+"682",4,"SkyWest Airlines Inc.","Newark, NJ: Newark Liberty International",193,12.0625
+"683",4,"Southwest Airlines Co.","Newark, NJ: Newark Liberty International",14761,15.7031914893617
+"684",4,"Spirit Air Lines","Newark, NJ: Newark Liberty International",909,18.18
+"685",4,"United Air Lines Inc.","Newark, NJ: Newark Liberty International",139849,17.7024050632911
+"686",4,"Virgin America","Newark, NJ: Newark Liberty International",3809,12.3668831168831
+"687",4,"JetBlue Airways","Newburgh/Poughkeepsie, NY: Stewart International",1612,16.12
+"688",4,"Delta Air Lines Inc.","Newport News/Williamsburg, VA: Newport News/Williamsburg International",48,1.04347826086957
+"689",4,"ExpressJet Airlines Inc.","Newport News/Williamsburg, VA: Newport News/Williamsburg International",1433,11.5564516129032
+"690",4,"Spirit Air Lines","Niagara Falls, NY: Niagara Falls International",283,10.4814814814815
+"691",4,"Alaska Airlines Inc.","Nome, AK: Nome Airport",373,3.69306930693069
+"692",4,"American Airlines Inc.","Norfolk, VA: Norfolk International",1526,6.25409836065574
+"693",4,"Delta Air Lines Inc.","Norfolk, VA: Norfolk International",2852,6.0552016985138
+"694",4,"ExpressJet Airlines Inc.","Norfolk, VA: Norfolk International",7657,19.0947630922693
+"695",4,"SkyWest Airlines Inc.","Norfolk, VA: Norfolk International",1932,31.1612903225806
+"696",4,"Southwest Airlines Co.","Norfolk, VA: Norfolk International",3455,8.36561743341404
+"697",4,"United Air Lines Inc.","Norfolk, VA: Norfolk International",691,11.1451612903226
+"698",4,"SkyWest Airlines Inc.","North Bend/Coos Bay, OR: Southwest Oregon Regional",853,17.06
+"699",4,"Alaska Airlines Inc.","Oakland, CA: Metropolitan Oakland International",1268,4.11688311688312
+"700",4,"American Airlines Inc.","Oakland, CA: Metropolitan Oakland International",579,4.74590163934426
+"701",4,"Delta Air Lines Inc.","Oakland, CA: Metropolitan Oakland International",1729,6.15302491103203
+"702",4,"Hawaiian Airlines Inc.","Oakland, CA: Metropolitan Oakland International",781,5.78518518518518
+"703",4,"JetBlue Airways","Oakland, CA: Metropolitan Oakland International",3040,12.16
+"704",4,"SkyWest Airlines Inc.","Oakland, CA: Metropolitan Oakland International",594,8.36619718309859
+"705",4,"Southwest Airlines Co.","Oakland, CA: Metropolitan Oakland International",72702,12.3895705521472
+"706",4,"Spirit Air Lines","Oakland, CA: Metropolitan Oakland International",5146,14.9593023255814
+"707",4,"American Airlines Inc.","Oklahoma City, OK: Will Rogers World",1739,7.01209677419355
+"708",4,"Delta Air Lines Inc.","Oklahoma City, OK: Will Rogers World",829,2.84879725085911
+"709",4,"ExpressJet Airlines Inc.","Oklahoma City, OK: Will Rogers World",3255,11.3811188811189
+"710",4,"SkyWest Airlines Inc.","Oklahoma City, OK: Will Rogers World",4393,9.30720338983051
+"711",4,"Southwest Airlines Co.","Oklahoma City, OK: Will Rogers World",10211,10.2212212212212
+"712",4,"United Air Lines Inc.","Oklahoma City, OK: Will Rogers World",525,5.89887640449438
+"713",4,"Alaska Airlines Inc.","Omaha, NE: Eppley Airfield",248,8.26666666666667
+"714",4,"American Airlines Inc.","Omaha, NE: Eppley Airfield",2763,10.5862068965517
+"715",4,"Delta Air Lines Inc.","Omaha, NE: Eppley Airfield",2652,6.45255474452555
+"716",4,"ExpressJet Airlines Inc.","Omaha, NE: Eppley Airfield",6659,16.0845410628019
+"717",4,"Frontier Airlines Inc.","Omaha, NE: Eppley Airfield",957,29
+"718",4,"SkyWest Airlines Inc.","Omaha, NE: Eppley Airfield",3478,11.2556634304207
+"719",4,"Southwest Airlines Co.","Omaha, NE: Eppley Airfield",9664,10.2808510638298
+"720",4,"United Air Lines Inc.","Omaha, NE: Eppley Airfield",3113,10.7716262975779
+"721",4,"Alaska Airlines Inc.","Ontario, CA: Ontario International",389,3.26890756302521
+"722",4,"American Airlines Inc.","Ontario, CA: Ontario International",2521,6.24009900990099
+"723",4,"Delta Air Lines Inc.","Ontario, CA: Ontario International",96,2.23255813953488
+"724",4,"SkyWest Airlines Inc.","Ontario, CA: Ontario International",11163,15.7447108603667
+"725",4,"Southwest Airlines Co.","Ontario, CA: Ontario International",17770,10.7501512401694
+"726",4,"United Air Lines Inc.","Ontario, CA: Ontario International",512,15.5151515151515
+"727",4,"Alaska Airlines Inc.","Orlando, FL: Orlando International",905,7.0703125
+"728",4,"American Airlines Inc.","Orlando, FL: Orlando International",32764,11.8925589836661
+"729",4,"Delta Air Lines Inc.","Orlando, FL: Orlando International",27480,10.4328018223235
+"730",4,"Frontier Airlines Inc.","Orlando, FL: Orlando International",20034,17.6978798586572
+"731",4,"JetBlue Airways","Orlando, FL: Orlando International",66838,22.8427887901572
+"732",4,"Southwest Airlines Co.","Orlando, FL: Orlando International",63305,11.1139396067416
+"733",4,"Spirit Air Lines","Orlando, FL: Orlando International",12933,14.1344262295082
+"734",4,"United Air Lines Inc.","Orlando, FL: Orlando International",26955,15.2546689303905
+"735",4,"Virgin America","Orlando, FL: Orlando International",215,4.13461538461539
+"736",4,"SkyWest Airlines Inc.","Paducah, KY: Barkley Regional",843,8.10576923076923
+"737",4,"Alaska Airlines Inc.","Palm Springs, CA: Palm Springs International",1687,6.91393442622951
+"738",4,"American Airlines Inc.","Palm Springs, CA: Palm Springs International",2673,16.398773006135
+"739",4,"Delta Air Lines Inc.","Palm Springs, CA: Palm Springs International",147,6.39130434782609
+"740",4,"JetBlue Airways","Palm Springs, CA: Palm Springs International",419,19.0454545454545
+"741",4,"SkyWest Airlines Inc.","Palm Springs, CA: Palm Springs International",14832,17.4494117647059
+"742",4,"United Air Lines Inc.","Palm Springs, CA: Palm Springs International",967,9.57425742574257
+"743",4,"Virgin America","Palm Springs, CA: Palm Springs International",1359,23.8421052631579
+"744",4,"Delta Air Lines Inc.","Panama City, FL: Northwest Florida Beaches International",1076,3.68493150684932
+"745",4,"ExpressJet Airlines Inc.","Panama City, FL: Northwest Florida Beaches International",1155,9.625
+"746",4,"Southwest Airlines Co.","Panama City, FL: Northwest Florida Beaches International",3014,12.056
+"747",4,"Delta Air Lines Inc.","Pasco/Kennewick/Richland, WA: Tri Cities",174,4.83333333333333
+"748",4,"SkyWest Airlines Inc.","Pasco/Kennewick/Richland, WA: Tri Cities",5029,9.65259117082534
+"749",4,"SkyWest Airlines Inc.","Pellston, MI: Pellston Regional Airport of Emmet County",4293,26.6645962732919
+"750",4,"American Airlines Inc.","Pensacola, FL: Pensacola International",92,15.3333333333333
+"751",4,"Delta Air Lines Inc.","Pensacola, FL: Pensacola International",2617,7.07297297297297
+"752",4,"ExpressJet Airlines Inc.","Pensacola, FL: Pensacola International",4401,14.7190635451505
+"753",4,"SkyWest Airlines Inc.","Pensacola, FL: Pensacola International",230,6.05263157894737
+"754",4,"Southwest Airlines Co.","Pensacola, FL: Pensacola International",1371,8.67721518987342
+"755",4,"ExpressJet Airlines Inc.","Peoria, IL: General Downing - Peoria International",2449,10.6478260869565
+"756",4,"SkyWest Airlines Inc.","Peoria, IL: General Downing - Peoria International",3132,14.5674418604651
+"757",4,"Alaska Airlines Inc.","Petersburg, AK: Petersburg James A Johnson",297,2.94059405940594
+"758",4,"Alaska Airlines Inc.","Philadelphia, PA: Philadelphia International",609,11.4905660377358
+"759",4,"American Airlines Inc.","Philadelphia, PA: Philadelphia International",72249,10.9567788898999
+"760",4,"Delta Air Lines Inc.","Philadelphia, PA: Philadelphia International",14260,12.9283771532185
+"761",4,"ExpressJet Airlines Inc.","Philadelphia, PA: Philadelphia International",0,0
+"762",4,"Frontier Airlines Inc.","Philadelphia, PA: Philadelphia International",8550,17.8870292887029
+"763",4,"JetBlue Airways","Philadelphia, PA: Philadelphia International",5949,17.0458452722063
+"764",4,"SkyWest Airlines Inc.","Philadelphia, PA: Philadelphia International",263,7.73529411764706
+"765",4,"Southwest Airlines Co.","Philadelphia, PA: Philadelphia International",17551,13.5111624326405
+"766",4,"Spirit Air Lines","Philadelphia, PA: Philadelphia International",5560,15.6179775280899
+"767",4,"United Air Lines Inc.","Philadelphia, PA: Philadelphia International",8073,12.7737341772152
+"768",4,"Alaska Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",1302,3.59668508287293
+"769",4,"American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",86690,9.95750057431656
+"770",4,"Delta Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",7746,6.55884843353091
+"771",4,"Frontier Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",6117,19.7322580645161
+"772",4,"Hawaiian Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",317,5.9811320754717
+"773",4,"JetBlue Airways","Phoenix, AZ: Phoenix Sky Harbor International",2147,20.2547169811321
+"774",4,"SkyWest Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",17117,6.37267311988086
+"775",4,"Southwest Airlines Co.","Phoenix, AZ: Phoenix Sky Harbor International",118774,13.0938154558483
+"776",4,"Spirit Air Lines","Phoenix, AZ: Phoenix Sky Harbor International",2319,12.4010695187166
+"777",4,"United Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",11234,10.6787072243346
+"778",4,"American Airlines Inc.","Pittsburgh, PA: Pittsburgh International",6173,6.87416481069042
+"779",4,"Delta Air Lines Inc.","Pittsburgh, PA: Pittsburgh International",4334,7.0586319218241
+"780",4,"ExpressJet Airlines Inc.","Pittsburgh, PA: Pittsburgh International",3867,23.4363636363636
+"781",4,"Frontier Airlines Inc.","Pittsburgh, PA: Pittsburgh International",837,11.7887323943662
+"782",4,"JetBlue Airways","Pittsburgh, PA: Pittsburgh International",1756,6.83268482490272
+"783",4,"SkyWest Airlines Inc.","Pittsburgh, PA: Pittsburgh International",1350,16.0714285714286
+"784",4,"Southwest Airlines Co.","Pittsburgh, PA: Pittsburgh International",10931,7.71963276836158
+"785",4,"United Air Lines Inc.","Pittsburgh, PA: Pittsburgh International",2606,8.92465753424658
+"786",4,"Spirit Air Lines","Plattsburgh, NY: Plattsburgh International",812,9.12359550561798
+"787",4,"SkyWest Airlines Inc.","Pocatello, ID: Pocatello Regional",590,3.95973154362416
+"788",4,"JetBlue Airways","Ponce, PR: Mercedita",869,7.42735042735043
+"789",4,"American Airlines Inc.","Portland, ME: Portland International Jetport",831,11.8714285714286
+"790",4,"Delta Air Lines Inc.","Portland, ME: Portland International Jetport",1299,11.0084745762712
+"791",4,"ExpressJet Airlines Inc.","Portland, ME: Portland International Jetport",10338,27.1338582677165
+"792",4,"JetBlue Airways","Portland, ME: Portland International Jetport",2731,15.4293785310734
+"793",4,"SkyWest Airlines Inc.","Portland, ME: Portland International Jetport",0,0
+"794",4,"Southwest Airlines Co.","Portland, ME: Portland International Jetport",1557,9.32335329341317
+"795",4,"United Air Lines Inc.","Portland, ME: Portland International Jetport",8,2
+"796",4,"Alaska Airlines Inc.","Portland, OR: Portland International",11342,5.54079140205178
+"797",4,"American Airlines Inc.","Portland, OR: Portland International",9439,15.5759075907591
+"798",4,"Delta Air Lines Inc.","Portland, OR: Portland International",11364,9.94225721784777
+"799",4,"Frontier Airlines Inc.","Portland, OR: Portland International",2851,15.0846560846561
+"800",4,"Hawaiian Airlines Inc.","Portland, OR: Portland International",545,10.2830188679245
+"801",4,"JetBlue Airways","Portland, OR: Portland International",3539,16.0135746606335
+"802",4,"SkyWest Airlines Inc.","Portland, OR: Portland International",11269,9.14691558441558
+"803",4,"Southwest Airlines Co.","Portland, OR: Portland International",24195,11.6997098646035
+"804",4,"Spirit Air Lines","Portland, OR: Portland International",3789,22.2882352941176
+"805",4,"United Air Lines Inc.","Portland, OR: Portland International",11338,11.9221871713985
+"806",4,"Virgin America","Portland, OR: Portland International",1664,12.7022900763359
+"807",4,"American Airlines Inc.","Providence, RI: Theodore Francis Green State",1349,4.63573883161512
+"808",4,"Delta Air Lines Inc.","Providence, RI: Theodore Francis Green State",1980,7.58620689655172
+"809",4,"ExpressJet Airlines Inc.","Providence, RI: Theodore Francis Green State",2804,16.1149425287356
+"810",4,"JetBlue Airways","Providence, RI: Theodore Francis Green State",1682,10.8516129032258
+"811",4,"SkyWest Airlines Inc.","Providence, RI: Theodore Francis Green State",0,0
+"812",4,"Southwest Airlines Co.","Providence, RI: Theodore Francis Green State",5453,5.61008230452675
+"813",4,"United Air Lines Inc.","Providence, RI: Theodore Francis Green State",172,5.375
+"814",4,"Frontier Airlines Inc.","Punta Gorda, FL: Punta Gorda Airport",251,17.9285714285714
+"815",4,"Alaska Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",134,2.52830188679245
+"816",4,"American Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",14305,10.7394894894895
+"817",4,"Delta Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",8734,8.06463527239151
+"818",4,"ExpressJet Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",4388,25.364161849711
+"819",4,"Frontier Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",1986,13.4189189189189
+"820",4,"JetBlue Airways","Raleigh/Durham, NC: Raleigh-Durham International",6111,13.8257918552036
+"821",4,"SkyWest Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",2378,25.2978723404255
+"822",4,"Southwest Airlines Co.","Raleigh/Durham, NC: Raleigh-Durham International",14227,9.34143138542351
+"823",4,"United Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",7019,14.2953156822811
+"824",4,"Delta Air Lines Inc.","Rapid City, SD: Rapid City Regional",113,3.76666666666667
+"825",4,"ExpressJet Airlines Inc.","Rapid City, SD: Rapid City Regional",0,0
+"826",4,"SkyWest Airlines Inc.","Rapid City, SD: Rapid City Regional",4371,10.9548872180451
+"827",4,"SkyWest Airlines Inc.","Redding, CA: Redding Municipal",2569,18.2198581560284
+"828",4,"American Airlines Inc.","Reno, NV: Reno/Tahoe International",5710,17.3030303030303
+"829",4,"Delta Air Lines Inc.","Reno, NV: Reno/Tahoe International",1429,9.33986928104575
+"830",4,"JetBlue Airways","Reno, NV: Reno/Tahoe International",1550,21.830985915493
+"831",4,"SkyWest Airlines Inc.","Reno, NV: Reno/Tahoe International",5061,16.5392156862745
+"832",4,"Southwest Airlines Co.","Reno, NV: Reno/Tahoe International",12717,11.8961646398503
+"833",4,"United Air Lines Inc.","Reno, NV: Reno/Tahoe International",1082,6.7625
+"834",4,"SkyWest Airlines Inc.","Rhinelander, WI: Rhinelander/Oneida County",1723,11.1161290322581
+"835",4,"American Airlines Inc.","Richmond, VA: Richmond International",5133,12.7054455445545
+"836",4,"Delta Air Lines Inc.","Richmond, VA: Richmond International",3206,6.86509635974304
+"837",4,"ExpressJet Airlines Inc.","Richmond, VA: Richmond International",20223,21
+"838",4,"JetBlue Airways","Richmond, VA: Richmond International",4353,12.6909620991254
+"839",4,"SkyWest Airlines Inc.","Richmond, VA: Richmond International",1295,17.5
+"840",4,"Southwest Airlines Co.","Richmond, VA: Richmond International",992,5.76744186046512
+"841",4,"United Air Lines Inc.","Richmond, VA: Richmond International",483,10.5
+"842",4,"Delta Air Lines Inc.","Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",480,6.76056338028169
+"843",4,"ExpressJet Airlines Inc.","Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",3044,11.0690909090909
+"844",4,"ExpressJet Airlines Inc.","Rochester, MN: Rochester International",1985,17.4122807017544
+"845",4,"SkyWest Airlines Inc.","Rochester, MN: Rochester International",685,11.2295081967213
+"846",4,"American Airlines Inc.","Rochester, NY: Greater Rochester International",589,5.66346153846154
+"847",4,"Delta Air Lines Inc.","Rochester, NY: Greater Rochester International",2397,12.2923076923077
+"848",4,"ExpressJet Airlines Inc.","Rochester, NY: Greater Rochester International",4849,18.5076335877863
+"849",4,"JetBlue Airways","Rochester, NY: Greater Rochester International",1849,10.5056818181818
+"850",4,"SkyWest Airlines Inc.","Rochester, NY: Greater Rochester International",10,0.769230769230769
+"851",4,"Southwest Airlines Co.","Rochester, NY: Greater Rochester International",2659,10.1488549618321
+"852",4,"United Air Lines Inc.","Rochester, NY: Greater Rochester International",2337,24.8617021276596
+"853",4,"SkyWest Airlines Inc.","Rock Springs, WY: Rock Springs Sweetwater County",1013,10.4432989690722
+"854",4,"ExpressJet Airlines Inc.","Roswell, NM: Roswell International Air Center",436,25.6470588235294
+"855",4,"SkyWest Airlines Inc.","Roswell, NM: Roswell International Air Center",374,8.31111111111111
+"856",4,"Alaska Airlines Inc.","Sacramento, CA: Sacramento International",1674,4.90909090909091
+"857",4,"American Airlines Inc.","Sacramento, CA: Sacramento International",7178,12.3972366148532
+"858",4,"Delta Air Lines Inc.","Sacramento, CA: Sacramento International",4307,11.1580310880829
+"859",4,"Hawaiian Airlines Inc.","Sacramento, CA: Sacramento International",2006,37.8490566037736
+"860",4,"JetBlue Airways","Sacramento, CA: Sacramento International",3691,21.2126436781609
+"861",4,"SkyWest Airlines Inc.","Sacramento, CA: Sacramento International",10840,13.1873479318735
+"862",4,"Southwest Airlines Co.","Sacramento, CA: Sacramento International",44743,12.5225300867618
+"863",4,"United Air Lines Inc.","Sacramento, CA: Sacramento International",3551,9.24739583333333
+"864",4,"ExpressJet Airlines Inc.","Saginaw/Bay City/Midland, MI: MBS International",69,3.45
+"865",4,"SkyWest Airlines Inc.","Saginaw/Bay City/Midland, MI: MBS International",3286,11.3310344827586
+"866",4,"Alaska Airlines Inc.","Salt Lake City, UT: Salt Lake City International",2080,5.92592592592593
+"867",4,"American Airlines Inc.","Salt Lake City, UT: Salt Lake City International",4585,7.27777777777778
+"868",4,"Delta Air Lines Inc.","Salt Lake City, UT: Salt Lake City International",50827,8.45566461487273
+"869",4,"Frontier Airlines Inc.","Salt Lake City, UT: Salt Lake City International",5065,19.1856060606061
+"870",4,"JetBlue Airways","Salt Lake City, UT: Salt Lake City International",6493,24.8773946360153
+"871",4,"SkyWest Airlines Inc.","Salt Lake City, UT: Salt Lake City International",58656,8.31764038570618
+"872",4,"Southwest Airlines Co.","Salt Lake City, UT: Salt Lake City International",15874,10.7912984364378
+"873",4,"United Air Lines Inc.","Salt Lake City, UT: Salt Lake City International",4511,16.2851985559567
+"874",4,"ExpressJet Airlines Inc.","San Angelo, TX: San Angelo Regional/Mathis Field",2084,15.1014492753623
+"875",4,"Alaska Airlines Inc.","San Antonio, TX: San Antonio International",301,5.67924528301887
+"876",4,"American Airlines Inc.","San Antonio, TX: San Antonio International",8609,10.2732696897375
+"877",4,"Delta Air Lines Inc.","San Antonio, TX: San Antonio International",2399,4.78842315369261
+"878",4,"ExpressJet Airlines Inc.","San Antonio, TX: San Antonio International",422,23.4444444444444
+"879",4,"Frontier Airlines Inc.","San Antonio, TX: San Antonio International",1013,14.8970588235294
+"880",4,"SkyWest Airlines Inc.","San Antonio, TX: San Antonio International",3403,9.89244186046512
+"881",4,"Southwest Airlines Co.","San Antonio, TX: San Antonio International",28015,11.9365146996165
+"882",4,"United Air Lines Inc.","San Antonio, TX: San Antonio International",5469,11.0262096774194
+"883",4,"Alaska Airlines Inc.","San Diego, CA: San Diego International",2936,3.27678571428571
+"884",4,"American Airlines Inc.","San Diego, CA: San Diego International",16315,12.0405904059041
+"885",4,"Delta Air Lines Inc.","San Diego, CA: San Diego International",8960,8.49289099526066
+"886",4,"Frontier Airlines Inc.","San Diego, CA: San Diego International",1562,11.0780141843972
+"887",4,"Hawaiian Airlines Inc.","San Diego, CA: San Diego International",596,11.4615384615385
+"888",4,"JetBlue Airways","San Diego, CA: San Diego International",3615,15.3177966101695
+"889",4,"SkyWest Airlines Inc.","San Diego, CA: San Diego International",11327,12.712682379349
+"890",4,"Southwest Airlines Co.","San Diego, CA: San Diego International",62100,12.0817120622568
+"891",4,"Spirit Air Lines","San Diego, CA: San Diego International",3945,13.6034482758621
+"892",4,"United Air Lines Inc.","San Diego, CA: San Diego International",14728,11.2685539403213
+"893",4,"Virgin America","San Diego, CA: San Diego International",6991,22.4790996784566
+"894",4,"Alaska Airlines Inc.","San Francisco, CA: San Francisco International",11287,13.7144592952612
+"895",4,"American Airlines Inc.","San Francisco, CA: San Francisco International",31027,12.8849667774086
+"896",4,"Delta Air Lines Inc.","San Francisco, CA: San Francisco International",22231,10.647030651341
+"897",4,"Frontier Airlines Inc.","San Francisco, CA: San Francisco International",8584,26.2507645259939
+"898",4,"Hawaiian Airlines Inc.","San Francisco, CA: San Francisco International",925,8.72641509433962
+"899",4,"JetBlue Airways","San Francisco, CA: San Francisco International",15799,18.3923166472643
+"900",4,"SkyWest Airlines Inc.","San Francisco, CA: San Francisco International",84473,15.6605487578791
+"901",4,"Southwest Airlines Co.","San Francisco, CA: San Francisco International",37792,15.6553438276719
+"902",4,"United Air Lines Inc.","San Francisco, CA: San Francisco International",132746,16.3178856791641
+"903",4,"Virgin America","San Francisco, CA: San Francisco International",47925,15.2239517153748
+"904",4,"Alaska Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International",3264,4.93051359516616
+"905",4,"American Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International",5501,8.77352472089314
+"906",4,"Delta Air Lines Inc.","San Jose, CA: Norman Y. Mineta San Jose International",3336,6.46511627906977
+"907",4,"Hawaiian Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International",1541,14.5377358490566
+"908",4,"JetBlue Airways","San Jose, CA: Norman Y. Mineta San Jose International",1609,17.4891304347826
+"909",4,"SkyWest Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International",3609,7.26156941649899
+"910",4,"Southwest Airlines Co.","San Jose, CA: Norman Y. Mineta San Jose International",50263,13.4789487798337
+"911",4,"United Air Lines Inc.","San Jose, CA: Norman Y. Mineta San Jose International",1354,6.07174887892377
+"912",4,"American Airlines Inc.","San Juan, PR: Luis Munoz Marin International",7281,8.50584112149533
+"913",4,"Delta Air Lines Inc.","San Juan, PR: Luis Munoz Marin International",3905,8.50762527233115
+"914",4,"JetBlue Airways","San Juan, PR: Luis Munoz Marin International",23149,15.1697247706422
+"915",4,"Southwest Airlines Co.","San Juan, PR: Luis Munoz Marin International",3343,7.09766454352442
+"916",4,"Spirit Air Lines","San Juan, PR: Luis Munoz Marin International",2339,24.1134020618557
+"917",4,"United Air Lines Inc.","San Juan, PR: Luis Munoz Marin International",3281,11.9309090909091
+"918",4,"SkyWest Airlines Inc.","San Luis Obispo, CA: San Luis County Regional",5378,12.0044642857143
+"919",4,"Alaska Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County",2561,4.8595825426945
+"920",4,"American Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County",7563,8.08877005347594
+"921",4,"Delta Air Lines Inc.","Santa Ana, CA: John Wayne Airport-Orange County",4005,9.292343387471
+"922",4,"Frontier Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County",809,8.00990099009901
+"923",4,"SkyWest Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County",6128,12.0392927308448
+"924",4,"Southwest Airlines Co.","Santa Ana, CA: John Wayne Airport-Orange County",33598,10.6965934415791
+"925",4,"United Air Lines Inc.","Santa Ana, CA: John Wayne Airport-Orange County",10296,11.8344827586207
+"926",4,"SkyWest Airlines Inc.","Santa Barbara, CA: Santa Barbara Municipal",14959,17.1745120551091
+"927",4,"ExpressJet Airlines Inc.","Santa Fe, NM: Santa Fe Municipal",5147,28.2802197802198
+"928",4,"SkyWest Airlines Inc.","Santa Fe, NM: Santa Fe Municipal",0,0
+"929",4,"SkyWest Airlines Inc.","Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",2074,26.9350649350649
+"930",4,"Delta Air Lines Inc.","Sarasota/Bradenton, FL: Sarasota/Bradenton International",2319,6.8813056379822
+"931",4,"ExpressJet Airlines Inc.","Sarasota/Bradenton, FL: Sarasota/Bradenton International",0,NA
+"932",4,"JetBlue Airways","Sarasota/Bradenton, FL: Sarasota/Bradenton International",3061,31.5567010309278
+"933",4,"United Air Lines Inc.","Sarasota/Bradenton, FL: Sarasota/Bradenton International",383,9.575
+"934",4,"SkyWest Airlines Inc.","Sault Ste. Marie, MI: Chippewa County International",1884,17.7735849056604
+"935",4,"Delta Air Lines Inc.","Savannah, GA: Savannah/Hilton Head International",3205,5.93518518518519
+"936",4,"ExpressJet Airlines Inc.","Savannah, GA: Savannah/Hilton Head International",8535,23.5773480662983
+"937",4,"JetBlue Airways","Savannah, GA: Savannah/Hilton Head International",3460,22.0382165605096
+"938",4,"SkyWest Airlines Inc.","Savannah, GA: Savannah/Hilton Head International",109,13.625
+"939",4,"SkyWest Airlines Inc.","Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field",40,40
+"940",4,"Delta Air Lines Inc.","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",335,6.97916666666667
+"941",4,"ExpressJet Airlines Inc.","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",1250,8.50340136054422
+"942",4,"SkyWest Airlines Inc.","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",609,11.9411764705882
+"943",4,"Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International",47537,5.6457244655582
+"944",4,"American Airlines Inc.","Seattle, WA: Seattle/Tacoma International",20290,15.2327327327327
+"945",4,"Delta Air Lines Inc.","Seattle, WA: Seattle/Tacoma International",26278,8.99931506849315
+"946",4,"Frontier Airlines Inc.","Seattle, WA: Seattle/Tacoma International",1466,11.728
+"947",4,"Hawaiian Airlines Inc.","Seattle, WA: Seattle/Tacoma International",1236,11.7714285714286
+"948",4,"JetBlue Airways","Seattle, WA: Seattle/Tacoma International",7226,22.1656441717791
+"949",4,"SkyWest Airlines Inc.","Seattle, WA: Seattle/Tacoma International",24983,10.2179959100205
+"950",4,"Southwest Airlines Co.","Seattle, WA: Seattle/Tacoma International",26424,12.997540580423
+"951",4,"Spirit Air Lines","Seattle, WA: Seattle/Tacoma International",2383,15.1783439490446
+"952",4,"United Air Lines Inc.","Seattle, WA: Seattle/Tacoma International",14827,10.162440027416
+"953",4,"Virgin America","Seattle, WA: Seattle/Tacoma International",6125,15.3508771929825
+"954",4,"Delta Air Lines Inc.","Shreveport, LA: Shreveport Regional",288,6.12765957446809
+"955",4,"ExpressJet Airlines Inc.","Shreveport, LA: Shreveport Regional",9683,11.9690976514215
+"956",4,"SkyWest Airlines Inc.","Shreveport, LA: Shreveport Regional",524,13.7894736842105
+"957",4,"Delta Air Lines Inc.","Sioux Falls, SD: Joe Foss Field",219,1.8099173553719
+"958",4,"ExpressJet Airlines Inc.","Sioux Falls, SD: Joe Foss Field",1643,12.2611940298507
+"959",4,"Frontier Airlines Inc.","Sioux Falls, SD: Joe Foss Field",31,31
+"960",4,"SkyWest Airlines Inc.","Sioux Falls, SD: Joe Foss Field",4657,14.0271084337349
+"961",4,"United Air Lines Inc.","Sioux Falls, SD: Joe Foss Field",535,10.4901960784314
+"962",4,"Alaska Airlines Inc.","Sitka, AK: Sitka Rocky Gutierrez",1132,6.11891891891892
+"963",4,"SkyWest Airlines Inc.","Sitka, AK: Sitka Rocky Gutierrez",28,1.75
+"964",4,"ExpressJet Airlines Inc.","South Bend, IN: South Bend International",1573,13.7982456140351
+"965",4,"SkyWest Airlines Inc.","South Bend, IN: South Bend International",10134,14.7296511627907
+"966",4,"Alaska Airlines Inc.","Spokane, WA: Spokane International",1536,6.144
+"967",4,"American Airlines Inc.","Spokane, WA: Spokane International",10,0.133333333333333
+"968",4,"Delta Air Lines Inc.","Spokane, WA: Spokane International",1167,4.8625
+"969",4,"SkyWest Airlines Inc.","Spokane, WA: Spokane International",3668,10.3323943661972
+"970",4,"Southwest Airlines Co.","Spokane, WA: Spokane International",4452,9.17938144329897
+"971",4,"United Air Lines Inc.","Spokane, WA: Spokane International",275,2.64423076923077
+"972",4,"ExpressJet Airlines Inc.","Springfield, IL: Abraham Lincoln Capital",1074,10.74
+"973",4,"SkyWest Airlines Inc.","Springfield, IL: Abraham Lincoln Capital",971,6.26451612903226
+"974",4,"Delta Air Lines Inc.","Springfield, MO: Springfield-Branson National",12,0.226415094339623
+"975",4,"ExpressJet Airlines Inc.","Springfield, MO: Springfield-Branson National",4424,17.0810810810811
+"976",4,"SkyWest Airlines Inc.","Springfield, MO: Springfield-Branson National",1247,10.5677966101695
+"977",4,"Frontier Airlines Inc.","St. Augustine, FL: Northeast Florida Regional",394,13.5862068965517
+"978",4,"SkyWest Airlines Inc.","St. George, UT: St George Regional",1795,5.68037974683544
+"979",4,"Alaska Airlines Inc.","St. Louis, MO: Lambert-St. Louis International",502,6.1219512195122
+"980",4,"American Airlines Inc.","St. Louis, MO: Lambert-St. Louis International",11634,9.52045826513912
+"981",4,"Delta Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International",5830,7.19753086419753
+"982",4,"ExpressJet Airlines Inc.","St. Louis, MO: Lambert-St. Louis International",8443,17.48033126294
+"983",4,"Frontier Airlines Inc.","St. Louis, MO: Lambert-St. Louis International",4208,19.3917050691244
+"984",4,"SkyWest Airlines Inc.","St. Louis, MO: Lambert-St. Louis International",3527,10.3431085043988
+"985",4,"Southwest Airlines Co.","St. Louis, MO: Lambert-St. Louis International",58462,11.3983232598947
+"986",4,"United Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International",1533,14.3271028037383
+"987",4,"ExpressJet Airlines Inc.","State College, PA: University Park",915,15.7758620689655
+"988",4,"SkyWest Airlines Inc.","State College, PA: University Park",604,11.3962264150943
+"989",4,"SkyWest Airlines Inc.","Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",2279,14.24375
+"990",4,"American Airlines Inc.","Syracuse, NY: Syracuse Hancock International",754,7.32038834951456
+"991",4,"Delta Air Lines Inc.","Syracuse, NY: Syracuse Hancock International",2608,12.3601895734597
+"992",4,"ExpressJet Airlines Inc.","Syracuse, NY: Syracuse Hancock International",3445,17.0544554455446
+"993",4,"JetBlue Airways","Syracuse, NY: Syracuse Hancock International",3814,16.2297872340426
+"994",4,"SkyWest Airlines Inc.","Syracuse, NY: Syracuse Hancock International",1314,11.3275862068966
+"995",4,"Delta Air Lines Inc.","Tallahassee, FL: Tallahassee International",1069,4.64782608695652
+"996",4,"ExpressJet Airlines Inc.","Tallahassee, FL: Tallahassee International",1892,11.0643274853801
+"997",4,"Alaska Airlines Inc.","Tampa, FL: Tampa International",402,7.58490566037736
+"998",4,"American Airlines Inc.","Tampa, FL: Tampa International",15795,8.73134328358209
+"999",4,"Delta Air Lines Inc.","Tampa, FL: Tampa International",19697,11.6688388625592
+"1000",4,"Frontier Airlines Inc.","Tampa, FL: Tampa International",3466,14.3817427385892
+"1001",4,"JetBlue Airways","Tampa, FL: Tampa International",15274,18.1833333333333
+"1002",4,"Southwest Airlines Co.","Tampa, FL: Tampa International",40363,10.1440060316662
+"1003",4,"Spirit Air Lines","Tampa, FL: Tampa International",8184,20.2074074074074
+"1004",4,"United Air Lines Inc.","Tampa, FL: Tampa International",8893,9.6036717062635
+"1005",4,"ExpressJet Airlines Inc.","Texarkana, AR: Texarkana Regional-Webb Field",4583,34.9847328244275
+"1006",4,"Delta Air Lines Inc.","Traverse City, MI: Cherry Capital",166,2.8135593220339
+"1007",4,"ExpressJet Airlines Inc.","Traverse City, MI: Cherry Capital",1315,13.019801980198
+"1008",4,"SkyWest Airlines Inc.","Traverse City, MI: Cherry Capital",2020,15.9055118110236
+"1009",4,"Frontier Airlines Inc.","Trenton, NJ: Trenton Mercer",3932,13.1066666666667
+"1010",4,"Alaska Airlines Inc.","Tucson, AZ: Tucson International",101,1.90566037735849
+"1011",4,"American Airlines Inc.","Tucson, AZ: Tucson International",4106,9.39588100686499
+"1012",4,"Delta Air Lines Inc.","Tucson, AZ: Tucson International",500,3.84615384615385
+"1013",4,"ExpressJet Airlines Inc.","Tucson, AZ: Tucson International",29,1.38095238095238
+"1014",4,"SkyWest Airlines Inc.","Tucson, AZ: Tucson International",11958,12.0422960725076
+"1015",4,"Southwest Airlines Co.","Tucson, AZ: Tucson International",7933,11.9293233082707
+"1016",4,"United Air Lines Inc.","Tucson, AZ: Tucson International",311,10.0322580645161
+"1017",4,"American Airlines Inc.","Tulsa, OK: Tulsa International",3878,10.0466321243523
+"1018",4,"Delta Air Lines Inc.","Tulsa, OK: Tulsa International",1249,7.30409356725146
+"1019",4,"ExpressJet Airlines Inc.","Tulsa, OK: Tulsa International",7632,13.4366197183099
+"1020",4,"SkyWest Airlines Inc.","Tulsa, OK: Tulsa International",2376,10.3304347826087
+"1021",4,"Southwest Airlines Co.","Tulsa, OK: Tulsa International",5600,8.199121522694
+"1022",4,"United Air Lines Inc.","Tulsa, OK: Tulsa International",759,8.43333333333333
+"1023",4,"SkyWest Airlines Inc.","Twin Falls, ID: Joslin Field - Magic Valley Regional",1073,6.96753246753247
+"1024",4,"ExpressJet Airlines Inc.","Tyler, TX: Tyler Pounds Regional",423,6.9344262295082
+"1025",4,"ExpressJet Airlines Inc.","Valdosta, GA: Valdosta Regional",2352,14.8860759493671
+"1026",4,"Delta Air Lines Inc.","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",652,2.26388888888889
+"1027",4,"ExpressJet Airlines Inc.","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",5022,15.3109756097561
+"1028",4,"ExpressJet Airlines Inc.","Waco, TX: Waco Regional",1858,9.29
+"1029",4,"Alaska Airlines Inc.","Washington, DC: Ronald Reagan Washington National",1615,7.61792452830189
+"1030",4,"American Airlines Inc.","Washington, DC: Ronald Reagan Washington National",47221,10.6690013556258
+"1031",4,"Delta Air Lines Inc.","Washington, DC: Ronald Reagan Washington National",17416,11.4503616042078
+"1032",4,"ExpressJet Airlines Inc.","Washington, DC: Ronald Reagan Washington National",11675,20.0601374570447
+"1033",4,"Frontier Airlines Inc.","Washington, DC: Ronald Reagan Washington National",783,4.98726114649681
+"1034",4,"JetBlue Airways","Washington, DC: Ronald Reagan Washington National",18789,12.1769280622165
+"1035",4,"SkyWest Airlines Inc.","Washington, DC: Ronald Reagan Washington National",1811,11.31875
+"1036",4,"Southwest Airlines Co.","Washington, DC: Ronald Reagan Washington National",27852,11.9331619537275
+"1037",4,"United Air Lines Inc.","Washington, DC: Ronald Reagan Washington National",8152,11.6790830945559
+"1038",4,"Virgin America","Washington, DC: Ronald Reagan Washington National",3161,15.052380952381
+"1039",4,"Alaska Airlines Inc.","Washington, DC: Washington Dulles International",465,9.11764705882353
+"1040",4,"American Airlines Inc.","Washington, DC: Washington Dulles International",8379,21.2664974619289
+"1041",4,"Delta Air Lines Inc.","Washington, DC: Washington Dulles International",3953,9.66503667481663
+"1042",4,"ExpressJet Airlines Inc.","Washington, DC: Washington Dulles International",1325,16.5625
+"1043",4,"Frontier Airlines Inc.","Washington, DC: Washington Dulles International",2235,23.0412371134021
+"1044",4,"JetBlue Airways","Washington, DC: Washington Dulles International",5694,18.0189873417722
+"1045",4,"SkyWest Airlines Inc.","Washington, DC: Washington Dulles International",2459,38.421875
+"1046",4,"Southwest Airlines Co.","Washington, DC: Washington Dulles International",2725,8.08605341246291
+"1047",4,"United Air Lines Inc.","Washington, DC: Washington Dulles International",43578,13.7687203791469
+"1048",4,"Virgin America","Washington, DC: Washington Dulles International",2493,9.89285714285714
+"1049",4,"American Airlines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International",5984,8.56080114449213
+"1050",4,"Delta Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International",13566,14.2052356020942
+"1051",4,"ExpressJet Airlines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International",86,17.2
+"1052",4,"Frontier Airlines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International",642,14.9302325581395
+"1053",4,"JetBlue Airways","West Palm Beach/Palm Beach, FL: Palm Beach International",25035,23.6625708884688
+"1054",4,"Southwest Airlines Co.","West Palm Beach/Palm Beach, FL: Palm Beach International",4221,10.9636363636364
+"1055",4,"Spirit Air Lines","West Palm Beach/Palm Beach, FL: Palm Beach International",1395,33.2142857142857
+"1056",4,"United Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International",5131,14.8724637681159
+"1057",4,"SkyWest Airlines Inc.","West Yellowstone, MT: Yellowstone",148,3.79487179487179
+"1058",4,"ExpressJet Airlines Inc.","White Plains, NY: Westchester County",8019,15.1587901701323
+"1059",4,"JetBlue Airways","White Plains, NY: Westchester County",8996,16.2676311030741
+"1060",4,"ExpressJet Airlines Inc.","Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",1262,10.260162601626
+"1061",4,"American Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National",49,1.44117647058824
+"1062",4,"Delta Air Lines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National",1292,8.17721518987342
+"1063",4,"ExpressJet Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National",2574,9.19285714285714
+"1064",4,"SkyWest Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National",3126,8.7563025210084
+"1065",4,"Southwest Airlines Co.","Wichita, KS: Wichita Dwight D Eisenhower National",1757,7.80888888888889
+"1066",4,"United Air Lines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National",714,6.375
+"1067",4,"ExpressJet Airlines Inc.","Williston, ND: Sloulin Field International",121,9.30769230769231
+"1068",4,"SkyWest Airlines Inc.","Williston, ND: Sloulin Field International",4311,18.1898734177215
+"1069",4,"American Airlines Inc.","Wilmington, NC: Wilmington International",704,6.23008849557522
+"1070",4,"Delta Air Lines Inc.","Wilmington, NC: Wilmington International",55,0.808823529411765
+"1071",4,"ExpressJet Airlines Inc.","Wilmington, NC: Wilmington International",3680,19.6791443850267
+"1072",4,"SkyWest Airlines Inc.","Wilmington, NC: Wilmington International",224,8.61538461538461
+"1073",4,"JetBlue Airways","Worcester, MA: Worcester Regional",1838,18.38
+"1074",4,"Alaska Airlines Inc.","Wrangell, AK: Wrangell Airport",476,4.66666666666667
+"1075",4,"Alaska Airlines Inc.","Yakutat, AK: Yakutat Airport",370,3.66336633663366
+"1076",4,"SkyWest Airlines Inc.","Yuma, AZ: Yuma MCAS/Yuma International",2007,6.64569536423841
