@@ -1,0 +1,834 @@
+"","TIME_BLOCK","NAME_AIRLINE","NAME_AIRPORT","COUNT","data_deptimeblk_mean$MEAN"
+"1","0600-0659","JetBlue Airways","Aguadilla, PR: Rafael Hernandez",850,7.02479338842975
+"2","0600-0659","Delta Air Lines Inc.","Akron, OH: Akron-Canton Regional",3988,13.8954703832753
+"3","0600-0659","ExpressJet Airlines Inc.","Akron, OH: Akron-Canton Regional",1388,4.07038123167155
+"4","0600-0659","SkyWest Airlines Inc.","Akron, OH: Akron-Canton Regional",54,3.6
+"5","0600-0659","Southwest Airlines Co.","Akron, OH: Akron-Canton Regional",2474,8.11147540983607
+"6","0600-0659","ExpressJet Airlines Inc.","Albany, GA: Southwest Georgia Regional",461,51.2222222222222
+"7","0600-0659","Delta Air Lines Inc.","Albany, NY: Albany International",3199,6.28487229862475
+"8","0600-0659","ExpressJet Airlines Inc.","Albany, NY: Albany International",591,73.875
+"9","0600-0659","SkyWest Airlines Inc.","Albany, NY: Albany International",752,39.5789473684211
+"10","0600-0659","Southwest Airlines Co.","Albany, NY: Albany International",1917,3.46028880866426
+"11","0600-0659","United Air Lines Inc.","Albany, NY: Albany International",2593,8.103125
+"12","0600-0659","American Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport",331,11.4137931034483
+"13","0600-0659","Delta Air Lines Inc.","Albuquerque, NM: Albuquerque International Sunport",1380,3.30935251798561
+"14","0600-0659","ExpressJet Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport",36,7.2
+"15","0600-0659","SkyWest Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport",2421,4.85170340681363
+"16","0600-0659","Southwest Airlines Co.","Albuquerque, NM: Albuquerque International Sunport",3305,2.55212355212355
+"17","0600-0659","United Air Lines Inc.","Albuquerque, NM: Albuquerque International Sunport",504,10.7234042553191
+"18","0600-0659","ExpressJet Airlines Inc.","Alexandria, LA: Alexandria International",5922,12.7354838709677
+"19","0600-0659","Delta Air Lines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International",1637,7.50917431192661
+"20","0600-0659","ExpressJet Airlines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International",3203,7.96766169154229
+"21","0600-0659","SkyWest Airlines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International",1031,12.2738095238095
+"22","0600-0659","American Airlines Inc.","Amarillo, TX: Rick Husband Amarillo International",0,0
+"23","0600-0659","ExpressJet Airlines Inc.","Amarillo, TX: Rick Husband Amarillo International",1632,8.63492063492063
+"24","0600-0659","SkyWest Airlines Inc.","Amarillo, TX: Rick Husband Amarillo International",18,1.63636363636364
+"25","0600-0659","Southwest Airlines Co.","Amarillo, TX: Rick Husband Amarillo International",224,1.26553672316384
+"26","0600-0659","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International",2126,2.01135288552507
+"27","0600-0659","Delta Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International",723,7.85869565217391
+"28","0600-0659","Delta Air Lines Inc.","Appleton, WI: Appleton International",1188,4.88888888888889
+"29","0600-0659","ExpressJet Airlines Inc.","Appleton, WI: Appleton International",75,12.5
+"30","0600-0659","SkyWest Airlines Inc.","Appleton, WI: Appleton International",530,6.79487179487179
+"31","0600-0659","SkyWest Airlines Inc.","Arcata/Eureka, CA: Arcata",2439,7.84244372990354
+"32","0600-0659","Delta Air Lines Inc.","Asheville, NC: Asheville Regional",1100,15.9420289855072
+"33","0600-0659","ExpressJet Airlines Inc.","Asheville, NC: Asheville Regional",363,14.52
+"34","0600-0659","SkyWest Airlines Inc.","Asheville, NC: Asheville Regional",1560,7.68472906403941
+"35","0600-0659","American Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",4322,4.06967984934087
+"36","0600-0659","Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",2874,3.832
+"37","0600-0659","ExpressJet Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",0,0
+"38","0600-0659","Frontier Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",6341,9.72546012269939
+"39","0600-0659","SkyWest Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",930,5.10989010989011
+"40","0600-0659","Southwest Airlines Co.","Atlanta, GA: Hartsfield-Jackson Atlanta International",3508,2.81540930979133
+"41","0600-0659","Spirit Air Lines","Atlanta, GA: Hartsfield-Jackson Atlanta International",3445,8.90180878552971
+"42","0600-0659","United Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International",1057,4.69777777777778
+"43","0600-0659","Spirit Air Lines","Atlantic City, NJ: Atlantic City International",2695,4.01041666666667
+"44","0600-0659","Delta Air Lines Inc.","Augusta, GA: Augusta Regional at Bush Field",2265,9.17004048582996
+"45","0600-0659","ExpressJet Airlines Inc.","Augusta, GA: Augusta Regional at Bush Field",1184,17.9393939393939
+"46","0600-0659","Alaska Airlines Inc.","Austin, TX: Austin - Bergstrom International",478,4.59615384615385
+"47","0600-0659","American Airlines Inc.","Austin, TX: Austin - Bergstrom International",5684,5.74141414141414
+"48","0600-0659","Delta Air Lines Inc.","Austin, TX: Austin - Bergstrom International",2634,5.61620469083156
+"49","0600-0659","ExpressJet Airlines Inc.","Austin, TX: Austin - Bergstrom International",14,2.33333333333333
+"50","0600-0659","Frontier Airlines Inc.","Austin, TX: Austin - Bergstrom International",279,7.97142857142857
+"51","0600-0659","JetBlue Airways","Austin, TX: Austin - Bergstrom International",420,1.68674698795181
+"52","0600-0659","SkyWest Airlines Inc.","Austin, TX: Austin - Bergstrom International",2974,9.2360248447205
+"53","0600-0659","Southwest Airlines Co.","Austin, TX: Austin - Bergstrom International",4017,2.35187353629977
+"54","0600-0659","United Air Lines Inc.","Austin, TX: Austin - Bergstrom International",6194,7.93085787451985
+"55","0600-0659","SkyWest Airlines Inc.","Bakersfield, CA: Meadows Field",4668,6.83455344070278
+"56","0600-0659","American Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",3440,4.19512195121951
+"57","0600-0659","Delta Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",6191,7.67162329615861
+"58","0600-0659","ExpressJet Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",419,11.6388888888889
+"59","0600-0659","JetBlue Airways","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",1272,3.64469914040115
+"60","0600-0659","Southwest Airlines Co.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",9561,2.79888758782201
+"61","0600-0659","Spirit Air Lines","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",5726,6.86570743405276
+"62","0600-0659","United Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall",5194,8.33707865168539
+"63","0600-0659","Delta Air Lines Inc.","Bangor, ME: Bangor International",951,15.85
+"64","0600-0659","ExpressJet Airlines Inc.","Bangor, ME: Bangor International",1098,17.15625
+"65","0600-0659","ExpressJet Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",13502,14.4098185699039
+"66","0600-0659","SkyWest Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",17,1.0625
+"67","0600-0659","ExpressJet Airlines Inc.","Beaumont/Port Arthur, TX: Jack Brooks Regional",3465,14.4979079497908
+"68","0600-0659","Alaska Airlines Inc.","Bellingham, WA: Bellingham International",1764,9.1875
+"69","0600-0659","SkyWest Airlines Inc.","Bemidji, MN: Bemidji Regional",70,8.75
+"70","0600-0659","SkyWest Airlines Inc.","Bend/Redmond, OR: Roberts Field",9570,11.3793103448276
+"71","0600-0659","Delta Air Lines Inc.","Billings, MT: Billings Logan International",2175,4.26470588235294
+"72","0600-0659","ExpressJet Airlines Inc.","Billings, MT: Billings Logan International",764,20.1052631578947
+"73","0600-0659","SkyWest Airlines Inc.","Billings, MT: Billings Logan International",2,0.0476190476190476
+"74","0600-0659","United Air Lines Inc.","Billings, MT: Billings Logan International",453,6.86363636363636
+"75","0600-0659","SkyWest Airlines Inc.","Binghamton, NY: Greater Binghamton/Edwin A. Link Field",3400,15.5251141552511
+"76","0600-0659","Delta Air Lines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International",1282,3.71594202898551
+"77","0600-0659","ExpressJet Airlines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International",7174,9.1156289707751
+"78","0600-0659","SkyWest Airlines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International",1880,13.8235294117647
+"79","0600-0659","Southwest Airlines Co.","Birmingham, AL: Birmingham-Shuttlesworth International",2157,4.10857142857143
+"80","0600-0659","Delta Air Lines Inc.","Bismarck/Mandan, ND: Bismarck Municipal",2847,10.95
+"81","0600-0659","ExpressJet Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal",0,0
+"82","0600-0659","SkyWest Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal",4165,20.5172413793103
+"83","0600-0659","Delta Air Lines Inc.","Bloomington/Normal, IL: Central Illinois Regional",1394,7.37566137566138
+"84","0600-0659","ExpressJet Airlines Inc.","Bloomington/Normal, IL: Central Illinois Regional",835,8.69791666666667
+"85","0600-0659","SkyWest Airlines Inc.","Bloomington/Normal, IL: Central Illinois Regional",2407,14.2426035502959
+"86","0600-0659","American Airlines Inc.","Boise, ID: Boise Air Terminal",1924,5.32963988919668
+"87","0600-0659","Delta Air Lines Inc.","Boise, ID: Boise Air Terminal",672,2.90909090909091
+"88","0600-0659","SkyWest Airlines Inc.","Boise, ID: Boise Air Terminal",6631,7.86595492289442
+"89","0600-0659","Southwest Airlines Co.","Boise, ID: Boise Air Terminal",199,0.868995633187773
+"90","0600-0659","United Air Lines Inc.","Boise, ID: Boise Air Terminal",1410,5.97457627118644
+"91","0600-0659","American Airlines Inc.","Boston, MA: Logan International",11453,3.95886622882821
+"92","0600-0659","Delta Air Lines Inc.","Boston, MA: Logan International",10496,6.8646173969915
+"93","0600-0659","JetBlue Airways","Boston, MA: Logan International",12986,3.28260869565217
+"94","0600-0659","Southwest Airlines Co.","Boston, MA: Logan International",3185,3.04784688995215
+"95","0600-0659","Spirit Air Lines","Boston, MA: Logan International",373,7.17307692307692
+"96","0600-0659","United Air Lines Inc.","Boston, MA: Logan International",8235,5.58305084745763
+"97","0600-0659","Delta Air Lines Inc.","Bozeman, MT: Bozeman Yellowstone International",811,2.36443148688047
+"98","0600-0659","SkyWest Airlines Inc.","Bozeman, MT: Bozeman Yellowstone International",1824,13.1223021582734
+"99","0600-0659","United Air Lines Inc.","Bozeman, MT: Bozeman Yellowstone International",1184,9.472
+"100","0600-0659","SkyWest Airlines Inc.","Brainerd, MN: Brainerd Lakes Regional",18,0.9
+"101","0600-0659","Delta Air Lines Inc.","Bristol/Johnson City/Kingsport, TN: Tri-Cities Regional TN/VA",109,2.27083333333333
+"102","0600-0659","ExpressJet Airlines Inc.","Bristol/Johnson City/Kingsport, TN: Tri-Cities Regional TN/VA",3025,12.6041666666667
+"103","0600-0659","ExpressJet Airlines Inc.","Brownsville, TX: Brownsville South Padre Island International",732,4.88
+"104","0600-0659","ExpressJet Airlines Inc.","Brunswick, GA: Brunswick Golden Isles",2246,7.99288256227758
+"105","0600-0659","American Airlines Inc.","Buffalo, NY: Buffalo Niagara International",1281,3.69164265129683
+"106","0600-0659","Delta Air Lines Inc.","Buffalo, NY: Buffalo Niagara International",6825,7.53311258278146
+"107","0600-0659","ExpressJet Airlines Inc.","Buffalo, NY: Buffalo Niagara International",1575,5.83333333333333
+"108","0600-0659","JetBlue Airways","Buffalo, NY: Buffalo Niagara International",360,2.72727272727273
+"109","0600-0659","Southwest Airlines Co.","Buffalo, NY: Buffalo Niagara International",2550,2.91762013729977
+"110","0600-0659","United Air Lines Inc.","Buffalo, NY: Buffalo Niagara International",141,2.87755102040816
+"111","0600-0659","SkyWest Airlines Inc.","Burbank, CA: Bob Hope",72,4.5
+"112","0600-0659","Delta Air Lines Inc.","Burlington, VT: Burlington International",1102,9.83928571428571
+"113","0600-0659","ExpressJet Airlines Inc.","Burlington, VT: Burlington International",2511,11.6790697674419
+"114","0600-0659","United Air Lines Inc.","Burlington, VT: Burlington International",587,8.04109589041096
+"115","0600-0659","SkyWest Airlines Inc.","Butte, MT: Bert Mooney",2176,6.1643059490085
+"116","0600-0659","SkyWest Airlines Inc.","Casper, WY: Casper/Natrona County International",2818,11.272
+"117","0600-0659","ExpressJet Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa",2031,23.6162790697674
+"118","0600-0659","SkyWest Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa",4475,10.7314148681055
+"119","0600-0659","American Airlines Inc.","Charleston, SC: Charleston AFB/International",1,0.2
+"120","0600-0659","Delta Air Lines Inc.","Charleston, SC: Charleston AFB/International",1173,3.46017699115044
+"121","0600-0659","ExpressJet Airlines Inc.","Charleston, SC: Charleston AFB/International",7690,12.0722135007849
+"122","0600-0659","JetBlue Airways","Charleston, SC: Charleston AFB/International",657,18.25
+"123","0600-0659","SkyWest Airlines Inc.","Charleston, SC: Charleston AFB/International",644,8.05
+"124","0600-0659","Southwest Airlines Co.","Charleston, SC: Charleston AFB/International",1048,3.21472392638037
+"125","0600-0659","United Air Lines Inc.","Charleston, SC: Charleston AFB/International",833,7.30701754385965
+"126","0600-0659","Delta Air Lines Inc.","Charleston/Dunbar, WV: Yeager",1501,6.64159292035398
+"127","0600-0659","ExpressJet Airlines Inc.","Charleston/Dunbar, WV: Yeager",3264,12.0442804428044
+"128","0600-0659","SkyWest Airlines Inc.","Charleston/Dunbar, WV: Yeager",7,7
+"129","0600-0659","American Airlines Inc.","Charlotte, NC: Charlotte Douglas International",2562,3.55833333333333
+"130","0600-0659","Delta Air Lines Inc.","Charlotte, NC: Charlotte Douglas International",1486,3.1218487394958
+"131","0600-0659","ExpressJet Airlines Inc.","Charlotte, NC: Charlotte Douglas International",95,10.5555555555556
+"132","0600-0659","Frontier Airlines Inc.","Charlotte, NC: Charlotte Douglas International",1282,9.42647058823529
+"133","0600-0659","SkyWest Airlines Inc.","Charlotte, NC: Charlotte Douglas International",2344,21.7037037037037
+"134","0600-0659","Southwest Airlines Co.","Charlotte, NC: Charlotte Douglas International",846,4.08695652173913
+"135","0600-0659","United Air Lines Inc.","Charlotte, NC: Charlotte Douglas International",2404,8.17687074829932
+"136","0600-0659","Delta Air Lines Inc.","Charlottesville, VA: Charlottesville Albemarle",589,5.12173913043478
+"137","0600-0659","ExpressJet Airlines Inc.","Charlottesville, VA: Charlottesville Albemarle",2269,13.5059523809524
+"138","0600-0659","SkyWest Airlines Inc.","Charlottesville, VA: Charlottesville Albemarle",0,0
+"139","0600-0659","Delta Air Lines Inc.","Chattanooga, TN: Lovell Field",458,3.18055555555556
+"140","0600-0659","ExpressJet Airlines Inc.","Chattanooga, TN: Lovell Field",3790,9.97368421052632
+"141","0600-0659","SkyWest Airlines Inc.","Chattanooga, TN: Lovell Field",0,0
+"142","0600-0659","Delta Air Lines Inc.","Chicago, IL: Chicago Midway International",1193,3.29558011049724
+"143","0600-0659","ExpressJet Airlines Inc.","Chicago, IL: Chicago Midway International",2,0.222222222222222
+"144","0600-0659","SkyWest Airlines Inc.","Chicago, IL: Chicago Midway International",536,9.08474576271187
+"145","0600-0659","Southwest Airlines Co.","Chicago, IL: Chicago Midway International",9751,2.23441796516957
+"146","0600-0659","Alaska Airlines Inc.","Chicago, IL: Chicago O'Hare International",2191,7.4271186440678
+"147","0600-0659","American Airlines Inc.","Chicago, IL: Chicago O'Hare International",5780,4.88175675675676
+"148","0600-0659","Delta Air Lines Inc.","Chicago, IL: Chicago O'Hare International",6756,8.07168458781362
+"149","0600-0659","ExpressJet Airlines Inc.","Chicago, IL: Chicago O'Hare International",3911,7.8376753507014
+"150","0600-0659","Frontier Airlines Inc.","Chicago, IL: Chicago O'Hare International",7778,13.433506044905
+"151","0600-0659","JetBlue Airways","Chicago, IL: Chicago O'Hare International",160,1.41592920353982
+"152","0600-0659","SkyWest Airlines Inc.","Chicago, IL: Chicago O'Hare International",17452,9.39289558665231
+"153","0600-0659","Spirit Air Lines","Chicago, IL: Chicago O'Hare International",4515,7.34146341463415
+"154","0600-0659","United Air Lines Inc.","Chicago, IL: Chicago O'Hare International",26866,7.08865435356201
+"155","0600-0659","Delta Air Lines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International",795,2.54807692307692
+"156","0600-0659","ExpressJet Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International",287,2.81372549019608
+"157","0600-0659","Frontier Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International",4440,14.8494983277592
+"158","0600-0659","SkyWest Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International",1259,14.3068181818182
+"159","0600-0659","American Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International",1060,5.88888888888889
+"160","0600-0659","Delta Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International",1932,5.42696629213483
+"161","0600-0659","ExpressJet Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International",20129,11.7507297139521
+"162","0600-0659","Frontier Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International",2625,17.9794520547945
+"163","0600-0659","JetBlue Airways","Cleveland, OH: Cleveland-Hopkins International",1673,7.50224215246637
+"164","0600-0659","SkyWest Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International",1030,25.75
+"165","0600-0659","Southwest Airlines Co.","Cleveland, OH: Cleveland-Hopkins International",2257,2.40362087326944
+"166","0600-0659","Spirit Air Lines","Cleveland, OH: Cleveland-Hopkins International",1388,5.85654008438819
+"167","0600-0659","United Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International",2958,5.03061224489796
+"168","0600-0659","SkyWest Airlines Inc.","Cody, WY: Yellowstone Regional",1872,6.36734693877551
+"169","0600-0659","ExpressJet Airlines Inc.","College Station/Bryan, TX: Easterwood Field",12,0.666666666666667
+"170","0600-0659","American Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal",3431,13.2471042471042
+"171","0600-0659","Delta Air Lines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal",2393,7.29573170731707
+"172","0600-0659","ExpressJet Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal",0,0
+"173","0600-0659","Frontier Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal",1209,14.566265060241
+"174","0600-0659","SkyWest Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal",11828,9.51568785197104
+"175","0600-0659","Delta Air Lines Inc.","Columbia, SC: Columbia Metropolitan",297,2.67567567567568
+"176","0600-0659","ExpressJet Airlines Inc.","Columbia, SC: Columbia Metropolitan",1411,8.60365853658537
+"177","0600-0659","ExpressJet Airlines Inc.","Columbus, GA: Columbus Airport",1050,5.07246376811594
+"178","0600-0659","ExpressJet Airlines Inc.","Columbus, MS: Golden Triangle Regional",3421,9.45027624309392
+"179","0600-0659","American Airlines Inc.","Columbus, OH: Port Columbus International",1014,6
+"180","0600-0659","Delta Air Lines Inc.","Columbus, OH: Port Columbus International",4006,12.9225806451613
+"181","0600-0659","ExpressJet Airlines Inc.","Columbus, OH: Port Columbus International",1004,6.82993197278912
+"182","0600-0659","Frontier Airlines Inc.","Columbus, OH: Port Columbus International",0,0
+"183","0600-0659","SkyWest Airlines Inc.","Columbus, OH: Port Columbus International",1276,8.17948717948718
+"184","0600-0659","Southwest Airlines Co.","Columbus, OH: Port Columbus International",2062,1.54572713643178
+"185","0600-0659","United Air Lines Inc.","Columbus, OH: Port Columbus International",333,4.0609756097561
+"186","0600-0659","ExpressJet Airlines Inc.","Corpus Christi, TX: Corpus Christi International",1045,6.25748502994012
+"187","0600-0659","SkyWest Airlines Inc.","Corpus Christi, TX: Corpus Christi International",46,5.11111111111111
+"188","0600-0659","Southwest Airlines Co.","Corpus Christi, TX: Corpus Christi International",749,2.53898305084746
+"189","0600-0659","Southwest Airlines Co.","Dallas, TX: Dallas Love Field",11295,2.39656269891789
+"190","0600-0659","American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",14853,6.35014963659684
+"191","0600-0659","Delta Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",1486,5.42335766423358
+"192","0600-0659","ExpressJet Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",534,9.36842105263158
+"193","0600-0659","Frontier Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",1835,6.01639344262295
+"194","0600-0659","SkyWest Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",3627,9.82926829268293
+"195","0600-0659","Spirit Air Lines","Dallas/Fort Worth, TX: Dallas/Fort Worth International",10369,6.82171052631579
+"196","0600-0659","United Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International",5426,7.84104046242775
+"197","0600-0659","American Airlines Inc.","Dayton, OH: James M Cox/Dayton International",2329,8.34767025089606
+"198","0600-0659","Delta Air Lines Inc.","Dayton, OH: James M Cox/Dayton International",515,2.45238095238095
+"199","0600-0659","ExpressJet Airlines Inc.","Dayton, OH: James M Cox/Dayton International",3161,12.644
+"200","0600-0659","SkyWest Airlines Inc.","Dayton, OH: James M Cox/Dayton International",2308,13.0395480225989
+"201","0600-0659","Southwest Airlines Co.","Dayton, OH: James M Cox/Dayton International",432,2.09708737864078
+"202","0600-0659","American Airlines Inc.","Daytona Beach, FL: Daytona Beach International",0,0
+"203","0600-0659","Delta Air Lines Inc.","Daytona Beach, FL: Daytona Beach International",491,4.72115384615385
+"204","0600-0659","Alaska Airlines Inc.","Denver, CO: Denver International",672,3.2780487804878
+"205","0600-0659","American Airlines Inc.","Denver, CO: Denver International",3456,4.8133704735376
+"206","0600-0659","Delta Air Lines Inc.","Denver, CO: Denver International",9829,7.92022562449637
+"207","0600-0659","Frontier Airlines Inc.","Denver, CO: Denver International",12093,9.3962703962704
+"208","0600-0659","SkyWest Airlines Inc.","Denver, CO: Denver International",2340,13
+"209","0600-0659","Southwest Airlines Co.","Denver, CO: Denver International",4938,1.77307001795332
+"210","0600-0659","Spirit Air Lines","Denver, CO: Denver International",822,4.28125
+"211","0600-0659","United Air Lines Inc.","Denver, CO: Denver International",4697,3.53423626787058
+"212","0600-0659","American Airlines Inc.","Des Moines, IA: Des Moines International",31,0.430555555555556
+"213","0600-0659","Delta Air Lines Inc.","Des Moines, IA: Des Moines International",1277,10.8220338983051
+"214","0600-0659","ExpressJet Airlines Inc.","Des Moines, IA: Des Moines International",1503,9.33540372670807
+"215","0600-0659","SkyWest Airlines Inc.","Des Moines, IA: Des Moines International",1746,21.0361445783133
+"216","0600-0659","Southwest Airlines Co.","Des Moines, IA: Des Moines International",733,2.54513888888889
+"217","0600-0659","United Air Lines Inc.","Des Moines, IA: Des Moines International",2090,10.8854166666667
+"218","0600-0659","American Airlines Inc.","Detroit, MI: Detroit Metro Wayne County",4121,5.85369318181818
+"219","0600-0659","Delta Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County",2272,5.8860103626943
+"220","0600-0659","ExpressJet Airlines Inc.","Detroit, MI: Detroit Metro Wayne County",6,6
+"221","0600-0659","Frontier Airlines Inc.","Detroit, MI: Detroit Metro Wayne County",2122,35.9661016949153
+"222","0600-0659","JetBlue Airways","Detroit, MI: Detroit Metro Wayne County",1960,5.56818181818182
+"223","0600-0659","SkyWest Airlines Inc.","Detroit, MI: Detroit Metro Wayne County",568,6.6046511627907
+"224","0600-0659","Southwest Airlines Co.","Detroit, MI: Detroit Metro Wayne County",4440,4.63465553235908
+"225","0600-0659","Spirit Air Lines","Detroit, MI: Detroit Metro Wayne County",7938,7.03723404255319
+"226","0600-0659","United Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County",639,4.91538461538462
+"227","0600-0659","SkyWest Airlines Inc.","Devils Lake, ND: Devils Lake Regional",8,8
+"228","0600-0659","ExpressJet Airlines Inc.","Dothan, AL: Dothan Regional",1691,30.7454545454545
+"229","0600-0659","Delta Air Lines Inc.","Duluth, MN: Duluth International",915,8.55140186915888
+"230","0600-0659","SkyWest Airlines Inc.","Duluth, MN: Duluth International",6698,13.8103092783505
+"231","0600-0659","ExpressJet Airlines Inc.","Durango, CO: Durango La Plata County",947,35.0740740740741
+"232","0600-0659","SkyWest Airlines Inc.","Durango, CO: Durango La Plata County",2043,7.70943396226415
+"233","0600-0659","SkyWest Airlines Inc.","Eagle, CO: Eagle County Regional",0,0
+"234","0600-0659","SkyWest Airlines Inc.","Eau Claire, WI: Chippewa Valley Regional",598,10.135593220339
+"235","0600-0659","American Airlines Inc.","El Paso, TX: El Paso International",5040,13.9612188365651
+"236","0600-0659","Delta Air Lines Inc.","El Paso, TX: El Paso International",1636,5.31168831168831
+"237","0600-0659","ExpressJet Airlines Inc.","El Paso, TX: El Paso International",622,7.06818181818182
+"238","0600-0659","SkyWest Airlines Inc.","El Paso, TX: El Paso International",39,0.317073170731707
+"239","0600-0659","Southwest Airlines Co.","El Paso, TX: El Paso International",3171,3.21276595744681
+"240","0600-0659","SkyWest Airlines Inc.","Elko, NV: Elko Regional",1633,6.55823293172691
+"241","0600-0659","ExpressJet Airlines Inc.","Elmira/Corning, NY: Elmira/Corning Regional",4061,11.2805555555556
+"242","0600-0659","ExpressJet Airlines Inc.","Erie, PA: Erie International/Tom Ridge Field",3033,8.64102564102564
+"243","0600-0659","SkyWest Airlines Inc.","Erie, PA: Erie International/Tom Ridge Field",1701,77.3181818181818
+"244","0600-0659","SkyWest Airlines Inc.","Escanaba, MI: Delta County",0,0
+"245","0600-0659","SkyWest Airlines Inc.","Eugene, OR: Mahlon Sweet Field",4219,6.1233671988389
+"246","0600-0659","United Air Lines Inc.","Eugene, OR: Mahlon Sweet Field",1641,8.41538461538462
+"247","0600-0659","Delta Air Lines Inc.","Evansville, IN: Evansville Regional",1157,4.70325203252033
+"248","0600-0659","ExpressJet Airlines Inc.","Evansville, IN: Evansville Regional",4198,8.49797570850202
+"249","0600-0659","SkyWest Airlines Inc.","Evansville, IN: Evansville Regional",561,6.92592592592593
+"250","0600-0659","Alaska Airlines Inc.","Fairbanks, AK: Fairbanks International",2460,3.37912087912088
+"251","0600-0659","Delta Air Lines Inc.","Fargo, ND: Hector International",7413,25.6505190311419
+"252","0600-0659","ExpressJet Airlines Inc.","Fargo, ND: Hector International",1071,13.0609756097561
+"253","0600-0659","SkyWest Airlines Inc.","Fargo, ND: Hector International",1459,6.45575221238938
+"254","0600-0659","American Airlines Inc.","Fayetteville, AR: Northwest Arkansas Regional",0,0
+"255","0600-0659","Delta Air Lines Inc.","Fayetteville, AR: Northwest Arkansas Regional",1633,6.45454545454545
+"256","0600-0659","ExpressJet Airlines Inc.","Fayetteville, AR: Northwest Arkansas Regional",2123,8.42460317460317
+"257","0600-0659","SkyWest Airlines Inc.","Fayetteville, AR: Northwest Arkansas Regional",767,8.07368421052632
+"258","0600-0659","Delta Air Lines Inc.","Fayetteville, NC: Fayetteville Regional/Grannis Field",1191,4.16433566433566
+"259","0600-0659","ExpressJet Airlines Inc.","Fayetteville, NC: Fayetteville Regional/Grannis Field",2,2
+"260","0600-0659","SkyWest Airlines Inc.","Flagstaff, AZ: Flagstaff Pulliam",275,11.9565217391304
+"261","0600-0659","Delta Air Lines Inc.","Flint, MI: Bishop International",692,2.82448979591837
+"262","0600-0659","ExpressJet Airlines Inc.","Flint, MI: Bishop International",2591,6.27360774818402
+"263","0600-0659","Southwest Airlines Co.","Flint, MI: Bishop International",451,1.62230215827338
+"264","0600-0659","Alaska Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",4,0.5
+"265","0600-0659","American Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",2432,2.39605911330049
+"266","0600-0659","Delta Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1402,3.94929577464789
+"267","0600-0659","JetBlue Airways","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",3754,3.27860262008734
+"268","0600-0659","Southwest Airlines Co.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",2674,2.48744186046512
+"269","0600-0659","Spirit Air Lines","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",127,2.26785714285714
+"270","0600-0659","United Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",2084,3.15279878971256
+"271","0600-0659","American Airlines Inc.","Fort Myers, FL: Southwest Florida International",835,1.38245033112583
+"272","0600-0659","Delta Air Lines Inc.","Fort Myers, FL: Southwest Florida International",1181,7.52229299363057
+"273","0600-0659","JetBlue Airways","Fort Myers, FL: Southwest Florida International",1499,3.05918367346939
+"274","0600-0659","Southwest Airlines Co.","Fort Myers, FL: Southwest Florida International",752,1.87064676616915
+"275","0600-0659","Spirit Air Lines","Fort Myers, FL: Southwest Florida International",303,2.58974358974359
+"276","0600-0659","United Air Lines Inc.","Fort Myers, FL: Southwest Florida International",2420,5.38975501113586
+"277","0600-0659","ExpressJet Airlines Inc.","Fort Smith, AR: Fort Smith Regional",3037,11.9098039215686
+"278","0600-0659","ExpressJet Airlines Inc.","Fort Wayne, IN: Fort Wayne International",1857,16.2894736842105
+"279","0600-0659","SkyWest Airlines Inc.","Fort Wayne, IN: Fort Wayne International",5358,7.79912663755459
+"280","0600-0659","American Airlines Inc.","Fresno, CA: Fresno Yosemite International",3956,16.5523012552301
+"281","0600-0659","SkyWest Airlines Inc.","Fresno, CA: Fresno Yosemite International",15340,8.10353935552034
+"282","0600-0659","Delta Air Lines Inc.","Gainesville, FL: Gainesville Regional",111,13.875
+"283","0600-0659","ExpressJet Airlines Inc.","Gainesville, FL: Gainesville Regional",1467,4.90635451505017
+"284","0600-0659","ExpressJet Airlines Inc.","Garden City, KS: Garden City Regional",367,22.9375
+"285","0600-0659","SkyWest Airlines Inc.","Gillette, WY: Gillette Campbell County",2395,8.9365671641791
+"286","0600-0659","SkyWest Airlines Inc.","Grand Forks, ND: Grand Forks International",1182,29.55
+"287","0600-0659","SkyWest Airlines Inc.","Grand Junction, CO: Grand Junction Regional",1148,2.45299145299145
+"288","0600-0659","Delta Air Lines Inc.","Grand Rapids, MI: Gerald R. Ford International",3977,6.54111842105263
+"289","0600-0659","ExpressJet Airlines Inc.","Grand Rapids, MI: Gerald R. Ford International",594,4.95
+"290","0600-0659","SkyWest Airlines Inc.","Grand Rapids, MI: Gerald R. Ford International",10,2.5
+"291","0600-0659","Southwest Airlines Co.","Grand Rapids, MI: Gerald R. Ford International",1183,4.20996441281139
+"292","0600-0659","United Air Lines Inc.","Grand Rapids, MI: Gerald R. Ford International",78,6.5
+"293","0600-0659","SkyWest Airlines Inc.","Great Falls, MT: Great Falls International",5559,11.7775423728814
+"294","0600-0659","Delta Air Lines Inc.","Green Bay, WI: Green Bay Austin Straubel International",2029,5.35356200527704
+"295","0600-0659","ExpressJet Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International",180,12.8571428571429
+"296","0600-0659","SkyWest Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International",73,7.3
+"297","0600-0659","American Airlines Inc.","Greensboro/High Point, NC: Piedmont Triad International",27,1.08
+"298","0600-0659","Delta Air Lines Inc.","Greensboro/High Point, NC: Piedmont Triad International",1062,4.53846153846154
+"299","0600-0659","ExpressJet Airlines Inc.","Greensboro/High Point, NC: Piedmont Triad International",3133,12.7357723577236
+"300","0600-0659","Delta Air Lines Inc.","Greer, SC: Greenville-Spartanburg International",1402,6.49074074074074
+"301","0600-0659","ExpressJet Airlines Inc.","Greer, SC: Greenville-Spartanburg International",7985,9.72594397076736
+"302","0600-0659","SkyWest Airlines Inc.","Greer, SC: Greenville-Spartanburg International",2635,20.748031496063
+"303","0600-0659","Southwest Airlines Co.","Greer, SC: Greenville-Spartanburg International",1382,4.40127388535032
+"304","0600-0659","United Air Lines Inc.","Guam, TT: Guam International",2803,11.6791666666667
+"305","0600-0659","Delta Air Lines Inc.","Gulfport/Biloxi, MS: Gulfport-Biloxi International",2057,7.09310344827586
+"306","0600-0659","ExpressJet Airlines Inc.","Gulfport/Biloxi, MS: Gulfport-Biloxi International",5432,8.11958146487294
+"307","0600-0659","SkyWest Airlines Inc.","Gunnison, CO: Gunnison-Crested Butte Regional",6,3
+"308","0600-0659","SkyWest Airlines Inc.","Hancock/Houghton, MI: Houghton County Memorial",1711,11.5608108108108
+"309","0600-0659","Southwest Airlines Co.","Harlingen/San Benito, TX: Valley International",725,2.6268115942029
+"310","0600-0659","American Airlines Inc.","Harrisburg, PA: Harrisburg International",0,0
+"311","0600-0659","Delta Air Lines Inc.","Harrisburg, PA: Harrisburg International",2774,9.09508196721312
+"312","0600-0659","ExpressJet Airlines Inc.","Harrisburg, PA: Harrisburg International",1303,15.3294117647059
+"313","0600-0659","United Air Lines Inc.","Harrisburg, PA: Harrisburg International",535,6.14942528735632
+"314","0600-0659","American Airlines Inc.","Hartford, CT: Bradley International",3746,4.54060606060606
+"315","0600-0659","Delta Air Lines Inc.","Hartford, CT: Bradley International",3722,7.14395393474088
+"316","0600-0659","ExpressJet Airlines Inc.","Hartford, CT: Bradley International",1139,8.2536231884058
+"317","0600-0659","JetBlue Airways","Hartford, CT: Bradley International",1644,4.41935483870968
+"318","0600-0659","SkyWest Airlines Inc.","Hartford, CT: Bradley International",984,13.4794520547945
+"319","0600-0659","Southwest Airlines Co.","Hartford, CT: Bradley International",1829,2.30643127364439
+"320","0600-0659","United Air Lines Inc.","Hartford, CT: Bradley International",2333,7.290625
+"321","0600-0659","ExpressJet Airlines Inc.","Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",3735,13.8847583643123
+"322","0600-0659","SkyWest Airlines Inc.","Hayden, CO: Yampa Valley",398,13.2666666666667
+"323","0600-0659","SkyWest Airlines Inc.","Helena, MT: Helena Regional",992,2.74792243767313
+"324","0600-0659","Hawaiian Airlines Inc.","Hilo, HI: Hilo International",404,1.26645768025078
+"325","0600-0659","ExpressJet Airlines Inc.","Hobbs, NM: Lea County Regional",3713,12.5016835016835
+"326","0600-0659","Hawaiian Airlines Inc.","Honolulu, HI: Honolulu International",1013,0.633125
+"327","0600-0659","United Air Lines Inc.","Honolulu, HI: Honolulu International",1015,4.33760683760684
+"328","0600-0659","Alaska Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston",1924,23.1807228915663
+"329","0600-0659","American Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston",2038,3.88931297709924
+"330","0600-0659","Delta Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston",1328,37.9428571428571
+"331","0600-0659","ExpressJet Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston",3121,13.9330357142857
+"332","0600-0659","Frontier Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston",4,1
+"333","0600-0659","SkyWest Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston",532,5.65957446808511
+"334","0600-0659","Spirit Air Lines","Houston, TX: George Bush Intercontinental/Houston",5485,8.17436661698957
+"335","0600-0659","United Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston",2528,9.32841328413284
+"336","0600-0659","American Airlines Inc.","Houston, TX: William P Hobby",108,2.51162790697674
+"337","0600-0659","Delta Air Lines Inc.","Houston, TX: William P Hobby",740,2.66187050359712
+"338","0600-0659","ExpressJet Airlines Inc.","Houston, TX: William P Hobby",263,3.09411764705882
+"339","0600-0659","Southwest Airlines Co.","Houston, TX: William P Hobby",5679,2.28991935483871
+"340","0600-0659","Delta Air Lines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field",2389,6.94476744186047
+"341","0600-0659","ExpressJet Airlines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field",5134,10.6958333333333
+"342","0600-0659","SkyWest Airlines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field",0,0
+"343","0600-0659","SkyWest Airlines Inc.","Idaho Falls, ID: Idaho Falls Regional",637,7
+"344","0600-0659","American Airlines Inc.","Indianapolis, IN: Indianapolis International",3006,5.70398481973435
+"345","0600-0659","Delta Air Lines Inc.","Indianapolis, IN: Indianapolis International",2606,4.96380952380952
+"346","0600-0659","ExpressJet Airlines Inc.","Indianapolis, IN: Indianapolis International",32,3.55555555555556
+"347","0600-0659","Frontier Airlines Inc.","Indianapolis, IN: Indianapolis International",1981,6.87847222222222
+"348","0600-0659","SkyWest Airlines Inc.","Indianapolis, IN: Indianapolis International",28,2.8
+"349","0600-0659","Southwest Airlines Co.","Indianapolis, IN: Indianapolis International",5075,2.94715447154472
+"350","0600-0659","United Air Lines Inc.","Indianapolis, IN: Indianapolis International",1234,11.6415094339623
+"351","0600-0659","SkyWest Airlines Inc.","International Falls, MN: Falls International Einarson Field",4865,20.0205761316872
+"352","0600-0659","SkyWest Airlines Inc.","Iron Mountain/Kingsfd, MI: Ford",3196,12.8353413654618
+"353","0600-0659","Southwest Airlines Co.","Islip, NY: Long Island MacArthur",3403,4.31305449936629
+"354","0600-0659","SkyWest Airlines Inc.","Ithaca/Cortland, NY: Ithaca Tompkins Regional",4720,13.7609329446064
+"355","0600-0659","Delta Air Lines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",951,3.89754098360656
+"356","0600-0659","ExpressJet Airlines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",1737,7.17768595041322
+"357","0600-0659","American Airlines Inc.","Jacksonville, FL: Jacksonville International",7505,11.4231354642314
+"358","0600-0659","Delta Air Lines Inc.","Jacksonville, FL: Jacksonville International",1353,3.8112676056338
+"359","0600-0659","ExpressJet Airlines Inc.","Jacksonville, FL: Jacksonville International",852,3.73684210526316
+"360","0600-0659","JetBlue Airways","Jacksonville, FL: Jacksonville International",904,2.12206572769953
+"361","0600-0659","SkyWest Airlines Inc.","Jacksonville, FL: Jacksonville International",411,8.74468085106383
+"362","0600-0659","Southwest Airlines Co.","Jacksonville, FL: Jacksonville International",863,1.85991379310345
+"363","0600-0659","United Air Lines Inc.","Jacksonville, FL: Jacksonville International",2034,16.672131147541
+"364","0600-0659","Delta Air Lines Inc.","Jacksonville/Camp Lejeune, NC: Albert J Ellis",0,0
+"365","0600-0659","ExpressJet Airlines Inc.","Jacksonville/Camp Lejeune, NC: Albert J Ellis",1874,10.6477272727273
+"366","0600-0659","SkyWest Airlines Inc.","Jamestown, ND: Jamestown Regional",5747,17.959375
+"367","0600-0659","ExpressJet Airlines Inc.","Joplin, MO: Joplin Regional",1406,6.60093896713615
+"368","0600-0659","Alaska Airlines Inc.","Juneau, AK: Juneau International",0,0
+"369","0600-0659","Delta Air Lines Inc.","Juneau, AK: Juneau International",1257,8.79020979020979
+"370","0600-0659","Hawaiian Airlines Inc.","Kahului, HI: Kahului Airport",263,0.5146771037182
+"371","0600-0659","ExpressJet Airlines Inc.","Kalamazoo, MI: Kalamazoo/Battle Creek International",3392,8.94986807387863
+"372","0600-0659","SkyWest Airlines Inc.","Kalamazoo, MI: Kalamazoo/Battle Creek International",681,34.05
+"373","0600-0659","Delta Air Lines Inc.","Kalispell, MT: Glacier Park International",358,4.26190476190476
+"374","0600-0659","SkyWest Airlines Inc.","Kalispell, MT: Glacier Park International",4507,7.77068965517241
+"375","0600-0659","Alaska Airlines Inc.","Kansas City, MO: Kansas City International",787,23.8484848484848
+"376","0600-0659","American Airlines Inc.","Kansas City, MO: Kansas City International",4864,9.35384615384615
+"377","0600-0659","Delta Air Lines Inc.","Kansas City, MO: Kansas City International",4728,5.81549815498155
+"378","0600-0659","ExpressJet Airlines Inc.","Kansas City, MO: Kansas City International",339,10.59375
+"379","0600-0659","SkyWest Airlines Inc.","Kansas City, MO: Kansas City International",3642,16.2589285714286
+"380","0600-0659","Southwest Airlines Co.","Kansas City, MO: Kansas City International",4171,2.44776995305164
+"381","0600-0659","Spirit Air Lines","Kansas City, MO: Kansas City International",2452,10.2166666666667
+"382","0600-0659","United Air Lines Inc.","Kansas City, MO: Kansas City International",1757,7.87892376681614
+"383","0600-0659","ExpressJet Airlines Inc.","Killeen, TX: Robert Gray AAF",1656,5.04878048780488
+"384","0600-0659","Delta Air Lines Inc.","Knoxville, TN: McGhee Tyson",11,1.1
+"385","0600-0659","ExpressJet Airlines Inc.","Knoxville, TN: McGhee Tyson",10263,9.42424242424242
+"386","0600-0659","Hawaiian Airlines Inc.","Kona, HI: Kona International Airport at Keahole",465,1.14532019704433
+"387","0600-0659","SkyWest Airlines Inc.","La Crosse, WI: La Crosse Regional",6,0.0645161290322581
+"388","0600-0659","Delta Air Lines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field",3628,11.8175895765472
+"389","0600-0659","ExpressJet Airlines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field",896,13.1764705882353
+"390","0600-0659","SkyWest Airlines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field",699,139.8
+"391","0600-0659","ExpressJet Airlines Inc.","Lake Charles, LA: Lake Charles Regional",1858,14.864
+"392","0600-0659","ExpressJet Airlines Inc.","Lansing, MI: Capital Region International",4785,12.1139240506329
+"393","0600-0659","SkyWest Airlines Inc.","Lansing, MI: Capital Region International",123,4.92
+"394","0600-0659","SkyWest Airlines Inc.","Laramie, WY: Laramie Regional",2700,7.71428571428571
+"395","0600-0659","ExpressJet Airlines Inc.","Laredo, TX: Laredo International",4180,9.35123042505593
+"396","0600-0659","Alaska Airlines Inc.","Las Vegas, NV: McCarran International",1815,2.64963503649635
+"397","0600-0659","American Airlines Inc.","Las Vegas, NV: McCarran International",4330,3.7008547008547
+"398","0600-0659","Delta Air Lines Inc.","Las Vegas, NV: McCarran International",8321,5.3408215661104
+"399","0600-0659","Frontier Airlines Inc.","Las Vegas, NV: McCarran International",2651,6.10829493087558
+"400","0600-0659","SkyWest Airlines Inc.","Las Vegas, NV: McCarran International",373,6.66071428571429
+"401","0600-0659","Southwest Airlines Co.","Las Vegas, NV: McCarran International",6617,2.0556073314694
+"402","0600-0659","United Air Lines Inc.","Las Vegas, NV: McCarran International",6312,3.85347985347985
+"403","0600-0659","Virgin America","Las Vegas, NV: McCarran International",195,6.29032258064516
+"404","0600-0659","SkyWest Airlines Inc.","Lewiston, ID: Lewiston Nez Perce County",4,0.5
+"405","0600-0659","Delta Air Lines Inc.","Lexington, KY: Blue Grass",426,4.4375
+"406","0600-0659","ExpressJet Airlines Inc.","Lexington, KY: Blue Grass",5376,9.61717352415027
+"407","0600-0659","SkyWest Airlines Inc.","Lexington, KY: Blue Grass",1341,20.0149253731343
+"408","0600-0659","Hawaiian Airlines Inc.","Lihue, HI: Lihue Airport",148,0.341013824884793
+"409","0600-0659","ExpressJet Airlines Inc.","Lincoln, NE: Lincoln Airport",1663,7.13733905579399
+"410","0600-0659","SkyWest Airlines Inc.","Lincoln, NE: Lincoln Airport",4349,10.1139534883721
+"411","0600-0659","Delta Air Lines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",1224,6.8
+"412","0600-0659","ExpressJet Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",5215,8.25158227848101
+"413","0600-0659","SkyWest Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",361,9.025
+"414","0600-0659","Southwest Airlines Co.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",761,2.47077922077922
+"415","0600-0659","ExpressJet Airlines Inc.","Longview, TX: East Texas Regional",795,19.875
+"416","0600-0659","Alaska Airlines Inc.","Los Angeles, CA: Los Angeles International",1086,1.78912685337727
+"417","0600-0659","American Airlines Inc.","Los Angeles, CA: Los Angeles International",12352,4.54619065145381
+"418","0600-0659","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International",15035,7.35927557513461
+"419","0600-0659","Frontier Airlines Inc.","Los Angeles, CA: Los Angeles International",201,201
+"420","0600-0659","JetBlue Airways","Los Angeles, CA: Los Angeles International",958,2.64640883977901
+"421","0600-0659","SkyWest Airlines Inc.","Los Angeles, CA: Los Angeles International",3621,9.09798994974874
+"422","0600-0659","Southwest Airlines Co.","Los Angeles, CA: Los Angeles International",3926,1.86596958174905
+"423","0600-0659","Spirit Air Lines","Los Angeles, CA: Los Angeles International",2786,3.12331838565022
+"424","0600-0659","United Air Lines Inc.","Los Angeles, CA: Los Angeles International",6791,3.55549738219895
+"425","0600-0659","Delta Air Lines Inc.","Louisville, KY: Louisville International-Standiford Field",417,3.15909090909091
+"426","0600-0659","ExpressJet Airlines Inc.","Louisville, KY: Louisville International-Standiford Field",2167,11.8415300546448
+"427","0600-0659","SkyWest Airlines Inc.","Louisville, KY: Louisville International-Standiford Field",1,0.142857142857143
+"428","0600-0659","Southwest Airlines Co.","Louisville, KY: Louisville International-Standiford Field",1159,2.5195652173913
+"429","0600-0659","United Air Lines Inc.","Louisville, KY: Louisville International-Standiford Field",13,6.5
+"430","0600-0659","ExpressJet Airlines Inc.","Lubbock, TX: Lubbock Preston Smith International",32,3.55555555555556
+"431","0600-0659","SkyWest Airlines Inc.","Lubbock, TX: Lubbock Preston Smith International",101,2.06122448979592
+"432","0600-0659","Southwest Airlines Co.","Lubbock, TX: Lubbock Preston Smith International",231,1.94117647058824
+"433","0600-0659","Delta Air Lines Inc.","Madison, WI: Dane County Regional-Truax Field",2847,6.16233766233766
+"434","0600-0659","ExpressJet Airlines Inc.","Madison, WI: Dane County Regional-Truax Field",1040,9.04347826086956
+"435","0600-0659","SkyWest Airlines Inc.","Madison, WI: Dane County Regional-Truax Field",71,3.73684210526316
+"436","0600-0659","United Air Lines Inc.","Madison, WI: Dane County Regional-Truax Field",67,11.1666666666667
+"437","0600-0659","Delta Air Lines Inc.","Manchester, NH: Manchester-Boston Regional",1797,7.1593625498008
+"438","0600-0659","ExpressJet Airlines Inc.","Manchester, NH: Manchester-Boston Regional",3049,8.68660968660969
+"439","0600-0659","Southwest Airlines Co.","Manchester, NH: Manchester-Boston Regional",900,1.82555780933063
+"440","0600-0659","SkyWest Airlines Inc.","Marquette, MI: Sawyer International",6451,27.5683760683761
+"441","0600-0659","SkyWest Airlines Inc.","Medford, OR: Rogue Valley International - Medford",2565,3.9340490797546
+"442","0600-0659","Delta Air Lines Inc.","Melbourne, FL: Melbourne International",672,2.78838174273859
+"443","0600-0659","American Airlines Inc.","Memphis, TN: Memphis International",2949,7.07194244604317
+"444","0600-0659","Delta Air Lines Inc.","Memphis, TN: Memphis International",4164,5.75933609958506
+"445","0600-0659","ExpressJet Airlines Inc.","Memphis, TN: Memphis International",806,7.46296296296296
+"446","0600-0659","SkyWest Airlines Inc.","Memphis, TN: Memphis International",2083,18.5982142857143
+"447","0600-0659","Southwest Airlines Co.","Memphis, TN: Memphis International",979,2.16592920353982
+"448","0600-0659","United Air Lines Inc.","Memphis, TN: Memphis International",277,10.2592592592593
+"449","0600-0659","American Airlines Inc.","Miami, FL: Miami International",14343,7.99052924791086
+"450","0600-0659","Delta Air Lines Inc.","Miami, FL: Miami International",2058,4.86524822695035
+"451","0600-0659","Frontier Airlines Inc.","Miami, FL: Miami International",699,10.921875
+"452","0600-0659","United Air Lines Inc.","Miami, FL: Miami International",4446,6.97959183673469
+"453","0600-0659","ExpressJet Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port",782,4.49425287356322
+"454","0600-0659","SkyWest Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port",1927,6.71428571428571
+"455","0600-0659","Southwest Airlines Co.","Midland/Odessa, TX: Midland International Air and Space Port",1150,2.35173824130879
+"456","0600-0659","American Airlines Inc.","Milwaukee, WI: General Mitchell International",2064,8.82051282051282
+"457","0600-0659","Delta Air Lines Inc.","Milwaukee, WI: General Mitchell International",2927,6.87089201877934
+"458","0600-0659","ExpressJet Airlines Inc.","Milwaukee, WI: General Mitchell International",470,3.50746268656716
+"459","0600-0659","Frontier Airlines Inc.","Milwaukee, WI: General Mitchell International",4967,17.9963768115942
+"460","0600-0659","SkyWest Airlines Inc.","Milwaukee, WI: General Mitchell International",11044,15.0258503401361
+"461","0600-0659","Southwest Airlines Co.","Milwaukee, WI: General Mitchell International",2717,1.54903078677309
+"462","0600-0659","Alaska Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International",552,3.53846153846154
+"463","0600-0659","American Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International",9664,7.78099838969404
+"464","0600-0659","Delta Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International",9891,4.79679922405432
+"465","0600-0659","Frontier Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International",638,6.44444444444444
+"466","0600-0659","SkyWest Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International",1667,5.97491039426523
+"467","0600-0659","Southwest Airlines Co.","Minneapolis, MN: Minneapolis-St Paul International",2899,2.57460035523979
+"468","0600-0659","Spirit Air Lines","Minneapolis, MN: Minneapolis-St Paul International",3644,6.94095238095238
+"469","0600-0659","United Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International",2497,6.06067961165049
+"470","0600-0659","ExpressJet Airlines Inc.","Minot, ND: Minot International",0,0
+"471","0600-0659","SkyWest Airlines Inc.","Minot, ND: Minot International",2700,6.42857142857143
+"472","0600-0659","American Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International",997,6.11656441717791
+"473","0600-0659","ExpressJet Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International",18,6
+"474","0600-0659","SkyWest Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International",0,0
+"475","0600-0659","United Air Lines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International",2146,6.5030303030303
+"476","0600-0659","Delta Air Lines Inc.","Missoula, MT: Missoula International",1803,10.3620689655172
+"477","0600-0659","SkyWest Airlines Inc.","Missoula, MT: Missoula International",3113,7.12356979405034
+"478","0600-0659","Delta Air Lines Inc.","Mobile, AL: Mobile Regional",1107,6.62874251497006
+"479","0600-0659","ExpressJet Airlines Inc.","Mobile, AL: Mobile Regional",4618,8.69679849340866
+"480","0600-0659","SkyWest Airlines Inc.","Mobile, AL: Mobile Regional",0,0
+"481","0600-0659","ExpressJet Airlines Inc.","Moline, IL: Quad City International",4254,15.8731343283582
+"482","0600-0659","SkyWest Airlines Inc.","Moline, IL: Quad City International",8191,19.4560570071259
+"483","0600-0659","ExpressJet Airlines Inc.","Monroe, LA: Monroe Regional",6536,9.12849162011173
+"484","0600-0659","SkyWest Airlines Inc.","Monterey, CA: Monterey Regional",3392,5.07025411061286
+"485","0600-0659","ExpressJet Airlines Inc.","Montgomery, AL: Montgomery Regional",3804,14.1940298507463
+"486","0600-0659","SkyWest Airlines Inc.","Montrose/Delta, CO: Montrose Regional",935,11
+"487","0600-0659","Delta Air Lines Inc.","Myrtle Beach, SC: Myrtle Beach International",1282,5.04724409448819
+"488","0600-0659","ExpressJet Airlines Inc.","Myrtle Beach, SC: Myrtle Beach International",3,0.214285714285714
+"489","0600-0659","American Airlines Inc.","Nashville, TN: Nashville International",7304,9.28081321473952
+"490","0600-0659","Delta Air Lines Inc.","Nashville, TN: Nashville International",3969,6.4747145187602
+"491","0600-0659","ExpressJet Airlines Inc.","Nashville, TN: Nashville International",1488,10.705035971223
+"492","0600-0659","SkyWest Airlines Inc.","Nashville, TN: Nashville International",12676,12.8429584599797
+"493","0600-0659","Southwest Airlines Co.","Nashville, TN: Nashville International",4660,2.60918253079507
+"494","0600-0659","United Air Lines Inc.","Nashville, TN: Nashville International",2587,9.44160583941606
+"495","0600-0659","ExpressJet Airlines Inc.","New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",489,5.09375
+"496","0600-0659","American Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International",6178,8.94066570188133
+"497","0600-0659","Delta Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International",3990,4.96268656716418
+"498","0600-0659","ExpressJet Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International",101,5.94117647058824
+"499","0600-0659","JetBlue Airways","New Orleans, LA: Louis Armstrong New Orleans International",1933,15.7154471544715
+"500","0600-0659","SkyWest Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International",480,8.88888888888889
+"501","0600-0659","Southwest Airlines Co.","New Orleans, LA: Louis Armstrong New Orleans International",2162,1.64285714285714
+"502","0600-0659","Spirit Air Lines","New Orleans, LA: Louis Armstrong New Orleans International",700,9.58904109589041
+"503","0600-0659","United Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International",6942,8.13833528722157
+"504","0600-0659","American Airlines Inc.","New York, NY: John F. Kennedy International",7941,5.43904109589041
+"505","0600-0659","Delta Air Lines Inc.","New York, NY: John F. Kennedy International",4203,5.97866287339972
+"506","0600-0659","JetBlue Airways","New York, NY: John F. Kennedy International",12352,4.75076923076923
+"507","0600-0659","American Airlines Inc.","New York, NY: LaGuardia",7242,3.22727272727273
+"508","0600-0659","Delta Air Lines Inc.","New York, NY: LaGuardia",6336,6.02854424357754
+"509","0600-0659","ExpressJet Airlines Inc.","New York, NY: LaGuardia",4108,18.4215246636771
+"510","0600-0659","JetBlue Airways","New York, NY: LaGuardia",2054,2.92176386913229
+"511","0600-0659","SkyWest Airlines Inc.","New York, NY: LaGuardia",22,7.33333333333333
+"512","0600-0659","Southwest Airlines Co.","New York, NY: LaGuardia",4876,3.65791447861965
+"513","0600-0659","Spirit Air Lines","New York, NY: LaGuardia",2075,5.79608938547486
+"514","0600-0659","United Air Lines Inc.","New York, NY: LaGuardia",2776,4.33073322932917
+"515","0600-0659","American Airlines Inc.","Newark, NJ: Newark Liberty International",6851,5.70441298917569
+"516","0600-0659","Delta Air Lines Inc.","Newark, NJ: Newark Liberty International",9848,15.6565977742448
+"517","0600-0659","ExpressJet Airlines Inc.","Newark, NJ: Newark Liberty International",8008,3.87984496124031
+"518","0600-0659","JetBlue Airways","Newark, NJ: Newark Liberty International",2147,2.78108808290155
+"519","0600-0659","SkyWest Airlines Inc.","Newark, NJ: Newark Liberty International",5,1.25
+"520","0600-0659","Southwest Airlines Co.","Newark, NJ: Newark Liberty International",2092,3.30489731437599
+"521","0600-0659","Spirit Air Lines","Newark, NJ: Newark Liberty International",492,8.0655737704918
+"522","0600-0659","United Air Lines Inc.","Newark, NJ: Newark Liberty International",29218,6.75560693641618
+"523","0600-0659","JetBlue Airways","Newburgh/Poughkeepsie, NY: Stewart International",1328,10.624
+"524","0600-0659","Delta Air Lines Inc.","Newport News/Williamsburg, VA: Newport News/Williamsburg International",247,2.07563025210084
+"525","0600-0659","ExpressJet Airlines Inc.","Newport News/Williamsburg, VA: Newport News/Williamsburg International",96,2.82352941176471
+"526","0600-0659","American Airlines Inc.","Norfolk, VA: Norfolk International",2591,11.5669642857143
+"527","0600-0659","Delta Air Lines Inc.","Norfolk, VA: Norfolk International",1220,7.67295597484277
+"528","0600-0659","ExpressJet Airlines Inc.","Norfolk, VA: Norfolk International",2811,6.13755458515284
+"529","0600-0659","SkyWest Airlines Inc.","Norfolk, VA: Norfolk International",5651,38.7054794520548
+"530","0600-0659","Southwest Airlines Co.","Norfolk, VA: Norfolk International",2306,5.15883668903803
+"531","0600-0659","United Air Lines Inc.","Norfolk, VA: Norfolk International",1321,14.5164835164835
+"532","0600-0659","Alaska Airlines Inc.","Oakland, CA: Metropolitan Oakland International",173,1.10191082802548
+"533","0600-0659","American Airlines Inc.","Oakland, CA: Metropolitan Oakland International",1099,3.02754820936639
+"534","0600-0659","Delta Air Lines Inc.","Oakland, CA: Metropolitan Oakland International",1944,4.71844660194175
+"535","0600-0659","JetBlue Airways","Oakland, CA: Metropolitan Oakland International",840,4.61538461538461
+"536","0600-0659","SkyWest Airlines Inc.","Oakland, CA: Metropolitan Oakland International",682,3.34313725490196
+"537","0600-0659","Southwest Airlines Co.","Oakland, CA: Metropolitan Oakland International",4375,1.57828282828283
+"538","0600-0659","Spirit Air Lines","Oakland, CA: Metropolitan Oakland International",1641,4.52066115702479
+"539","0600-0659","American Airlines Inc.","Oklahoma City, OK: Will Rogers World",393,4.2258064516129
+"540","0600-0659","Delta Air Lines Inc.","Oklahoma City, OK: Will Rogers World",567,1.91554054054054
+"541","0600-0659","ExpressJet Airlines Inc.","Oklahoma City, OK: Will Rogers World",816,7.09565217391304
+"542","0600-0659","SkyWest Airlines Inc.","Oklahoma City, OK: Will Rogers World",4387,10.6222760290557
+"543","0600-0659","Southwest Airlines Co.","Oklahoma City, OK: Will Rogers World",1383,1.45886075949367
+"544","0600-0659","United Air Lines Inc.","Oklahoma City, OK: Will Rogers World",1598,7.57345971563981
+"545","0600-0659","American Airlines Inc.","Omaha, NE: Eppley Airfield",2368,7.26380368098159
+"546","0600-0659","Delta Air Lines Inc.","Omaha, NE: Eppley Airfield",5164,8.2624
+"547","0600-0659","ExpressJet Airlines Inc.","Omaha, NE: Eppley Airfield",5502,15.6752136752137
+"548","0600-0659","SkyWest Airlines Inc.","Omaha, NE: Eppley Airfield",1146,5.50961538461539
+"549","0600-0659","Southwest Airlines Co.","Omaha, NE: Eppley Airfield",2134,2.6675
+"550","0600-0659","United Air Lines Inc.","Omaha, NE: Eppley Airfield",1676,5.72013651877133
+"551","0600-0659","Alaska Airlines Inc.","Ontario, CA: Ontario International",542,2.38766519823789
+"552","0600-0659","American Airlines Inc.","Ontario, CA: Ontario International",3766,5.58753709198813
+"553","0600-0659","Delta Air Lines Inc.","Ontario, CA: Ontario International",1217,4.47426470588235
+"554","0600-0659","SkyWest Airlines Inc.","Ontario, CA: Ontario International",1712,4.02823529411765
+"555","0600-0659","Southwest Airlines Co.","Ontario, CA: Ontario International",3022,2.44498381877023
+"556","0600-0659","American Airlines Inc.","Orlando, FL: Orlando International",9330,6.54736842105263
+"557","0600-0659","Delta Air Lines Inc.","Orlando, FL: Orlando International",3875,3.11495176848875
+"558","0600-0659","Frontier Airlines Inc.","Orlando, FL: Orlando International",2377,7.87086092715232
+"559","0600-0659","JetBlue Airways","Orlando, FL: Orlando International",7486,5.17346233586731
+"560","0600-0659","Southwest Airlines Co.","Orlando, FL: Orlando International",3562,1.92957746478873
+"561","0600-0659","Spirit Air Lines","Orlando, FL: Orlando International",6,0.115384615384615
+"562","0600-0659","United Air Lines Inc.","Orlando, FL: Orlando International",3247,3.28311425682508
+"563","0600-0659","SkyWest Airlines Inc.","Paducah, KY: Barkley Regional",3821,10.703081232493
+"564","0600-0659","Alaska Airlines Inc.","Palm Springs, CA: Palm Springs International",482,1.65068493150685
+"565","0600-0659","American Airlines Inc.","Palm Springs, CA: Palm Springs International",5781,19.0164473684211
+"566","0600-0659","SkyWest Airlines Inc.","Palm Springs, CA: Palm Springs International",7276,6.66911090742438
+"567","0600-0659","United Air Lines Inc.","Palm Springs, CA: Palm Springs International",727,6.73148148148148
+"568","0600-0659","Delta Air Lines Inc.","Panama City, FL: Northwest Florida Beaches International",1415,5.29962546816479
+"569","0600-0659","ExpressJet Airlines Inc.","Panama City, FL: Northwest Florida Beaches International",2887,8.36811594202899
+"570","0600-0659","Southwest Airlines Co.","Panama City, FL: Northwest Florida Beaches International",96,5.33333333333333
+"571","0600-0659","Delta Air Lines Inc.","Pasco/Kennewick/Richland, WA: Tri Cities",2030,8.18548387096774
+"572","0600-0659","SkyWest Airlines Inc.","Pasco/Kennewick/Richland, WA: Tri Cities",1558,5.07491856677524
+"573","0600-0659","SkyWest Airlines Inc.","Pellston, MI: Pellston Regional Airport of Emmet County",6063,17.3228571428571
+"574","0600-0659","Delta Air Lines Inc.","Pensacola, FL: Pensacola International",1300,9.28571428571429
+"575","0600-0659","ExpressJet Airlines Inc.","Pensacola, FL: Pensacola International",1646,5.87857142857143
+"576","0600-0659","SkyWest Airlines Inc.","Pensacola, FL: Pensacola International",722,9.5
+"577","0600-0659","Southwest Airlines Co.","Pensacola, FL: Pensacola International",2,0.4
+"578","0600-0659","ExpressJet Airlines Inc.","Peoria, IL: General Downing - Peoria International",1433,5.92148760330578
+"579","0600-0659","SkyWest Airlines Inc.","Peoria, IL: General Downing - Peoria International",3059,7.55308641975309
+"580","0600-0659","American Airlines Inc.","Philadelphia, PA: Philadelphia International",8687,5.23313253012048
+"581","0600-0659","Delta Air Lines Inc.","Philadelphia, PA: Philadelphia International",3462,6.73540856031128
+"582","0600-0659","Frontier Airlines Inc.","Philadelphia, PA: Philadelphia International",3524,13.1003717472119
+"583","0600-0659","JetBlue Airways","Philadelphia, PA: Philadelphia International",39,2.4375
+"584","0600-0659","SkyWest Airlines Inc.","Philadelphia, PA: Philadelphia International",13,1.625
+"585","0600-0659","Southwest Airlines Co.","Philadelphia, PA: Philadelphia International",2306,3.603125
+"586","0600-0659","Spirit Air Lines","Philadelphia, PA: Philadelphia International",4877,8.81916817359855
+"587","0600-0659","United Air Lines Inc.","Philadelphia, PA: Philadelphia International",6160,8.05228758169935
+"588","0600-0659","Alaska Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",195,0.609375
+"589","0600-0659","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",4243,4.78893905191874
+"590","0600-0659","Delta Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",4012,5.80607814761216
+"591","0600-0659","Frontier Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",1032,5.00970873786408
+"592","0600-0659","SkyWest Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",197,3.94
+"593","0600-0659","Southwest Airlines Co.","Phoenix, AZ: Phoenix Sky Harbor International",4680,1.81325067803177
+"594","0600-0659","United Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International",5051,5.35063559322034
+"595","0600-0659","American Airlines Inc.","Pittsburgh, PA: Pittsburgh International",4095,8.62105263157895
+"596","0600-0659","Delta Air Lines Inc.","Pittsburgh, PA: Pittsburgh International",4567,5.46291866028708
+"597","0600-0659","ExpressJet Airlines Inc.","Pittsburgh, PA: Pittsburgh International",366,61
+"598","0600-0659","JetBlue Airways","Pittsburgh, PA: Pittsburgh International",32,1.06666666666667
+"599","0600-0659","SkyWest Airlines Inc.","Pittsburgh, PA: Pittsburgh International",1935,52.2972972972973
+"600","0600-0659","Southwest Airlines Co.","Pittsburgh, PA: Pittsburgh International",1944,1.77534246575342
+"601","0600-0659","United Air Lines Inc.","Pittsburgh, PA: Pittsburgh International",527,6.93421052631579
+"602","0600-0659","SkyWest Airlines Inc.","Pocatello, ID: Pocatello Regional",439,7.31666666666667
+"603","0600-0659","JetBlue Airways","Ponce, PR: Mercedita",1228,9.98373983739837
+"604","0600-0659","Delta Air Lines Inc.","Portland, ME: Portland International Jetport",1993,8.23553719008265
+"605","0600-0659","ExpressJet Airlines Inc.","Portland, ME: Portland International Jetport",3353,12.1485507246377
+"606","0600-0659","Southwest Airlines Co.","Portland, ME: Portland International Jetport",601,6.6043956043956
+"607","0600-0659","United Air Lines Inc.","Portland, ME: Portland International Jetport",23,4.6
+"608","0600-0659","Alaska Airlines Inc.","Portland, OR: Portland International",2568,1.72696704774714
+"609","0600-0659","American Airlines Inc.","Portland, OR: Portland International",1768,10.4
+"610","0600-0659","Delta Air Lines Inc.","Portland, OR: Portland International",6193,3.60058139534884
+"611","0600-0659","Frontier Airlines Inc.","Portland, OR: Portland International",127,1.54878048780488
+"612","0600-0659","SkyWest Airlines Inc.","Portland, OR: Portland International",2732,4.34340222575517
+"613","0600-0659","Southwest Airlines Co.","Portland, OR: Portland International",4416,2.95187165775401
+"614","0600-0659","Spirit Air Lines","Portland, OR: Portland International",1906,18.504854368932
+"615","0600-0659","United Air Lines Inc.","Portland, OR: Portland International",3954,5.14174252275683
+"616","0600-0659","Virgin America","Portland, OR: Portland International",1116,3.38181818181818
+"617","0600-0659","American Airlines Inc.","Providence, RI: Theodore Francis Green State",1529,3.68433734939759
+"618","0600-0659","Delta Air Lines Inc.","Providence, RI: Theodore Francis Green State",2236,8.19047619047619
+"619","0600-0659","ExpressJet Airlines Inc.","Providence, RI: Theodore Francis Green State",1932,7.85365853658537
+"620","0600-0659","JetBlue Airways","Providence, RI: Theodore Francis Green State",29,0.852941176470588
+"621","0600-0659","SkyWest Airlines Inc.","Providence, RI: Theodore Francis Green State",1,0.04
+"622","0600-0659","Southwest Airlines Co.","Providence, RI: Theodore Francis Green State",2615,2.81485468245425
+"623","0600-0659","United Air Lines Inc.","Providence, RI: Theodore Francis Green State",138,138
+"624","0600-0659","American Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",5253,7.53658536585366
+"625","0600-0659","Delta Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",5381,5.92621145374449
+"626","0600-0659","ExpressJet Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",143,5.2962962962963
+"627","0600-0659","Frontier Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",1925,15.5241935483871
+"628","0600-0659","JetBlue Airways","Raleigh/Durham, NC: Raleigh-Durham International",698,2.64393939393939
+"629","0600-0659","SkyWest Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",1433,51.1785714285714
+"630","0600-0659","Southwest Airlines Co.","Raleigh/Durham, NC: Raleigh-Durham International",3188,2.8237378210806
+"631","0600-0659","United Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International",6943,7.44957081545064
+"632","0600-0659","Delta Air Lines Inc.","Rapid City, SD: Rapid City Regional",947,5.14673913043478
+"633","0600-0659","ExpressJet Airlines Inc.","Rapid City, SD: Rapid City Regional",305,8.97058823529412
+"634","0600-0659","SkyWest Airlines Inc.","Rapid City, SD: Rapid City Regional",1155,5.17937219730942
+"635","0600-0659","SkyWest Airlines Inc.","Redding, CA: Redding Municipal",1715,8.97905759162304
+"636","0600-0659","American Airlines Inc.","Reno, NV: Reno/Tahoe International",8196,11.6090651558074
+"637","0600-0659","Delta Air Lines Inc.","Reno, NV: Reno/Tahoe International",2724,7.46301369863014
+"638","0600-0659","SkyWest Airlines Inc.","Reno, NV: Reno/Tahoe International",1481,7.01895734597156
+"639","0600-0659","Southwest Airlines Co.","Reno, NV: Reno/Tahoe International",2595,3.41447368421053
+"640","0600-0659","United Air Lines Inc.","Reno, NV: Reno/Tahoe International",377,4.59756097560976
+"641","0600-0659","American Airlines Inc.","Richmond, VA: Richmond International",1091,4.58403361344538
+"642","0600-0659","Delta Air Lines Inc.","Richmond, VA: Richmond International",1137,5.21559633027523
+"643","0600-0659","ExpressJet Airlines Inc.","Richmond, VA: Richmond International",8389,8.64845360824742
+"644","0600-0659","JetBlue Airways","Richmond, VA: Richmond International",1659,6.9125
+"645","0600-0659","SkyWest Airlines Inc.","Richmond, VA: Richmond International",434,9.64444444444444
+"646","0600-0659","Southwest Airlines Co.","Richmond, VA: Richmond International",346,1.69607843137255
+"647","0600-0659","United Air Lines Inc.","Richmond, VA: Richmond International",224,28
+"648","0600-0659","Delta Air Lines Inc.","Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",891,7.74782608695652
+"649","0600-0659","ExpressJet Airlines Inc.","Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field",1074,6.75471698113208
+"650","0600-0659","ExpressJet Airlines Inc.","Rochester, MN: Rochester International",0,0
+"651","0600-0659","SkyWest Airlines Inc.","Rochester, MN: Rochester International",1148,6.75294117647059
+"652","0600-0659","Delta Air Lines Inc.","Rochester, NY: Greater Rochester International",4127,10.2661691542289
+"653","0600-0659","ExpressJet Airlines Inc.","Rochester, NY: Greater Rochester International",1220,6.28865979381443
+"654","0600-0659","SkyWest Airlines Inc.","Rochester, NY: Greater Rochester International",0,0
+"655","0600-0659","Southwest Airlines Co.","Rochester, NY: Greater Rochester International",451,1.64
+"656","0600-0659","United Air Lines Inc.","Rochester, NY: Greater Rochester International",1720,13.9837398373984
+"657","0600-0659","SkyWest Airlines Inc.","Rock Springs, WY: Rock Springs Sweetwater County",2119,6.17784256559767
+"658","0600-0659","Alaska Airlines Inc.","Sacramento, CA: Sacramento International",201,0.725631768953069
+"659","0600-0659","American Airlines Inc.","Sacramento, CA: Sacramento International",4372,6.9952
+"660","0600-0659","Delta Air Lines Inc.","Sacramento, CA: Sacramento International",5216,7.65932452276065
+"661","0600-0659","SkyWest Airlines Inc.","Sacramento, CA: Sacramento International",5053,12.3545232273839
+"662","0600-0659","Southwest Airlines Co.","Sacramento, CA: Sacramento International",3708,1.81943081452404
+"663","0600-0659","United Air Lines Inc.","Sacramento, CA: Sacramento International",3357,6.85102040816327
+"664","0600-0659","ExpressJet Airlines Inc.","Saginaw/Bay City/Midland, MI: MBS International",209,19
+"665","0600-0659","SkyWest Airlines Inc.","Saginaw/Bay City/Midland, MI: MBS International",520,13.6842105263158
+"666","0600-0659","Alaska Airlines Inc.","Salt Lake City, UT: Salt Lake City International",1826,2.49794801641587
+"667","0600-0659","American Airlines Inc.","Salt Lake City, UT: Salt Lake City International",3551,6.89514563106796
+"668","0600-0659","Delta Air Lines Inc.","Salt Lake City, UT: Salt Lake City International",902,3.56521739130435
+"669","0600-0659","Frontier Airlines Inc.","Salt Lake City, UT: Salt Lake City International",663,5.26190476190476
+"670","0600-0659","SkyWest Airlines Inc.","Salt Lake City, UT: Salt Lake City International",4051,4.85149700598802
+"671","0600-0659","Southwest Airlines Co.","Salt Lake City, UT: Salt Lake City International",864,1.27810650887574
+"672","0600-0659","United Air Lines Inc.","Salt Lake City, UT: Salt Lake City International",18,3.6
+"673","0600-0659","ExpressJet Airlines Inc.","San Angelo, TX: San Angelo Regional/Mathis Field",13,0.448275862068966
+"674","0600-0659","American Airlines Inc.","San Antonio, TX: San Antonio International",7296,8.90842490842491
+"675","0600-0659","Delta Air Lines Inc.","San Antonio, TX: San Antonio International",2017,4.90754257907543
+"676","0600-0659","ExpressJet Airlines Inc.","San Antonio, TX: San Antonio International",39,4.875
+"677","0600-0659","SkyWest Airlines Inc.","San Antonio, TX: San Antonio International",3078,9.07964601769912
+"678","0600-0659","Southwest Airlines Co.","San Antonio, TX: San Antonio International",3458,2.19974554707379
+"679","0600-0659","United Air Lines Inc.","San Antonio, TX: San Antonio International",2338,2.87576875768758
+"680","0600-0659","Alaska Airlines Inc.","San Diego, CA: San Diego International",677,0.954866008462623
+"681","0600-0659","American Airlines Inc.","San Diego, CA: San Diego International",6024,6.2360248447205
+"682","0600-0659","Delta Air Lines Inc.","San Diego, CA: San Diego International",8234,4.99635922330097
+"683","0600-0659","Frontier Airlines Inc.","San Diego, CA: San Diego International",3284,11.7285714285714
+"684","0600-0659","SkyWest Airlines Inc.","San Diego, CA: San Diego International",3824,5.49425287356322
+"685","0600-0659","Southwest Airlines Co.","San Diego, CA: San Diego International",6858,2.53530499075786
+"686","0600-0659","United Air Lines Inc.","San Diego, CA: San Diego International",5247,3.0347021399653
+"687","0600-0659","Alaska Airlines Inc.","San Francisco, CA: San Francisco International",2334,4.03806228373702
+"688","0600-0659","American Airlines Inc.","San Francisco, CA: San Francisco International",7298,4.77930582842174
+"689","0600-0659","Delta Air Lines Inc.","San Francisco, CA: San Francisco International",4146,2.42314436002338
+"690","0600-0659","Frontier Airlines Inc.","San Francisco, CA: San Francisco International",1807,6.5948905109489
+"691","0600-0659","JetBlue Airways","San Francisco, CA: San Francisco International",368,1.88717948717949
+"692","0600-0659","SkyWest Airlines Inc.","San Francisco, CA: San Francisco International",6569,6.57557557557558
+"693","0600-0659","Southwest Airlines Co.","San Francisco, CA: San Francisco International",3686,2.31387319522913
+"694","0600-0659","United Air Lines Inc.","San Francisco, CA: San Francisco International",16110,5.04699248120301
+"695","0600-0659","Virgin America","San Francisco, CA: San Francisco International",656,2.50381679389313
+"696","0600-0659","Alaska Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International",2277,4.02296819787986
+"697","0600-0659","American Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International",3189,4.25767690253672
+"698","0600-0659","Delta Air Lines Inc.","San Jose, CA: Norman Y. Mineta San Jose International",7682,7.83078491335372
+"699","0600-0659","SkyWest Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International",3041,15.6752577319588
+"700","0600-0659","Southwest Airlines Co.","San Jose, CA: Norman Y. Mineta San Jose International",5399,2.80905306971904
+"701","0600-0659","United Air Lines Inc.","San Jose, CA: Norman Y. Mineta San Jose International",417,3.53389830508475
+"702","0600-0659","American Airlines Inc.","San Juan, PR: Luis Munoz Marin International",1933,6.53040540540541
+"703","0600-0659","Delta Air Lines Inc.","San Juan, PR: Luis Munoz Marin International",0,0
+"704","0600-0659","JetBlue Airways","San Juan, PR: Luis Munoz Marin International",5284,8.76285240464345
+"705","0600-0659","Southwest Airlines Co.","San Juan, PR: Luis Munoz Marin International",953,1.74223034734918
+"706","0600-0659","United Air Lines Inc.","San Juan, PR: Luis Munoz Marin International",2669,13.479797979798
+"707","0600-0659","SkyWest Airlines Inc.","San Luis Obispo, CA: San Luis County Regional",4649,6.88740740740741
+"708","0600-0659","American Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County",2190,3.60790774299835
+"709","0600-0659","Delta Air Lines Inc.","Santa Ana, CA: John Wayne Airport-Orange County",2325,3.86212624584718
+"710","0600-0659","SkyWest Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County",2650,9.33098591549296
+"711","0600-0659","Southwest Airlines Co.","Santa Ana, CA: John Wayne Airport-Orange County",2451,2.64972972972973
+"712","0600-0659","United Air Lines Inc.","Santa Ana, CA: John Wayne Airport-Orange County",4019,4.87151515151515
+"713","0600-0659","SkyWest Airlines Inc.","Santa Barbara, CA: Santa Barbara Municipal",8293,9.76796230859835
+"714","0600-0659","ExpressJet Airlines Inc.","Santa Fe, NM: Santa Fe Municipal",5322,17.9191919191919
+"715","0600-0659","SkyWest Airlines Inc.","Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",2403,10.9227272727273
+"716","0600-0659","Delta Air Lines Inc.","Sarasota/Bradenton, FL: Sarasota/Bradenton International",1118,8.22058823529412
+"717","0600-0659","United Air Lines Inc.","Sarasota/Bradenton, FL: Sarasota/Bradenton International",0,0
+"718","0600-0659","SkyWest Airlines Inc.","Sault Ste. Marie, MI: Chippewa County International",1353,20.1940298507463
+"719","0600-0659","Delta Air Lines Inc.","Savannah, GA: Savannah/Hilton Head International",2173,6.06983240223464
+"720","0600-0659","ExpressJet Airlines Inc.","Savannah, GA: Savannah/Hilton Head International",7731,12.7154605263158
+"721","0600-0659","JetBlue Airways","Savannah, GA: Savannah/Hilton Head International",0,0
+"722","0600-0659","SkyWest Airlines Inc.","Savannah, GA: Savannah/Hilton Head International",183,6.31034482758621
+"723","0600-0659","Delta Air Lines Inc.","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",733,3.07983193277311
+"724","0600-0659","ExpressJet Airlines Inc.","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",1803,10.3028571428571
+"725","0600-0659","SkyWest Airlines Inc.","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",2176,16.8682170542636
+"726","0600-0659","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International",9842,2.10029876227059
+"727","0600-0659","American Airlines Inc.","Seattle, WA: Seattle/Tacoma International",3589,5.66982622432859
+"728","0600-0659","Delta Air Lines Inc.","Seattle, WA: Seattle/Tacoma International",4490,3.77946127946128
+"729","0600-0659","JetBlue Airways","Seattle, WA: Seattle/Tacoma International",618,8.46575342465753
+"730","0600-0659","SkyWest Airlines Inc.","Seattle, WA: Seattle/Tacoma International",230,20.9090909090909
+"731","0600-0659","Southwest Airlines Co.","Seattle, WA: Seattle/Tacoma International",4018,3.61981981981982
+"732","0600-0659","Spirit Air Lines","Seattle, WA: Seattle/Tacoma International",1104,4.27906976744186
+"733","0600-0659","United Air Lines Inc.","Seattle, WA: Seattle/Tacoma International",5503,6.58253588516746
+"734","0600-0659","ExpressJet Airlines Inc.","Shreveport, LA: Shreveport Regional",3630,7.42331288343558
+"735","0600-0659","Delta Air Lines Inc.","Sioux Falls, SD: Joe Foss Field",1635,5.54237288135593
+"736","0600-0659","ExpressJet Airlines Inc.","Sioux Falls, SD: Joe Foss Field",0,0
+"737","0600-0659","SkyWest Airlines Inc.","Sioux Falls, SD: Joe Foss Field",4148,18.6846846846847
+"738","0600-0659","United Air Lines Inc.","Sioux Falls, SD: Joe Foss Field",369,16.0434782608696
+"739","0600-0659","Alaska Airlines Inc.","Sitka, AK: Sitka Rocky Gutierrez",2310,7.04268292682927
+"740","0600-0659","SkyWest Airlines Inc.","Sitka, AK: Sitka Rocky Gutierrez",1958,19.0097087378641
+"741","0600-0659","ExpressJet Airlines Inc.","South Bend, IN: South Bend International",2675,8.00898203592814
+"742","0600-0659","SkyWest Airlines Inc.","South Bend, IN: South Bend International",7414,7.31163708086785
+"743","0600-0659","Alaska Airlines Inc.","Spokane, WA: Spokane International",1139,3.1120218579235
+"744","0600-0659","American Airlines Inc.","Spokane, WA: Spokane International",48,2.08695652173913
+"745","0600-0659","Delta Air Lines Inc.","Spokane, WA: Spokane International",1196,3.37853107344633
+"746","0600-0659","SkyWest Airlines Inc.","Spokane, WA: Spokane International",1136,11.0291262135922
+"747","0600-0659","Southwest Airlines Co.","Spokane, WA: Spokane International",1627,3.01296296296296
+"748","0600-0659","ExpressJet Airlines Inc.","Springfield, IL: Abraham Lincoln Capital",739,4.83006535947712
+"749","0600-0659","Delta Air Lines Inc.","Springfield, MO: Springfield-Branson National",2174,7.54861111111111
+"750","0600-0659","ExpressJet Airlines Inc.","Springfield, MO: Springfield-Branson National",46,0.807017543859649
+"751","0600-0659","SkyWest Airlines Inc.","Springfield, MO: Springfield-Branson National",591,6.79310344827586
+"752","0600-0659","SkyWest Airlines Inc.","St. George, UT: St George Regional",1436,4.05649717514124
+"753","0600-0659","Alaska Airlines Inc.","St. Louis, MO: Lambert-St. Louis International",455,12.2972972972973
+"754","0600-0659","American Airlines Inc.","St. Louis, MO: Lambert-St. Louis International",8925,6.11301369863014
+"755","0600-0659","Delta Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International",3342,5.27129337539432
+"756","0600-0659","ExpressJet Airlines Inc.","St. Louis, MO: Lambert-St. Louis International",1419,7.50793650793651
+"757","0600-0659","Frontier Airlines Inc.","St. Louis, MO: Lambert-St. Louis International",310,5.43859649122807
+"758","0600-0659","SkyWest Airlines Inc.","St. Louis, MO: Lambert-St. Louis International",234,3.49253731343284
+"759","0600-0659","Southwest Airlines Co.","St. Louis, MO: Lambert-St. Louis International",2492,1.76362349610757
+"760","0600-0659","United Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International",1208,26.8444444444444
+"761","0600-0659","ExpressJet Airlines Inc.","State College, PA: University Park",1606,13.4957983193277
+"762","0600-0659","SkyWest Airlines Inc.","State College, PA: University Park",243,7.83870967741935
+"763","0600-0659","SkyWest Airlines Inc.","Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",582,2.98461538461538
+"764","0600-0659","Delta Air Lines Inc.","Syracuse, NY: Syracuse Hancock International",3189,8.61891891891892
+"765","0600-0659","ExpressJet Airlines Inc.","Syracuse, NY: Syracuse Hancock International",2538,11.2300884955752
+"766","0600-0659","SkyWest Airlines Inc.","Syracuse, NY: Syracuse Hancock International",908,28.375
+"767","0600-0659","Delta Air Lines Inc.","Tallahassee, FL: Tallahassee International",1030,9.62616822429907
+"768","0600-0659","ExpressJet Airlines Inc.","Tallahassee, FL: Tallahassee International",956,6.08917197452229
+"769","0600-0659","American Airlines Inc.","Tampa, FL: Tampa International",1805,2.84700315457413
+"770","0600-0659","Delta Air Lines Inc.","Tampa, FL: Tampa International",2945,4.75767366720517
+"771","0600-0659","Frontier Airlines Inc.","Tampa, FL: Tampa International",593,10.5892857142857
+"772","0600-0659","JetBlue Airways","Tampa, FL: Tampa International",1179,2.53004291845494
+"773","0600-0659","Southwest Airlines Co.","Tampa, FL: Tampa International",2958,1.95247524752475
+"774","0600-0659","Spirit Air Lines","Tampa, FL: Tampa International",4,0.114285714285714
+"775","0600-0659","United Air Lines Inc.","Tampa, FL: Tampa International",2251,2.59331797235023
+"776","0600-0659","ExpressJet Airlines Inc.","Texarkana, AR: Texarkana Regional-Webb Field",1705,14.8260869565217
+"777","0600-0659","Delta Air Lines Inc.","Traverse City, MI: Cherry Capital",362,6.46428571428571
+"778","0600-0659","ExpressJet Airlines Inc.","Traverse City, MI: Cherry Capital",1830,9.58115183246073
+"779","0600-0659","SkyWest Airlines Inc.","Traverse City, MI: Cherry Capital",772,8.57777777777778
+"780","0600-0659","Frontier Airlines Inc.","Trenton, NJ: Trenton Mercer",5676,10.2454873646209
+"781","0600-0659","American Airlines Inc.","Tucson, AZ: Tucson International",1392,4.91872791519435
+"782","0600-0659","Delta Air Lines Inc.","Tucson, AZ: Tucson International",2061,8.11417322834646
+"783","0600-0659","ExpressJet Airlines Inc.","Tucson, AZ: Tucson International",23,1.91666666666667
+"784","0600-0659","SkyWest Airlines Inc.","Tucson, AZ: Tucson International",6043,8.93934911242603
+"785","0600-0659","Southwest Airlines Co.","Tucson, AZ: Tucson International",1244,1.71349862258953
+"786","0600-0659","American Airlines Inc.","Tulsa, OK: Tulsa International",1807,5.44277108433735
+"787","0600-0659","Delta Air Lines Inc.","Tulsa, OK: Tulsa International",1533,6.08333333333333
+"788","0600-0659","ExpressJet Airlines Inc.","Tulsa, OK: Tulsa International",3217,6.81567796610169
+"789","0600-0659","SkyWest Airlines Inc.","Tulsa, OK: Tulsa International",933,9.92553191489362
+"790","0600-0659","Southwest Airlines Co.","Tulsa, OK: Tulsa International",1098,1.41494845360825
+"791","0600-0659","United Air Lines Inc.","Tulsa, OK: Tulsa International",1722,8.65326633165829
+"792","0600-0659","SkyWest Airlines Inc.","Twin Falls, ID: Joslin Field - Magic Valley Regional",1632,4.5207756232687
+"793","0600-0659","ExpressJet Airlines Inc.","Tyler, TX: Tyler Pounds Regional",191,5.30555555555556
+"794","0600-0659","ExpressJet Airlines Inc.","Valdosta, GA: Valdosta Regional",396,11.6470588235294
+"795","0600-0659","Delta Air Lines Inc.","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",22,1.15789473684211
+"796","0600-0659","ExpressJet Airlines Inc.","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",2273,6.90881458966565
+"797","0600-0659","SkyWest Airlines Inc.","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",10,0.769230769230769
+"798","0600-0659","American Airlines Inc.","Washington, DC: Ronald Reagan Washington National",6105,3.12916453100974
+"799","0600-0659","Delta Air Lines Inc.","Washington, DC: Ronald Reagan Washington National",8359,5.28381795195954
+"800","0600-0659","ExpressJet Airlines Inc.","Washington, DC: Ronald Reagan Washington National",1631,11.8188405797101
+"801","0600-0659","JetBlue Airways","Washington, DC: Ronald Reagan Washington National",1200,1.74165457184325
+"802","0600-0659","SkyWest Airlines Inc.","Washington, DC: Ronald Reagan Washington National",84,2.4
+"803","0600-0659","Southwest Airlines Co.","Washington, DC: Ronald Reagan Washington National",4724,1.9924082665542
+"804","0600-0659","United Air Lines Inc.","Washington, DC: Ronald Reagan Washington National",1862,5.54166666666667
+"805","0600-0659","American Airlines Inc.","Washington, DC: Washington Dulles International",3880,10.6593406593407
+"806","0600-0659","Delta Air Lines Inc.","Washington, DC: Washington Dulles International",5206,11.2683982683983
+"807","0600-0659","ExpressJet Airlines Inc.","Washington, DC: Washington Dulles International",1124,11.9574468085106
+"808","0600-0659","Frontier Airlines Inc.","Washington, DC: Washington Dulles International",1419,18.6710526315789
+"809","0600-0659","JetBlue Airways","Washington, DC: Washington Dulles International",1558,4.48991354466859
+"810","0600-0659","SkyWest Airlines Inc.","Washington, DC: Washington Dulles International",68,1.21428571428571
+"811","0600-0659","Southwest Airlines Co.","Washington, DC: Washington Dulles International",440,3.60655737704918
+"812","0600-0659","United Air Lines Inc.","Washington, DC: Washington Dulles International",4813,6.20231958762887
+"813","0600-0659","American Airlines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International",2231,3.22865412445731
+"814","0600-0659","Delta Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International",1913,10.9314285714286
+"815","0600-0659","ExpressJet Airlines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International",0,0
+"816","0600-0659","Frontier Airlines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International",678,6.78
+"817","0600-0659","JetBlue Airways","West Palm Beach/Palm Beach, FL: Palm Beach International",1145,2.07427536231884
+"818","0600-0659","SkyWest Airlines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International",0,0
+"819","0600-0659","Southwest Airlines Co.","West Palm Beach/Palm Beach, FL: Palm Beach International",1169,3.73482428115016
+"820","0600-0659","United Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International",2018,5.29658792650919
+"821","0600-0659","ExpressJet Airlines Inc.","White Plains, NY: Westchester County",10817,14.7773224043716
+"822","0600-0659","JetBlue Airways","White Plains, NY: Westchester County",2065,5.70441988950276
+"823","0600-0659","Delta Air Lines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National",42,0.567567567567568
+"824","0600-0659","ExpressJet Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National",1939,11.0170454545455
+"825","0600-0659","SkyWest Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National",1248,3.42857142857143
+"826","0600-0659","Southwest Airlines Co.","Wichita, KS: Wichita Dwight D Eisenhower National",652,3.44973544973545
+"827","0600-0659","United Air Lines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National",527,11.7111111111111
+"828","0600-0659","SkyWest Airlines Inc.","Williston, ND: Sloulin Field International",4349,13.983922829582
+"829","0600-0659","American Airlines Inc.","Wilmington, NC: Wilmington International",468,3.29577464788732
+"830","0600-0659","Delta Air Lines Inc.","Wilmington, NC: Wilmington International",981,8.83783783783784
+"831","0600-0659","ExpressJet Airlines Inc.","Wilmington, NC: Wilmington International",3260,18.0110497237569
+"832","0600-0659","SkyWest Airlines Inc.","Wilmington, NC: Wilmington International",0,0
+"833","0600-0659","SkyWest Airlines Inc.","Yuma, AZ: Yuma MCAS/Yuma International",180,0.932642487046632

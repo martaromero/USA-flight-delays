@@ -1,0 +1,1827 @@
+"","TIME_BLOCK","NAME_AIRLINE","NAME_AIRPORT","FLIGHT_STATE","NFLIGHTS"
+"1","1900-1959","SkyWest Airlines Inc.","Aberdeen, SD: Aberdeen Regional","CANCELLED",1
+"2","1900-1959","ExpressJet Airlines Inc.","Akron, OH: Akron-Canton Regional","CANCELLED",10
+"3","1900-1959","American Airlines Inc.","Albany, NY: Albany International","CANCELLED",2
+"4","1900-1959","SkyWest Airlines Inc.","Albany, NY: Albany International","CANCELLED",1
+"5","1900-1959","Southwest Airlines Co.","Albany, NY: Albany International","CANCELLED",2
+"6","1900-1959","Southwest Airlines Co.","Albuquerque, NM: Albuquerque International Sunport","CANCELLED",4
+"7","1900-1959","ExpressJet Airlines Inc.","Alexandria, LA: Alexandria International","CANCELLED",8
+"8","1900-1959","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","CANCELLED",2
+"9","1900-1959","SkyWest Airlines Inc.","Arcata/Eureka, CA: Arcata","CANCELLED",4
+"10","1900-1959","ExpressJet Airlines Inc.","Asheville, NC: Asheville Regional","CANCELLED",4
+"11","1900-1959","SkyWest Airlines Inc.","Aspen, CO: Aspen Pitkin County Sardy Field","CANCELLED",1
+"12","1900-1959","American Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",7
+"13","1900-1959","Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",108
+"14","1900-1959","ExpressJet Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",24
+"15","1900-1959","Frontier Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",2
+"16","1900-1959","SkyWest Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",16
+"17","1900-1959","Southwest Airlines Co.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",30
+"18","1900-1959","Spirit Air Lines","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",11
+"19","1900-1959","United Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",2
+"20","1900-1959","Spirit Air Lines","Atlantic City, NJ: Atlantic City International","CANCELLED",3
+"21","1900-1959","ExpressJet Airlines Inc.","Augusta, GA: Augusta Regional at Bush Field","CANCELLED",5
+"22","1900-1959","American Airlines Inc.","Austin, TX: Austin - Bergstrom International","CANCELLED",3
+"23","1900-1959","Frontier Airlines Inc.","Austin, TX: Austin - Bergstrom International","CANCELLED",1
+"24","1900-1959","Southwest Airlines Co.","Austin, TX: Austin - Bergstrom International","CANCELLED",9
+"25","1900-1959","American Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","CANCELLED",5
+"26","1900-1959","Delta Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","CANCELLED",9
+"27","1900-1959","ExpressJet Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","CANCELLED",6
+"28","1900-1959","JetBlue Airways","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","CANCELLED",1
+"29","1900-1959","Southwest Airlines Co.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","CANCELLED",105
+"30","1900-1959","Spirit Air Lines","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","CANCELLED",14
+"31","1900-1959","Alaska Airlines Inc.","Barrow, AK: Wiley Post/Will Rogers Memorial","CANCELLED",5
+"32","1900-1959","ExpressJet Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field","CANCELLED",10
+"33","1900-1959","SkyWest Airlines Inc.","Bend/Redmond, OR: Roberts Field","CANCELLED",3
+"34","1900-1959","Delta Air Lines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International","CANCELLED",1
+"35","1900-1959","Southwest Airlines Co.","Birmingham, AL: Birmingham-Shuttlesworth International","CANCELLED",8
+"36","1900-1959","SkyWest Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal","CANCELLED",1
+"37","1900-1959","SkyWest Airlines Inc.","Boise, ID: Boise Air Terminal","CANCELLED",2
+"38","1900-1959","Southwest Airlines Co.","Boise, ID: Boise Air Terminal","CANCELLED",1
+"39","1900-1959","American Airlines Inc.","Boston, MA: Logan International","CANCELLED",33
+"40","1900-1959","Delta Air Lines Inc.","Boston, MA: Logan International","CANCELLED",10
+"41","1900-1959","ExpressJet Airlines Inc.","Boston, MA: Logan International","CANCELLED",17
+"42","1900-1959","JetBlue Airways","Boston, MA: Logan International","CANCELLED",22
+"43","1900-1959","SkyWest Airlines Inc.","Boston, MA: Logan International","CANCELLED",1
+"44","1900-1959","Southwest Airlines Co.","Boston, MA: Logan International","CANCELLED",8
+"45","1900-1959","Spirit Air Lines","Boston, MA: Logan International","CANCELLED",11
+"46","1900-1959","United Air Lines Inc.","Boston, MA: Logan International","CANCELLED",13
+"47","1900-1959","ExpressJet Airlines Inc.","Brownsville, TX: Brownsville South Padre Island International","CANCELLED",3
+"48","1900-1959","American Airlines Inc.","Buffalo, NY: Buffalo Niagara International","CANCELLED",1
+"49","1900-1959","Delta Air Lines Inc.","Buffalo, NY: Buffalo Niagara International","CANCELLED",3
+"50","1900-1959","ExpressJet Airlines Inc.","Buffalo, NY: Buffalo Niagara International","CANCELLED",13
+"51","1900-1959","JetBlue Airways","Buffalo, NY: Buffalo Niagara International","CANCELLED",5
+"52","1900-1959","Southwest Airlines Co.","Buffalo, NY: Buffalo Niagara International","CANCELLED",3
+"53","1900-1959","Southwest Airlines Co.","Burbank, CA: Bob Hope","CANCELLED",7
+"54","1900-1959","ExpressJet Airlines Inc.","Burlington, VT: Burlington International","CANCELLED",6
+"55","1900-1959","JetBlue Airways","Burlington, VT: Burlington International","CANCELLED",2
+"56","1900-1959","Delta Air Lines Inc.","Charleston, SC: Charleston AFB/International","CANCELLED",1
+"57","1900-1959","ExpressJet Airlines Inc.","Charleston, SC: Charleston AFB/International","CANCELLED",3
+"58","1900-1959","JetBlue Airways","Charleston, SC: Charleston AFB/International","CANCELLED",6
+"59","1900-1959","Southwest Airlines Co.","Charleston, SC: Charleston AFB/International","CANCELLED",8
+"60","1900-1959","ExpressJet Airlines Inc.","Charleston/Dunbar, WV: Yeager","CANCELLED",10
+"61","1900-1959","American Airlines Inc.","Charlotte, NC: Charlotte Douglas International","CANCELLED",32
+"62","1900-1959","Delta Air Lines Inc.","Charlotte, NC: Charlotte Douglas International","CANCELLED",2
+"63","1900-1959","ExpressJet Airlines Inc.","Charlotte, NC: Charlotte Douglas International","CANCELLED",2
+"64","1900-1959","JetBlue Airways","Charlotte, NC: Charlotte Douglas International","CANCELLED",14
+"65","1900-1959","SkyWest Airlines Inc.","Charlotte, NC: Charlotte Douglas International","CANCELLED",2
+"66","1900-1959","Southwest Airlines Co.","Charlotte, NC: Charlotte Douglas International","CANCELLED",3
+"67","1900-1959","ExpressJet Airlines Inc.","Chattanooga, TN: Lovell Field","CANCELLED",1
+"68","1900-1959","SkyWest Airlines Inc.","Chattanooga, TN: Lovell Field","CANCELLED",1
+"69","1900-1959","Delta Air Lines Inc.","Chicago, IL: Chicago Midway International","CANCELLED",3
+"70","1900-1959","Southwest Airlines Co.","Chicago, IL: Chicago Midway International","CANCELLED",149
+"71","1900-1959","Alaska Airlines Inc.","Chicago, IL: Chicago O'Hare International","CANCELLED",2
+"72","1900-1959","American Airlines Inc.","Chicago, IL: Chicago O'Hare International","CANCELLED",16
+"73","1900-1959","Delta Air Lines Inc.","Chicago, IL: Chicago O'Hare International","CANCELLED",4
+"74","1900-1959","ExpressJet Airlines Inc.","Chicago, IL: Chicago O'Hare International","CANCELLED",204
+"75","1900-1959","JetBlue Airways","Chicago, IL: Chicago O'Hare International","CANCELLED",1
+"76","1900-1959","SkyWest Airlines Inc.","Chicago, IL: Chicago O'Hare International","CANCELLED",121
+"77","1900-1959","Spirit Air Lines","Chicago, IL: Chicago O'Hare International","CANCELLED",27
+"78","1900-1959","United Air Lines Inc.","Chicago, IL: Chicago O'Hare International","CANCELLED",88
+"79","1900-1959","Virgin America","Chicago, IL: Chicago O'Hare International","CANCELLED",1
+"80","1900-1959","ExpressJet Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","CANCELLED",23
+"81","1900-1959","Frontier Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","CANCELLED",3
+"82","1900-1959","SkyWest Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","CANCELLED",3
+"83","1900-1959","American Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","CANCELLED",1
+"84","1900-1959","ExpressJet Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","CANCELLED",14
+"85","1900-1959","Frontier Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","CANCELLED",2
+"86","1900-1959","Southwest Airlines Co.","Cleveland, OH: Cleveland-Hopkins International","CANCELLED",6
+"87","1900-1959","Spirit Air Lines","Cleveland, OH: Cleveland-Hopkins International","CANCELLED",2
+"88","1900-1959","United Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International","CANCELLED",1
+"89","1900-1959","ExpressJet Airlines Inc.","College Station/Bryan, TX: Easterwood Field","CANCELLED",1
+"90","1900-1959","ExpressJet Airlines Inc.","Columbia, SC: Columbia Metropolitan","CANCELLED",2
+"91","1900-1959","American Airlines Inc.","Columbus, OH: Port Columbus International","CANCELLED",6
+"92","1900-1959","Delta Air Lines Inc.","Columbus, OH: Port Columbus International","CANCELLED",1
+"93","1900-1959","ExpressJet Airlines Inc.","Columbus, OH: Port Columbus International","CANCELLED",19
+"94","1900-1959","Southwest Airlines Co.","Columbus, OH: Port Columbus International","CANCELLED",4
+"95","1900-1959","ExpressJet Airlines Inc.","Corpus Christi, TX: Corpus Christi International","CANCELLED",10
+"96","1900-1959","Southwest Airlines Co.","Corpus Christi, TX: Corpus Christi International","CANCELLED",1
+"97","1900-1959","Southwest Airlines Co.","Dallas, TX: Dallas Love Field","CANCELLED",55
+"98","1900-1959","Virgin America","Dallas, TX: Dallas Love Field","CANCELLED",2
+"99","1900-1959","Alaska Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",4
+"100","1900-1959","American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",46
+"101","1900-1959","Delta Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",4
+"102","1900-1959","ExpressJet Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",6
+"103","1900-1959","Frontier Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",2
+"104","1900-1959","SkyWest Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",12
+"105","1900-1959","Spirit Air Lines","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",5
+"106","1900-1959","United Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",1
+"107","1900-1959","American Airlines Inc.","Dayton, OH: James M Cox/Dayton International","CANCELLED",2
+"108","1900-1959","Alaska Airlines Inc.","Denver, CO: Denver International","CANCELLED",1
+"109","1900-1959","American Airlines Inc.","Denver, CO: Denver International","CANCELLED",4
+"110","1900-1959","Frontier Airlines Inc.","Denver, CO: Denver International","CANCELLED",14
+"111","1900-1959","SkyWest Airlines Inc.","Denver, CO: Denver International","CANCELLED",119
+"112","1900-1959","Southwest Airlines Co.","Denver, CO: Denver International","CANCELLED",59
+"113","1900-1959","Spirit Air Lines","Denver, CO: Denver International","CANCELLED",2
+"114","1900-1959","United Air Lines Inc.","Denver, CO: Denver International","CANCELLED",51
+"115","1900-1959","SkyWest Airlines Inc.","Des Moines, IA: Des Moines International","CANCELLED",1
+"116","1900-1959","Southwest Airlines Co.","Des Moines, IA: Des Moines International","CANCELLED",1
+"117","1900-1959","American Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","CANCELLED",5
+"118","1900-1959","Delta Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County","CANCELLED",7
+"119","1900-1959","ExpressJet Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","CANCELLED",6
+"120","1900-1959","JetBlue Airways","Detroit, MI: Detroit Metro Wayne County","CANCELLED",1
+"121","1900-1959","SkyWest Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","CANCELLED",6
+"122","1900-1959","Southwest Airlines Co.","Detroit, MI: Detroit Metro Wayne County","CANCELLED",4
+"123","1900-1959","Spirit Air Lines","Detroit, MI: Detroit Metro Wayne County","CANCELLED",9
+"124","1900-1959","SkyWest Airlines Inc.","Duluth, MN: Duluth International","CANCELLED",1
+"125","1900-1959","ExpressJet Airlines Inc.","Durango, CO: Durango La Plata County","CANCELLED",1
+"126","1900-1959","American Airlines Inc.","Eagle, CO: Eagle County Regional","CANCELLED",3
+"127","1900-1959","Southwest Airlines Co.","El Paso, TX: El Paso International","CANCELLED",3
+"128","1900-1959","SkyWest Airlines Inc.","Eugene, OR: Mahlon Sweet Field","CANCELLED",2
+"129","1900-1959","SkyWest Airlines Inc.","Fargo, ND: Hector International","CANCELLED",2
+"130","1900-1959","ExpressJet Airlines Inc.","Fayetteville, NC: Fayetteville Regional/Grannis Field","CANCELLED",1
+"131","1900-1959","Southwest Airlines Co.","Flint, MI: Bishop International","CANCELLED",2
+"132","1900-1959","American Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","CANCELLED",10
+"133","1900-1959","Delta Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","CANCELLED",11
+"134","1900-1959","Frontier Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","CANCELLED",3
+"135","1900-1959","JetBlue Airways","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","CANCELLED",11
+"136","1900-1959","Southwest Airlines Co.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","CANCELLED",11
+"137","1900-1959","American Airlines Inc.","Fort Myers, FL: Southwest Florida International","CANCELLED",2
+"138","1900-1959","Delta Air Lines Inc.","Fort Myers, FL: Southwest Florida International","CANCELLED",3
+"139","1900-1959","JetBlue Airways","Fort Myers, FL: Southwest Florida International","CANCELLED",13
+"140","1900-1959","Southwest Airlines Co.","Fort Myers, FL: Southwest Florida International","CANCELLED",8
+"141","1900-1959","Spirit Air Lines","Fort Myers, FL: Southwest Florida International","CANCELLED",7
+"142","1900-1959","United Air Lines Inc.","Fort Myers, FL: Southwest Florida International","CANCELLED",1
+"143","1900-1959","ExpressJet Airlines Inc.","Gainesville, FL: Gainesville Regional","CANCELLED",3
+"144","1900-1959","SkyWest Airlines Inc.","Grand Forks, ND: Grand Forks International","CANCELLED",1
+"145","1900-1959","ExpressJet Airlines Inc.","Grand Rapids, MI: Gerald R. Ford International","CANCELLED",1
+"146","1900-1959","Southwest Airlines Co.","Grand Rapids, MI: Gerald R. Ford International","CANCELLED",4
+"147","1900-1959","SkyWest Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","CANCELLED",1
+"148","1900-1959","ExpressJet Airlines Inc.","Greensboro/High Point, NC: Piedmont Triad International","CANCELLED",14
+"149","1900-1959","Delta Air Lines Inc.","Greer, SC: Greenville-Spartanburg International","CANCELLED",2
+"150","1900-1959","ExpressJet Airlines Inc.","Greer, SC: Greenville-Spartanburg International","CANCELLED",18
+"151","1900-1959","Southwest Airlines Co.","Greer, SC: Greenville-Spartanburg International","CANCELLED",4
+"152","1900-1959","ExpressJet Airlines Inc.","Gulfport/Biloxi, MS: Gulfport-Biloxi International","CANCELLED",1
+"153","1900-1959","American Airlines Inc.","Hartford, CT: Bradley International","CANCELLED",2
+"154","1900-1959","Delta Air Lines Inc.","Hartford, CT: Bradley International","CANCELLED",1
+"155","1900-1959","JetBlue Airways","Hartford, CT: Bradley International","CANCELLED",5
+"156","1900-1959","Southwest Airlines Co.","Hartford, CT: Bradley International","CANCELLED",5
+"157","1900-1959","United Air Lines Inc.","Hartford, CT: Bradley International","CANCELLED",1
+"158","1900-1959","Hawaiian Airlines Inc.","Hilo, HI: Hilo International","CANCELLED",1
+"159","1900-1959","Hawaiian Airlines Inc.","Honolulu, HI: Honolulu International","CANCELLED",6
+"160","1900-1959","United Air Lines Inc.","Honolulu, HI: Honolulu International","CANCELLED",3
+"161","1900-1959","American Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","CANCELLED",7
+"162","1900-1959","ExpressJet Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","CANCELLED",113
+"163","1900-1959","Frontier Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","CANCELLED",2
+"164","1900-1959","SkyWest Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","CANCELLED",18
+"165","1900-1959","Spirit Air Lines","Houston, TX: George Bush Intercontinental/Houston","CANCELLED",5
+"166","1900-1959","United Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","CANCELLED",70
+"167","1900-1959","ExpressJet Airlines Inc.","Houston, TX: William P Hobby","CANCELLED",4
+"168","1900-1959","Southwest Airlines Co.","Houston, TX: William P Hobby","CANCELLED",31
+"169","1900-1959","ExpressJet Airlines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field","CANCELLED",1
+"170","1900-1959","American Airlines Inc.","Indianapolis, IN: Indianapolis International","CANCELLED",6
+"171","1900-1959","ExpressJet Airlines Inc.","Indianapolis, IN: Indianapolis International","CANCELLED",11
+"172","1900-1959","Frontier Airlines Inc.","Indianapolis, IN: Indianapolis International","CANCELLED",1
+"173","1900-1959","Southwest Airlines Co.","Indianapolis, IN: Indianapolis International","CANCELLED",9
+"174","1900-1959","Southwest Airlines Co.","Islip, NY: Long Island MacArthur","CANCELLED",3
+"175","1900-1959","Delta Air Lines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International","CANCELLED",3
+"176","1900-1959","ExpressJet Airlines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International","CANCELLED",4
+"177","1900-1959","American Airlines Inc.","Jacksonville, FL: Jacksonville International","CANCELLED",9
+"178","1900-1959","Delta Air Lines Inc.","Jacksonville, FL: Jacksonville International","CANCELLED",3
+"179","1900-1959","ExpressJet Airlines Inc.","Jacksonville, FL: Jacksonville International","CANCELLED",2
+"180","1900-1959","JetBlue Airways","Jacksonville, FL: Jacksonville International","CANCELLED",10
+"181","1900-1959","Southwest Airlines Co.","Jacksonville, FL: Jacksonville International","CANCELLED",12
+"182","1900-1959","Alaska Airlines Inc.","Juneau, AK: Juneau International","CANCELLED",2
+"183","1900-1959","Hawaiian Airlines Inc.","Kahului, HI: Kahului Airport","CANCELLED",2
+"184","1900-1959","American Airlines Inc.","Kansas City, MO: Kansas City International","CANCELLED",1
+"185","1900-1959","Delta Air Lines Inc.","Kansas City, MO: Kansas City International","CANCELLED",2
+"186","1900-1959","Frontier Airlines Inc.","Kansas City, MO: Kansas City International","CANCELLED",3
+"187","1900-1959","SkyWest Airlines Inc.","Kansas City, MO: Kansas City International","CANCELLED",3
+"188","1900-1959","Southwest Airlines Co.","Kansas City, MO: Kansas City International","CANCELLED",19
+"189","1900-1959","Spirit Air Lines","Kansas City, MO: Kansas City International","CANCELLED",3
+"190","1900-1959","ExpressJet Airlines Inc.","Killeen, TX: Robert Gray AAF","CANCELLED",1
+"191","1900-1959","ExpressJet Airlines Inc.","Knoxville, TN: McGhee Tyson","CANCELLED",13
+"192","1900-1959","United Air Lines Inc.","Kona, HI: Kona International Airport at Keahole","CANCELLED",2
+"193","1900-1959","Alaska Airlines Inc.","Kotzebue, AK: Ralph Wien Memorial","CANCELLED",7
+"194","1900-1959","ExpressJet Airlines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field","CANCELLED",11
+"195","1900-1959","ExpressJet Airlines Inc.","Lansing, MI: Capital Region International","CANCELLED",3
+"196","1900-1959","SkyWest Airlines Inc.","Lansing, MI: Capital Region International","CANCELLED",1
+"197","1900-1959","Alaska Airlines Inc.","Las Vegas, NV: McCarran International","CANCELLED",5
+"198","1900-1959","American Airlines Inc.","Las Vegas, NV: McCarran International","CANCELLED",3
+"199","1900-1959","Delta Air Lines Inc.","Las Vegas, NV: McCarran International","CANCELLED",1
+"200","1900-1959","JetBlue Airways","Las Vegas, NV: McCarran International","CANCELLED",3
+"201","1900-1959","Southwest Airlines Co.","Las Vegas, NV: McCarran International","CANCELLED",43
+"202","1900-1959","Spirit Air Lines","Las Vegas, NV: McCarran International","CANCELLED",4
+"203","1900-1959","United Air Lines Inc.","Las Vegas, NV: McCarran International","CANCELLED",3
+"204","1900-1959","Virgin America","Las Vegas, NV: McCarran International","CANCELLED",4
+"205","1900-1959","Spirit Air Lines","Latrobe, PA: Arnold Palmer Regional","CANCELLED",4
+"206","1900-1959","ExpressJet Airlines Inc.","Lexington, KY: Blue Grass","CANCELLED",4
+"207","1900-1959","ExpressJet Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","CANCELLED",1
+"208","1900-1959","Southwest Airlines Co.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","CANCELLED",1
+"209","1900-1959","American Airlines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",4
+"210","1900-1959","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",2
+"211","1900-1959","Frontier Airlines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",3
+"212","1900-1959","SkyWest Airlines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",22
+"213","1900-1959","Southwest Airlines Co.","Los Angeles, CA: Los Angeles International","CANCELLED",36
+"214","1900-1959","Spirit Air Lines","Los Angeles, CA: Los Angeles International","CANCELLED",22
+"215","1900-1959","United Air Lines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",7
+"216","1900-1959","Virgin America","Los Angeles, CA: Los Angeles International","CANCELLED",7
+"217","1900-1959","ExpressJet Airlines Inc.","Louisville, KY: Louisville International-Standiford Field","CANCELLED",1
+"218","1900-1959","Southwest Airlines Co.","Lubbock, TX: Lubbock Preston Smith International","CANCELLED",3
+"219","1900-1959","ExpressJet Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","CANCELLED",12
+"220","1900-1959","SkyWest Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","CANCELLED",9
+"221","1900-1959","Southwest Airlines Co.","Manchester, NH: Manchester-Boston Regional","CANCELLED",1
+"222","1900-1959","SkyWest Airlines Inc.","Medford, OR: Rogue Valley International - Medford","CANCELLED",6
+"223","1900-1959","ExpressJet Airlines Inc.","Melbourne, FL: Melbourne International","CANCELLED",2
+"224","1900-1959","American Airlines Inc.","Memphis, TN: Memphis International","CANCELLED",5
+"225","1900-1959","Delta Air Lines Inc.","Memphis, TN: Memphis International","CANCELLED",1
+"226","1900-1959","ExpressJet Airlines Inc.","Memphis, TN: Memphis International","CANCELLED",12
+"227","1900-1959","Southwest Airlines Co.","Memphis, TN: Memphis International","CANCELLED",3
+"228","1900-1959","American Airlines Inc.","Miami, FL: Miami International","CANCELLED",28
+"229","1900-1959","Delta Air Lines Inc.","Miami, FL: Miami International","CANCELLED",12
+"230","1900-1959","United Air Lines Inc.","Miami, FL: Miami International","CANCELLED",3
+"231","1900-1959","ExpressJet Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port","CANCELLED",4
+"232","1900-1959","SkyWest Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port","CANCELLED",3
+"233","1900-1959","Southwest Airlines Co.","Midland/Odessa, TX: Midland International Air and Space Port","CANCELLED",6
+"234","1900-1959","Delta Air Lines Inc.","Milwaukee, WI: General Mitchell International","CANCELLED",1
+"235","1900-1959","ExpressJet Airlines Inc.","Milwaukee, WI: General Mitchell International","CANCELLED",2
+"236","1900-1959","Frontier Airlines Inc.","Milwaukee, WI: General Mitchell International","CANCELLED",3
+"237","1900-1959","SkyWest Airlines Inc.","Milwaukee, WI: General Mitchell International","CANCELLED",28
+"238","1900-1959","Southwest Airlines Co.","Milwaukee, WI: General Mitchell International","CANCELLED",3
+"239","1900-1959","American Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","CANCELLED",8
+"240","1900-1959","Delta Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International","CANCELLED",26
+"241","1900-1959","ExpressJet Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","CANCELLED",18
+"242","1900-1959","Frontier Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","CANCELLED",4
+"243","1900-1959","SkyWest Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","CANCELLED",23
+"244","1900-1959","Southwest Airlines Co.","Minneapolis, MN: Minneapolis-St Paul International","CANCELLED",6
+"245","1900-1959","Spirit Air Lines","Minneapolis, MN: Minneapolis-St Paul International","CANCELLED",12
+"246","1900-1959","ExpressJet Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International","CANCELLED",2
+"247","1900-1959","SkyWest Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International","CANCELLED",3
+"248","1900-1959","ExpressJet Airlines Inc.","Mobile, AL: Mobile Regional","CANCELLED",7
+"249","1900-1959","SkyWest Airlines Inc.","Monterey, CA: Monterey Regional","CANCELLED",4
+"250","1900-1959","SkyWest Airlines Inc.","Muskegon, MI: Muskegon County","CANCELLED",1
+"251","1900-1959","ExpressJet Airlines Inc.","Myrtle Beach, SC: Myrtle Beach International","CANCELLED",3
+"252","1900-1959","American Airlines Inc.","Nashville, TN: Nashville International","CANCELLED",10
+"253","1900-1959","Delta Air Lines Inc.","Nashville, TN: Nashville International","CANCELLED",2
+"254","1900-1959","ExpressJet Airlines Inc.","Nashville, TN: Nashville International","CANCELLED",2
+"255","1900-1959","Frontier Airlines Inc.","Nashville, TN: Nashville International","CANCELLED",3
+"256","1900-1959","SkyWest Airlines Inc.","Nashville, TN: Nashville International","CANCELLED",1
+"257","1900-1959","Southwest Airlines Co.","Nashville, TN: Nashville International","CANCELLED",27
+"258","1900-1959","Delta Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","CANCELLED",2
+"259","1900-1959","Frontier Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","CANCELLED",3
+"260","1900-1959","Southwest Airlines Co.","New Orleans, LA: Louis Armstrong New Orleans International","CANCELLED",9
+"261","1900-1959","Spirit Air Lines","New Orleans, LA: Louis Armstrong New Orleans International","CANCELLED",16
+"262","1900-1959","United Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","CANCELLED",2
+"263","1900-1959","American Airlines Inc.","New York, NY: John F. Kennedy International","CANCELLED",26
+"264","1900-1959","Delta Air Lines Inc.","New York, NY: John F. Kennedy International","CANCELLED",36
+"265","1900-1959","JetBlue Airways","New York, NY: John F. Kennedy International","CANCELLED",30
+"266","1900-1959","American Airlines Inc.","New York, NY: LaGuardia","CANCELLED",64
+"267","1900-1959","Delta Air Lines Inc.","New York, NY: LaGuardia","CANCELLED",24
+"268","1900-1959","ExpressJet Airlines Inc.","New York, NY: LaGuardia","CANCELLED",39
+"269","1900-1959","JetBlue Airways","New York, NY: LaGuardia","CANCELLED",17
+"270","1900-1959","SkyWest Airlines Inc.","New York, NY: LaGuardia","CANCELLED",3
+"271","1900-1959","Southwest Airlines Co.","New York, NY: LaGuardia","CANCELLED",20
+"272","1900-1959","Spirit Air Lines","New York, NY: LaGuardia","CANCELLED",21
+"273","1900-1959","United Air Lines Inc.","New York, NY: LaGuardia","CANCELLED",5
+"274","1900-1959","Delta Air Lines Inc.","Newark, NJ: Newark Liberty International","CANCELLED",5
+"275","1900-1959","ExpressJet Airlines Inc.","Newark, NJ: Newark Liberty International","CANCELLED",191
+"276","1900-1959","United Air Lines Inc.","Newark, NJ: Newark Liberty International","CANCELLED",52
+"277","1900-1959","Alaska Airlines Inc.","Nome, AK: Nome Airport","CANCELLED",2
+"278","1900-1959","American Airlines Inc.","Norfolk, VA: Norfolk International","CANCELLED",1
+"279","1900-1959","Delta Air Lines Inc.","Norfolk, VA: Norfolk International","CANCELLED",2
+"280","1900-1959","ExpressJet Airlines Inc.","Norfolk, VA: Norfolk International","CANCELLED",16
+"281","1900-1959","Southwest Airlines Co.","Norfolk, VA: Norfolk International","CANCELLED",7
+"282","1900-1959","JetBlue Airways","Oakland, CA: Metropolitan Oakland International","CANCELLED",5
+"283","1900-1959","Southwest Airlines Co.","Oakland, CA: Metropolitan Oakland International","CANCELLED",34
+"284","1900-1959","SkyWest Airlines Inc.","Oklahoma City, OK: Will Rogers World","CANCELLED",1
+"285","1900-1959","Southwest Airlines Co.","Oklahoma City, OK: Will Rogers World","CANCELLED",12
+"286","1900-1959","ExpressJet Airlines Inc.","Omaha, NE: Eppley Airfield","CANCELLED",3
+"287","1900-1959","Frontier Airlines Inc.","Omaha, NE: Eppley Airfield","CANCELLED",1
+"288","1900-1959","SkyWest Airlines Inc.","Omaha, NE: Eppley Airfield","CANCELLED",1
+"289","1900-1959","Southwest Airlines Co.","Omaha, NE: Eppley Airfield","CANCELLED",9
+"290","1900-1959","American Airlines Inc.","Ontario, CA: Ontario International","CANCELLED",2
+"291","1900-1959","SkyWest Airlines Inc.","Ontario, CA: Ontario International","CANCELLED",11
+"292","1900-1959","Southwest Airlines Co.","Ontario, CA: Ontario International","CANCELLED",4
+"293","1900-1959","American Airlines Inc.","Orlando, FL: Orlando International","CANCELLED",20
+"294","1900-1959","Delta Air Lines Inc.","Orlando, FL: Orlando International","CANCELLED",7
+"295","1900-1959","Frontier Airlines Inc.","Orlando, FL: Orlando International","CANCELLED",2
+"296","1900-1959","JetBlue Airways","Orlando, FL: Orlando International","CANCELLED",13
+"297","1900-1959","Southwest Airlines Co.","Orlando, FL: Orlando International","CANCELLED",43
+"298","1900-1959","Spirit Air Lines","Orlando, FL: Orlando International","CANCELLED",4
+"299","1900-1959","United Air Lines Inc.","Orlando, FL: Orlando International","CANCELLED",15
+"300","1900-1959","Alaska Airlines Inc.","Palm Springs, CA: Palm Springs International","CANCELLED",1
+"301","1900-1959","Virgin America","Palm Springs, CA: Palm Springs International","CANCELLED",3
+"302","1900-1959","Southwest Airlines Co.","Panama City, FL: Northwest Florida Beaches International","CANCELLED",1
+"303","1900-1959","SkyWest Airlines Inc.","Pasco/Kennewick/Richland, WA: Tri Cities","CANCELLED",1
+"304","1900-1959","Delta Air Lines Inc.","Pensacola, FL: Pensacola International","CANCELLED",1
+"305","1900-1959","Southwest Airlines Co.","Pensacola, FL: Pensacola International","CANCELLED",2
+"306","1900-1959","ExpressJet Airlines Inc.","Peoria, IL: General Downing - Peoria International","CANCELLED",4
+"307","1900-1959","SkyWest Airlines Inc.","Peoria, IL: General Downing - Peoria International","CANCELLED",4
+"308","1900-1959","American Airlines Inc.","Philadelphia, PA: Philadelphia International","CANCELLED",7
+"309","1900-1959","Delta Air Lines Inc.","Philadelphia, PA: Philadelphia International","CANCELLED",2
+"310","1900-1959","Frontier Airlines Inc.","Philadelphia, PA: Philadelphia International","CANCELLED",2
+"311","1900-1959","Southwest Airlines Co.","Philadelphia, PA: Philadelphia International","CANCELLED",3
+"312","1900-1959","Spirit Air Lines","Philadelphia, PA: Philadelphia International","CANCELLED",10
+"313","1900-1959","Alaska Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",1
+"314","1900-1959","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",7
+"315","1900-1959","Frontier Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",6
+"316","1900-1959","SkyWest Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",12
+"317","1900-1959","Southwest Airlines Co.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",34
+"318","1900-1959","United Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",3
+"319","1900-1959","American Airlines Inc.","Pittsburgh, PA: Pittsburgh International","CANCELLED",2
+"320","1900-1959","Delta Air Lines Inc.","Pittsburgh, PA: Pittsburgh International","CANCELLED",1
+"321","1900-1959","ExpressJet Airlines Inc.","Pittsburgh, PA: Pittsburgh International","CANCELLED",4
+"322","1900-1959","JetBlue Airways","Pittsburgh, PA: Pittsburgh International","CANCELLED",1
+"323","1900-1959","SkyWest Airlines Inc.","Pittsburgh, PA: Pittsburgh International","CANCELLED",1
+"324","1900-1959","Southwest Airlines Co.","Pittsburgh, PA: Pittsburgh International","CANCELLED",3
+"325","1900-1959","United Air Lines Inc.","Pittsburgh, PA: Pittsburgh International","CANCELLED",1
+"326","1900-1959","ExpressJet Airlines Inc.","Portland, ME: Portland International Jetport","CANCELLED",17
+"327","1900-1959","JetBlue Airways","Portland, ME: Portland International Jetport","CANCELLED",11
+"328","1900-1959","Alaska Airlines Inc.","Portland, OR: Portland International","CANCELLED",2
+"329","1900-1959","Delta Air Lines Inc.","Portland, OR: Portland International","CANCELLED",1
+"330","1900-1959","Frontier Airlines Inc.","Portland, OR: Portland International","CANCELLED",3
+"331","1900-1959","SkyWest Airlines Inc.","Portland, OR: Portland International","CANCELLED",2
+"332","1900-1959","Southwest Airlines Co.","Portland, OR: Portland International","CANCELLED",4
+"333","1900-1959","Spirit Air Lines","Portland, OR: Portland International","CANCELLED",4
+"334","1900-1959","American Airlines Inc.","Providence, RI: Theodore Francis Green State","CANCELLED",2
+"335","1900-1959","Southwest Airlines Co.","Providence, RI: Theodore Francis Green State","CANCELLED",1
+"336","1900-1959","American Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","CANCELLED",10
+"337","1900-1959","Delta Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","CANCELLED",2
+"338","1900-1959","ExpressJet Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","CANCELLED",26
+"339","1900-1959","JetBlue Airways","Raleigh/Durham, NC: Raleigh-Durham International","CANCELLED",7
+"340","1900-1959","Southwest Airlines Co.","Raleigh/Durham, NC: Raleigh-Durham International","CANCELLED",15
+"341","1900-1959","United Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","CANCELLED",1
+"342","1900-1959","SkyWest Airlines Inc.","Rapid City, SD: Rapid City Regional","CANCELLED",1
+"343","1900-1959","SkyWest Airlines Inc.","Reno, NV: Reno/Tahoe International","CANCELLED",3
+"344","1900-1959","Southwest Airlines Co.","Reno, NV: Reno/Tahoe International","CANCELLED",2
+"345","1900-1959","American Airlines Inc.","Richmond, VA: Richmond International","CANCELLED",6
+"346","1900-1959","Delta Air Lines Inc.","Richmond, VA: Richmond International","CANCELLED",2
+"347","1900-1959","ExpressJet Airlines Inc.","Richmond, VA: Richmond International","CANCELLED",4
+"348","1900-1959","JetBlue Airways","Richmond, VA: Richmond International","CANCELLED",2
+"349","1900-1959","ExpressJet Airlines Inc.","Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field","CANCELLED",5
+"350","1900-1959","ExpressJet Airlines Inc.","Rochester, NY: Greater Rochester International","CANCELLED",15
+"351","1900-1959","JetBlue Airways","Rochester, NY: Greater Rochester International","CANCELLED",4
+"352","1900-1959","Alaska Airlines Inc.","Sacramento, CA: Sacramento International","CANCELLED",1
+"353","1900-1959","Delta Air Lines Inc.","Sacramento, CA: Sacramento International","CANCELLED",2
+"354","1900-1959","SkyWest Airlines Inc.","Sacramento, CA: Sacramento International","CANCELLED",3
+"355","1900-1959","Southwest Airlines Co.","Sacramento, CA: Sacramento International","CANCELLED",11
+"356","1900-1959","SkyWest Airlines Inc.","Saginaw/Bay City/Midland, MI: MBS International","CANCELLED",19
+"357","1900-1959","Frontier Airlines Inc.","Salt Lake City, UT: Salt Lake City International","CANCELLED",3
+"358","1900-1959","SkyWest Airlines Inc.","Salt Lake City, UT: Salt Lake City International","CANCELLED",2
+"359","1900-1959","Southwest Airlines Co.","Salt Lake City, UT: Salt Lake City International","CANCELLED",1
+"360","1900-1959","American Airlines Inc.","San Antonio, TX: San Antonio International","CANCELLED",7
+"361","1900-1959","Frontier Airlines Inc.","San Antonio, TX: San Antonio International","CANCELLED",1
+"362","1900-1959","SkyWest Airlines Inc.","San Antonio, TX: San Antonio International","CANCELLED",2
+"363","1900-1959","Southwest Airlines Co.","San Antonio, TX: San Antonio International","CANCELLED",11
+"364","1900-1959","United Air Lines Inc.","San Antonio, TX: San Antonio International","CANCELLED",4
+"365","1900-1959","Alaska Airlines Inc.","San Diego, CA: San Diego International","CANCELLED",1
+"366","1900-1959","American Airlines Inc.","San Diego, CA: San Diego International","CANCELLED",2
+"367","1900-1959","Frontier Airlines Inc.","San Diego, CA: San Diego International","CANCELLED",2
+"368","1900-1959","SkyWest Airlines Inc.","San Diego, CA: San Diego International","CANCELLED",6
+"369","1900-1959","Southwest Airlines Co.","San Diego, CA: San Diego International","CANCELLED",31
+"370","1900-1959","Spirit Air Lines","San Diego, CA: San Diego International","CANCELLED",4
+"371","1900-1959","United Air Lines Inc.","San Diego, CA: San Diego International","CANCELLED",1
+"372","1900-1959","Virgin America","San Diego, CA: San Diego International","CANCELLED",3
+"373","1900-1959","Alaska Airlines Inc.","San Francisco, CA: San Francisco International","CANCELLED",6
+"374","1900-1959","American Airlines Inc.","San Francisco, CA: San Francisco International","CANCELLED",2
+"375","1900-1959","Frontier Airlines Inc.","San Francisco, CA: San Francisco International","CANCELLED",1
+"376","1900-1959","JetBlue Airways","San Francisco, CA: San Francisco International","CANCELLED",1
+"377","1900-1959","SkyWest Airlines Inc.","San Francisco, CA: San Francisco International","CANCELLED",99
+"378","1900-1959","Southwest Airlines Co.","San Francisco, CA: San Francisco International","CANCELLED",15
+"379","1900-1959","United Air Lines Inc.","San Francisco, CA: San Francisco International","CANCELLED",16
+"380","1900-1959","Virgin America","San Francisco, CA: San Francisco International","CANCELLED",2
+"381","1900-1959","Southwest Airlines Co.","San Jose, CA: Norman Y. Mineta San Jose International","CANCELLED",24
+"382","1900-1959","American Airlines Inc.","San Juan, PR: Luis Munoz Marin International","CANCELLED",1
+"383","1900-1959","JetBlue Airways","San Juan, PR: Luis Munoz Marin International","CANCELLED",9
+"384","1900-1959","Southwest Airlines Co.","San Juan, PR: Luis Munoz Marin International","CANCELLED",2
+"385","1900-1959","SkyWest Airlines Inc.","San Luis Obispo, CA: San Luis County Regional","CANCELLED",4
+"386","1900-1959","Alaska Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","CANCELLED",1
+"387","1900-1959","American Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","CANCELLED",1
+"388","1900-1959","Frontier Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","CANCELLED",5
+"389","1900-1959","Southwest Airlines Co.","Santa Ana, CA: John Wayne Airport-Orange County","CANCELLED",9
+"390","1900-1959","SkyWest Airlines Inc.","Santa Barbara, CA: Santa Barbara Municipal","CANCELLED",2
+"391","1900-1959","Delta Air Lines Inc.","Savannah, GA: Savannah/Hilton Head International","CANCELLED",4
+"392","1900-1959","JetBlue Airways","Savannah, GA: Savannah/Hilton Head International","CANCELLED",1
+"393","1900-1959","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International","CANCELLED",5
+"394","1900-1959","Frontier Airlines Inc.","Seattle, WA: Seattle/Tacoma International","CANCELLED",2
+"395","1900-1959","Southwest Airlines Co.","Seattle, WA: Seattle/Tacoma International","CANCELLED",6
+"396","1900-1959","Virgin America","Seattle, WA: Seattle/Tacoma International","CANCELLED",1
+"397","1900-1959","SkyWest Airlines Inc.","Spokane, WA: Spokane International","CANCELLED",2
+"398","1900-1959","Southwest Airlines Co.","Spokane, WA: Spokane International","CANCELLED",3
+"399","1900-1959","American Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","CANCELLED",4
+"400","1900-1959","Delta Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International","CANCELLED",1
+"401","1900-1959","SkyWest Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","CANCELLED",3
+"402","1900-1959","Southwest Airlines Co.","St. Louis, MO: Lambert-St. Louis International","CANCELLED",33
+"403","1900-1959","ExpressJet Airlines Inc.","Syracuse, NY: Syracuse Hancock International","CANCELLED",12
+"404","1900-1959","JetBlue Airways","Syracuse, NY: Syracuse Hancock International","CANCELLED",1
+"405","1900-1959","ExpressJet Airlines Inc.","Tallahassee, FL: Tallahassee International","CANCELLED",2
+"406","1900-1959","American Airlines Inc.","Tampa, FL: Tampa International","CANCELLED",8
+"407","1900-1959","Delta Air Lines Inc.","Tampa, FL: Tampa International","CANCELLED",10
+"408","1900-1959","Frontier Airlines Inc.","Tampa, FL: Tampa International","CANCELLED",3
+"409","1900-1959","JetBlue Airways","Tampa, FL: Tampa International","CANCELLED",4
+"410","1900-1959","Southwest Airlines Co.","Tampa, FL: Tampa International","CANCELLED",21
+"411","1900-1959","Spirit Air Lines","Tampa, FL: Tampa International","CANCELLED",14
+"412","1900-1959","United Air Lines Inc.","Tampa, FL: Tampa International","CANCELLED",10
+"413","1900-1959","ExpressJet Airlines Inc.","Traverse City, MI: Cherry Capital","CANCELLED",1
+"414","1900-1959","SkyWest Airlines Inc.","Tucson, AZ: Tucson International","CANCELLED",1
+"415","1900-1959","Southwest Airlines Co.","Tucson, AZ: Tucson International","CANCELLED",5
+"416","1900-1959","Southwest Airlines Co.","Tulsa, OK: Tulsa International","CANCELLED",4
+"417","1900-1959","ExpressJet Airlines Inc.","Tyler, TX: Tyler Pounds Regional","CANCELLED",2
+"418","1900-1959","ExpressJet Airlines Inc.","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach","CANCELLED",8
+"419","1900-1959","American Airlines Inc.","Washington, DC: Ronald Reagan Washington National","CANCELLED",50
+"420","1900-1959","Delta Air Lines Inc.","Washington, DC: Ronald Reagan Washington National","CANCELLED",11
+"421","1900-1959","ExpressJet Airlines Inc.","Washington, DC: Ronald Reagan Washington National","CANCELLED",15
+"422","1900-1959","JetBlue Airways","Washington, DC: Ronald Reagan Washington National","CANCELLED",5
+"423","1900-1959","SkyWest Airlines Inc.","Washington, DC: Ronald Reagan Washington National","CANCELLED",5
+"424","1900-1959","Southwest Airlines Co.","Washington, DC: Ronald Reagan Washington National","CANCELLED",27
+"425","1900-1959","United Air Lines Inc.","Washington, DC: Ronald Reagan Washington National","CANCELLED",6
+"426","1900-1959","American Airlines Inc.","Washington, DC: Washington Dulles International","CANCELLED",1
+"427","1900-1959","Delta Air Lines Inc.","Washington, DC: Washington Dulles International","CANCELLED",3
+"428","1900-1959","Frontier Airlines Inc.","Washington, DC: Washington Dulles International","CANCELLED",3
+"429","1900-1959","Southwest Airlines Co.","Washington, DC: Washington Dulles International","CANCELLED",1
+"430","1900-1959","United Air Lines Inc.","Washington, DC: Washington Dulles International","CANCELLED",5
+"431","1900-1959","American Airlines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","CANCELLED",4
+"432","1900-1959","Delta Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","CANCELLED",5
+"433","1900-1959","JetBlue Airways","West Palm Beach/Palm Beach, FL: Palm Beach International","CANCELLED",11
+"434","1900-1959","Southwest Airlines Co.","West Palm Beach/Palm Beach, FL: Palm Beach International","CANCELLED",8
+"435","1900-1959","United Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","CANCELLED",6
+"436","1900-1959","ExpressJet Airlines Inc.","White Plains, NY: Westchester County","CANCELLED",2
+"437","1900-1959","ExpressJet Airlines Inc.","Akron, OH: Akron-Canton Regional","DELAYED",12
+"438","1900-1959","American Airlines Inc.","Albany, NY: Albany International","DELAYED",35
+"439","1900-1959","JetBlue Airways","Albany, NY: Albany International","DELAYED",41
+"440","1900-1959","SkyWest Airlines Inc.","Albany, NY: Albany International","DELAYED",14
+"441","1900-1959","Southwest Airlines Co.","Albany, NY: Albany International","DELAYED",17
+"442","1900-1959","Southwest Airlines Co.","Albuquerque, NM: Albuquerque International Sunport","DELAYED",151
+"443","1900-1959","ExpressJet Airlines Inc.","Alexandria, LA: Alexandria International","DELAYED",29
+"444","1900-1959","Southwest Airlines Co.","Amarillo, TX: Rick Husband Amarillo International","DELAYED",1
+"445","1900-1959","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",57
+"446","1900-1959","Delta Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",18
+"447","1900-1959","United Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",5
+"448","1900-1959","SkyWest Airlines Inc.","Appleton, WI: Appleton International","DELAYED",8
+"449","1900-1959","SkyWest Airlines Inc.","Arcata/Eureka, CA: Arcata","DELAYED",28
+"450","1900-1959","Delta Air Lines Inc.","Asheville, NC: Asheville Regional","DELAYED",2
+"451","1900-1959","ExpressJet Airlines Inc.","Asheville, NC: Asheville Regional","DELAYED",37
+"452","1900-1959","SkyWest Airlines Inc.","Aspen, CO: Aspen Pitkin County Sardy Field","DELAYED",7
+"453","1900-1959","American Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",203
+"454","1900-1959","Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",3712
+"455","1900-1959","ExpressJet Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",971
+"456","1900-1959","Frontier Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",19
+"457","1900-1959","SkyWest Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",179
+"458","1900-1959","Southwest Airlines Co.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",709
+"459","1900-1959","Spirit Air Lines","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",242
+"460","1900-1959","United Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",116
+"461","1900-1959","Spirit Air Lines","Atlantic City, NJ: Atlantic City International","DELAYED",26
+"462","1900-1959","Delta Air Lines Inc.","Augusta, GA: Augusta Regional at Bush Field","DELAYED",1
+"463","1900-1959","ExpressJet Airlines Inc.","Augusta, GA: Augusta Regional at Bush Field","DELAYED",50
+"464","1900-1959","American Airlines Inc.","Austin, TX: Austin - Bergstrom International","DELAYED",59
+"465","1900-1959","Delta Air Lines Inc.","Austin, TX: Austin - Bergstrom International","DELAYED",4
+"466","1900-1959","Frontier Airlines Inc.","Austin, TX: Austin - Bergstrom International","DELAYED",10
+"467","1900-1959","JetBlue Airways","Austin, TX: Austin - Bergstrom International","DELAYED",1
+"468","1900-1959","SkyWest Airlines Inc.","Austin, TX: Austin - Bergstrom International","DELAYED",36
+"469","1900-1959","Southwest Airlines Co.","Austin, TX: Austin - Bergstrom International","DELAYED",344
+"470","1900-1959","United Air Lines Inc.","Austin, TX: Austin - Bergstrom International","DELAYED",28
+"471","1900-1959","SkyWest Airlines Inc.","Bakersfield, CA: Meadows Field","DELAYED",2
+"472","1900-1959","American Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DELAYED",103
+"473","1900-1959","Delta Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DELAYED",159
+"474","1900-1959","ExpressJet Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DELAYED",6
+"475","1900-1959","JetBlue Airways","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DELAYED",51
+"476","1900-1959","SkyWest Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DELAYED",5
+"477","1900-1959","Southwest Airlines Co.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DELAYED",899
+"478","1900-1959","Spirit Air Lines","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DELAYED",117
+"479","1900-1959","United Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DELAYED",4
+"480","1900-1959","Alaska Airlines Inc.","Barrow, AK: Wiley Post/Will Rogers Memorial","DELAYED",9
+"481","1900-1959","ExpressJet Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field","DELAYED",60
+"482","1900-1959","SkyWest Airlines Inc.","Bend/Redmond, OR: Roberts Field","DELAYED",21
+"483","1900-1959","SkyWest Airlines Inc.","Billings, MT: Billings Logan International","DELAYED",5
+"484","1900-1959","Delta Air Lines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International","DELAYED",18
+"485","1900-1959","Southwest Airlines Co.","Birmingham, AL: Birmingham-Shuttlesworth International","DELAYED",101
+"486","1900-1959","SkyWest Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal","DELAYED",12
+"487","1900-1959","SkyWest Airlines Inc.","Boise, ID: Boise Air Terminal","DELAYED",57
+"488","1900-1959","Southwest Airlines Co.","Boise, ID: Boise Air Terminal","DELAYED",107
+"489","1900-1959","Alaska Airlines Inc.","Boston, MA: Logan International","DELAYED",3
+"490","1900-1959","American Airlines Inc.","Boston, MA: Logan International","DELAYED",344
+"491","1900-1959","Delta Air Lines Inc.","Boston, MA: Logan International","DELAYED",276
+"492","1900-1959","ExpressJet Airlines Inc.","Boston, MA: Logan International","DELAYED",121
+"493","1900-1959","JetBlue Airways","Boston, MA: Logan International","DELAYED",1049
+"494","1900-1959","SkyWest Airlines Inc.","Boston, MA: Logan International","DELAYED",5
+"495","1900-1959","Southwest Airlines Co.","Boston, MA: Logan International","DELAYED",142
+"496","1900-1959","Spirit Air Lines","Boston, MA: Logan International","DELAYED",116
+"497","1900-1959","United Air Lines Inc.","Boston, MA: Logan International","DELAYED",224
+"498","1900-1959","ExpressJet Airlines Inc.","Bristol/Johnson City/Kingsport, TN: Tri-Cities Regional TN/VA","DELAYED",7
+"499","1900-1959","ExpressJet Airlines Inc.","Brownsville, TX: Brownsville South Padre Island International","DELAYED",10
+"500","1900-1959","American Airlines Inc.","Buffalo, NY: Buffalo Niagara International","DELAYED",18
+"501","1900-1959","Delta Air Lines Inc.","Buffalo, NY: Buffalo Niagara International","DELAYED",34
+"502","1900-1959","ExpressJet Airlines Inc.","Buffalo, NY: Buffalo Niagara International","DELAYED",41
+"503","1900-1959","JetBlue Airways","Buffalo, NY: Buffalo Niagara International","DELAYED",63
+"504","1900-1959","Southwest Airlines Co.","Buffalo, NY: Buffalo Niagara International","DELAYED",17
+"505","1900-1959","SkyWest Airlines Inc.","Burbank, CA: Bob Hope","DELAYED",6
+"506","1900-1959","Southwest Airlines Co.","Burbank, CA: Bob Hope","DELAYED",229
+"507","1900-1959","ExpressJet Airlines Inc.","Burlington, VT: Burlington International","DELAYED",22
+"508","1900-1959","JetBlue Airways","Burlington, VT: Burlington International","DELAYED",17
+"509","1900-1959","Frontier Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa","DELAYED",30
+"510","1900-1959","SkyWest Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa","DELAYED",1
+"511","1900-1959","Delta Air Lines Inc.","Charleston, SC: Charleston AFB/International","DELAYED",14
+"512","1900-1959","ExpressJet Airlines Inc.","Charleston, SC: Charleston AFB/International","DELAYED",7
+"513","1900-1959","JetBlue Airways","Charleston, SC: Charleston AFB/International","DELAYED",47
+"514","1900-1959","Southwest Airlines Co.","Charleston, SC: Charleston AFB/International","DELAYED",65
+"515","1900-1959","ExpressJet Airlines Inc.","Charleston/Dunbar, WV: Yeager","DELAYED",50
+"516","1900-1959","JetBlue Airways","Charlotte Amalie, VI: Cyril E King","DELAYED",3
+"517","1900-1959","American Airlines Inc.","Charlotte, NC: Charlotte Douglas International","DELAYED",982
+"518","1900-1959","Delta Air Lines Inc.","Charlotte, NC: Charlotte Douglas International","DELAYED",70
+"519","1900-1959","ExpressJet Airlines Inc.","Charlotte, NC: Charlotte Douglas International","DELAYED",15
+"520","1900-1959","JetBlue Airways","Charlotte, NC: Charlotte Douglas International","DELAYED",83
+"521","1900-1959","SkyWest Airlines Inc.","Charlotte, NC: Charlotte Douglas International","DELAYED",26
+"522","1900-1959","Southwest Airlines Co.","Charlotte, NC: Charlotte Douglas International","DELAYED",115
+"523","1900-1959","United Air Lines Inc.","Charlotte, NC: Charlotte Douglas International","DELAYED",1
+"524","1900-1959","ExpressJet Airlines Inc.","Charlottesville, VA: Charlottesville Albemarle","DELAYED",2
+"525","1900-1959","Delta Air Lines Inc.","Chattanooga, TN: Lovell Field","DELAYED",1
+"526","1900-1959","ExpressJet Airlines Inc.","Chattanooga, TN: Lovell Field","DELAYED",37
+"527","1900-1959","SkyWest Airlines Inc.","Chattanooga, TN: Lovell Field","DELAYED",13
+"528","1900-1959","Delta Air Lines Inc.","Chicago, IL: Chicago Midway International","DELAYED",30
+"529","1900-1959","SkyWest Airlines Inc.","Chicago, IL: Chicago Midway International","DELAYED",7
+"530","1900-1959","Southwest Airlines Co.","Chicago, IL: Chicago Midway International","DELAYED",1640
+"531","1900-1959","Alaska Airlines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",74
+"532","1900-1959","American Airlines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",272
+"533","1900-1959","Delta Air Lines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",136
+"534","1900-1959","ExpressJet Airlines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",1010
+"535","1900-1959","Frontier Airlines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",68
+"536","1900-1959","JetBlue Airways","Chicago, IL: Chicago O'Hare International","DELAYED",51
+"537","1900-1959","SkyWest Airlines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",940
+"538","1900-1959","Spirit Air Lines","Chicago, IL: Chicago O'Hare International","DELAYED",294
+"539","1900-1959","United Air Lines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",2523
+"540","1900-1959","Virgin America","Chicago, IL: Chicago O'Hare International","DELAYED",17
+"541","1900-1959","Delta Air Lines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","DELAYED",23
+"542","1900-1959","ExpressJet Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","DELAYED",35
+"543","1900-1959","Frontier Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","DELAYED",8
+"544","1900-1959","SkyWest Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","DELAYED",27
+"545","1900-1959","American Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","DELAYED",39
+"546","1900-1959","Delta Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International","DELAYED",40
+"547","1900-1959","ExpressJet Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","DELAYED",110
+"548","1900-1959","Frontier Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","DELAYED",16
+"549","1900-1959","JetBlue Airways","Cleveland, OH: Cleveland-Hopkins International","DELAYED",69
+"550","1900-1959","Southwest Airlines Co.","Cleveland, OH: Cleveland-Hopkins International","DELAYED",72
+"551","1900-1959","Spirit Air Lines","Cleveland, OH: Cleveland-Hopkins International","DELAYED",68
+"552","1900-1959","United Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International","DELAYED",51
+"553","1900-1959","SkyWest Airlines Inc.","Cody, WY: Yellowstone Regional","DELAYED",1
+"554","1900-1959","ExpressJet Airlines Inc.","College Station/Bryan, TX: Easterwood Field","DELAYED",2
+"555","1900-1959","SkyWest Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal","DELAYED",1
+"556","1900-1959","Delta Air Lines Inc.","Columbia, SC: Columbia Metropolitan","DELAYED",11
+"557","1900-1959","ExpressJet Airlines Inc.","Columbia, SC: Columbia Metropolitan","DELAYED",50
+"558","1900-1959","American Airlines Inc.","Columbus, OH: Port Columbus International","DELAYED",41
+"559","1900-1959","Delta Air Lines Inc.","Columbus, OH: Port Columbus International","DELAYED",11
+"560","1900-1959","ExpressJet Airlines Inc.","Columbus, OH: Port Columbus International","DELAYED",72
+"561","1900-1959","SkyWest Airlines Inc.","Columbus, OH: Port Columbus International","DELAYED",9
+"562","1900-1959","Southwest Airlines Co.","Columbus, OH: Port Columbus International","DELAYED",117
+"563","1900-1959","ExpressJet Airlines Inc.","Corpus Christi, TX: Corpus Christi International","DELAYED",18
+"564","1900-1959","Southwest Airlines Co.","Corpus Christi, TX: Corpus Christi International","DELAYED",9
+"565","1900-1959","Southwest Airlines Co.","Dallas, TX: Dallas Love Field","DELAYED",1178
+"566","1900-1959","Virgin America","Dallas, TX: Dallas Love Field","DELAYED",87
+"567","1900-1959","Alaska Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",62
+"568","1900-1959","American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",1048
+"569","1900-1959","Delta Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",91
+"570","1900-1959","ExpressJet Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",92
+"571","1900-1959","Frontier Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",77
+"572","1900-1959","JetBlue Airways","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",8
+"573","1900-1959","SkyWest Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",172
+"574","1900-1959","Spirit Air Lines","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",59
+"575","1900-1959","United Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",108
+"576","1900-1959","American Airlines Inc.","Dayton, OH: James M Cox/Dayton International","DELAYED",19
+"577","1900-1959","ExpressJet Airlines Inc.","Dayton, OH: James M Cox/Dayton International","DELAYED",7
+"578","1900-1959","SkyWest Airlines Inc.","Dayton, OH: James M Cox/Dayton International","DELAYED",12
+"579","1900-1959","Southwest Airlines Co.","Dayton, OH: James M Cox/Dayton International","DELAYED",1
+"580","1900-1959","Alaska Airlines Inc.","Denver, CO: Denver International","DELAYED",54
+"581","1900-1959","American Airlines Inc.","Denver, CO: Denver International","DELAYED",79
+"582","1900-1959","Delta Air Lines Inc.","Denver, CO: Denver International","DELAYED",41
+"583","1900-1959","Frontier Airlines Inc.","Denver, CO: Denver International","DELAYED",325
+"584","1900-1959","SkyWest Airlines Inc.","Denver, CO: Denver International","DELAYED",1024
+"585","1900-1959","Southwest Airlines Co.","Denver, CO: Denver International","DELAYED",1078
+"586","1900-1959","Spirit Air Lines","Denver, CO: Denver International","DELAYED",8
+"587","1900-1959","United Air Lines Inc.","Denver, CO: Denver International","DELAYED",947
+"588","1900-1959","American Airlines Inc.","Des Moines, IA: Des Moines International","DELAYED",3
+"589","1900-1959","Frontier Airlines Inc.","Des Moines, IA: Des Moines International","DELAYED",46
+"590","1900-1959","SkyWest Airlines Inc.","Des Moines, IA: Des Moines International","DELAYED",32
+"591","1900-1959","Southwest Airlines Co.","Des Moines, IA: Des Moines International","DELAYED",14
+"592","1900-1959","American Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","DELAYED",115
+"593","1900-1959","Delta Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County","DELAYED",403
+"594","1900-1959","ExpressJet Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","DELAYED",127
+"595","1900-1959","Frontier Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","DELAYED",1
+"596","1900-1959","JetBlue Airways","Detroit, MI: Detroit Metro Wayne County","DELAYED",67
+"597","1900-1959","SkyWest Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","DELAYED",122
+"598","1900-1959","Southwest Airlines Co.","Detroit, MI: Detroit Metro Wayne County","DELAYED",109
+"599","1900-1959","Spirit Air Lines","Detroit, MI: Detroit Metro Wayne County","DELAYED",291
+"600","1900-1959","United Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County","DELAYED",1
+"601","1900-1959","SkyWest Airlines Inc.","Duluth, MN: Duluth International","DELAYED",2
+"602","1900-1959","SkyWest Airlines Inc.","Durango, CO: Durango La Plata County","DELAYED",10
+"603","1900-1959","American Airlines Inc.","Eagle, CO: Eagle County Regional","DELAYED",17
+"604","1900-1959","ExpressJet Airlines Inc.","El Paso, TX: El Paso International","DELAYED",1
+"605","1900-1959","Southwest Airlines Co.","El Paso, TX: El Paso International","DELAYED",97
+"606","1900-1959","SkyWest Airlines Inc.","Escanaba, MI: Delta County","DELAYED",1
+"607","1900-1959","SkyWest Airlines Inc.","Eugene, OR: Mahlon Sweet Field","DELAYED",19
+"608","1900-1959","Delta Air Lines Inc.","Fargo, ND: Hector International","DELAYED",7
+"609","1900-1959","SkyWest Airlines Inc.","Fargo, ND: Hector International","DELAYED",21
+"610","1900-1959","American Airlines Inc.","Fayetteville, AR: Northwest Arkansas Regional","DELAYED",1
+"611","1900-1959","ExpressJet Airlines Inc.","Fayetteville, NC: Fayetteville Regional/Grannis Field","DELAYED",21
+"612","1900-1959","Southwest Airlines Co.","Flint, MI: Bishop International","DELAYED",7
+"613","1900-1959","American Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",225
+"614","1900-1959","Delta Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",237
+"615","1900-1959","Frontier Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",5
+"616","1900-1959","JetBlue Airways","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",756
+"617","1900-1959","Southwest Airlines Co.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",376
+"618","1900-1959","Spirit Air Lines","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",19
+"619","1900-1959","United Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",23
+"620","1900-1959","Virgin America","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",1
+"621","1900-1959","American Airlines Inc.","Fort Myers, FL: Southwest Florida International","DELAYED",73
+"622","1900-1959","Delta Air Lines Inc.","Fort Myers, FL: Southwest Florida International","DELAYED",36
+"623","1900-1959","Frontier Airlines Inc.","Fort Myers, FL: Southwest Florida International","DELAYED",7
+"624","1900-1959","JetBlue Airways","Fort Myers, FL: Southwest Florida International","DELAYED",170
+"625","1900-1959","Southwest Airlines Co.","Fort Myers, FL: Southwest Florida International","DELAYED",188
+"626","1900-1959","Spirit Air Lines","Fort Myers, FL: Southwest Florida International","DELAYED",32
+"627","1900-1959","United Air Lines Inc.","Fort Myers, FL: Southwest Florida International","DELAYED",21
+"628","1900-1959","SkyWest Airlines Inc.","Fort Wayne, IN: Fort Wayne International","DELAYED",1
+"629","1900-1959","ExpressJet Airlines Inc.","Gainesville, FL: Gainesville Regional","DELAYED",57
+"630","1900-1959","SkyWest Airlines Inc.","Gillette, WY: Gillette Campbell County","DELAYED",4
+"631","1900-1959","SkyWest Airlines Inc.","Grand Forks, ND: Grand Forks International","DELAYED",5
+"632","1900-1959","Delta Air Lines Inc.","Grand Rapids, MI: Gerald R. Ford International","DELAYED",10
+"633","1900-1959","ExpressJet Airlines Inc.","Grand Rapids, MI: Gerald R. Ford International","DELAYED",1
+"634","1900-1959","SkyWest Airlines Inc.","Grand Rapids, MI: Gerald R. Ford International","DELAYED",4
+"635","1900-1959","Southwest Airlines Co.","Grand Rapids, MI: Gerald R. Ford International","DELAYED",20
+"636","1900-1959","ExpressJet Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","DELAYED",3
+"637","1900-1959","SkyWest Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","DELAYED",15
+"638","1900-1959","Delta Air Lines Inc.","Greensboro/High Point, NC: Piedmont Triad International","DELAYED",5
+"639","1900-1959","ExpressJet Airlines Inc.","Greensboro/High Point, NC: Piedmont Triad International","DELAYED",76
+"640","1900-1959","Delta Air Lines Inc.","Greer, SC: Greenville-Spartanburg International","DELAYED",10
+"641","1900-1959","ExpressJet Airlines Inc.","Greer, SC: Greenville-Spartanburg International","DELAYED",64
+"642","1900-1959","Southwest Airlines Co.","Greer, SC: Greenville-Spartanburg International","DELAYED",20
+"643","1900-1959","ExpressJet Airlines Inc.","Gulfport/Biloxi, MS: Gulfport-Biloxi International","DELAYED",2
+"644","1900-1959","Southwest Airlines Co.","Harlingen/San Benito, TX: Valley International","DELAYED",13
+"645","1900-1959","American Airlines Inc.","Hartford, CT: Bradley International","DELAYED",42
+"646","1900-1959","Delta Air Lines Inc.","Hartford, CT: Bradley International","DELAYED",23
+"647","1900-1959","JetBlue Airways","Hartford, CT: Bradley International","DELAYED",85
+"648","1900-1959","SkyWest Airlines Inc.","Hartford, CT: Bradley International","DELAYED",4
+"649","1900-1959","Southwest Airlines Co.","Hartford, CT: Bradley International","DELAYED",37
+"650","1900-1959","United Air Lines Inc.","Hartford, CT: Bradley International","DELAYED",31
+"651","1900-1959","Hawaiian Airlines Inc.","Hilo, HI: Hilo International","DELAYED",53
+"652","1900-1959","Hawaiian Airlines Inc.","Honolulu, HI: Honolulu International","DELAYED",157
+"653","1900-1959","United Air Lines Inc.","Honolulu, HI: Honolulu International","DELAYED",31
+"654","1900-1959","American Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",43
+"655","1900-1959","Delta Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",37
+"656","1900-1959","ExpressJet Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",822
+"657","1900-1959","Frontier Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",20
+"658","1900-1959","SkyWest Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",197
+"659","1900-1959","Spirit Air Lines","Houston, TX: George Bush Intercontinental/Houston","DELAYED",121
+"660","1900-1959","United Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",1471
+"661","1900-1959","ExpressJet Airlines Inc.","Houston, TX: William P Hobby","DELAYED",24
+"662","1900-1959","Southwest Airlines Co.","Houston, TX: William P Hobby","DELAYED",648
+"663","1900-1959","ExpressJet Airlines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field","DELAYED",3
+"664","1900-1959","American Airlines Inc.","Indianapolis, IN: Indianapolis International","DELAYED",85
+"665","1900-1959","Delta Air Lines Inc.","Indianapolis, IN: Indianapolis International","DELAYED",19
+"666","1900-1959","ExpressJet Airlines Inc.","Indianapolis, IN: Indianapolis International","DELAYED",54
+"667","1900-1959","Frontier Airlines Inc.","Indianapolis, IN: Indianapolis International","DELAYED",21
+"668","1900-1959","SkyWest Airlines Inc.","Indianapolis, IN: Indianapolis International","DELAYED",3
+"669","1900-1959","Southwest Airlines Co.","Indianapolis, IN: Indianapolis International","DELAYED",145
+"670","1900-1959","United Air Lines Inc.","Indianapolis, IN: Indianapolis International","DELAYED",16
+"671","1900-1959","Southwest Airlines Co.","Islip, NY: Long Island MacArthur","DELAYED",20
+"672","1900-1959","Delta Air Lines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International","DELAYED",12
+"673","1900-1959","ExpressJet Airlines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International","DELAYED",17
+"674","1900-1959","American Airlines Inc.","Jacksonville, FL: Jacksonville International","DELAYED",90
+"675","1900-1959","Delta Air Lines Inc.","Jacksonville, FL: Jacksonville International","DELAYED",33
+"676","1900-1959","ExpressJet Airlines Inc.","Jacksonville, FL: Jacksonville International","DELAYED",9
+"677","1900-1959","JetBlue Airways","Jacksonville, FL: Jacksonville International","DELAYED",146
+"678","1900-1959","Southwest Airlines Co.","Jacksonville, FL: Jacksonville International","DELAYED",113
+"679","1900-1959","United Air Lines Inc.","Jacksonville, FL: Jacksonville International","DELAYED",10
+"680","1900-1959","Alaska Airlines Inc.","Juneau, AK: Juneau International","DELAYED",25
+"681","1900-1959","Hawaiian Airlines Inc.","Kahului, HI: Kahului Airport","DELAYED",23
+"682","1900-1959","United Air Lines Inc.","Kahului, HI: Kahului Airport","DELAYED",1
+"683","1900-1959","ExpressJet Airlines Inc.","Kalamazoo, MI: Kalamazoo/Battle Creek International","DELAYED",1
+"684","1900-1959","American Airlines Inc.","Kansas City, MO: Kansas City International","DELAYED",18
+"685","1900-1959","Delta Air Lines Inc.","Kansas City, MO: Kansas City International","DELAYED",51
+"686","1900-1959","ExpressJet Airlines Inc.","Kansas City, MO: Kansas City International","DELAYED",2
+"687","1900-1959","Frontier Airlines Inc.","Kansas City, MO: Kansas City International","DELAYED",48
+"688","1900-1959","SkyWest Airlines Inc.","Kansas City, MO: Kansas City International","DELAYED",46
+"689","1900-1959","Southwest Airlines Co.","Kansas City, MO: Kansas City International","DELAYED",397
+"690","1900-1959","Spirit Air Lines","Kansas City, MO: Kansas City International","DELAYED",34
+"691","1900-1959","ExpressJet Airlines Inc.","Killeen, TX: Robert Gray AAF","DELAYED",2
+"692","1900-1959","Delta Air Lines Inc.","Knoxville, TN: McGhee Tyson","DELAYED",12
+"693","1900-1959","ExpressJet Airlines Inc.","Knoxville, TN: McGhee Tyson","DELAYED",80
+"694","1900-1959","Hawaiian Airlines Inc.","Kona, HI: Kona International Airport at Keahole","DELAYED",24
+"695","1900-1959","United Air Lines Inc.","Kona, HI: Kona International Airport at Keahole","DELAYED",2
+"696","1900-1959","Alaska Airlines Inc.","Kotzebue, AK: Ralph Wien Memorial","DELAYED",37
+"697","1900-1959","ExpressJet Airlines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field","DELAYED",24
+"698","1900-1959","ExpressJet Airlines Inc.","Lansing, MI: Capital Region International","DELAYED",12
+"699","1900-1959","SkyWest Airlines Inc.","Lansing, MI: Capital Region International","DELAYED",7
+"700","1900-1959","Alaska Airlines Inc.","Las Vegas, NV: McCarran International","DELAYED",107
+"701","1900-1959","American Airlines Inc.","Las Vegas, NV: McCarran International","DELAYED",150
+"702","1900-1959","Delta Air Lines Inc.","Las Vegas, NV: McCarran International","DELAYED",4
+"703","1900-1959","Frontier Airlines Inc.","Las Vegas, NV: McCarran International","DELAYED",37
+"704","1900-1959","JetBlue Airways","Las Vegas, NV: McCarran International","DELAYED",113
+"705","1900-1959","SkyWest Airlines Inc.","Las Vegas, NV: McCarran International","DELAYED",7
+"706","1900-1959","Southwest Airlines Co.","Las Vegas, NV: McCarran International","DELAYED",1234
+"707","1900-1959","Spirit Air Lines","Las Vegas, NV: McCarran International","DELAYED",92
+"708","1900-1959","United Air Lines Inc.","Las Vegas, NV: McCarran International","DELAYED",134
+"709","1900-1959","Virgin America","Las Vegas, NV: McCarran International","DELAYED",89
+"710","1900-1959","Spirit Air Lines","Latrobe, PA: Arnold Palmer Regional","DELAYED",43
+"711","1900-1959","Delta Air Lines Inc.","Lexington, KY: Blue Grass","DELAYED",3
+"712","1900-1959","ExpressJet Airlines Inc.","Lexington, KY: Blue Grass","DELAYED",44
+"713","1900-1959","SkyWest Airlines Inc.","Lexington, KY: Blue Grass","DELAYED",4
+"714","1900-1959","Hawaiian Airlines Inc.","Lihue, HI: Lihue Airport","DELAYED",26
+"715","1900-1959","Delta Air Lines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","DELAYED",2
+"716","1900-1959","ExpressJet Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","DELAYED",9
+"717","1900-1959","SkyWest Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","DELAYED",4
+"718","1900-1959","Southwest Airlines Co.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","DELAYED",15
+"719","1900-1959","JetBlue Airways","Long Beach, CA: Long Beach Airport","DELAYED",119
+"720","1900-1959","Southwest Airlines Co.","Long Beach, CA: Long Beach Airport","DELAYED",8
+"721","1900-1959","Alaska Airlines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",169
+"722","1900-1959","American Airlines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",255
+"723","1900-1959","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",215
+"724","1900-1959","Frontier Airlines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",27
+"725","1900-1959","SkyWest Airlines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",489
+"726","1900-1959","Southwest Airlines Co.","Los Angeles, CA: Los Angeles International","DELAYED",1047
+"727","1900-1959","Spirit Air Lines","Los Angeles, CA: Los Angeles International","DELAYED",249
+"728","1900-1959","United Air Lines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",157
+"729","1900-1959","Virgin America","Los Angeles, CA: Los Angeles International","DELAYED",141
+"730","1900-1959","American Airlines Inc.","Louisville, KY: Louisville International-Standiford Field","DELAYED",2
+"731","1900-1959","Delta Air Lines Inc.","Louisville, KY: Louisville International-Standiford Field","DELAYED",15
+"732","1900-1959","ExpressJet Airlines Inc.","Louisville, KY: Louisville International-Standiford Field","DELAYED",5
+"733","1900-1959","Southwest Airlines Co.","Louisville, KY: Louisville International-Standiford Field","DELAYED",18
+"734","1900-1959","Southwest Airlines Co.","Lubbock, TX: Lubbock Preston Smith International","DELAYED",28
+"735","1900-1959","ExpressJet Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","DELAYED",8
+"736","1900-1959","Frontier Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","DELAYED",33
+"737","1900-1959","SkyWest Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","DELAYED",56
+"738","1900-1959","Southwest Airlines Co.","Manchester, NH: Manchester-Boston Regional","DELAYED",3
+"739","1900-1959","SkyWest Airlines Inc.","Medford, OR: Rogue Valley International - Medford","DELAYED",31
+"740","1900-1959","ExpressJet Airlines Inc.","Melbourne, FL: Melbourne International","DELAYED",18
+"741","1900-1959","American Airlines Inc.","Memphis, TN: Memphis International","DELAYED",54
+"742","1900-1959","Delta Air Lines Inc.","Memphis, TN: Memphis International","DELAYED",24
+"743","1900-1959","ExpressJet Airlines Inc.","Memphis, TN: Memphis International","DELAYED",25
+"744","1900-1959","Frontier Airlines Inc.","Memphis, TN: Memphis International","DELAYED",5
+"745","1900-1959","Southwest Airlines Co.","Memphis, TN: Memphis International","DELAYED",76
+"746","1900-1959","American Airlines Inc.","Miami, FL: Miami International","DELAYED",628
+"747","1900-1959","Delta Air Lines Inc.","Miami, FL: Miami International","DELAYED",267
+"748","1900-1959","Frontier Airlines Inc.","Miami, FL: Miami International","DELAYED",38
+"749","1900-1959","United Air Lines Inc.","Miami, FL: Miami International","DELAYED",58
+"750","1900-1959","ExpressJet Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port","DELAYED",11
+"751","1900-1959","SkyWest Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port","DELAYED",8
+"752","1900-1959","Southwest Airlines Co.","Midland/Odessa, TX: Midland International Air and Space Port","DELAYED",80
+"753","1900-1959","Delta Air Lines Inc.","Milwaukee, WI: General Mitchell International","DELAYED",39
+"754","1900-1959","ExpressJet Airlines Inc.","Milwaukee, WI: General Mitchell International","DELAYED",4
+"755","1900-1959","Frontier Airlines Inc.","Milwaukee, WI: General Mitchell International","DELAYED",85
+"756","1900-1959","SkyWest Airlines Inc.","Milwaukee, WI: General Mitchell International","DELAYED",99
+"757","1900-1959","Southwest Airlines Co.","Milwaukee, WI: General Mitchell International","DELAYED",182
+"758","1900-1959","Alaska Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",21
+"759","1900-1959","American Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",112
+"760","1900-1959","Delta Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",1479
+"761","1900-1959","ExpressJet Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",126
+"762","1900-1959","Frontier Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",36
+"763","1900-1959","SkyWest Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",445
+"764","1900-1959","Southwest Airlines Co.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",143
+"765","1900-1959","Spirit Air Lines","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",158
+"766","1900-1959","United Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",1
+"767","1900-1959","SkyWest Airlines Inc.","Minot, ND: Minot International","DELAYED",14
+"768","1900-1959","ExpressJet Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International","DELAYED",5
+"769","1900-1959","SkyWest Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International","DELAYED",3
+"770","1900-1959","SkyWest Airlines Inc.","Missoula, MT: Missoula International","DELAYED",5
+"771","1900-1959","ExpressJet Airlines Inc.","Mobile, AL: Mobile Regional","DELAYED",68
+"772","1900-1959","ExpressJet Airlines Inc.","Moline, IL: Quad City International","DELAYED",1
+"773","1900-1959","SkyWest Airlines Inc.","Moline, IL: Quad City International","DELAYED",1
+"774","1900-1959","SkyWest Airlines Inc.","Monterey, CA: Monterey Regional","DELAYED",25
+"775","1900-1959","SkyWest Airlines Inc.","Muskegon, MI: Muskegon County","DELAYED",9
+"776","1900-1959","Delta Air Lines Inc.","Myrtle Beach, SC: Myrtle Beach International","DELAYED",6
+"777","1900-1959","ExpressJet Airlines Inc.","Myrtle Beach, SC: Myrtle Beach International","DELAYED",33
+"778","1900-1959","American Airlines Inc.","Nashville, TN: Nashville International","DELAYED",102
+"779","1900-1959","Delta Air Lines Inc.","Nashville, TN: Nashville International","DELAYED",15
+"780","1900-1959","ExpressJet Airlines Inc.","Nashville, TN: Nashville International","DELAYED",2
+"781","1900-1959","Frontier Airlines Inc.","Nashville, TN: Nashville International","DELAYED",22
+"782","1900-1959","JetBlue Airways","Nashville, TN: Nashville International","DELAYED",10
+"783","1900-1959","SkyWest Airlines Inc.","Nashville, TN: Nashville International","DELAYED",1
+"784","1900-1959","Southwest Airlines Co.","Nashville, TN: Nashville International","DELAYED",671
+"785","1900-1959","United Air Lines Inc.","Nashville, TN: Nashville International","DELAYED",17
+"786","1900-1959","American Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",12
+"787","1900-1959","Delta Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",115
+"788","1900-1959","Frontier Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",33
+"789","1900-1959","JetBlue Airways","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",1
+"790","1900-1959","SkyWest Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",1
+"791","1900-1959","Southwest Airlines Co.","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",265
+"792","1900-1959","Spirit Air Lines","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",81
+"793","1900-1959","United Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",26
+"794","1900-1959","American Airlines Inc.","New York, NY: John F. Kennedy International","DELAYED",239
+"795","1900-1959","Delta Air Lines Inc.","New York, NY: John F. Kennedy International","DELAYED",1152
+"796","1900-1959","JetBlue Airways","New York, NY: John F. Kennedy International","DELAYED",916
+"797","1900-1959","American Airlines Inc.","New York, NY: LaGuardia","DELAYED",403
+"798","1900-1959","Delta Air Lines Inc.","New York, NY: LaGuardia","DELAYED",565
+"799","1900-1959","ExpressJet Airlines Inc.","New York, NY: LaGuardia","DELAYED",184
+"800","1900-1959","JetBlue Airways","New York, NY: LaGuardia","DELAYED",331
+"801","1900-1959","SkyWest Airlines Inc.","New York, NY: LaGuardia","DELAYED",18
+"802","1900-1959","Southwest Airlines Co.","New York, NY: LaGuardia","DELAYED",189
+"803","1900-1959","Spirit Air Lines","New York, NY: LaGuardia","DELAYED",137
+"804","1900-1959","United Air Lines Inc.","New York, NY: LaGuardia","DELAYED",53
+"805","1900-1959","Alaska Airlines Inc.","Newark, NJ: Newark Liberty International","DELAYED",23
+"806","1900-1959","Delta Air Lines Inc.","Newark, NJ: Newark Liberty International","DELAYED",53
+"807","1900-1959","ExpressJet Airlines Inc.","Newark, NJ: Newark Liberty International","DELAYED",666
+"808","1900-1959","JetBlue Airways","Newark, NJ: Newark Liberty International","DELAYED",45
+"809","1900-1959","United Air Lines Inc.","Newark, NJ: Newark Liberty International","DELAYED",1294
+"810","1900-1959","Virgin America","Newark, NJ: Newark Liberty International","DELAYED",13
+"811","1900-1959","Alaska Airlines Inc.","Nome, AK: Nome Airport","DELAYED",9
+"812","1900-1959","American Airlines Inc.","Norfolk, VA: Norfolk International","DELAYED",18
+"813","1900-1959","Delta Air Lines Inc.","Norfolk, VA: Norfolk International","DELAYED",31
+"814","1900-1959","ExpressJet Airlines Inc.","Norfolk, VA: Norfolk International","DELAYED",23
+"815","1900-1959","Southwest Airlines Co.","Norfolk, VA: Norfolk International","DELAYED",45
+"816","1900-1959","American Airlines Inc.","Oakland, CA: Metropolitan Oakland International","DELAYED",16
+"817","1900-1959","Delta Air Lines Inc.","Oakland, CA: Metropolitan Oakland International","DELAYED",7
+"818","1900-1959","JetBlue Airways","Oakland, CA: Metropolitan Oakland International","DELAYED",21
+"819","1900-1959","SkyWest Airlines Inc.","Oakland, CA: Metropolitan Oakland International","DELAYED",1
+"820","1900-1959","Southwest Airlines Co.","Oakland, CA: Metropolitan Oakland International","DELAYED",779
+"821","1900-1959","SkyWest Airlines Inc.","Oklahoma City, OK: Will Rogers World","DELAYED",18
+"822","1900-1959","Southwest Airlines Co.","Oklahoma City, OK: Will Rogers World","DELAYED",124
+"823","1900-1959","American Airlines Inc.","Omaha, NE: Eppley Airfield","DELAYED",3
+"824","1900-1959","Delta Air Lines Inc.","Omaha, NE: Eppley Airfield","DELAYED",13
+"825","1900-1959","ExpressJet Airlines Inc.","Omaha, NE: Eppley Airfield","DELAYED",14
+"826","1900-1959","Frontier Airlines Inc.","Omaha, NE: Eppley Airfield","DELAYED",34
+"827","1900-1959","SkyWest Airlines Inc.","Omaha, NE: Eppley Airfield","DELAYED",43
+"828","1900-1959","Southwest Airlines Co.","Omaha, NE: Eppley Airfield","DELAYED",177
+"829","1900-1959","American Airlines Inc.","Ontario, CA: Ontario International","DELAYED",5
+"830","1900-1959","SkyWest Airlines Inc.","Ontario, CA: Ontario International","DELAYED",65
+"831","1900-1959","Southwest Airlines Co.","Ontario, CA: Ontario International","DELAYED",279
+"832","1900-1959","American Airlines Inc.","Orlando, FL: Orlando International","DELAYED",508
+"833","1900-1959","Delta Air Lines Inc.","Orlando, FL: Orlando International","DELAYED",290
+"834","1900-1959","Frontier Airlines Inc.","Orlando, FL: Orlando International","DELAYED",91
+"835","1900-1959","JetBlue Airways","Orlando, FL: Orlando International","DELAYED",571
+"836","1900-1959","Southwest Airlines Co.","Orlando, FL: Orlando International","DELAYED",842
+"837","1900-1959","Spirit Air Lines","Orlando, FL: Orlando International","DELAYED",48
+"838","1900-1959","United Air Lines Inc.","Orlando, FL: Orlando International","DELAYED",156
+"839","1900-1959","Alaska Airlines Inc.","Palm Springs, CA: Palm Springs International","DELAYED",12
+"840","1900-1959","SkyWest Airlines Inc.","Palm Springs, CA: Palm Springs International","DELAYED",2
+"841","1900-1959","Virgin America","Palm Springs, CA: Palm Springs International","DELAYED",21
+"842","1900-1959","Southwest Airlines Co.","Panama City, FL: Northwest Florida Beaches International","DELAYED",32
+"843","1900-1959","SkyWest Airlines Inc.","Pasco/Kennewick/Richland, WA: Tri Cities","DELAYED",21
+"844","1900-1959","Delta Air Lines Inc.","Pensacola, FL: Pensacola International","DELAYED",14
+"845","1900-1959","Southwest Airlines Co.","Pensacola, FL: Pensacola International","DELAYED",19
+"846","1900-1959","ExpressJet Airlines Inc.","Peoria, IL: General Downing - Peoria International","DELAYED",8
+"847","1900-1959","SkyWest Airlines Inc.","Peoria, IL: General Downing - Peoria International","DELAYED",14
+"848","1900-1959","American Airlines Inc.","Philadelphia, PA: Philadelphia International","DELAYED",261
+"849","1900-1959","Delta Air Lines Inc.","Philadelphia, PA: Philadelphia International","DELAYED",103
+"850","1900-1959","Frontier Airlines Inc.","Philadelphia, PA: Philadelphia International","DELAYED",67
+"851","1900-1959","JetBlue Airways","Philadelphia, PA: Philadelphia International","DELAYED",43
+"852","1900-1959","SkyWest Airlines Inc.","Philadelphia, PA: Philadelphia International","DELAYED",5
+"853","1900-1959","Southwest Airlines Co.","Philadelphia, PA: Philadelphia International","DELAYED",69
+"854","1900-1959","Spirit Air Lines","Philadelphia, PA: Philadelphia International","DELAYED",104
+"855","1900-1959","Alaska Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",62
+"856","1900-1959","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",271
+"857","1900-1959","Delta Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",12
+"858","1900-1959","Frontier Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",94
+"859","1900-1959","SkyWest Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",159
+"860","1900-1959","Southwest Airlines Co.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",1115
+"861","1900-1959","United Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",55
+"862","1900-1959","American Airlines Inc.","Pittsburgh, PA: Pittsburgh International","DELAYED",47
+"863","1900-1959","Delta Air Lines Inc.","Pittsburgh, PA: Pittsburgh International","DELAYED",36
+"864","1900-1959","ExpressJet Airlines Inc.","Pittsburgh, PA: Pittsburgh International","DELAYED",33
+"865","1900-1959","JetBlue Airways","Pittsburgh, PA: Pittsburgh International","DELAYED",62
+"866","1900-1959","SkyWest Airlines Inc.","Pittsburgh, PA: Pittsburgh International","DELAYED",9
+"867","1900-1959","Southwest Airlines Co.","Pittsburgh, PA: Pittsburgh International","DELAYED",78
+"868","1900-1959","ExpressJet Airlines Inc.","Portland, ME: Portland International Jetport","DELAYED",36
+"869","1900-1959","JetBlue Airways","Portland, ME: Portland International Jetport","DELAYED",58
+"870","1900-1959","United Air Lines Inc.","Portland, ME: Portland International Jetport","DELAYED",6
+"871","1900-1959","Alaska Airlines Inc.","Portland, OR: Portland International","DELAYED",54
+"872","1900-1959","American Airlines Inc.","Portland, OR: Portland International","DELAYED",2
+"873","1900-1959","Delta Air Lines Inc.","Portland, OR: Portland International","DELAYED",98
+"874","1900-1959","Frontier Airlines Inc.","Portland, OR: Portland International","DELAYED",85
+"875","1900-1959","SkyWest Airlines Inc.","Portland, OR: Portland International","DELAYED",97
+"876","1900-1959","Southwest Airlines Co.","Portland, OR: Portland International","DELAYED",175
+"877","1900-1959","Spirit Air Lines","Portland, OR: Portland International","DELAYED",68
+"878","1900-1959","United Air Lines Inc.","Portland, OR: Portland International","DELAYED",59
+"879","1900-1959","American Airlines Inc.","Providence, RI: Theodore Francis Green State","DELAYED",52
+"880","1900-1959","JetBlue Airways","Providence, RI: Theodore Francis Green State","DELAYED",3
+"881","1900-1959","Southwest Airlines Co.","Providence, RI: Theodore Francis Green State","DELAYED",16
+"882","1900-1959","Frontier Airlines Inc.","Punta Gorda, FL: Punta Gorda Airport","DELAYED",1
+"883","1900-1959","American Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",153
+"884","1900-1959","Delta Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",88
+"885","1900-1959","ExpressJet Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",84
+"886","1900-1959","Frontier Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",24
+"887","1900-1959","JetBlue Airways","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",76
+"888","1900-1959","SkyWest Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",1
+"889","1900-1959","Southwest Airlines Co.","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",158
+"890","1900-1959","United Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",18
+"891","1900-1959","SkyWest Airlines Inc.","Rapid City, SD: Rapid City Regional","DELAYED",7
+"892","1900-1959","American Airlines Inc.","Reno, NV: Reno/Tahoe International","DELAYED",13
+"893","1900-1959","SkyWest Airlines Inc.","Reno, NV: Reno/Tahoe International","DELAYED",58
+"894","1900-1959","Southwest Airlines Co.","Reno, NV: Reno/Tahoe International","DELAYED",93
+"895","1900-1959","American Airlines Inc.","Richmond, VA: Richmond International","DELAYED",109
+"896","1900-1959","Delta Air Lines Inc.","Richmond, VA: Richmond International","DELAYED",42
+"897","1900-1959","ExpressJet Airlines Inc.","Richmond, VA: Richmond International","DELAYED",5
+"898","1900-1959","JetBlue Airways","Richmond, VA: Richmond International","DELAYED",41
+"899","1900-1959","ExpressJet Airlines Inc.","Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field","DELAYED",45
+"900","1900-1959","ExpressJet Airlines Inc.","Rochester, NY: Greater Rochester International","DELAYED",19
+"901","1900-1959","JetBlue Airways","Rochester, NY: Greater Rochester International","DELAYED",23
+"902","1900-1959","Alaska Airlines Inc.","Sacramento, CA: Sacramento International","DELAYED",56
+"903","1900-1959","American Airlines Inc.","Sacramento, CA: Sacramento International","DELAYED",43
+"904","1900-1959","Delta Air Lines Inc.","Sacramento, CA: Sacramento International","DELAYED",74
+"905","1900-1959","JetBlue Airways","Sacramento, CA: Sacramento International","DELAYED",22
+"906","1900-1959","SkyWest Airlines Inc.","Sacramento, CA: Sacramento International","DELAYED",136
+"907","1900-1959","Southwest Airlines Co.","Sacramento, CA: Sacramento International","DELAYED",349
+"908","1900-1959","SkyWest Airlines Inc.","Saginaw/Bay City/Midland, MI: MBS International","DELAYED",65
+"909","1900-1959","Alaska Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",22
+"910","1900-1959","American Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",5
+"911","1900-1959","Delta Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",14
+"912","1900-1959","Frontier Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",23
+"913","1900-1959","JetBlue Airways","Salt Lake City, UT: Salt Lake City International","DELAYED",52
+"914","1900-1959","SkyWest Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",52
+"915","1900-1959","Southwest Airlines Co.","Salt Lake City, UT: Salt Lake City International","DELAYED",76
+"916","1900-1959","United Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",1
+"917","1900-1959","American Airlines Inc.","San Antonio, TX: San Antonio International","DELAYED",50
+"918","1900-1959","Frontier Airlines Inc.","San Antonio, TX: San Antonio International","DELAYED",17
+"919","1900-1959","SkyWest Airlines Inc.","San Antonio, TX: San Antonio International","DELAYED",13
+"920","1900-1959","Southwest Airlines Co.","San Antonio, TX: San Antonio International","DELAYED",264
+"921","1900-1959","United Air Lines Inc.","San Antonio, TX: San Antonio International","DELAYED",35
+"922","1900-1959","Alaska Airlines Inc.","San Diego, CA: San Diego International","DELAYED",62
+"923","1900-1959","American Airlines Inc.","San Diego, CA: San Diego International","DELAYED",67
+"924","1900-1959","Frontier Airlines Inc.","San Diego, CA: San Diego International","DELAYED",71
+"925","1900-1959","SkyWest Airlines Inc.","San Diego, CA: San Diego International","DELAYED",81
+"926","1900-1959","Southwest Airlines Co.","San Diego, CA: San Diego International","DELAYED",467
+"927","1900-1959","Spirit Air Lines","San Diego, CA: San Diego International","DELAYED",36
+"928","1900-1959","United Air Lines Inc.","San Diego, CA: San Diego International","DELAYED",65
+"929","1900-1959","Virgin America","San Diego, CA: San Diego International","DELAYED",88
+"930","1900-1959","Alaska Airlines Inc.","San Francisco, CA: San Francisco International","DELAYED",149
+"931","1900-1959","American Airlines Inc.","San Francisco, CA: San Francisco International","DELAYED",123
+"932","1900-1959","Delta Air Lines Inc.","San Francisco, CA: San Francisco International","DELAYED",134
+"933","1900-1959","Frontier Airlines Inc.","San Francisco, CA: San Francisco International","DELAYED",14
+"934","1900-1959","JetBlue Airways","San Francisco, CA: San Francisco International","DELAYED",55
+"935","1900-1959","SkyWest Airlines Inc.","San Francisco, CA: San Francisco International","DELAYED",499
+"936","1900-1959","Southwest Airlines Co.","San Francisco, CA: San Francisco International","DELAYED",303
+"937","1900-1959","United Air Lines Inc.","San Francisco, CA: San Francisco International","DELAYED",637
+"938","1900-1959","Virgin America","San Francisco, CA: San Francisco International","DELAYED",273
+"939","1900-1959","Alaska Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International","DELAYED",1
+"940","1900-1959","American Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International","DELAYED",45
+"941","1900-1959","SkyWest Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International","DELAYED",12
+"942","1900-1959","Southwest Airlines Co.","San Jose, CA: Norman Y. Mineta San Jose International","DELAYED",431
+"943","1900-1959","American Airlines Inc.","San Juan, PR: Luis Munoz Marin International","DELAYED",1
+"944","1900-1959","Delta Air Lines Inc.","San Juan, PR: Luis Munoz Marin International","DELAYED",8
+"945","1900-1959","JetBlue Airways","San Juan, PR: Luis Munoz Marin International","DELAYED",310
+"946","1900-1959","Southwest Airlines Co.","San Juan, PR: Luis Munoz Marin International","DELAYED",31
+"947","1900-1959","SkyWest Airlines Inc.","San Luis Obispo, CA: San Luis County Regional","DELAYED",69
+"948","1900-1959","Alaska Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","DELAYED",22
+"949","1900-1959","American Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","DELAYED",60
+"950","1900-1959","Frontier Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","DELAYED",62
+"951","1900-1959","SkyWest Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","DELAYED",13
+"952","1900-1959","Southwest Airlines Co.","Santa Ana, CA: John Wayne Airport-Orange County","DELAYED",285
+"953","1900-1959","United Air Lines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","DELAYED",1
+"954","1900-1959","SkyWest Airlines Inc.","Santa Barbara, CA: Santa Barbara Municipal","DELAYED",44
+"955","1900-1959","Delta Air Lines Inc.","Sarasota/Bradenton, FL: Sarasota/Bradenton International","DELAYED",7
+"956","1900-1959","JetBlue Airways","Sarasota/Bradenton, FL: Sarasota/Bradenton International","DELAYED",3
+"957","1900-1959","Delta Air Lines Inc.","Savannah, GA: Savannah/Hilton Head International","DELAYED",26
+"958","1900-1959","ExpressJet Airlines Inc.","Savannah, GA: Savannah/Hilton Head International","DELAYED",2
+"959","1900-1959","JetBlue Airways","Savannah, GA: Savannah/Hilton Head International","DELAYED",26
+"960","1900-1959","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",433
+"961","1900-1959","American Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",20
+"962","1900-1959","Delta Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",17
+"963","1900-1959","Frontier Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",53
+"964","1900-1959","SkyWest Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",63
+"965","1900-1959","Southwest Airlines Co.","Seattle, WA: Seattle/Tacoma International","DELAYED",172
+"966","1900-1959","United Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",37
+"967","1900-1959","Virgin America","Seattle, WA: Seattle/Tacoma International","DELAYED",86
+"968","1900-1959","SkyWest Airlines Inc.","Sioux Falls, SD: Joe Foss Field","DELAYED",7
+"969","1900-1959","ExpressJet Airlines Inc.","South Bend, IN: South Bend International","DELAYED",3
+"970","1900-1959","SkyWest Airlines Inc.","South Bend, IN: South Bend International","DELAYED",18
+"971","1900-1959","Alaska Airlines Inc.","Spokane, WA: Spokane International","DELAYED",1
+"972","1900-1959","SkyWest Airlines Inc.","Spokane, WA: Spokane International","DELAYED",22
+"973","1900-1959","Southwest Airlines Co.","Spokane, WA: Spokane International","DELAYED",10
+"974","1900-1959","SkyWest Airlines Inc.","St. George, UT: St George Regional","DELAYED",1
+"975","1900-1959","American Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","DELAYED",74
+"976","1900-1959","Delta Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International","DELAYED",49
+"977","1900-1959","SkyWest Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","DELAYED",21
+"978","1900-1959","Southwest Airlines Co.","St. Louis, MO: Lambert-St. Louis International","DELAYED",792
+"979","1900-1959","United Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International","DELAYED",2
+"980","1900-1959","American Airlines Inc.","Syracuse, NY: Syracuse Hancock International","DELAYED",10
+"981","1900-1959","ExpressJet Airlines Inc.","Syracuse, NY: Syracuse Hancock International","DELAYED",52
+"982","1900-1959","JetBlue Airways","Syracuse, NY: Syracuse Hancock International","DELAYED",23
+"983","1900-1959","ExpressJet Airlines Inc.","Tallahassee, FL: Tallahassee International","DELAYED",36
+"984","1900-1959","American Airlines Inc.","Tampa, FL: Tampa International","DELAYED",310
+"985","1900-1959","Delta Air Lines Inc.","Tampa, FL: Tampa International","DELAYED",215
+"986","1900-1959","Frontier Airlines Inc.","Tampa, FL: Tampa International","DELAYED",10
+"987","1900-1959","JetBlue Airways","Tampa, FL: Tampa International","DELAYED",185
+"988","1900-1959","Southwest Airlines Co.","Tampa, FL: Tampa International","DELAYED",555
+"989","1900-1959","Spirit Air Lines","Tampa, FL: Tampa International","DELAYED",135
+"990","1900-1959","United Air Lines Inc.","Tampa, FL: Tampa International","DELAYED",60
+"991","1900-1959","SkyWest Airlines Inc.","Traverse City, MI: Cherry Capital","DELAYED",2
+"992","1900-1959","Frontier Airlines Inc.","Trenton, NJ: Trenton Mercer","DELAYED",1
+"993","1900-1959","SkyWest Airlines Inc.","Tucson, AZ: Tucson International","DELAYED",47
+"994","1900-1959","Southwest Airlines Co.","Tucson, AZ: Tucson International","DELAYED",86
+"995","1900-1959","ExpressJet Airlines Inc.","Tulsa, OK: Tulsa International","DELAYED",2
+"996","1900-1959","SkyWest Airlines Inc.","Tulsa, OK: Tulsa International","DELAYED",1
+"997","1900-1959","Southwest Airlines Co.","Tulsa, OK: Tulsa International","DELAYED",114
+"998","1900-1959","ExpressJet Airlines Inc.","Tyler, TX: Tyler Pounds Regional","DELAYED",1
+"999","1900-1959","ExpressJet Airlines Inc.","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach","DELAYED",31
+"1000","1900-1959","American Airlines Inc.","Washington, DC: Ronald Reagan Washington National","DELAYED",446
+"1001","1900-1959","Delta Air Lines Inc.","Washington, DC: Ronald Reagan Washington National","DELAYED",156
+"1002","1900-1959","ExpressJet Airlines Inc.","Washington, DC: Ronald Reagan Washington National","DELAYED",76
+"1003","1900-1959","JetBlue Airways","Washington, DC: Ronald Reagan Washington National","DELAYED",149
+"1004","1900-1959","SkyWest Airlines Inc.","Washington, DC: Ronald Reagan Washington National","DELAYED",11
+"1005","1900-1959","Southwest Airlines Co.","Washington, DC: Ronald Reagan Washington National","DELAYED",201
+"1006","1900-1959","United Air Lines Inc.","Washington, DC: Ronald Reagan Washington National","DELAYED",12
+"1007","1900-1959","Alaska Airlines Inc.","Washington, DC: Washington Dulles International","DELAYED",13
+"1008","1900-1959","American Airlines Inc.","Washington, DC: Washington Dulles International","DELAYED",50
+"1009","1900-1959","Delta Air Lines Inc.","Washington, DC: Washington Dulles International","DELAYED",66
+"1010","1900-1959","Frontier Airlines Inc.","Washington, DC: Washington Dulles International","DELAYED",10
+"1011","1900-1959","JetBlue Airways","Washington, DC: Washington Dulles International","DELAYED",6
+"1012","1900-1959","SkyWest Airlines Inc.","Washington, DC: Washington Dulles International","DELAYED",2
+"1013","1900-1959","Southwest Airlines Co.","Washington, DC: Washington Dulles International","DELAYED",29
+"1014","1900-1959","United Air Lines Inc.","Washington, DC: Washington Dulles International","DELAYED",192
+"1015","1900-1959","American Airlines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","DELAYED",83
+"1016","1900-1959","Delta Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","DELAYED",86
+"1017","1900-1959","JetBlue Airways","West Palm Beach/Palm Beach, FL: Palm Beach International","DELAYED",403
+"1018","1900-1959","Southwest Airlines Co.","West Palm Beach/Palm Beach, FL: Palm Beach International","DELAYED",70
+"1019","1900-1959","United Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","DELAYED",54
+"1020","1900-1959","ExpressJet Airlines Inc.","White Plains, NY: Westchester County","DELAYED",51
+"1021","1900-1959","JetBlue Airways","Worcester, MA: Worcester Regional","DELAYED",2
+"1022","1900-1959","SkyWest Airlines Inc.","Yuma, AZ: Yuma MCAS/Yuma International","DELAYED",11
+"1023","1900-1959","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DIVERTED",2
+"1024","1900-1959","Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DIVERTED",40
+"1025","1900-1959","ExpressJet Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DIVERTED",13
+"1026","1900-1959","Southwest Airlines Co.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DIVERTED",5
+"1027","1900-1959","American Airlines Inc.","Austin, TX: Austin - Bergstrom International","DIVERTED",1
+"1028","1900-1959","Southwest Airlines Co.","Austin, TX: Austin - Bergstrom International","DIVERTED",3
+"1029","1900-1959","Delta Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DIVERTED",1
+"1030","1900-1959","Southwest Airlines Co.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DIVERTED",5
+"1031","1900-1959","Spirit Air Lines","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DIVERTED",1
+"1032","1900-1959","Southwest Airlines Co.","Birmingham, AL: Birmingham-Shuttlesworth International","DIVERTED",2
+"1033","1900-1959","Southwest Airlines Co.","Boise, ID: Boise Air Terminal","DIVERTED",1
+"1034","1900-1959","Delta Air Lines Inc.","Boston, MA: Logan International","DIVERTED",2
+"1035","1900-1959","ExpressJet Airlines Inc.","Boston, MA: Logan International","DIVERTED",1
+"1036","1900-1959","JetBlue Airways","Boston, MA: Logan International","DIVERTED",22
+"1037","1900-1959","Southwest Airlines Co.","Boston, MA: Logan International","DIVERTED",2
+"1038","1900-1959","United Air Lines Inc.","Boston, MA: Logan International","DIVERTED",2
+"1039","1900-1959","JetBlue Airways","Charleston, SC: Charleston AFB/International","DIVERTED",1
+"1040","1900-1959","Southwest Airlines Co.","Charleston, SC: Charleston AFB/International","DIVERTED",2
+"1041","1900-1959","ExpressJet Airlines Inc.","Charleston/Dunbar, WV: Yeager","DIVERTED",1
+"1042","1900-1959","American Airlines Inc.","Charlotte, NC: Charlotte Douglas International","DIVERTED",6
+"1043","1900-1959","Southwest Airlines Co.","Charlotte, NC: Charlotte Douglas International","DIVERTED",2
+"1044","1900-1959","Southwest Airlines Co.","Chicago, IL: Chicago Midway International","DIVERTED",16
+"1045","1900-1959","American Airlines Inc.","Chicago, IL: Chicago O'Hare International","DIVERTED",2
+"1046","1900-1959","ExpressJet Airlines Inc.","Chicago, IL: Chicago O'Hare International","DIVERTED",10
+"1047","1900-1959","SkyWest Airlines Inc.","Chicago, IL: Chicago O'Hare International","DIVERTED",22
+"1048","1900-1959","United Air Lines Inc.","Chicago, IL: Chicago O'Hare International","DIVERTED",26
+"1049","1900-1959","Delta Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International","DIVERTED",1
+"1050","1900-1959","ExpressJet Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","DIVERTED",1
+"1051","1900-1959","JetBlue Airways","Cleveland, OH: Cleveland-Hopkins International","DIVERTED",1
+"1052","1900-1959","Southwest Airlines Co.","Cleveland, OH: Cleveland-Hopkins International","DIVERTED",1
+"1053","1900-1959","United Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International","DIVERTED",1
+"1054","1900-1959","Delta Air Lines Inc.","Columbia, SC: Columbia Metropolitan","DIVERTED",1
+"1055","1900-1959","ExpressJet Airlines Inc.","Columbus, OH: Port Columbus International","DIVERTED",1
+"1056","1900-1959","Southwest Airlines Co.","Columbus, OH: Port Columbus International","DIVERTED",1
+"1057","1900-1959","Southwest Airlines Co.","Dallas, TX: Dallas Love Field","DIVERTED",5
+"1058","1900-1959","American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DIVERTED",10
+"1059","1900-1959","ExpressJet Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DIVERTED",2
+"1060","1900-1959","SkyWest Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DIVERTED",1
+"1061","1900-1959","Alaska Airlines Inc.","Denver, CO: Denver International","DIVERTED",1
+"1062","1900-1959","SkyWest Airlines Inc.","Denver, CO: Denver International","DIVERTED",21
+"1063","1900-1959","Southwest Airlines Co.","Denver, CO: Denver International","DIVERTED",5
+"1064","1900-1959","United Air Lines Inc.","Denver, CO: Denver International","DIVERTED",5
+"1065","1900-1959","SkyWest Airlines Inc.","Des Moines, IA: Des Moines International","DIVERTED",1
+"1066","1900-1959","Southwest Airlines Co.","Des Moines, IA: Des Moines International","DIVERTED",1
+"1067","1900-1959","American Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","DIVERTED",2
+"1068","1900-1959","Delta Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County","DIVERTED",2
+"1069","1900-1959","ExpressJet Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","DIVERTED",2
+"1070","1900-1959","SkyWest Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","DIVERTED",1
+"1071","1900-1959","Southwest Airlines Co.","Detroit, MI: Detroit Metro Wayne County","DIVERTED",2
+"1072","1900-1959","Spirit Air Lines","Detroit, MI: Detroit Metro Wayne County","DIVERTED",2
+"1073","1900-1959","Southwest Airlines Co.","El Paso, TX: El Paso International","DIVERTED",1
+"1074","1900-1959","SkyWest Airlines Inc.","Fargo, ND: Hector International","DIVERTED",3
+"1075","1900-1959","Delta Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DIVERTED",2
+"1076","1900-1959","JetBlue Airways","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DIVERTED",9
+"1077","1900-1959","Southwest Airlines Co.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DIVERTED",2
+"1078","1900-1959","American Airlines Inc.","Fort Myers, FL: Southwest Florida International","DIVERTED",1
+"1079","1900-1959","Delta Air Lines Inc.","Fort Myers, FL: Southwest Florida International","DIVERTED",1
+"1080","1900-1959","Southwest Airlines Co.","Fort Myers, FL: Southwest Florida International","DIVERTED",1
+"1081","1900-1959","Spirit Air Lines","Fort Myers, FL: Southwest Florida International","DIVERTED",1
+"1082","1900-1959","SkyWest Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","DIVERTED",1
+"1083","1900-1959","ExpressJet Airlines Inc.","Greensboro/High Point, NC: Piedmont Triad International","DIVERTED",1
+"1084","1900-1959","ExpressJet Airlines Inc.","Greer, SC: Greenville-Spartanburg International","DIVERTED",1
+"1085","1900-1959","Southwest Airlines Co.","Greer, SC: Greenville-Spartanburg International","DIVERTED",1
+"1086","1900-1959","Delta Air Lines Inc.","Hartford, CT: Bradley International","DIVERTED",2
+"1087","1900-1959","JetBlue Airways","Hartford, CT: Bradley International","DIVERTED",1
+"1088","1900-1959","Hawaiian Airlines Inc.","Honolulu, HI: Honolulu International","DIVERTED",1
+"1089","1900-1959","United Air Lines Inc.","Honolulu, HI: Honolulu International","DIVERTED",2
+"1090","1900-1959","ExpressJet Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DIVERTED",21
+"1091","1900-1959","SkyWest Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DIVERTED",2
+"1092","1900-1959","United Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","DIVERTED",16
+"1093","1900-1959","Southwest Airlines Co.","Houston, TX: William P Hobby","DIVERTED",1
+"1094","1900-1959","Southwest Airlines Co.","Indianapolis, IN: Indianapolis International","DIVERTED",1
+"1095","1900-1959","American Airlines Inc.","Jacksonville, FL: Jacksonville International","DIVERTED",3
+"1096","1900-1959","Delta Air Lines Inc.","Kansas City, MO: Kansas City International","DIVERTED",1
+"1097","1900-1959","SkyWest Airlines Inc.","Kansas City, MO: Kansas City International","DIVERTED",1
+"1098","1900-1959","Southwest Airlines Co.","Kansas City, MO: Kansas City International","DIVERTED",2
+"1099","1900-1959","ExpressJet Airlines Inc.","Knoxville, TN: McGhee Tyson","DIVERTED",2
+"1100","1900-1959","United Air Lines Inc.","Kona, HI: Kona International Airport at Keahole","DIVERTED",1
+"1101","1900-1959","Alaska Airlines Inc.","Kotzebue, AK: Ralph Wien Memorial","DIVERTED",5
+"1102","1900-1959","Alaska Airlines Inc.","Las Vegas, NV: McCarran International","DIVERTED",2
+"1103","1900-1959","Southwest Airlines Co.","Las Vegas, NV: McCarran International","DIVERTED",7
+"1104","1900-1959","Spirit Air Lines","Las Vegas, NV: McCarran International","DIVERTED",1
+"1105","1900-1959","Alaska Airlines Inc.","Los Angeles, CA: Los Angeles International","DIVERTED",2
+"1106","1900-1959","American Airlines Inc.","Los Angeles, CA: Los Angeles International","DIVERTED",4
+"1107","1900-1959","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International","DIVERTED",2
+"1108","1900-1959","SkyWest Airlines Inc.","Los Angeles, CA: Los Angeles International","DIVERTED",1
+"1109","1900-1959","United Air Lines Inc.","Los Angeles, CA: Los Angeles International","DIVERTED",2
+"1110","1900-1959","Delta Air Lines Inc.","Louisville, KY: Louisville International-Standiford Field","DIVERTED",1
+"1111","1900-1959","Southwest Airlines Co.","Lubbock, TX: Lubbock Preston Smith International","DIVERTED",1
+"1112","1900-1959","American Airlines Inc.","Memphis, TN: Memphis International","DIVERTED",1
+"1113","1900-1959","ExpressJet Airlines Inc.","Memphis, TN: Memphis International","DIVERTED",1
+"1114","1900-1959","Southwest Airlines Co.","Memphis, TN: Memphis International","DIVERTED",1
+"1115","1900-1959","American Airlines Inc.","Miami, FL: Miami International","DIVERTED",6
+"1116","1900-1959","Delta Air Lines Inc.","Miami, FL: Miami International","DIVERTED",4
+"1117","1900-1959","Frontier Airlines Inc.","Miami, FL: Miami International","DIVERTED",1
+"1118","1900-1959","United Air Lines Inc.","Miami, FL: Miami International","DIVERTED",1
+"1119","1900-1959","ExpressJet Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port","DIVERTED",1
+"1120","1900-1959","Southwest Airlines Co.","Midland/Odessa, TX: Midland International Air and Space Port","DIVERTED",2
+"1121","1900-1959","Delta Air Lines Inc.","Milwaukee, WI: General Mitchell International","DIVERTED",1
+"1122","1900-1959","Southwest Airlines Co.","Milwaukee, WI: General Mitchell International","DIVERTED",2
+"1123","1900-1959","Delta Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DIVERTED",8
+"1124","1900-1959","ExpressJet Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DIVERTED",2
+"1125","1900-1959","Frontier Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DIVERTED",1
+"1126","1900-1959","SkyWest Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DIVERTED",6
+"1127","1900-1959","ExpressJet Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International","DIVERTED",1
+"1128","1900-1959","Southwest Airlines Co.","Nashville, TN: Nashville International","DIVERTED",5
+"1129","1900-1959","Frontier Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","DIVERTED",1
+"1130","1900-1959","Southwest Airlines Co.","New Orleans, LA: Louis Armstrong New Orleans International","DIVERTED",4
+"1131","1900-1959","American Airlines Inc.","New York, NY: John F. Kennedy International","DIVERTED",2
+"1132","1900-1959","Delta Air Lines Inc.","New York, NY: John F. Kennedy International","DIVERTED",6
+"1133","1900-1959","JetBlue Airways","New York, NY: John F. Kennedy International","DIVERTED",12
+"1134","1900-1959","American Airlines Inc.","New York, NY: LaGuardia","DIVERTED",1
+"1135","1900-1959","ExpressJet Airlines Inc.","New York, NY: LaGuardia","DIVERTED",1
+"1136","1900-1959","Southwest Airlines Co.","New York, NY: LaGuardia","DIVERTED",2
+"1137","1900-1959","ExpressJet Airlines Inc.","Newark, NJ: Newark Liberty International","DIVERTED",4
+"1138","1900-1959","United Air Lines Inc.","Newark, NJ: Newark Liberty International","DIVERTED",4
+"1139","1900-1959","Alaska Airlines Inc.","Nome, AK: Nome Airport","DIVERTED",1
+"1140","1900-1959","Southwest Airlines Co.","Norfolk, VA: Norfolk International","DIVERTED",1
+"1141","1900-1959","Southwest Airlines Co.","Oakland, CA: Metropolitan Oakland International","DIVERTED",3
+"1142","1900-1959","SkyWest Airlines Inc.","Omaha, NE: Eppley Airfield","DIVERTED",1
+"1143","1900-1959","Southwest Airlines Co.","Omaha, NE: Eppley Airfield","DIVERTED",2
+"1144","1900-1959","SkyWest Airlines Inc.","Ontario, CA: Ontario International","DIVERTED",1
+"1145","1900-1959","American Airlines Inc.","Orlando, FL: Orlando International","DIVERTED",3
+"1146","1900-1959","Delta Air Lines Inc.","Orlando, FL: Orlando International","DIVERTED",6
+"1147","1900-1959","Frontier Airlines Inc.","Orlando, FL: Orlando International","DIVERTED",2
+"1148","1900-1959","JetBlue Airways","Orlando, FL: Orlando International","DIVERTED",4
+"1149","1900-1959","Southwest Airlines Co.","Orlando, FL: Orlando International","DIVERTED",5
+"1150","1900-1959","United Air Lines Inc.","Orlando, FL: Orlando International","DIVERTED",3
+"1151","1900-1959","American Airlines Inc.","Philadelphia, PA: Philadelphia International","DIVERTED",2
+"1152","1900-1959","Spirit Air Lines","Philadelphia, PA: Philadelphia International","DIVERTED",2
+"1153","1900-1959","Alaska Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DIVERTED",1
+"1154","1900-1959","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DIVERTED",2
+"1155","1900-1959","SkyWest Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DIVERTED",2
+"1156","1900-1959","Southwest Airlines Co.","Phoenix, AZ: Phoenix Sky Harbor International","DIVERTED",11
+"1157","1900-1959","Alaska Airlines Inc.","Portland, OR: Portland International","DIVERTED",2
+"1158","1900-1959","Delta Air Lines Inc.","Portland, OR: Portland International","DIVERTED",1
+"1159","1900-1959","SkyWest Airlines Inc.","Portland, OR: Portland International","DIVERTED",1
+"1160","1900-1959","American Airlines Inc.","Providence, RI: Theodore Francis Green State","DIVERTED",1
+"1161","1900-1959","Southwest Airlines Co.","Providence, RI: Theodore Francis Green State","DIVERTED",1
+"1162","1900-1959","Delta Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DIVERTED",1
+"1163","1900-1959","ExpressJet Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DIVERTED",1
+"1164","1900-1959","Southwest Airlines Co.","Raleigh/Durham, NC: Raleigh-Durham International","DIVERTED",2
+"1165","1900-1959","American Airlines Inc.","Reno, NV: Reno/Tahoe International","DIVERTED",1
+"1166","1900-1959","SkyWest Airlines Inc.","Reno, NV: Reno/Tahoe International","DIVERTED",1
+"1167","1900-1959","ExpressJet Airlines Inc.","Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field","DIVERTED",2
+"1168","1900-1959","Alaska Airlines Inc.","Sacramento, CA: Sacramento International","DIVERTED",1
+"1169","1900-1959","American Airlines Inc.","Sacramento, CA: Sacramento International","DIVERTED",1
+"1170","1900-1959","Southwest Airlines Co.","Sacramento, CA: Sacramento International","DIVERTED",3
+"1171","1900-1959","Frontier Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DIVERTED",2
+"1172","1900-1959","SkyWest Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DIVERTED",1
+"1173","1900-1959","Southwest Airlines Co.","San Antonio, TX: San Antonio International","DIVERTED",1
+"1174","1900-1959","SkyWest Airlines Inc.","San Diego, CA: San Diego International","DIVERTED",2
+"1175","1900-1959","Delta Air Lines Inc.","San Francisco, CA: San Francisco International","DIVERTED",1
+"1176","1900-1959","SkyWest Airlines Inc.","San Francisco, CA: San Francisco International","DIVERTED",9
+"1177","1900-1959","United Air Lines Inc.","San Francisco, CA: San Francisco International","DIVERTED",5
+"1178","1900-1959","Virgin America","San Francisco, CA: San Francisco International","DIVERTED",1
+"1179","1900-1959","Southwest Airlines Co.","San Jose, CA: Norman Y. Mineta San Jose International","DIVERTED",3
+"1180","1900-1959","Delta Air Lines Inc.","San Juan, PR: Luis Munoz Marin International","DIVERTED",1
+"1181","1900-1959","JetBlue Airways","San Juan, PR: Luis Munoz Marin International","DIVERTED",2
+"1182","1900-1959","American Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","DIVERTED",1
+"1183","1900-1959","Frontier Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","DIVERTED",1
+"1184","1900-1959","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DIVERTED",5
+"1185","1900-1959","Delta Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International","DIVERTED",1
+"1186","1900-1959","Southwest Airlines Co.","St. Louis, MO: Lambert-St. Louis International","DIVERTED",9
+"1187","1900-1959","ExpressJet Airlines Inc.","Tallahassee, FL: Tallahassee International","DIVERTED",1
+"1188","1900-1959","American Airlines Inc.","Tampa, FL: Tampa International","DIVERTED",2
+"1189","1900-1959","Delta Air Lines Inc.","Tampa, FL: Tampa International","DIVERTED",6
+"1190","1900-1959","JetBlue Airways","Tampa, FL: Tampa International","DIVERTED",5
+"1191","1900-1959","Southwest Airlines Co.","Tampa, FL: Tampa International","DIVERTED",4
+"1192","1900-1959","United Air Lines Inc.","Tampa, FL: Tampa International","DIVERTED",1
+"1193","1900-1959","Southwest Airlines Co.","Tulsa, OK: Tulsa International","DIVERTED",1
+"1194","1900-1959","ExpressJet Airlines Inc.","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach","DIVERTED",2
+"1195","1900-1959","American Airlines Inc.","Washington, DC: Ronald Reagan Washington National","DIVERTED",2
+"1196","1900-1959","Delta Air Lines Inc.","Washington, DC: Ronald Reagan Washington National","DIVERTED",2
+"1197","1900-1959","SkyWest Airlines Inc.","Washington, DC: Ronald Reagan Washington National","DIVERTED",1
+"1198","1900-1959","Southwest Airlines Co.","Washington, DC: Ronald Reagan Washington National","DIVERTED",1
+"1199","1900-1959","United Air Lines Inc.","Washington, DC: Ronald Reagan Washington National","DIVERTED",1
+"1200","1900-1959","United Air Lines Inc.","Washington, DC: Washington Dulles International","DIVERTED",6
+"1201","1900-1959","Delta Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","DIVERTED",1
+"1202","1900-1959","JetBlue Airways","West Palm Beach/Palm Beach, FL: Palm Beach International","DIVERTED",4
+"1203","1900-1959","United Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","DIVERTED",2
+"1204","1900-1959","SkyWest Airlines Inc.","Aberdeen, SD: Aberdeen Regional","ON_TIME",2
+"1205","1900-1959","ExpressJet Airlines Inc.","Akron, OH: Akron-Canton Regional","ON_TIME",66
+"1206","1900-1959","Southwest Airlines Co.","Akron, OH: Akron-Canton Regional","ON_TIME",1
+"1207","1900-1959","American Airlines Inc.","Albany, NY: Albany International","ON_TIME",162
+"1208","1900-1959","JetBlue Airways","Albany, NY: Albany International","ON_TIME",71
+"1209","1900-1959","SkyWest Airlines Inc.","Albany, NY: Albany International","ON_TIME",47
+"1210","1900-1959","Southwest Airlines Co.","Albany, NY: Albany International","ON_TIME",50
+"1211","1900-1959","ExpressJet Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport","ON_TIME",1
+"1212","1900-1959","SkyWest Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport","ON_TIME",5
+"1213","1900-1959","Southwest Airlines Co.","Albuquerque, NM: Albuquerque International Sunport","ON_TIME",233
+"1214","1900-1959","ExpressJet Airlines Inc.","Alexandria, LA: Alexandria International","ON_TIME",161
+"1215","1900-1959","Southwest Airlines Co.","Amarillo, TX: Rick Husband Amarillo International","ON_TIME",3
+"1216","1900-1959","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",625
+"1217","1900-1959","Delta Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",90
+"1218","1900-1959","United Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",77
+"1219","1900-1959","ExpressJet Airlines Inc.","Appleton, WI: Appleton International","ON_TIME",3
+"1220","1900-1959","SkyWest Airlines Inc.","Appleton, WI: Appleton International","ON_TIME",10
+"1221","1900-1959","SkyWest Airlines Inc.","Arcata/Eureka, CA: Arcata","ON_TIME",105
+"1222","1900-1959","Delta Air Lines Inc.","Asheville, NC: Asheville Regional","ON_TIME",31
+"1223","1900-1959","ExpressJet Airlines Inc.","Asheville, NC: Asheville Regional","ON_TIME",145
+"1224","1900-1959","SkyWest Airlines Inc.","Aspen, CO: Aspen Pitkin County Sardy Field","ON_TIME",8
+"1225","1900-1959","American Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",653
+"1226","1900-1959","Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",19567
+"1227","1900-1959","ExpressJet Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",3111
+"1228","1900-1959","Frontier Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",96
+"1229","1900-1959","SkyWest Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",542
+"1230","1900-1959","Southwest Airlines Co.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",2083
+"1231","1900-1959","Spirit Air Lines","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",285
+"1232","1900-1959","United Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",300
+"1233","1900-1959","Spirit Air Lines","Atlantic City, NJ: Atlantic City International","ON_TIME",66
+"1234","1900-1959","Delta Air Lines Inc.","Augusta, GA: Augusta Regional at Bush Field","ON_TIME",4
+"1235","1900-1959","ExpressJet Airlines Inc.","Augusta, GA: Augusta Regional at Bush Field","ON_TIME",152
+"1236","1900-1959","American Airlines Inc.","Austin, TX: Austin - Bergstrom International","ON_TIME",248
+"1237","1900-1959","Delta Air Lines Inc.","Austin, TX: Austin - Bergstrom International","ON_TIME",21
+"1238","1900-1959","ExpressJet Airlines Inc.","Austin, TX: Austin - Bergstrom International","ON_TIME",2
+"1239","1900-1959","Frontier Airlines Inc.","Austin, TX: Austin - Bergstrom International","ON_TIME",14
+"1240","1900-1959","JetBlue Airways","Austin, TX: Austin - Bergstrom International","ON_TIME",1
+"1241","1900-1959","SkyWest Airlines Inc.","Austin, TX: Austin - Bergstrom International","ON_TIME",106
+"1242","1900-1959","Southwest Airlines Co.","Austin, TX: Austin - Bergstrom International","ON_TIME",851
+"1243","1900-1959","United Air Lines Inc.","Austin, TX: Austin - Bergstrom International","ON_TIME",118
+"1244","1900-1959","SkyWest Airlines Inc.","Bakersfield, CA: Meadows Field","ON_TIME",31
+"1245","1900-1959","American Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","ON_TIME",299
+"1246","1900-1959","Delta Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","ON_TIME",719
+"1247","1900-1959","ExpressJet Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","ON_TIME",17
+"1248","1900-1959","JetBlue Airways","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","ON_TIME",103
+"1249","1900-1959","SkyWest Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","ON_TIME",20
+"1250","1900-1959","Southwest Airlines Co.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","ON_TIME",2982
+"1251","1900-1959","Spirit Air Lines","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","ON_TIME",237
+"1252","1900-1959","United Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","ON_TIME",4
+"1253","1900-1959","Alaska Airlines Inc.","Barrow, AK: Wiley Post/Will Rogers Memorial","ON_TIME",142
+"1254","1900-1959","ExpressJet Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field","ON_TIME",301
+"1255","1900-1959","SkyWest Airlines Inc.","Bend/Redmond, OR: Roberts Field","ON_TIME",44
+"1256","1900-1959","SkyWest Airlines Inc.","Billings, MT: Billings Logan International","ON_TIME",57
+"1257","1900-1959","Delta Air Lines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International","ON_TIME",44
+"1258","1900-1959","ExpressJet Airlines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International","ON_TIME",2
+"1259","1900-1959","Southwest Airlines Co.","Birmingham, AL: Birmingham-Shuttlesworth International","ON_TIME",412
+"1260","1900-1959","SkyWest Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal","ON_TIME",113
+"1261","1900-1959","SkyWest Airlines Inc.","Boise, ID: Boise Air Terminal","ON_TIME",347
+"1262","1900-1959","Southwest Airlines Co.","Boise, ID: Boise Air Terminal","ON_TIME",251
+"1263","1900-1959","Alaska Airlines Inc.","Boston, MA: Logan International","ON_TIME",25
+"1264","1900-1959","American Airlines Inc.","Boston, MA: Logan International","ON_TIME",838
+"1265","1900-1959","Delta Air Lines Inc.","Boston, MA: Logan International","ON_TIME",572
+"1266","1900-1959","ExpressJet Airlines Inc.","Boston, MA: Logan International","ON_TIME",228
+"1267","1900-1959","JetBlue Airways","Boston, MA: Logan International","ON_TIME",2113
+"1268","1900-1959","SkyWest Airlines Inc.","Boston, MA: Logan International","ON_TIME",15
+"1269","1900-1959","Southwest Airlines Co.","Boston, MA: Logan International","ON_TIME",319
+"1270","1900-1959","Spirit Air Lines","Boston, MA: Logan International","ON_TIME",149
+"1271","1900-1959","United Air Lines Inc.","Boston, MA: Logan International","ON_TIME",610
+"1272","1900-1959","ExpressJet Airlines Inc.","Bristol/Johnson City/Kingsport, TN: Tri-Cities Regional TN/VA","ON_TIME",54
+"1273","1900-1959","ExpressJet Airlines Inc.","Brownsville, TX: Brownsville South Padre Island International","ON_TIME",72
+"1274","1900-1959","American Airlines Inc.","Buffalo, NY: Buffalo Niagara International","ON_TIME",133
+"1275","1900-1959","Delta Air Lines Inc.","Buffalo, NY: Buffalo Niagara International","ON_TIME",264
+"1276","1900-1959","ExpressJet Airlines Inc.","Buffalo, NY: Buffalo Niagara International","ON_TIME",77
+"1277","1900-1959","JetBlue Airways","Buffalo, NY: Buffalo Niagara International","ON_TIME",196
+"1278","1900-1959","Southwest Airlines Co.","Buffalo, NY: Buffalo Niagara International","ON_TIME",63
+"1279","1900-1959","SkyWest Airlines Inc.","Burbank, CA: Bob Hope","ON_TIME",16
+"1280","1900-1959","Southwest Airlines Co.","Burbank, CA: Bob Hope","ON_TIME",594
+"1281","1900-1959","ExpressJet Airlines Inc.","Burlington, VT: Burlington International","ON_TIME",35
+"1282","1900-1959","JetBlue Airways","Burlington, VT: Burlington International","ON_TIME",71
+"1283","1900-1959","ExpressJet Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa","ON_TIME",1
+"1284","1900-1959","Frontier Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa","ON_TIME",69
+"1285","1900-1959","SkyWest Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa","ON_TIME",20
+"1286","1900-1959","Delta Air Lines Inc.","Charleston, SC: Charleston AFB/International","ON_TIME",117
+"1287","1900-1959","ExpressJet Airlines Inc.","Charleston, SC: Charleston AFB/International","ON_TIME",25
+"1288","1900-1959","JetBlue Airways","Charleston, SC: Charleston AFB/International","ON_TIME",82
+"1289","1900-1959","SkyWest Airlines Inc.","Charleston, SC: Charleston AFB/International","ON_TIME",3
+"1290","1900-1959","Southwest Airlines Co.","Charleston, SC: Charleston AFB/International","ON_TIME",240
+"1291","1900-1959","United Air Lines Inc.","Charleston, SC: Charleston AFB/International","ON_TIME",3
+"1292","1900-1959","ExpressJet Airlines Inc.","Charleston/Dunbar, WV: Yeager","ON_TIME",190
+"1293","1900-1959","JetBlue Airways","Charlotte Amalie, VI: Cyril E King","ON_TIME",2
+"1294","1900-1959","American Airlines Inc.","Charlotte, NC: Charlotte Douglas International","ON_TIME",2693
+"1295","1900-1959","Delta Air Lines Inc.","Charlotte, NC: Charlotte Douglas International","ON_TIME",428
+"1296","1900-1959","ExpressJet Airlines Inc.","Charlotte, NC: Charlotte Douglas International","ON_TIME",41
+"1297","1900-1959","JetBlue Airways","Charlotte, NC: Charlotte Douglas International","ON_TIME",145
+"1298","1900-1959","SkyWest Airlines Inc.","Charlotte, NC: Charlotte Douglas International","ON_TIME",40
+"1299","1900-1959","Southwest Airlines Co.","Charlotte, NC: Charlotte Douglas International","ON_TIME",180
+"1300","1900-1959","United Air Lines Inc.","Charlotte, NC: Charlotte Douglas International","ON_TIME",6
+"1301","1900-1959","ExpressJet Airlines Inc.","Charlottesville, VA: Charlottesville Albemarle","ON_TIME",38
+"1302","1900-1959","Delta Air Lines Inc.","Chattanooga, TN: Lovell Field","ON_TIME",22
+"1303","1900-1959","ExpressJet Airlines Inc.","Chattanooga, TN: Lovell Field","ON_TIME",132
+"1304","1900-1959","SkyWest Airlines Inc.","Chattanooga, TN: Lovell Field","ON_TIME",33
+"1305","1900-1959","Delta Air Lines Inc.","Chicago, IL: Chicago Midway International","ON_TIME",142
+"1306","1900-1959","SkyWest Airlines Inc.","Chicago, IL: Chicago Midway International","ON_TIME",13
+"1307","1900-1959","Southwest Airlines Co.","Chicago, IL: Chicago Midway International","ON_TIME",5086
+"1308","1900-1959","Alaska Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",290
+"1309","1900-1959","American Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",421
+"1310","1900-1959","Delta Air Lines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",429
+"1311","1900-1959","ExpressJet Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",2983
+"1312","1900-1959","Frontier Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",139
+"1313","1900-1959","JetBlue Airways","Chicago, IL: Chicago O'Hare International","ON_TIME",114
+"1314","1900-1959","SkyWest Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",2509
+"1315","1900-1959","Spirit Air Lines","Chicago, IL: Chicago O'Hare International","ON_TIME",553
+"1316","1900-1959","United Air Lines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",5483
+"1317","1900-1959","Virgin America","Chicago, IL: Chicago O'Hare International","ON_TIME",18
+"1318","1900-1959","Delta Air Lines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","ON_TIME",113
+"1319","1900-1959","ExpressJet Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","ON_TIME",93
+"1320","1900-1959","Frontier Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","ON_TIME",63
+"1321","1900-1959","SkyWest Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","ON_TIME",77
+"1322","1900-1959","American Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",102
+"1323","1900-1959","Delta Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",254
+"1324","1900-1959","ExpressJet Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",437
+"1325","1900-1959","Frontier Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",60
+"1326","1900-1959","JetBlue Airways","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",199
+"1327","1900-1959","SkyWest Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",2
+"1328","1900-1959","Southwest Airlines Co.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",177
+"1329","1900-1959","Spirit Air Lines","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",222
+"1330","1900-1959","United Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",108
+"1331","1900-1959","SkyWest Airlines Inc.","Cody, WY: Yellowstone Regional","ON_TIME",14
+"1332","1900-1959","ExpressJet Airlines Inc.","College Station/Bryan, TX: Easterwood Field","ON_TIME",45
+"1333","1900-1959","American Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal","ON_TIME",2
+"1334","1900-1959","Delta Air Lines Inc.","Columbia, SC: Columbia Metropolitan","ON_TIME",52
+"1335","1900-1959","ExpressJet Airlines Inc.","Columbia, SC: Columbia Metropolitan","ON_TIME",177
+"1336","1900-1959","American Airlines Inc.","Columbus, OH: Port Columbus International","ON_TIME",222
+"1337","1900-1959","Delta Air Lines Inc.","Columbus, OH: Port Columbus International","ON_TIME",98
+"1338","1900-1959","ExpressJet Airlines Inc.","Columbus, OH: Port Columbus International","ON_TIME",150
+"1339","1900-1959","SkyWest Airlines Inc.","Columbus, OH: Port Columbus International","ON_TIME",79
+"1340","1900-1959","Southwest Airlines Co.","Columbus, OH: Port Columbus International","ON_TIME",387
+"1341","1900-1959","United Air Lines Inc.","Columbus, OH: Port Columbus International","ON_TIME",1
+"1342","1900-1959","ExpressJet Airlines Inc.","Corpus Christi, TX: Corpus Christi International","ON_TIME",164
+"1343","1900-1959","SkyWest Airlines Inc.","Corpus Christi, TX: Corpus Christi International","ON_TIME",13
+"1344","1900-1959","Southwest Airlines Co.","Corpus Christi, TX: Corpus Christi International","ON_TIME",77
+"1345","1900-1959","Southwest Airlines Co.","Dallas, TX: Dallas Love Field","ON_TIME",2576
+"1346","1900-1959","Virgin America","Dallas, TX: Dallas Love Field","ON_TIME",224
+"1347","1900-1959","Alaska Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",299
+"1348","1900-1959","American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",2218
+"1349","1900-1959","Delta Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",373
+"1350","1900-1959","ExpressJet Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",182
+"1351","1900-1959","Frontier Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",127
+"1352","1900-1959","JetBlue Airways","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",9
+"1353","1900-1959","SkyWest Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",379
+"1354","1900-1959","Spirit Air Lines","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",146
+"1355","1900-1959","United Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",396
+"1356","1900-1959","American Airlines Inc.","Dayton, OH: James M Cox/Dayton International","ON_TIME",98
+"1357","1900-1959","ExpressJet Airlines Inc.","Dayton, OH: James M Cox/Dayton International","ON_TIME",12
+"1358","1900-1959","SkyWest Airlines Inc.","Dayton, OH: James M Cox/Dayton International","ON_TIME",35
+"1359","1900-1959","Southwest Airlines Co.","Dayton, OH: James M Cox/Dayton International","ON_TIME",11
+"1360","1900-1959","Alaska Airlines Inc.","Denver, CO: Denver International","ON_TIME",161
+"1361","1900-1959","American Airlines Inc.","Denver, CO: Denver International","ON_TIME",146
+"1362","1900-1959","Delta Air Lines Inc.","Denver, CO: Denver International","ON_TIME",122
+"1363","1900-1959","Frontier Airlines Inc.","Denver, CO: Denver International","ON_TIME",631
+"1364","1900-1959","SkyWest Airlines Inc.","Denver, CO: Denver International","ON_TIME",4110
+"1365","1900-1959","Southwest Airlines Co.","Denver, CO: Denver International","ON_TIME",2937
+"1366","1900-1959","Spirit Air Lines","Denver, CO: Denver International","ON_TIME",42
+"1367","1900-1959","United Air Lines Inc.","Denver, CO: Denver International","ON_TIME",3892
+"1368","1900-1959","American Airlines Inc.","Des Moines, IA: Des Moines International","ON_TIME",2
+"1369","1900-1959","Frontier Airlines Inc.","Des Moines, IA: Des Moines International","ON_TIME",57
+"1370","1900-1959","SkyWest Airlines Inc.","Des Moines, IA: Des Moines International","ON_TIME",98
+"1371","1900-1959","Southwest Airlines Co.","Des Moines, IA: Des Moines International","ON_TIME",39
+"1372","1900-1959","United Air Lines Inc.","Des Moines, IA: Des Moines International","ON_TIME",5
+"1373","1900-1959","American Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","ON_TIME",345
+"1374","1900-1959","Delta Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County","ON_TIME",2103
+"1375","1900-1959","ExpressJet Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","ON_TIME",474
+"1376","1900-1959","JetBlue Airways","Detroit, MI: Detroit Metro Wayne County","ON_TIME",162
+"1377","1900-1959","SkyWest Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","ON_TIME",488
+"1378","1900-1959","Southwest Airlines Co.","Detroit, MI: Detroit Metro Wayne County","ON_TIME",284
+"1379","1900-1959","Spirit Air Lines","Detroit, MI: Detroit Metro Wayne County","ON_TIME",556
+"1380","1900-1959","United Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County","ON_TIME",10
+"1381","1900-1959","SkyWest Airlines Inc.","Duluth, MN: Duluth International","ON_TIME",38
+"1382","1900-1959","SkyWest Airlines Inc.","Durango, CO: Durango La Plata County","ON_TIME",65
+"1383","1900-1959","American Airlines Inc.","Eagle, CO: Eagle County Regional","ON_TIME",75
+"1384","1900-1959","Southwest Airlines Co.","El Paso, TX: El Paso International","ON_TIME",137
+"1385","1900-1959","SkyWest Airlines Inc.","Eugene, OR: Mahlon Sweet Field","ON_TIME",41
+"1386","1900-1959","Delta Air Lines Inc.","Fargo, ND: Hector International","ON_TIME",23
+"1387","1900-1959","SkyWest Airlines Inc.","Fargo, ND: Hector International","ON_TIME",209
+"1388","1900-1959","Delta Air Lines Inc.","Fayetteville, AR: Northwest Arkansas Regional","ON_TIME",2
+"1389","1900-1959","SkyWest Airlines Inc.","Fayetteville, AR: Northwest Arkansas Regional","ON_TIME",1
+"1390","1900-1959","ExpressJet Airlines Inc.","Fayetteville, NC: Fayetteville Regional/Grannis Field","ON_TIME",88
+"1391","1900-1959","Southwest Airlines Co.","Flint, MI: Bishop International","ON_TIME",32
+"1392","1900-1959","American Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",626
+"1393","1900-1959","Delta Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",712
+"1394","1900-1959","Frontier Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",19
+"1395","1900-1959","JetBlue Airways","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",1023
+"1396","1900-1959","Southwest Airlines Co.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",967
+"1397","1900-1959","Spirit Air Lines","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",44
+"1398","1900-1959","United Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",86
+"1399","1900-1959","Virgin America","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",3
+"1400","1900-1959","American Airlines Inc.","Fort Myers, FL: Southwest Florida International","ON_TIME",322
+"1401","1900-1959","Delta Air Lines Inc.","Fort Myers, FL: Southwest Florida International","ON_TIME",240
+"1402","1900-1959","Frontier Airlines Inc.","Fort Myers, FL: Southwest Florida International","ON_TIME",32
+"1403","1900-1959","JetBlue Airways","Fort Myers, FL: Southwest Florida International","ON_TIME",254
+"1404","1900-1959","Southwest Airlines Co.","Fort Myers, FL: Southwest Florida International","ON_TIME",501
+"1405","1900-1959","Spirit Air Lines","Fort Myers, FL: Southwest Florida International","ON_TIME",131
+"1406","1900-1959","United Air Lines Inc.","Fort Myers, FL: Southwest Florida International","ON_TIME",148
+"1407","1900-1959","SkyWest Airlines Inc.","Fort Wayne, IN: Fort Wayne International","ON_TIME",2
+"1408","1900-1959","ExpressJet Airlines Inc.","Gainesville, FL: Gainesville Regional","ON_TIME",175
+"1409","1900-1959","SkyWest Airlines Inc.","Gillette, WY: Gillette Campbell County","ON_TIME",51
+"1410","1900-1959","SkyWest Airlines Inc.","Grand Forks, ND: Grand Forks International","ON_TIME",52
+"1411","1900-1959","SkyWest Airlines Inc.","Grand Junction, CO: Grand Junction Regional","ON_TIME",2
+"1412","1900-1959","Delta Air Lines Inc.","Grand Rapids, MI: Gerald R. Ford International","ON_TIME",45
+"1413","1900-1959","ExpressJet Airlines Inc.","Grand Rapids, MI: Gerald R. Ford International","ON_TIME",36
+"1414","1900-1959","SkyWest Airlines Inc.","Grand Rapids, MI: Gerald R. Ford International","ON_TIME",10
+"1415","1900-1959","Southwest Airlines Co.","Grand Rapids, MI: Gerald R. Ford International","ON_TIME",36
+"1416","1900-1959","ExpressJet Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","ON_TIME",13
+"1417","1900-1959","SkyWest Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","ON_TIME",74
+"1418","1900-1959","Delta Air Lines Inc.","Greensboro/High Point, NC: Piedmont Triad International","ON_TIME",45
+"1419","1900-1959","ExpressJet Airlines Inc.","Greensboro/High Point, NC: Piedmont Triad International","ON_TIME",177
+"1420","1900-1959","Delta Air Lines Inc.","Greer, SC: Greenville-Spartanburg International","ON_TIME",36
+"1421","1900-1959","ExpressJet Airlines Inc.","Greer, SC: Greenville-Spartanburg International","ON_TIME",76
+"1422","1900-1959","Southwest Airlines Co.","Greer, SC: Greenville-Spartanburg International","ON_TIME",118
+"1423","1900-1959","ExpressJet Airlines Inc.","Gulfport/Biloxi, MS: Gulfport-Biloxi International","ON_TIME",11
+"1424","1900-1959","ExpressJet Airlines Inc.","Harlingen/San Benito, TX: Valley International","ON_TIME",6
+"1425","1900-1959","Southwest Airlines Co.","Harlingen/San Benito, TX: Valley International","ON_TIME",115
+"1426","1900-1959","American Airlines Inc.","Hartford, CT: Bradley International","ON_TIME",223
+"1427","1900-1959","Delta Air Lines Inc.","Hartford, CT: Bradley International","ON_TIME",117
+"1428","1900-1959","JetBlue Airways","Hartford, CT: Bradley International","ON_TIME",196
+"1429","1900-1959","SkyWest Airlines Inc.","Hartford, CT: Bradley International","ON_TIME",12
+"1430","1900-1959","Southwest Airlines Co.","Hartford, CT: Bradley International","ON_TIME",105
+"1431","1900-1959","United Air Lines Inc.","Hartford, CT: Bradley International","ON_TIME",159
+"1432","1900-1959","Hawaiian Airlines Inc.","Hilo, HI: Hilo International","ON_TIME",512
+"1433","1900-1959","American Airlines Inc.","Honolulu, HI: Honolulu International","ON_TIME",30
+"1434","1900-1959","Hawaiian Airlines Inc.","Honolulu, HI: Honolulu International","ON_TIME",1438
+"1435","1900-1959","United Air Lines Inc.","Honolulu, HI: Honolulu International","ON_TIME",354
+"1436","1900-1959","American Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",145
+"1437","1900-1959","Delta Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",170
+"1438","1900-1959","ExpressJet Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",4165
+"1439","1900-1959","Frontier Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",83
+"1440","1900-1959","SkyWest Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",895
+"1441","1900-1959","Spirit Air Lines","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",222
+"1442","1900-1959","United Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",5403
+"1443","1900-1959","ExpressJet Airlines Inc.","Houston, TX: William P Hobby","ON_TIME",115
+"1444","1900-1959","Southwest Airlines Co.","Houston, TX: William P Hobby","ON_TIME",1550
+"1445","1900-1959","ExpressJet Airlines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field","ON_TIME",9
+"1446","1900-1959","American Airlines Inc.","Indianapolis, IN: Indianapolis International","ON_TIME",270
+"1447","1900-1959","Delta Air Lines Inc.","Indianapolis, IN: Indianapolis International","ON_TIME",100
+"1448","1900-1959","ExpressJet Airlines Inc.","Indianapolis, IN: Indianapolis International","ON_TIME",183
+"1449","1900-1959","Frontier Airlines Inc.","Indianapolis, IN: Indianapolis International","ON_TIME",81
+"1450","1900-1959","SkyWest Airlines Inc.","Indianapolis, IN: Indianapolis International","ON_TIME",9
+"1451","1900-1959","Southwest Airlines Co.","Indianapolis, IN: Indianapolis International","ON_TIME",409
+"1452","1900-1959","United Air Lines Inc.","Indianapolis, IN: Indianapolis International","ON_TIME",40
+"1453","1900-1959","Southwest Airlines Co.","Islip, NY: Long Island MacArthur","ON_TIME",108
+"1454","1900-1959","Delta Air Lines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International","ON_TIME",59
+"1455","1900-1959","ExpressJet Airlines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International","ON_TIME",98
+"1456","1900-1959","American Airlines Inc.","Jacksonville, FL: Jacksonville International","ON_TIME",245
+"1457","1900-1959","Delta Air Lines Inc.","Jacksonville, FL: Jacksonville International","ON_TIME",155
+"1458","1900-1959","ExpressJet Airlines Inc.","Jacksonville, FL: Jacksonville International","ON_TIME",14
+"1459","1900-1959","JetBlue Airways","Jacksonville, FL: Jacksonville International","ON_TIME",206
+"1460","1900-1959","Southwest Airlines Co.","Jacksonville, FL: Jacksonville International","ON_TIME",437
+"1461","1900-1959","United Air Lines Inc.","Jacksonville, FL: Jacksonville International","ON_TIME",25
+"1462","1900-1959","Alaska Airlines Inc.","Juneau, AK: Juneau International","ON_TIME",236
+"1463","1900-1959","Alaska Airlines Inc.","Kahului, HI: Kahului Airport","ON_TIME",1
+"1464","1900-1959","Hawaiian Airlines Inc.","Kahului, HI: Kahului Airport","ON_TIME",381
+"1465","1900-1959","United Air Lines Inc.","Kahului, HI: Kahului Airport","ON_TIME",4
+"1466","1900-1959","ExpressJet Airlines Inc.","Kalamazoo, MI: Kalamazoo/Battle Creek International","ON_TIME",7
+"1467","1900-1959","SkyWest Airlines Inc.","Kalamazoo, MI: Kalamazoo/Battle Creek International","ON_TIME",1
+"1468","1900-1959","American Airlines Inc.","Kansas City, MO: Kansas City International","ON_TIME",73
+"1469","1900-1959","Delta Air Lines Inc.","Kansas City, MO: Kansas City International","ON_TIME",211
+"1470","1900-1959","ExpressJet Airlines Inc.","Kansas City, MO: Kansas City International","ON_TIME",4
+"1471","1900-1959","Frontier Airlines Inc.","Kansas City, MO: Kansas City International","ON_TIME",163
+"1472","1900-1959","SkyWest Airlines Inc.","Kansas City, MO: Kansas City International","ON_TIME",100
+"1473","1900-1959","Southwest Airlines Co.","Kansas City, MO: Kansas City International","ON_TIME",1085
+"1474","1900-1959","Spirit Air Lines","Kansas City, MO: Kansas City International","ON_TIME",73
+"1475","1900-1959","ExpressJet Airlines Inc.","Killeen, TX: Robert Gray AAF","ON_TIME",25
+"1476","1900-1959","Delta Air Lines Inc.","Knoxville, TN: McGhee Tyson","ON_TIME",120
+"1477","1900-1959","ExpressJet Airlines Inc.","Knoxville, TN: McGhee Tyson","ON_TIME",288
+"1478","1900-1959","Hawaiian Airlines Inc.","Kona, HI: Kona International Airport at Keahole","ON_TIME",356
+"1479","1900-1959","United Air Lines Inc.","Kona, HI: Kona International Airport at Keahole","ON_TIME",24
+"1480","1900-1959","Alaska Airlines Inc.","Kotzebue, AK: Ralph Wien Memorial","ON_TIME",260
+"1481","1900-1959","ExpressJet Airlines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field","ON_TIME",227
+"1482","1900-1959","ExpressJet Airlines Inc.","Lansing, MI: Capital Region International","ON_TIME",40
+"1483","1900-1959","SkyWest Airlines Inc.","Lansing, MI: Capital Region International","ON_TIME",30
+"1484","1900-1959","Alaska Airlines Inc.","Las Vegas, NV: McCarran International","ON_TIME",612
+"1485","1900-1959","American Airlines Inc.","Las Vegas, NV: McCarran International","ON_TIME",338
+"1486","1900-1959","Delta Air Lines Inc.","Las Vegas, NV: McCarran International","ON_TIME",53
+"1487","1900-1959","Frontier Airlines Inc.","Las Vegas, NV: McCarran International","ON_TIME",99
+"1488","1900-1959","JetBlue Airways","Las Vegas, NV: McCarran International","ON_TIME",195
+"1489","1900-1959","SkyWest Airlines Inc.","Las Vegas, NV: McCarran International","ON_TIME",15
+"1490","1900-1959","Southwest Airlines Co.","Las Vegas, NV: McCarran International","ON_TIME",2966
+"1491","1900-1959","Spirit Air Lines","Las Vegas, NV: McCarran International","ON_TIME",221
+"1492","1900-1959","United Air Lines Inc.","Las Vegas, NV: McCarran International","ON_TIME",315
+"1493","1900-1959","Virgin America","Las Vegas, NV: McCarran International","ON_TIME",207
+"1494","1900-1959","Spirit Air Lines","Latrobe, PA: Arnold Palmer Regional","ON_TIME",180
+"1495","1900-1959","Delta Air Lines Inc.","Lexington, KY: Blue Grass","ON_TIME",3
+"1496","1900-1959","ExpressJet Airlines Inc.","Lexington, KY: Blue Grass","ON_TIME",194
+"1497","1900-1959","SkyWest Airlines Inc.","Lexington, KY: Blue Grass","ON_TIME",19
+"1498","1900-1959","Hawaiian Airlines Inc.","Lihue, HI: Lihue Airport","ON_TIME",333
+"1499","1900-1959","United Air Lines Inc.","Lihue, HI: Lihue Airport","ON_TIME",4
+"1500","1900-1959","Delta Air Lines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","ON_TIME",14
+"1501","1900-1959","ExpressJet Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","ON_TIME",15
+"1502","1900-1959","SkyWest Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","ON_TIME",12
+"1503","1900-1959","Southwest Airlines Co.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","ON_TIME",90
+"1504","1900-1959","JetBlue Airways","Long Beach, CA: Long Beach Airport","ON_TIME",439
+"1505","1900-1959","Southwest Airlines Co.","Long Beach, CA: Long Beach Airport","ON_TIME",4
+"1506","1900-1959","Alaska Airlines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",850
+"1507","1900-1959","American Airlines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",822
+"1508","1900-1959","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",786
+"1509","1900-1959","Frontier Airlines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",93
+"1510","1900-1959","SkyWest Airlines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",2168
+"1511","1900-1959","Southwest Airlines Co.","Los Angeles, CA: Los Angeles International","ON_TIME",1598
+"1512","1900-1959","Spirit Air Lines","Los Angeles, CA: Los Angeles International","ON_TIME",552
+"1513","1900-1959","United Air Lines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",647
+"1514","1900-1959","Virgin America","Los Angeles, CA: Los Angeles International","ON_TIME",220
+"1515","1900-1959","American Airlines Inc.","Louisville, KY: Louisville International-Standiford Field","ON_TIME",2
+"1516","1900-1959","Delta Air Lines Inc.","Louisville, KY: Louisville International-Standiford Field","ON_TIME",168
+"1517","1900-1959","ExpressJet Airlines Inc.","Louisville, KY: Louisville International-Standiford Field","ON_TIME",33
+"1518","1900-1959","Southwest Airlines Co.","Louisville, KY: Louisville International-Standiford Field","ON_TIME",96
+"1519","1900-1959","Southwest Airlines Co.","Lubbock, TX: Lubbock Preston Smith International","ON_TIME",26
+"1520","1900-1959","ExpressJet Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","ON_TIME",62
+"1521","1900-1959","Frontier Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","ON_TIME",95
+"1522","1900-1959","SkyWest Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","ON_TIME",258
+"1523","1900-1959","United Air Lines Inc.","Madison, WI: Dane County Regional-Truax Field","ON_TIME",1
+"1524","1900-1959","ExpressJet Airlines Inc.","Manchester, NH: Manchester-Boston Regional","ON_TIME",3
+"1525","1900-1959","Southwest Airlines Co.","Manchester, NH: Manchester-Boston Regional","ON_TIME",5
+"1526","1900-1959","SkyWest Airlines Inc.","Medford, OR: Rogue Valley International - Medford","ON_TIME",69
+"1527","1900-1959","ExpressJet Airlines Inc.","Melbourne, FL: Melbourne International","ON_TIME",74
+"1528","1900-1959","American Airlines Inc.","Memphis, TN: Memphis International","ON_TIME",175
+"1529","1900-1959","Delta Air Lines Inc.","Memphis, TN: Memphis International","ON_TIME",113
+"1530","1900-1959","ExpressJet Airlines Inc.","Memphis, TN: Memphis International","ON_TIME",77
+"1531","1900-1959","Frontier Airlines Inc.","Memphis, TN: Memphis International","ON_TIME",35
+"1532","1900-1959","SkyWest Airlines Inc.","Memphis, TN: Memphis International","ON_TIME",2
+"1533","1900-1959","Southwest Airlines Co.","Memphis, TN: Memphis International","ON_TIME",208
+"1534","1900-1959","American Airlines Inc.","Miami, FL: Miami International","ON_TIME",1559
+"1535","1900-1959","Delta Air Lines Inc.","Miami, FL: Miami International","ON_TIME",753
+"1536","1900-1959","Frontier Airlines Inc.","Miami, FL: Miami International","ON_TIME",118
+"1537","1900-1959","United Air Lines Inc.","Miami, FL: Miami International","ON_TIME",174
+"1538","1900-1959","ExpressJet Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port","ON_TIME",100
+"1539","1900-1959","SkyWest Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port","ON_TIME",43
+"1540","1900-1959","Southwest Airlines Co.","Midland/Odessa, TX: Midland International Air and Space Port","ON_TIME",310
+"1541","1900-1959","American Airlines Inc.","Milwaukee, WI: General Mitchell International","ON_TIME",1
+"1542","1900-1959","Delta Air Lines Inc.","Milwaukee, WI: General Mitchell International","ON_TIME",238
+"1543","1900-1959","ExpressJet Airlines Inc.","Milwaukee, WI: General Mitchell International","ON_TIME",39
+"1544","1900-1959","Frontier Airlines Inc.","Milwaukee, WI: General Mitchell International","ON_TIME",187
+"1545","1900-1959","SkyWest Airlines Inc.","Milwaukee, WI: General Mitchell International","ON_TIME",445
+"1546","1900-1959","Southwest Airlines Co.","Milwaukee, WI: General Mitchell International","ON_TIME",649
+"1547","1900-1959","Alaska Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",63
+"1548","1900-1959","American Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",196
+"1549","1900-1959","Delta Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",5931
+"1550","1900-1959","ExpressJet Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",391
+"1551","1900-1959","Frontier Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",53
+"1552","1900-1959","SkyWest Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",2240
+"1553","1900-1959","Southwest Airlines Co.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",319
+"1554","1900-1959","Spirit Air Lines","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",231
+"1555","1900-1959","United Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",2
+"1556","1900-1959","SkyWest Airlines Inc.","Minot, ND: Minot International","ON_TIME",67
+"1557","1900-1959","ExpressJet Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International","ON_TIME",91
+"1558","1900-1959","SkyWest Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International","ON_TIME",29
+"1559","1900-1959","SkyWest Airlines Inc.","Missoula, MT: Missoula International","ON_TIME",72
+"1560","1900-1959","ExpressJet Airlines Inc.","Mobile, AL: Mobile Regional","ON_TIME",201
+"1561","1900-1959","SkyWest Airlines Inc.","Moline, IL: Quad City International","ON_TIME",3
+"1562","1900-1959","SkyWest Airlines Inc.","Monterey, CA: Monterey Regional","ON_TIME",170
+"1563","1900-1959","SkyWest Airlines Inc.","Muskegon, MI: Muskegon County","ON_TIME",22
+"1564","1900-1959","Delta Air Lines Inc.","Myrtle Beach, SC: Myrtle Beach International","ON_TIME",51
+"1565","1900-1959","ExpressJet Airlines Inc.","Myrtle Beach, SC: Myrtle Beach International","ON_TIME",143
+"1566","1900-1959","American Airlines Inc.","Nashville, TN: Nashville International","ON_TIME",333
+"1567","1900-1959","Delta Air Lines Inc.","Nashville, TN: Nashville International","ON_TIME",132
+"1568","1900-1959","ExpressJet Airlines Inc.","Nashville, TN: Nashville International","ON_TIME",6
+"1569","1900-1959","Frontier Airlines Inc.","Nashville, TN: Nashville International","ON_TIME",60
+"1570","1900-1959","JetBlue Airways","Nashville, TN: Nashville International","ON_TIME",45
+"1571","1900-1959","SkyWest Airlines Inc.","Nashville, TN: Nashville International","ON_TIME",9
+"1572","1900-1959","Southwest Airlines Co.","Nashville, TN: Nashville International","ON_TIME",1691
+"1573","1900-1959","United Air Lines Inc.","Nashville, TN: Nashville International","ON_TIME",21
+"1574","1900-1959","American Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",99
+"1575","1900-1959","Delta Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",443
+"1576","1900-1959","Frontier Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",194
+"1577","1900-1959","JetBlue Airways","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",1
+"1578","1900-1959","SkyWest Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",9
+"1579","1900-1959","Southwest Airlines Co.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",827
+"1580","1900-1959","Spirit Air Lines","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",207
+"1581","1900-1959","United Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",159
+"1582","1900-1959","American Airlines Inc.","New York, NY: John F. Kennedy International","ON_TIME",459
+"1583","1900-1959","Delta Air Lines Inc.","New York, NY: John F. Kennedy International","ON_TIME",2865
+"1584","1900-1959","JetBlue Airways","New York, NY: John F. Kennedy International","ON_TIME",1584
+"1585","1900-1959","American Airlines Inc.","New York, NY: LaGuardia","ON_TIME",814
+"1586","1900-1959","Delta Air Lines Inc.","New York, NY: LaGuardia","ON_TIME",1269
+"1587","1900-1959","ExpressJet Airlines Inc.","New York, NY: LaGuardia","ON_TIME",241
+"1588","1900-1959","JetBlue Airways","New York, NY: LaGuardia","ON_TIME",363
+"1589","1900-1959","SkyWest Airlines Inc.","New York, NY: LaGuardia","ON_TIME",38
+"1590","1900-1959","Southwest Airlines Co.","New York, NY: LaGuardia","ON_TIME",317
+"1591","1900-1959","Spirit Air Lines","New York, NY: LaGuardia","ON_TIME",156
+"1592","1900-1959","United Air Lines Inc.","New York, NY: LaGuardia","ON_TIME",81
+"1593","1900-1959","Alaska Airlines Inc.","Newark, NJ: Newark Liberty International","ON_TIME",18
+"1594","1900-1959","American Airlines Inc.","Newark, NJ: Newark Liberty International","ON_TIME",1
+"1595","1900-1959","Delta Air Lines Inc.","Newark, NJ: Newark Liberty International","ON_TIME",121
+"1596","1900-1959","ExpressJet Airlines Inc.","Newark, NJ: Newark Liberty International","ON_TIME",1247
+"1597","1900-1959","JetBlue Airways","Newark, NJ: Newark Liberty International","ON_TIME",28
+"1598","1900-1959","United Air Lines Inc.","Newark, NJ: Newark Liberty International","ON_TIME",2552
+"1599","1900-1959","Virgin America","Newark, NJ: Newark Liberty International","ON_TIME",11
+"1600","1900-1959","Alaska Airlines Inc.","Nome, AK: Nome Airport","ON_TIME",32
+"1601","1900-1959","American Airlines Inc.","Norfolk, VA: Norfolk International","ON_TIME",81
+"1602","1900-1959","Delta Air Lines Inc.","Norfolk, VA: Norfolk International","ON_TIME",139
+"1603","1900-1959","ExpressJet Airlines Inc.","Norfolk, VA: Norfolk International","ON_TIME",69
+"1604","1900-1959","Southwest Airlines Co.","Norfolk, VA: Norfolk International","ON_TIME",145
+"1605","1900-1959","American Airlines Inc.","Oakland, CA: Metropolitan Oakland International","ON_TIME",79
+"1606","1900-1959","Delta Air Lines Inc.","Oakland, CA: Metropolitan Oakland International","ON_TIME",28
+"1607","1900-1959","JetBlue Airways","Oakland, CA: Metropolitan Oakland International","ON_TIME",100
+"1608","1900-1959","SkyWest Airlines Inc.","Oakland, CA: Metropolitan Oakland International","ON_TIME",12
+"1609","1900-1959","Southwest Airlines Co.","Oakland, CA: Metropolitan Oakland International","ON_TIME",1868
+"1610","1900-1959","ExpressJet Airlines Inc.","Oklahoma City, OK: Will Rogers World","ON_TIME",5
+"1611","1900-1959","SkyWest Airlines Inc.","Oklahoma City, OK: Will Rogers World","ON_TIME",86
+"1612","1900-1959","Southwest Airlines Co.","Oklahoma City, OK: Will Rogers World","ON_TIME",316
+"1613","1900-1959","American Airlines Inc.","Omaha, NE: Eppley Airfield","ON_TIME",31
+"1614","1900-1959","Delta Air Lines Inc.","Omaha, NE: Eppley Airfield","ON_TIME",52
+"1615","1900-1959","ExpressJet Airlines Inc.","Omaha, NE: Eppley Airfield","ON_TIME",28
+"1616","1900-1959","Frontier Airlines Inc.","Omaha, NE: Eppley Airfield","ON_TIME",62
+"1617","1900-1959","SkyWest Airlines Inc.","Omaha, NE: Eppley Airfield","ON_TIME",191
+"1618","1900-1959","Southwest Airlines Co.","Omaha, NE: Eppley Airfield","ON_TIME",386
+"1619","1900-1959","American Airlines Inc.","Ontario, CA: Ontario International","ON_TIME",37
+"1620","1900-1959","SkyWest Airlines Inc.","Ontario, CA: Ontario International","ON_TIME",171
+"1621","1900-1959","Southwest Airlines Co.","Ontario, CA: Ontario International","ON_TIME",516
+"1622","1900-1959","American Airlines Inc.","Orlando, FL: Orlando International","ON_TIME",1178
+"1623","1900-1959","Delta Air Lines Inc.","Orlando, FL: Orlando International","ON_TIME",880
+"1624","1900-1959","Frontier Airlines Inc.","Orlando, FL: Orlando International","ON_TIME",315
+"1625","1900-1959","JetBlue Airways","Orlando, FL: Orlando International","ON_TIME",766
+"1626","1900-1959","Southwest Airlines Co.","Orlando, FL: Orlando International","ON_TIME",2605
+"1627","1900-1959","Spirit Air Lines","Orlando, FL: Orlando International","ON_TIME",144
+"1628","1900-1959","United Air Lines Inc.","Orlando, FL: Orlando International","ON_TIME",581
+"1629","1900-1959","Alaska Airlines Inc.","Palm Springs, CA: Palm Springs International","ON_TIME",43
+"1630","1900-1959","SkyWest Airlines Inc.","Palm Springs, CA: Palm Springs International","ON_TIME",3
+"1631","1900-1959","Virgin America","Palm Springs, CA: Palm Springs International","ON_TIME",40
+"1632","1900-1959","Delta Air Lines Inc.","Panama City, FL: Northwest Florida Beaches International","ON_TIME",1
+"1633","1900-1959","Southwest Airlines Co.","Panama City, FL: Northwest Florida Beaches International","ON_TIME",148
+"1634","1900-1959","SkyWest Airlines Inc.","Pasco/Kennewick/Richland, WA: Tri Cities","ON_TIME",43
+"1635","1900-1959","SkyWest Airlines Inc.","Pellston, MI: Pellston Regional Airport of Emmet County","ON_TIME",3
+"1636","1900-1959","Delta Air Lines Inc.","Pensacola, FL: Pensacola International","ON_TIME",78
+"1637","1900-1959","ExpressJet Airlines Inc.","Pensacola, FL: Pensacola International","ON_TIME",4
+"1638","1900-1959","Southwest Airlines Co.","Pensacola, FL: Pensacola International","ON_TIME",101
+"1639","1900-1959","ExpressJet Airlines Inc.","Peoria, IL: General Downing - Peoria International","ON_TIME",32
+"1640","1900-1959","SkyWest Airlines Inc.","Peoria, IL: General Downing - Peoria International","ON_TIME",51
+"1641","1900-1959","American Airlines Inc.","Philadelphia, PA: Philadelphia International","ON_TIME",468
+"1642","1900-1959","Delta Air Lines Inc.","Philadelphia, PA: Philadelphia International","ON_TIME",409
+"1643","1900-1959","ExpressJet Airlines Inc.","Philadelphia, PA: Philadelphia International","ON_TIME",3
+"1644","1900-1959","Frontier Airlines Inc.","Philadelphia, PA: Philadelphia International","ON_TIME",134
+"1645","1900-1959","JetBlue Airways","Philadelphia, PA: Philadelphia International","ON_TIME",114
+"1646","1900-1959","SkyWest Airlines Inc.","Philadelphia, PA: Philadelphia International","ON_TIME",28
+"1647","1900-1959","Southwest Airlines Co.","Philadelphia, PA: Philadelphia International","ON_TIME",134
+"1648","1900-1959","Spirit Air Lines","Philadelphia, PA: Philadelphia International","ON_TIME",229
+"1649","1900-1959","United Air Lines Inc.","Philadelphia, PA: Philadelphia International","ON_TIME",1
+"1650","1900-1959","Alaska Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",300
+"1651","1900-1959","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",1249
+"1652","1900-1959","Delta Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",128
+"1653","1900-1959","Frontier Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",216
+"1654","1900-1959","SkyWest Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",916
+"1655","1900-1959","Southwest Airlines Co.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",2693
+"1656","1900-1959","United Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",122
+"1657","1900-1959","American Airlines Inc.","Pittsburgh, PA: Pittsburgh International","ON_TIME",287
+"1658","1900-1959","Delta Air Lines Inc.","Pittsburgh, PA: Pittsburgh International","ON_TIME",189
+"1659","1900-1959","ExpressJet Airlines Inc.","Pittsburgh, PA: Pittsburgh International","ON_TIME",111
+"1660","1900-1959","JetBlue Airways","Pittsburgh, PA: Pittsburgh International","ON_TIME",178
+"1661","1900-1959","SkyWest Airlines Inc.","Pittsburgh, PA: Pittsburgh International","ON_TIME",41
+"1662","1900-1959","Southwest Airlines Co.","Pittsburgh, PA: Pittsburgh International","ON_TIME",222
+"1663","1900-1959","United Air Lines Inc.","Pittsburgh, PA: Pittsburgh International","ON_TIME",8
+"1664","1900-1959","ExpressJet Airlines Inc.","Portland, ME: Portland International Jetport","ON_TIME",58
+"1665","1900-1959","JetBlue Airways","Portland, ME: Portland International Jetport","ON_TIME",114
+"1666","1900-1959","United Air Lines Inc.","Portland, ME: Portland International Jetport","ON_TIME",6
+"1667","1900-1959","Alaska Airlines Inc.","Portland, OR: Portland International","ON_TIME",230
+"1668","1900-1959","American Airlines Inc.","Portland, OR: Portland International","ON_TIME",2
+"1669","1900-1959","Delta Air Lines Inc.","Portland, OR: Portland International","ON_TIME",259
+"1670","1900-1959","Frontier Airlines Inc.","Portland, OR: Portland International","ON_TIME",204
+"1671","1900-1959","SkyWest Airlines Inc.","Portland, OR: Portland International","ON_TIME",510
+"1672","1900-1959","Southwest Airlines Co.","Portland, OR: Portland International","ON_TIME",311
+"1673","1900-1959","Spirit Air Lines","Portland, OR: Portland International","ON_TIME",167
+"1674","1900-1959","United Air Lines Inc.","Portland, OR: Portland International","ON_TIME",154
+"1675","1900-1959","American Airlines Inc.","Providence, RI: Theodore Francis Green State","ON_TIME",204
+"1676","1900-1959","JetBlue Airways","Providence, RI: Theodore Francis Green State","ON_TIME",9
+"1677","1900-1959","Southwest Airlines Co.","Providence, RI: Theodore Francis Green State","ON_TIME",58
+"1678","1900-1959","Frontier Airlines Inc.","Punta Gorda, FL: Punta Gorda Airport","ON_TIME",12
+"1679","1900-1959","American Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",362
+"1680","1900-1959","Delta Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",348
+"1681","1900-1959","ExpressJet Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",201
+"1682","1900-1959","Frontier Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",45
+"1683","1900-1959","JetBlue Airways","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",176
+"1684","1900-1959","Southwest Airlines Co.","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",483
+"1685","1900-1959","United Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",97
+"1686","1900-1959","SkyWest Airlines Inc.","Rapid City, SD: Rapid City Regional","ON_TIME",27
+"1687","1900-1959","American Airlines Inc.","Reno, NV: Reno/Tahoe International","ON_TIME",62
+"1688","1900-1959","SkyWest Airlines Inc.","Reno, NV: Reno/Tahoe International","ON_TIME",133
+"1689","1900-1959","Southwest Airlines Co.","Reno, NV: Reno/Tahoe International","ON_TIME",260
+"1690","1900-1959","American Airlines Inc.","Richmond, VA: Richmond International","ON_TIME",306
+"1691","1900-1959","Delta Air Lines Inc.","Richmond, VA: Richmond International","ON_TIME",200
+"1692","1900-1959","ExpressJet Airlines Inc.","Richmond, VA: Richmond International","ON_TIME",28
+"1693","1900-1959","JetBlue Airways","Richmond, VA: Richmond International","ON_TIME",94
+"1694","1900-1959","SkyWest Airlines Inc.","Richmond, VA: Richmond International","ON_TIME",1
+"1695","1900-1959","ExpressJet Airlines Inc.","Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field","ON_TIME",176
+"1696","1900-1959","ExpressJet Airlines Inc.","Rochester, NY: Greater Rochester International","ON_TIME",42
+"1697","1900-1959","JetBlue Airways","Rochester, NY: Greater Rochester International","ON_TIME",62
+"1698","1900-1959","Southwest Airlines Co.","Rochester, NY: Greater Rochester International","ON_TIME",1
+"1699","1900-1959","Alaska Airlines Inc.","Sacramento, CA: Sacramento International","ON_TIME",284
+"1700","1900-1959","American Airlines Inc.","Sacramento, CA: Sacramento International","ON_TIME",266
+"1701","1900-1959","Delta Air Lines Inc.","Sacramento, CA: Sacramento International","ON_TIME",174
+"1702","1900-1959","JetBlue Airways","Sacramento, CA: Sacramento International","ON_TIME",83
+"1703","1900-1959","SkyWest Airlines Inc.","Sacramento, CA: Sacramento International","ON_TIME",438
+"1704","1900-1959","Southwest Airlines Co.","Sacramento, CA: Sacramento International","ON_TIME",768
+"1705","1900-1959","United Air Lines Inc.","Sacramento, CA: Sacramento International","ON_TIME",2
+"1706","1900-1959","SkyWest Airlines Inc.","Saginaw/Bay City/Midland, MI: MBS International","ON_TIME",266
+"1707","1900-1959","Alaska Airlines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",188
+"1708","1900-1959","American Airlines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",4
+"1709","1900-1959","Delta Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",80
+"1710","1900-1959","Frontier Airlines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",63
+"1711","1900-1959","JetBlue Airways","Salt Lake City, UT: Salt Lake City International","ON_TIME",96
+"1712","1900-1959","SkyWest Airlines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",124
+"1713","1900-1959","Southwest Airlines Co.","Salt Lake City, UT: Salt Lake City International","ON_TIME",164
+"1714","1900-1959","United Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",13
+"1715","1900-1959","American Airlines Inc.","San Antonio, TX: San Antonio International","ON_TIME",278
+"1716","1900-1959","Frontier Airlines Inc.","San Antonio, TX: San Antonio International","ON_TIME",17
+"1717","1900-1959","SkyWest Airlines Inc.","San Antonio, TX: San Antonio International","ON_TIME",44
+"1718","1900-1959","Southwest Airlines Co.","San Antonio, TX: San Antonio International","ON_TIME",813
+"1719","1900-1959","United Air Lines Inc.","San Antonio, TX: San Antonio International","ON_TIME",209
+"1720","1900-1959","Alaska Airlines Inc.","San Diego, CA: San Diego International","ON_TIME",302
+"1721","1900-1959","American Airlines Inc.","San Diego, CA: San Diego International","ON_TIME",272
+"1722","1900-1959","Delta Air Lines Inc.","San Diego, CA: San Diego International","ON_TIME",1
+"1723","1900-1959","Frontier Airlines Inc.","San Diego, CA: San Diego International","ON_TIME",175
+"1724","1900-1959","SkyWest Airlines Inc.","San Diego, CA: San Diego International","ON_TIME",428
+"1725","1900-1959","Southwest Airlines Co.","San Diego, CA: San Diego International","ON_TIME",1335
+"1726","1900-1959","Spirit Air Lines","San Diego, CA: San Diego International","ON_TIME",107
+"1727","1900-1959","United Air Lines Inc.","San Diego, CA: San Diego International","ON_TIME",178
+"1728","1900-1959","Virgin America","San Diego, CA: San Diego International","ON_TIME",196
+"1729","1900-1959","Alaska Airlines Inc.","San Francisco, CA: San Francisco International","ON_TIME",211
+"1730","1900-1959","American Airlines Inc.","San Francisco, CA: San Francisco International","ON_TIME",249
+"1731","1900-1959","Delta Air Lines Inc.","San Francisco, CA: San Francisco International","ON_TIME",187
+"1732","1900-1959","Frontier Airlines Inc.","San Francisco, CA: San Francisco International","ON_TIME",34
+"1733","1900-1959","JetBlue Airways","San Francisco, CA: San Francisco International","ON_TIME",120
+"1734","1900-1959","SkyWest Airlines Inc.","San Francisco, CA: San Francisco International","ON_TIME",1790
+"1735","1900-1959","Southwest Airlines Co.","San Francisco, CA: San Francisco International","ON_TIME",589
+"1736","1900-1959","United Air Lines Inc.","San Francisco, CA: San Francisco International","ON_TIME",2238
+"1737","1900-1959","Virgin America","San Francisco, CA: San Francisco International","ON_TIME",439
+"1738","1900-1959","American Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International","ON_TIME",290
+"1739","1900-1959","SkyWest Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International","ON_TIME",77
+"1740","1900-1959","Southwest Airlines Co.","San Jose, CA: Norman Y. Mineta San Jose International","ON_TIME",980
+"1741","1900-1959","American Airlines Inc.","San Juan, PR: Luis Munoz Marin International","ON_TIME",6
+"1742","1900-1959","Delta Air Lines Inc.","San Juan, PR: Luis Munoz Marin International","ON_TIME",159
+"1743","1900-1959","JetBlue Airways","San Juan, PR: Luis Munoz Marin International","ON_TIME",843
+"1744","1900-1959","Southwest Airlines Co.","San Juan, PR: Luis Munoz Marin International","ON_TIME",139
+"1745","1900-1959","SkyWest Airlines Inc.","San Luis Obispo, CA: San Luis County Regional","ON_TIME",310
+"1746","1900-1959","Alaska Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","ON_TIME",101
+"1747","1900-1959","American Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","ON_TIME",280
+"1748","1900-1959","Frontier Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","ON_TIME",178
+"1749","1900-1959","SkyWest Airlines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","ON_TIME",25
+"1750","1900-1959","Southwest Airlines Co.","Santa Ana, CA: John Wayne Airport-Orange County","ON_TIME",1054
+"1751","1900-1959","United Air Lines Inc.","Santa Ana, CA: John Wayne Airport-Orange County","ON_TIME",4
+"1752","1900-1959","SkyWest Airlines Inc.","Santa Barbara, CA: Santa Barbara Municipal","ON_TIME",267
+"1753","1900-1959","ExpressJet Airlines Inc.","Santa Fe, NM: Santa Fe Municipal","ON_TIME",2
+"1754","1900-1959","Delta Air Lines Inc.","Sarasota/Bradenton, FL: Sarasota/Bradenton International","ON_TIME",32
+"1755","1900-1959","JetBlue Airways","Sarasota/Bradenton, FL: Sarasota/Bradenton International","ON_TIME",1
+"1756","1900-1959","Delta Air Lines Inc.","Savannah, GA: Savannah/Hilton Head International","ON_TIME",179
+"1757","1900-1959","ExpressJet Airlines Inc.","Savannah, GA: Savannah/Hilton Head International","ON_TIME",2
+"1758","1900-1959","JetBlue Airways","Savannah, GA: Savannah/Hilton Head International","ON_TIME",31
+"1759","1900-1959","SkyWest Airlines Inc.","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International","ON_TIME",1
+"1760","1900-1959","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",3034
+"1761","1900-1959","American Airlines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",57
+"1762","1900-1959","Delta Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",121
+"1763","1900-1959","Frontier Airlines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",170
+"1764","1900-1959","SkyWest Airlines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",251
+"1765","1900-1959","Southwest Airlines Co.","Seattle, WA: Seattle/Tacoma International","ON_TIME",534
+"1766","1900-1959","United Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",171
+"1767","1900-1959","Virgin America","Seattle, WA: Seattle/Tacoma International","ON_TIME",225
+"1768","1900-1959","SkyWest Airlines Inc.","Sioux Falls, SD: Joe Foss Field","ON_TIME",26
+"1769","1900-1959","ExpressJet Airlines Inc.","South Bend, IN: South Bend International","ON_TIME",11
+"1770","1900-1959","SkyWest Airlines Inc.","South Bend, IN: South Bend International","ON_TIME",87
+"1771","1900-1959","Alaska Airlines Inc.","Spokane, WA: Spokane International","ON_TIME",15
+"1772","1900-1959","SkyWest Airlines Inc.","Spokane, WA: Spokane International","ON_TIME",110
+"1773","1900-1959","Southwest Airlines Co.","Spokane, WA: Spokane International","ON_TIME",42
+"1774","1900-1959","American Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",256
+"1775","1900-1959","Delta Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",244
+"1776","1900-1959","ExpressJet Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",26
+"1777","1900-1959","SkyWest Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",66
+"1778","1900-1959","Southwest Airlines Co.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",2127
+"1779","1900-1959","United Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",4
+"1780","1900-1959","American Airlines Inc.","Syracuse, NY: Syracuse Hancock International","ON_TIME",75
+"1781","1900-1959","ExpressJet Airlines Inc.","Syracuse, NY: Syracuse Hancock International","ON_TIME",54
+"1782","1900-1959","JetBlue Airways","Syracuse, NY: Syracuse Hancock International","ON_TIME",38
+"1783","1900-1959","SkyWest Airlines Inc.","Syracuse, NY: Syracuse Hancock International","ON_TIME",1
+"1784","1900-1959","Delta Air Lines Inc.","Tallahassee, FL: Tallahassee International","ON_TIME",15
+"1785","1900-1959","ExpressJet Airlines Inc.","Tallahassee, FL: Tallahassee International","ON_TIME",174
+"1786","1900-1959","American Airlines Inc.","Tampa, FL: Tampa International","ON_TIME",976
+"1787","1900-1959","Delta Air Lines Inc.","Tampa, FL: Tampa International","ON_TIME",652
+"1788","1900-1959","Frontier Airlines Inc.","Tampa, FL: Tampa International","ON_TIME",75
+"1789","1900-1959","JetBlue Airways","Tampa, FL: Tampa International","ON_TIME",285
+"1790","1900-1959","Southwest Airlines Co.","Tampa, FL: Tampa International","ON_TIME",1404
+"1791","1900-1959","Spirit Air Lines","Tampa, FL: Tampa International","ON_TIME",312
+"1792","1900-1959","United Air Lines Inc.","Tampa, FL: Tampa International","ON_TIME",290
+"1793","1900-1959","SkyWest Airlines Inc.","Traverse City, MI: Cherry Capital","ON_TIME",10
+"1794","1900-1959","Frontier Airlines Inc.","Trenton, NJ: Trenton Mercer","ON_TIME",5
+"1795","1900-1959","American Airlines Inc.","Tucson, AZ: Tucson International","ON_TIME",3
+"1796","1900-1959","SkyWest Airlines Inc.","Tucson, AZ: Tucson International","ON_TIME",205
+"1797","1900-1959","Southwest Airlines Co.","Tucson, AZ: Tucson International","ON_TIME",172
+"1798","1900-1959","ExpressJet Airlines Inc.","Tulsa, OK: Tulsa International","ON_TIME",29
+"1799","1900-1959","SkyWest Airlines Inc.","Tulsa, OK: Tulsa International","ON_TIME",1
+"1800","1900-1959","Southwest Airlines Co.","Tulsa, OK: Tulsa International","ON_TIME",229
+"1801","1900-1959","United Air Lines Inc.","Tulsa, OK: Tulsa International","ON_TIME",1
+"1802","1900-1959","ExpressJet Airlines Inc.","Tyler, TX: Tyler Pounds Regional","ON_TIME",39
+"1803","1900-1959","ExpressJet Airlines Inc.","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach","ON_TIME",123
+"1804","1900-1959","American Airlines Inc.","Washington, DC: Ronald Reagan Washington National","ON_TIME",1260
+"1805","1900-1959","Delta Air Lines Inc.","Washington, DC: Ronald Reagan Washington National","ON_TIME",560
+"1806","1900-1959","ExpressJet Airlines Inc.","Washington, DC: Ronald Reagan Washington National","ON_TIME",134
+"1807","1900-1959","JetBlue Airways","Washington, DC: Ronald Reagan Washington National","ON_TIME",303
+"1808","1900-1959","SkyWest Airlines Inc.","Washington, DC: Ronald Reagan Washington National","ON_TIME",25
+"1809","1900-1959","Southwest Airlines Co.","Washington, DC: Ronald Reagan Washington National","ON_TIME",592
+"1810","1900-1959","United Air Lines Inc.","Washington, DC: Ronald Reagan Washington National","ON_TIME",62
+"1811","1900-1959","Alaska Airlines Inc.","Washington, DC: Washington Dulles International","ON_TIME",42
+"1812","1900-1959","American Airlines Inc.","Washington, DC: Washington Dulles International","ON_TIME",45
+"1813","1900-1959","Delta Air Lines Inc.","Washington, DC: Washington Dulles International","ON_TIME",203
+"1814","1900-1959","Frontier Airlines Inc.","Washington, DC: Washington Dulles International","ON_TIME",33
+"1815","1900-1959","JetBlue Airways","Washington, DC: Washington Dulles International","ON_TIME",28
+"1816","1900-1959","SkyWest Airlines Inc.","Washington, DC: Washington Dulles International","ON_TIME",18
+"1817","1900-1959","Southwest Airlines Co.","Washington, DC: Washington Dulles International","ON_TIME",113
+"1818","1900-1959","United Air Lines Inc.","Washington, DC: Washington Dulles International","ON_TIME",746
+"1819","1900-1959","American Airlines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","ON_TIME",326
+"1820","1900-1959","Delta Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","ON_TIME",389
+"1821","1900-1959","JetBlue Airways","West Palm Beach/Palm Beach, FL: Palm Beach International","ON_TIME",392
+"1822","1900-1959","Southwest Airlines Co.","West Palm Beach/Palm Beach, FL: Palm Beach International","ON_TIME",158
+"1823","1900-1959","United Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","ON_TIME",174
+"1824","1900-1959","ExpressJet Airlines Inc.","White Plains, NY: Westchester County","ON_TIME",122
+"1825","1900-1959","JetBlue Airways","Worcester, MA: Worcester Regional","ON_TIME",8
+"1826","1900-1959","SkyWest Airlines Inc.","Yuma, AZ: Yuma MCAS/Yuma International","ON_TIME",102

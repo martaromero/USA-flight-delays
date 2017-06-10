@@ -1,0 +1,1749 @@
+"","TIME_BLOCK","NAME_AIRLINE","NAME_AIRPORT","FLIGHT_STATE","NFLIGHTS"
+"1","0001-0559","SkyWest Airlines Inc.","Aberdeen, SD: Aberdeen Regional","CANCELLED",4
+"2","0001-0559","JetBlue Airways","Aguadilla, PR: Rafael Hernandez","CANCELLED",15
+"3","0001-0559","Spirit Air Lines","Aguadilla, PR: Rafael Hernandez","CANCELLED",8
+"4","0001-0559","United Air Lines Inc.","Aguadilla, PR: Rafael Hernandez","CANCELLED",8
+"5","0001-0559","ExpressJet Airlines Inc.","Akron, OH: Akron-Canton Regional","CANCELLED",2
+"6","0001-0559","Delta Air Lines Inc.","Albany, NY: Albany International","CANCELLED",1
+"7","0001-0559","Southwest Airlines Co.","Albany, NY: Albany International","CANCELLED",9
+"8","0001-0559","American Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport","CANCELLED",5
+"9","0001-0559","Southwest Airlines Co.","Albuquerque, NM: Albuquerque International Sunport","CANCELLED",10
+"10","0001-0559","ExpressJet Airlines Inc.","Alexandria, LA: Alexandria International","CANCELLED",1
+"11","0001-0559","ExpressJet Airlines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International","CANCELLED",1
+"12","0001-0559","SkyWest Airlines Inc.","Alpena, MI: Alpena County Regional","CANCELLED",5
+"13","0001-0559","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","CANCELLED",3
+"14","0001-0559","American Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","CANCELLED",1
+"15","0001-0559","Delta Air Lines Inc.","Appleton, WI: Appleton International","CANCELLED",1
+"16","0001-0559","ExpressJet Airlines Inc.","Appleton, WI: Appleton International","CANCELLED",12
+"17","0001-0559","SkyWest Airlines Inc.","Appleton, WI: Appleton International","CANCELLED",2
+"18","0001-0559","SkyWest Airlines Inc.","Arcata/Eureka, CA: Arcata","CANCELLED",2
+"19","0001-0559","Delta Air Lines Inc.","Asheville, NC: Asheville Regional","CANCELLED",1
+"20","0001-0559","American Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",5
+"21","0001-0559","Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",1
+"22","0001-0559","Southwest Airlines Co.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",4
+"23","0001-0559","United Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",1
+"24","0001-0559","Delta Air Lines Inc.","Augusta, GA: Augusta Regional at Bush Field","CANCELLED",3
+"25","0001-0559","ExpressJet Airlines Inc.","Augusta, GA: Augusta Regional at Bush Field","CANCELLED",1
+"26","0001-0559","American Airlines Inc.","Austin, TX: Austin - Bergstrom International","CANCELLED",7
+"27","0001-0559","Southwest Airlines Co.","Austin, TX: Austin - Bergstrom International","CANCELLED",16
+"28","0001-0559","United Air Lines Inc.","Austin, TX: Austin - Bergstrom International","CANCELLED",2
+"29","0001-0559","SkyWest Airlines Inc.","Bakersfield, CA: Meadows Field","CANCELLED",3
+"30","0001-0559","American Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","CANCELLED",9
+"31","0001-0559","Delta Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","CANCELLED",3
+"32","0001-0559","United Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","CANCELLED",6
+"33","0001-0559","ExpressJet Airlines Inc.","Bangor, ME: Bangor International","CANCELLED",1
+"34","0001-0559","ExpressJet Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field","CANCELLED",3
+"35","0001-0559","SkyWest Airlines Inc.","Bemidji, MN: Bemidji Regional","CANCELLED",3
+"36","0001-0559","SkyWest Airlines Inc.","Bend/Redmond, OR: Roberts Field","CANCELLED",9
+"37","0001-0559","Delta Air Lines Inc.","Billings, MT: Billings Logan International","CANCELLED",2
+"38","0001-0559","SkyWest Airlines Inc.","Billings, MT: Billings Logan International","CANCELLED",3
+"39","0001-0559","United Air Lines Inc.","Billings, MT: Billings Logan International","CANCELLED",1
+"40","0001-0559","SkyWest Airlines Inc.","Binghamton, NY: Greater Binghamton/Edwin A. Link Field","CANCELLED",1
+"41","0001-0559","Delta Air Lines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International","CANCELLED",3
+"42","0001-0559","Southwest Airlines Co.","Birmingham, AL: Birmingham-Shuttlesworth International","CANCELLED",2
+"43","0001-0559","ExpressJet Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal","CANCELLED",1
+"44","0001-0559","SkyWest Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal","CANCELLED",2
+"45","0001-0559","Delta Air Lines Inc.","Boise, ID: Boise Air Terminal","CANCELLED",2
+"46","0001-0559","SkyWest Airlines Inc.","Boise, ID: Boise Air Terminal","CANCELLED",1
+"47","0001-0559","American Airlines Inc.","Boston, MA: Logan International","CANCELLED",17
+"48","0001-0559","Delta Air Lines Inc.","Boston, MA: Logan International","CANCELLED",6
+"49","0001-0559","JetBlue Airways","Boston, MA: Logan International","CANCELLED",4
+"50","0001-0559","Southwest Airlines Co.","Boston, MA: Logan International","CANCELLED",23
+"51","0001-0559","Spirit Air Lines","Boston, MA: Logan International","CANCELLED",9
+"52","0001-0559","United Air Lines Inc.","Boston, MA: Logan International","CANCELLED",14
+"53","0001-0559","Delta Air Lines Inc.","Bozeman, MT: Bozeman Yellowstone International","CANCELLED",4
+"54","0001-0559","ExpressJet Airlines Inc.","Brownsville, TX: Brownsville South Padre Island International","CANCELLED",7
+"55","0001-0559","SkyWest Airlines Inc.","Brownsville, TX: Brownsville South Padre Island International","CANCELLED",2
+"56","0001-0559","ExpressJet Airlines Inc.","Buffalo, NY: Buffalo Niagara International","CANCELLED",1
+"57","0001-0559","JetBlue Airways","Buffalo, NY: Buffalo Niagara International","CANCELLED",6
+"58","0001-0559","Southwest Airlines Co.","Buffalo, NY: Buffalo Niagara International","CANCELLED",14
+"59","0001-0559","United Air Lines Inc.","Buffalo, NY: Buffalo Niagara International","CANCELLED",1
+"60","0001-0559","ExpressJet Airlines Inc.","Burlington, VT: Burlington International","CANCELLED",8
+"61","0001-0559","JetBlue Airways","Burlington, VT: Burlington International","CANCELLED",9
+"62","0001-0559","ExpressJet Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa","CANCELLED",4
+"63","0001-0559","Southwest Airlines Co.","Charleston, SC: Charleston AFB/International","CANCELLED",1
+"64","0001-0559","American Airlines Inc.","Charlotte, NC: Charlotte Douglas International","CANCELLED",3
+"65","0001-0559","Delta Air Lines Inc.","Charlotte, NC: Charlotte Douglas International","CANCELLED",5
+"66","0001-0559","ExpressJet Airlines Inc.","Charlotte, NC: Charlotte Douglas International","CANCELLED",2
+"67","0001-0559","Southwest Airlines Co.","Charlotte, NC: Charlotte Douglas International","CANCELLED",1
+"68","0001-0559","United Air Lines Inc.","Charlotte, NC: Charlotte Douglas International","CANCELLED",2
+"69","0001-0559","Delta Air Lines Inc.","Charlottesville, VA: Charlottesville Albemarle","CANCELLED",1
+"70","0001-0559","ExpressJet Airlines Inc.","Charlottesville, VA: Charlottesville Albemarle","CANCELLED",6
+"71","0001-0559","SkyWest Airlines Inc.","Charlottesville, VA: Charlottesville Albemarle","CANCELLED",11
+"72","0001-0559","ExpressJet Airlines Inc.","Chattanooga, TN: Lovell Field","CANCELLED",1
+"73","0001-0559","ExpressJet Airlines Inc.","Chicago, IL: Chicago Midway International","CANCELLED",1
+"74","0001-0559","Southwest Airlines Co.","Chicago, IL: Chicago Midway International","CANCELLED",56
+"75","0001-0559","American Airlines Inc.","Chicago, IL: Chicago O'Hare International","CANCELLED",15
+"76","0001-0559","Delta Air Lines Inc.","Chicago, IL: Chicago O'Hare International","CANCELLED",2
+"77","0001-0559","ExpressJet Airlines Inc.","Chicago, IL: Chicago O'Hare International","CANCELLED",1
+"78","0001-0559","Spirit Air Lines","Chicago, IL: Chicago O'Hare International","CANCELLED",18
+"79","0001-0559","United Air Lines Inc.","Chicago, IL: Chicago O'Hare International","CANCELLED",2
+"80","0001-0559","Delta Air Lines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","CANCELLED",2
+"81","0001-0559","ExpressJet Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","CANCELLED",4
+"82","0001-0559","Frontier Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","CANCELLED",3
+"83","0001-0559","American Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","CANCELLED",1
+"84","0001-0559","ExpressJet Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","CANCELLED",1
+"85","0001-0559","SkyWest Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","CANCELLED",1
+"86","0001-0559","Southwest Airlines Co.","Cleveland, OH: Cleveland-Hopkins International","CANCELLED",5
+"87","0001-0559","ExpressJet Airlines Inc.","College Station/Bryan, TX: Easterwood Field","CANCELLED",6
+"88","0001-0559","American Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal","CANCELLED",1
+"89","0001-0559","SkyWest Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal","CANCELLED",2
+"90","0001-0559","Delta Air Lines Inc.","Columbia, SC: Columbia Metropolitan","CANCELLED",2
+"91","0001-0559","ExpressJet Airlines Inc.","Columbus, GA: Columbus Airport","CANCELLED",1
+"92","0001-0559","Delta Air Lines Inc.","Columbus, OH: Port Columbus International","CANCELLED",1
+"93","0001-0559","Southwest Airlines Co.","Columbus, OH: Port Columbus International","CANCELLED",8
+"94","0001-0559","ExpressJet Airlines Inc.","Corpus Christi, TX: Corpus Christi International","CANCELLED",1
+"95","0001-0559","SkyWest Airlines Inc.","Corpus Christi, TX: Corpus Christi International","CANCELLED",4
+"96","0001-0559","American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",9
+"97","0001-0559","Delta Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",2
+"98","0001-0559","SkyWest Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",2
+"99","0001-0559","United Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",3
+"100","0001-0559","Delta Air Lines Inc.","Dayton, OH: James M Cox/Dayton International","CANCELLED",2
+"101","0001-0559","Southwest Airlines Co.","Dayton, OH: James M Cox/Dayton International","CANCELLED",3
+"102","0001-0559","Delta Air Lines Inc.","Daytona Beach, FL: Daytona Beach International","CANCELLED",3
+"103","0001-0559","American Airlines Inc.","Denver, CO: Denver International","CANCELLED",21
+"104","0001-0559","Delta Air Lines Inc.","Denver, CO: Denver International","CANCELLED",3
+"105","0001-0559","Frontier Airlines Inc.","Denver, CO: Denver International","CANCELLED",8
+"106","0001-0559","Southwest Airlines Co.","Denver, CO: Denver International","CANCELLED",17
+"107","0001-0559","United Air Lines Inc.","Denver, CO: Denver International","CANCELLED",3
+"108","0001-0559","Delta Air Lines Inc.","Des Moines, IA: Des Moines International","CANCELLED",1
+"109","0001-0559","ExpressJet Airlines Inc.","Des Moines, IA: Des Moines International","CANCELLED",6
+"110","0001-0559","SkyWest Airlines Inc.","Des Moines, IA: Des Moines International","CANCELLED",3
+"111","0001-0559","Southwest Airlines Co.","Des Moines, IA: Des Moines International","CANCELLED",1
+"112","0001-0559","American Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","CANCELLED",3
+"113","0001-0559","Southwest Airlines Co.","Detroit, MI: Detroit Metro Wayne County","CANCELLED",9
+"114","0001-0559","United Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County","CANCELLED",1
+"115","0001-0559","SkyWest Airlines Inc.","Devils Lake, ND: Devils Lake Regional","CANCELLED",19
+"116","0001-0559","ExpressJet Airlines Inc.","Dothan, AL: Dothan Regional","CANCELLED",1
+"117","0001-0559","SkyWest Airlines Inc.","Duluth, MN: Duluth International","CANCELLED",4
+"118","0001-0559","SkyWest Airlines Inc.","Durango, CO: Durango La Plata County","CANCELLED",1
+"119","0001-0559","SkyWest Airlines Inc.","Eau Claire, WI: Chippewa Valley Regional","CANCELLED",8
+"120","0001-0559","Delta Air Lines Inc.","El Paso, TX: El Paso International","CANCELLED",1
+"121","0001-0559","Southwest Airlines Co.","El Paso, TX: El Paso International","CANCELLED",6
+"122","0001-0559","SkyWest Airlines Inc.","Eugene, OR: Mahlon Sweet Field","CANCELLED",7
+"123","0001-0559","Alaska Airlines Inc.","Fairbanks, AK: Fairbanks International","CANCELLED",2
+"124","0001-0559","Delta Air Lines Inc.","Fargo, ND: Hector International","CANCELLED",2
+"125","0001-0559","Delta Air Lines Inc.","Fayetteville, NC: Fayetteville Regional/Grannis Field","CANCELLED",1
+"126","0001-0559","Delta Air Lines Inc.","Flint, MI: Bishop International","CANCELLED",1
+"127","0001-0559","ExpressJet Airlines Inc.","Flint, MI: Bishop International","CANCELLED",1
+"128","0001-0559","Southwest Airlines Co.","Flint, MI: Bishop International","CANCELLED",6
+"129","0001-0559","American Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","CANCELLED",2
+"130","0001-0559","Delta Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","CANCELLED",2
+"131","0001-0559","Southwest Airlines Co.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","CANCELLED",8
+"132","0001-0559","United Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","CANCELLED",2
+"133","0001-0559","American Airlines Inc.","Fort Myers, FL: Southwest Florida International","CANCELLED",1
+"134","0001-0559","Delta Air Lines Inc.","Fort Myers, FL: Southwest Florida International","CANCELLED",1
+"135","0001-0559","Southwest Airlines Co.","Fort Myers, FL: Southwest Florida International","CANCELLED",2
+"136","0001-0559","United Air Lines Inc.","Fort Myers, FL: Southwest Florida International","CANCELLED",4
+"137","0001-0559","ExpressJet Airlines Inc.","Fort Smith, AR: Fort Smith Regional","CANCELLED",2
+"138","0001-0559","SkyWest Airlines Inc.","Fresno, CA: Fresno Yosemite International","CANCELLED",6
+"139","0001-0559","SkyWest Airlines Inc.","Gillette, WY: Gillette Campbell County","CANCELLED",3
+"140","0001-0559","SkyWest Airlines Inc.","Grand Forks, ND: Grand Forks International","CANCELLED",3
+"141","0001-0559","Southwest Airlines Co.","Grand Rapids, MI: Gerald R. Ford International","CANCELLED",8
+"142","0001-0559","ExpressJet Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","CANCELLED",8
+"143","0001-0559","SkyWest Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","CANCELLED",4
+"144","0001-0559","Delta Air Lines Inc.","Greensboro/High Point, NC: Piedmont Triad International","CANCELLED",1
+"145","0001-0559","Delta Air Lines Inc.","Greer, SC: Greenville-Spartanburg International","CANCELLED",1
+"146","0001-0559","ExpressJet Airlines Inc.","Greer, SC: Greenville-Spartanburg International","CANCELLED",2
+"147","0001-0559","Delta Air Lines Inc.","Gulfport/Biloxi, MS: Gulfport-Biloxi International","CANCELLED",2
+"148","0001-0559","SkyWest Airlines Inc.","Hancock/Houghton, MI: Houghton County Memorial","CANCELLED",9
+"149","0001-0559","ExpressJet Airlines Inc.","Harlingen/San Benito, TX: Valley International","CANCELLED",2
+"150","0001-0559","SkyWest Airlines Inc.","Harlingen/San Benito, TX: Valley International","CANCELLED",3
+"151","0001-0559","ExpressJet Airlines Inc.","Harrisburg, PA: Harrisburg International","CANCELLED",1
+"152","0001-0559","Delta Air Lines Inc.","Hartford, CT: Bradley International","CANCELLED",1
+"153","0001-0559","Southwest Airlines Co.","Hartford, CT: Bradley International","CANCELLED",11
+"154","0001-0559","SkyWest Airlines Inc.","Helena, MT: Helena Regional","CANCELLED",3
+"155","0001-0559","American Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","CANCELLED",17
+"156","0001-0559","ExpressJet Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","CANCELLED",1
+"157","0001-0559","Frontier Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","CANCELLED",2
+"158","0001-0559","United Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","CANCELLED",2
+"159","0001-0559","Southwest Airlines Co.","Houston, TX: William P Hobby","CANCELLED",14
+"160","0001-0559","Delta Air Lines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field","CANCELLED",1
+"161","0001-0559","ExpressJet Airlines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field","CANCELLED",1
+"162","0001-0559","Delta Air Lines Inc.","Indianapolis, IN: Indianapolis International","CANCELLED",1
+"163","0001-0559","Southwest Airlines Co.","Indianapolis, IN: Indianapolis International","CANCELLED",9
+"164","0001-0559","SkyWest Airlines Inc.","International Falls, MN: Falls International Einarson Field","CANCELLED",5
+"165","0001-0559","SkyWest Airlines Inc.","Iron Mountain/Kingsfd, MI: Ford","CANCELLED",5
+"166","0001-0559","Southwest Airlines Co.","Islip, NY: Long Island MacArthur","CANCELLED",6
+"167","0001-0559","Delta Air Lines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International","CANCELLED",1
+"168","0001-0559","ExpressJet Airlines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International","CANCELLED",5
+"169","0001-0559","Delta Air Lines Inc.","Jacksonville, FL: Jacksonville International","CANCELLED",2
+"170","0001-0559","ExpressJet Airlines Inc.","Jacksonville/Camp Lejeune, NC: Albert J Ellis","CANCELLED",5
+"171","0001-0559","Alaska Airlines Inc.","Juneau, AK: Juneau International","CANCELLED",3
+"172","0001-0559","ExpressJet Airlines Inc.","Kalamazoo, MI: Kalamazoo/Battle Creek International","CANCELLED",2
+"173","0001-0559","Delta Air Lines Inc.","Kalispell, MT: Glacier Park International","CANCELLED",2
+"174","0001-0559","American Airlines Inc.","Kansas City, MO: Kansas City International","CANCELLED",7
+"175","0001-0559","Delta Air Lines Inc.","Kansas City, MO: Kansas City International","CANCELLED",1
+"176","0001-0559","SkyWest Airlines Inc.","Kansas City, MO: Kansas City International","CANCELLED",5
+"177","0001-0559","Southwest Airlines Co.","Kansas City, MO: Kansas City International","CANCELLED",22
+"178","0001-0559","United Air Lines Inc.","Kansas City, MO: Kansas City International","CANCELLED",4
+"179","0001-0559","ExpressJet Airlines Inc.","Killeen, TX: Robert Gray AAF","CANCELLED",9
+"180","0001-0559","Delta Air Lines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field","CANCELLED",1
+"181","0001-0559","SkyWest Airlines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field","CANCELLED",2
+"182","0001-0559","ExpressJet Airlines Inc.","Lake Charles, LA: Lake Charles Regional","CANCELLED",7
+"183","0001-0559","ExpressJet Airlines Inc.","Lansing, MI: Capital Region International","CANCELLED",1
+"184","0001-0559","SkyWest Airlines Inc.","Lansing, MI: Capital Region International","CANCELLED",1
+"185","0001-0559","ExpressJet Airlines Inc.","Laredo, TX: Laredo International","CANCELLED",2
+"186","0001-0559","American Airlines Inc.","Las Vegas, NV: McCarran International","CANCELLED",15
+"187","0001-0559","Delta Air Lines Inc.","Las Vegas, NV: McCarran International","CANCELLED",2
+"188","0001-0559","Frontier Airlines Inc.","Las Vegas, NV: McCarran International","CANCELLED",9
+"189","0001-0559","Southwest Airlines Co.","Las Vegas, NV: McCarran International","CANCELLED",22
+"190","0001-0559","Spirit Air Lines","Las Vegas, NV: McCarran International","CANCELLED",38
+"191","0001-0559","United Air Lines Inc.","Las Vegas, NV: McCarran International","CANCELLED",3
+"192","0001-0559","Virgin America","Las Vegas, NV: McCarran International","CANCELLED",2
+"193","0001-0559","ExpressJet Airlines Inc.","Lawton/Fort Sill, OK: Lawton-Fort Sill Regional","CANCELLED",10
+"194","0001-0559","SkyWest Airlines Inc.","Lewiston, ID: Lewiston Nez Perce County","CANCELLED",2
+"195","0001-0559","ExpressJet Airlines Inc.","Lexington, KY: Blue Grass","CANCELLED",4
+"196","0001-0559","ExpressJet Airlines Inc.","Lincoln, NE: Lincoln Airport","CANCELLED",2
+"197","0001-0559","Delta Air Lines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","CANCELLED",2
+"198","0001-0559","ExpressJet Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","CANCELLED",2
+"199","0001-0559","SkyWest Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","CANCELLED",1
+"200","0001-0559","Southwest Airlines Co.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","CANCELLED",3
+"201","0001-0559","American Airlines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",24
+"202","0001-0559","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",3
+"203","0001-0559","Frontier Airlines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",5
+"204","0001-0559","Southwest Airlines Co.","Los Angeles, CA: Los Angeles International","CANCELLED",11
+"205","0001-0559","United Air Lines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",19
+"206","0001-0559","Delta Air Lines Inc.","Louisville, KY: Louisville International-Standiford Field","CANCELLED",1
+"207","0001-0559","Southwest Airlines Co.","Louisville, KY: Louisville International-Standiford Field","CANCELLED",1
+"208","0001-0559","ExpressJet Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","CANCELLED",1
+"209","0001-0559","SkyWest Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","CANCELLED",1
+"210","0001-0559","United Air Lines Inc.","Madison, WI: Dane County Regional-Truax Field","CANCELLED",1
+"211","0001-0559","Delta Air Lines Inc.","Manchester, NH: Manchester-Boston Regional","CANCELLED",3
+"212","0001-0559","ExpressJet Airlines Inc.","Manchester, NH: Manchester-Boston Regional","CANCELLED",2
+"213","0001-0559","Southwest Airlines Co.","Manchester, NH: Manchester-Boston Regional","CANCELLED",12
+"214","0001-0559","SkyWest Airlines Inc.","Marquette, MI: Sawyer International","CANCELLED",3
+"215","0001-0559","SkyWest Airlines Inc.","Medford, OR: Rogue Valley International - Medford","CANCELLED",6
+"216","0001-0559","Delta Air Lines Inc.","Memphis, TN: Memphis International","CANCELLED",3
+"217","0001-0559","Southwest Airlines Co.","Memphis, TN: Memphis International","CANCELLED",9
+"218","0001-0559","American Airlines Inc.","Miami, FL: Miami International","CANCELLED",1
+"219","0001-0559","Delta Air Lines Inc.","Miami, FL: Miami International","CANCELLED",2
+"220","0001-0559","United Air Lines Inc.","Miami, FL: Miami International","CANCELLED",2
+"221","0001-0559","ExpressJet Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port","CANCELLED",1
+"222","0001-0559","Southwest Airlines Co.","Midland/Odessa, TX: Midland International Air and Space Port","CANCELLED",3
+"223","0001-0559","ExpressJet Airlines Inc.","Milwaukee, WI: General Mitchell International","CANCELLED",1
+"224","0001-0559","SkyWest Airlines Inc.","Milwaukee, WI: General Mitchell International","CANCELLED",5
+"225","0001-0559","Southwest Airlines Co.","Milwaukee, WI: General Mitchell International","CANCELLED",13
+"226","0001-0559","American Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","CANCELLED",29
+"227","0001-0559","Frontier Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","CANCELLED",2
+"228","0001-0559","Southwest Airlines Co.","Minneapolis, MN: Minneapolis-St Paul International","CANCELLED",11
+"229","0001-0559","Spirit Air Lines","Minneapolis, MN: Minneapolis-St Paul International","CANCELLED",5
+"230","0001-0559","United Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International","CANCELLED",4
+"231","0001-0559","Delta Air Lines Inc.","Missoula, MT: Missoula International","CANCELLED",2
+"232","0001-0559","Delta Air Lines Inc.","Mobile, AL: Mobile Regional","CANCELLED",1
+"233","0001-0559","ExpressJet Airlines Inc.","Mobile, AL: Mobile Regional","CANCELLED",5
+"234","0001-0559","ExpressJet Airlines Inc.","Moline, IL: Quad City International","CANCELLED",2
+"235","0001-0559","SkyWest Airlines Inc.","Moline, IL: Quad City International","CANCELLED",1
+"236","0001-0559","SkyWest Airlines Inc.","Monterey, CA: Monterey Regional","CANCELLED",10
+"237","0001-0559","ExpressJet Airlines Inc.","Montgomery, AL: Montgomery Regional","CANCELLED",1
+"238","0001-0559","ExpressJet Airlines Inc.","Mosinee, WI: Central Wisconsin","CANCELLED",5
+"239","0001-0559","American Airlines Inc.","Nashville, TN: Nashville International","CANCELLED",5
+"240","0001-0559","Delta Air Lines Inc.","Nashville, TN: Nashville International","CANCELLED",1
+"241","0001-0559","SkyWest Airlines Inc.","Nashville, TN: Nashville International","CANCELLED",1
+"242","0001-0559","Southwest Airlines Co.","Nashville, TN: Nashville International","CANCELLED",16
+"243","0001-0559","United Air Lines Inc.","Nashville, TN: Nashville International","CANCELLED",1
+"244","0001-0559","Southwest Airlines Co.","New Orleans, LA: Louis Armstrong New Orleans International","CANCELLED",9
+"245","0001-0559","United Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","CANCELLED",3
+"246","0001-0559","American Airlines Inc.","New York, NY: John F. Kennedy International","CANCELLED",8
+"247","0001-0559","JetBlue Airways","New York, NY: John F. Kennedy International","CANCELLED",6
+"248","0001-0559","American Airlines Inc.","New York, NY: LaGuardia","CANCELLED",15
+"249","0001-0559","ExpressJet Airlines Inc.","New York, NY: LaGuardia","CANCELLED",2
+"250","0001-0559","United Air Lines Inc.","New York, NY: LaGuardia","CANCELLED",5
+"251","0001-0559","American Airlines Inc.","Newark, NJ: Newark Liberty International","CANCELLED",18
+"252","0001-0559","ExpressJet Airlines Inc.","Newark, NJ: Newark Liberty International","CANCELLED",4
+"253","0001-0559","JetBlue Airways","Newark, NJ: Newark Liberty International","CANCELLED",1
+"254","0001-0559","United Air Lines Inc.","Newark, NJ: Newark Liberty International","CANCELLED",7
+"255","0001-0559","JetBlue Airways","Newburgh/Poughkeepsie, NY: Stewart International","CANCELLED",1
+"256","0001-0559","Delta Air Lines Inc.","Newport News/Williamsburg, VA: Newport News/Williamsburg International","CANCELLED",1
+"257","0001-0559","Spirit Air Lines","Niagara Falls, NY: Niagara Falls International","CANCELLED",8
+"258","0001-0559","American Airlines Inc.","Norfolk, VA: Norfolk International","CANCELLED",2
+"259","0001-0559","Delta Air Lines Inc.","Norfolk, VA: Norfolk International","CANCELLED",2
+"260","0001-0559","ExpressJet Airlines Inc.","Norfolk, VA: Norfolk International","CANCELLED",2
+"261","0001-0559","Southwest Airlines Co.","Norfolk, VA: Norfolk International","CANCELLED",5
+"262","0001-0559","Delta Air Lines Inc.","Oakland, CA: Metropolitan Oakland International","CANCELLED",2
+"263","0001-0559","SkyWest Airlines Inc.","Oakland, CA: Metropolitan Oakland International","CANCELLED",1
+"264","0001-0559","Southwest Airlines Co.","Oakland, CA: Metropolitan Oakland International","CANCELLED",28
+"265","0001-0559","American Airlines Inc.","Oklahoma City, OK: Will Rogers World","CANCELLED",4
+"266","0001-0559","Delta Air Lines Inc.","Oklahoma City, OK: Will Rogers World","CANCELLED",1
+"267","0001-0559","ExpressJet Airlines Inc.","Oklahoma City, OK: Will Rogers World","CANCELLED",2
+"268","0001-0559","Southwest Airlines Co.","Oklahoma City, OK: Will Rogers World","CANCELLED",2
+"269","0001-0559","American Airlines Inc.","Omaha, NE: Eppley Airfield","CANCELLED",3
+"270","0001-0559","ExpressJet Airlines Inc.","Omaha, NE: Eppley Airfield","CANCELLED",5
+"271","0001-0559","SkyWest Airlines Inc.","Omaha, NE: Eppley Airfield","CANCELLED",3
+"272","0001-0559","Southwest Airlines Co.","Omaha, NE: Eppley Airfield","CANCELLED",5
+"273","0001-0559","American Airlines Inc.","Ontario, CA: Ontario International","CANCELLED",1
+"274","0001-0559","SkyWest Airlines Inc.","Ontario, CA: Ontario International","CANCELLED",4
+"275","0001-0559","Southwest Airlines Co.","Ontario, CA: Ontario International","CANCELLED",12
+"276","0001-0559","American Airlines Inc.","Orlando, FL: Orlando International","CANCELLED",8
+"277","0001-0559","Delta Air Lines Inc.","Orlando, FL: Orlando International","CANCELLED",2
+"278","0001-0559","Frontier Airlines Inc.","Orlando, FL: Orlando International","CANCELLED",4
+"279","0001-0559","United Air Lines Inc.","Orlando, FL: Orlando International","CANCELLED",3
+"280","0001-0559","Southwest Airlines Co.","Panama City, FL: Northwest Florida Beaches International","CANCELLED",1
+"281","0001-0559","SkyWest Airlines Inc.","Pasco/Kennewick/Richland, WA: Tri Cities","CANCELLED",8
+"282","0001-0559","Delta Air Lines Inc.","Pensacola, FL: Pensacola International","CANCELLED",2
+"283","0001-0559","ExpressJet Airlines Inc.","Peoria, IL: General Downing - Peoria International","CANCELLED",10
+"284","0001-0559","SkyWest Airlines Inc.","Peoria, IL: General Downing - Peoria International","CANCELLED",1
+"285","0001-0559","American Airlines Inc.","Philadelphia, PA: Philadelphia International","CANCELLED",9
+"286","0001-0559","Delta Air Lines Inc.","Philadelphia, PA: Philadelphia International","CANCELLED",2
+"287","0001-0559","Frontier Airlines Inc.","Philadelphia, PA: Philadelphia International","CANCELLED",2
+"288","0001-0559","Southwest Airlines Co.","Philadelphia, PA: Philadelphia International","CANCELLED",10
+"289","0001-0559","United Air Lines Inc.","Philadelphia, PA: Philadelphia International","CANCELLED",6
+"290","0001-0559","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",25
+"291","0001-0559","Delta Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",1
+"292","0001-0559","Frontier Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",4
+"293","0001-0559","Southwest Airlines Co.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",7
+"294","0001-0559","Spirit Air Lines","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",13
+"295","0001-0559","United Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",6
+"296","0001-0559","American Airlines Inc.","Pittsburgh, PA: Pittsburgh International","CANCELLED",5
+"297","0001-0559","Southwest Airlines Co.","Pittsburgh, PA: Pittsburgh International","CANCELLED",18
+"298","0001-0559","United Air Lines Inc.","Pittsburgh, PA: Pittsburgh International","CANCELLED",1
+"299","0001-0559","Spirit Air Lines","Plattsburgh, NY: Plattsburgh International","CANCELLED",2
+"300","0001-0559","JetBlue Airways","Ponce, PR: Mercedita","CANCELLED",11
+"301","0001-0559","Delta Air Lines Inc.","Portland, ME: Portland International Jetport","CANCELLED",1
+"302","0001-0559","ExpressJet Airlines Inc.","Portland, ME: Portland International Jetport","CANCELLED",3
+"303","0001-0559","JetBlue Airways","Portland, ME: Portland International Jetport","CANCELLED",8
+"304","0001-0559","Southwest Airlines Co.","Portland, ME: Portland International Jetport","CANCELLED",7
+"305","0001-0559","American Airlines Inc.","Portland, OR: Portland International","CANCELLED",10
+"306","0001-0559","Delta Air Lines Inc.","Portland, OR: Portland International","CANCELLED",1
+"307","0001-0559","Southwest Airlines Co.","Portland, OR: Portland International","CANCELLED",12
+"308","0001-0559","United Air Lines Inc.","Portland, OR: Portland International","CANCELLED",4
+"309","0001-0559","Delta Air Lines Inc.","Providence, RI: Theodore Francis Green State","CANCELLED",2
+"310","0001-0559","Southwest Airlines Co.","Providence, RI: Theodore Francis Green State","CANCELLED",17
+"311","0001-0559","American Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","CANCELLED",24
+"312","0001-0559","Southwest Airlines Co.","Raleigh/Durham, NC: Raleigh-Durham International","CANCELLED",7
+"313","0001-0559","United Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","CANCELLED",2
+"314","0001-0559","SkyWest Airlines Inc.","Rapid City, SD: Rapid City Regional","CANCELLED",2
+"315","0001-0559","SkyWest Airlines Inc.","Redding, CA: Redding Municipal","CANCELLED",2
+"316","0001-0559","Southwest Airlines Co.","Reno, NV: Reno/Tahoe International","CANCELLED",5
+"317","0001-0559","United Air Lines Inc.","Reno, NV: Reno/Tahoe International","CANCELLED",3
+"318","0001-0559","American Airlines Inc.","Richmond, VA: Richmond International","CANCELLED",6
+"319","0001-0559","Delta Air Lines Inc.","Richmond, VA: Richmond International","CANCELLED",1
+"320","0001-0559","ExpressJet Airlines Inc.","Richmond, VA: Richmond International","CANCELLED",3
+"321","0001-0559","Southwest Airlines Co.","Richmond, VA: Richmond International","CANCELLED",6
+"322","0001-0559","Delta Air Lines Inc.","Rochester, NY: Greater Rochester International","CANCELLED",1
+"323","0001-0559","ExpressJet Airlines Inc.","Rochester, NY: Greater Rochester International","CANCELLED",1
+"324","0001-0559","JetBlue Airways","Rochester, NY: Greater Rochester International","CANCELLED",11
+"325","0001-0559","Southwest Airlines Co.","Rochester, NY: Greater Rochester International","CANCELLED",3
+"326","0001-0559","American Airlines Inc.","Sacramento, CA: Sacramento International","CANCELLED",2
+"327","0001-0559","Delta Air Lines Inc.","Sacramento, CA: Sacramento International","CANCELLED",1
+"328","0001-0559","SkyWest Airlines Inc.","Sacramento, CA: Sacramento International","CANCELLED",2
+"329","0001-0559","Southwest Airlines Co.","Sacramento, CA: Sacramento International","CANCELLED",19
+"330","0001-0559","United Air Lines Inc.","Sacramento, CA: Sacramento International","CANCELLED",3
+"331","0001-0559","SkyWest Airlines Inc.","Saginaw/Bay City/Midland, MI: MBS International","CANCELLED",1
+"332","0001-0559","American Airlines Inc.","Salt Lake City, UT: Salt Lake City International","CANCELLED",15
+"333","0001-0559","Delta Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","CANCELLED",2
+"334","0001-0559","Frontier Airlines Inc.","Salt Lake City, UT: Salt Lake City International","CANCELLED",1
+"335","0001-0559","SkyWest Airlines Inc.","Salt Lake City, UT: Salt Lake City International","CANCELLED",3
+"336","0001-0559","Southwest Airlines Co.","Salt Lake City, UT: Salt Lake City International","CANCELLED",3
+"337","0001-0559","United Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","CANCELLED",3
+"338","0001-0559","ExpressJet Airlines Inc.","San Angelo, TX: San Angelo Regional/Mathis Field","CANCELLED",8
+"339","0001-0559","American Airlines Inc.","San Antonio, TX: San Antonio International","CANCELLED",3
+"340","0001-0559","SkyWest Airlines Inc.","San Antonio, TX: San Antonio International","CANCELLED",2
+"341","0001-0559","Southwest Airlines Co.","San Antonio, TX: San Antonio International","CANCELLED",4
+"342","0001-0559","American Airlines Inc.","San Francisco, CA: San Francisco International","CANCELLED",8
+"343","0001-0559","Delta Air Lines Inc.","San Francisco, CA: San Francisco International","CANCELLED",2
+"344","0001-0559","Frontier Airlines Inc.","San Francisco, CA: San Francisco International","CANCELLED",5
+"345","0001-0559","JetBlue Airways","San Francisco, CA: San Francisco International","CANCELLED",1
+"346","0001-0559","Southwest Airlines Co.","San Francisco, CA: San Francisco International","CANCELLED",14
+"347","0001-0559","United Air Lines Inc.","San Francisco, CA: San Francisco International","CANCELLED",12
+"348","0001-0559","JetBlue Airways","San Juan, PR: Luis Munoz Marin International","CANCELLED",14
+"349","0001-0559","United Air Lines Inc.","San Juan, PR: Luis Munoz Marin International","CANCELLED",8
+"350","0001-0559","SkyWest Airlines Inc.","San Luis Obispo, CA: San Luis County Regional","CANCELLED",2
+"351","0001-0559","SkyWest Airlines Inc.","Santa Barbara, CA: Santa Barbara Municipal","CANCELLED",8
+"352","0001-0559","ExpressJet Airlines Inc.","Santa Fe, NM: Santa Fe Municipal","CANCELLED",2
+"353","0001-0559","SkyWest Airlines Inc.","Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field","CANCELLED",4
+"354","0001-0559","Delta Air Lines Inc.","Sarasota/Bradenton, FL: Sarasota/Bradenton International","CANCELLED",2
+"355","0001-0559","SkyWest Airlines Inc.","Sault Ste. Marie, MI: Chippewa County International","CANCELLED",1
+"356","0001-0559","Delta Air Lines Inc.","Savannah, GA: Savannah/Hilton Head International","CANCELLED",2
+"357","0001-0559","ExpressJet Airlines Inc.","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International","CANCELLED",1
+"358","0001-0559","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International","CANCELLED",2
+"359","0001-0559","American Airlines Inc.","Seattle, WA: Seattle/Tacoma International","CANCELLED",13
+"360","0001-0559","Delta Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","CANCELLED",3
+"361","0001-0559","Frontier Airlines Inc.","Seattle, WA: Seattle/Tacoma International","CANCELLED",1
+"362","0001-0559","SkyWest Airlines Inc.","Seattle, WA: Seattle/Tacoma International","CANCELLED",1
+"363","0001-0559","Southwest Airlines Co.","Seattle, WA: Seattle/Tacoma International","CANCELLED",5
+"364","0001-0559","United Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","CANCELLED",6
+"365","0001-0559","ExpressJet Airlines Inc.","Shreveport, LA: Shreveport Regional","CANCELLED",8
+"366","0001-0559","ExpressJet Airlines Inc.","Sioux Falls, SD: Joe Foss Field","CANCELLED",1
+"367","0001-0559","SkyWest Airlines Inc.","Sioux Falls, SD: Joe Foss Field","CANCELLED",1
+"368","0001-0559","Alaska Airlines Inc.","Spokane, WA: Spokane International","CANCELLED",1
+"369","0001-0559","SkyWest Airlines Inc.","Spokane, WA: Spokane International","CANCELLED",2
+"370","0001-0559","Southwest Airlines Co.","Spokane, WA: Spokane International","CANCELLED",4
+"371","0001-0559","United Air Lines Inc.","Spokane, WA: Spokane International","CANCELLED",4
+"372","0001-0559","ExpressJet Airlines Inc.","Springfield, IL: Abraham Lincoln Capital","CANCELLED",3
+"373","0001-0559","SkyWest Airlines Inc.","Springfield, IL: Abraham Lincoln Capital","CANCELLED",10
+"374","0001-0559","American Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","CANCELLED",14
+"375","0001-0559","ExpressJet Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","CANCELLED",4
+"376","0001-0559","Southwest Airlines Co.","St. Louis, MO: Lambert-St. Louis International","CANCELLED",13
+"377","0001-0559","Delta Air Lines Inc.","Syracuse, NY: Syracuse Hancock International","CANCELLED",1
+"378","0001-0559","ExpressJet Airlines Inc.","Syracuse, NY: Syracuse Hancock International","CANCELLED",3
+"379","0001-0559","JetBlue Airways","Syracuse, NY: Syracuse Hancock International","CANCELLED",10
+"380","0001-0559","Delta Air Lines Inc.","Tallahassee, FL: Tallahassee International","CANCELLED",3
+"381","0001-0559","American Airlines Inc.","Tampa, FL: Tampa International","CANCELLED",4
+"382","0001-0559","Delta Air Lines Inc.","Tampa, FL: Tampa International","CANCELLED",2
+"383","0001-0559","Southwest Airlines Co.","Tampa, FL: Tampa International","CANCELLED",5
+"384","0001-0559","United Air Lines Inc.","Tampa, FL: Tampa International","CANCELLED",2
+"385","0001-0559","Delta Air Lines Inc.","Traverse City, MI: Cherry Capital","CANCELLED",1
+"386","0001-0559","ExpressJet Airlines Inc.","Traverse City, MI: Cherry Capital","CANCELLED",3
+"387","0001-0559","SkyWest Airlines Inc.","Traverse City, MI: Cherry Capital","CANCELLED",1
+"388","0001-0559","American Airlines Inc.","Tucson, AZ: Tucson International","CANCELLED",16
+"389","0001-0559","SkyWest Airlines Inc.","Tucson, AZ: Tucson International","CANCELLED",3
+"390","0001-0559","Southwest Airlines Co.","Tucson, AZ: Tucson International","CANCELLED",5
+"391","0001-0559","American Airlines Inc.","Tulsa, OK: Tulsa International","CANCELLED",2
+"392","0001-0559","Delta Air Lines Inc.","Tulsa, OK: Tulsa International","CANCELLED",1
+"393","0001-0559","Southwest Airlines Co.","Tulsa, OK: Tulsa International","CANCELLED",1
+"394","0001-0559","ExpressJet Airlines Inc.","Valdosta, GA: Valdosta Regional","CANCELLED",3
+"395","0001-0559","Delta Air Lines Inc.","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach","CANCELLED",1
+"396","0001-0559","ExpressJet Airlines Inc.","Waco, TX: Waco Regional","CANCELLED",17
+"397","0001-0559","American Airlines Inc.","Washington, DC: Ronald Reagan Washington National","CANCELLED",9
+"398","0001-0559","United Air Lines Inc.","Washington, DC: Ronald Reagan Washington National","CANCELLED",3
+"399","0001-0559","Delta Air Lines Inc.","Washington, DC: Washington Dulles International","CANCELLED",2
+"400","0001-0559","United Air Lines Inc.","Washington, DC: Washington Dulles International","CANCELLED",2
+"401","0001-0559","Delta Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","CANCELLED",1
+"402","0001-0559","Southwest Airlines Co.","West Palm Beach/Palm Beach, FL: Palm Beach International","CANCELLED",2
+"403","0001-0559","ExpressJet Airlines Inc.","White Plains, NY: Westchester County","CANCELLED",1
+"404","0001-0559","ExpressJet Airlines Inc.","Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal","CANCELLED",12
+"405","0001-0559","American Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National","CANCELLED",1
+"406","0001-0559","SkyWest Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National","CANCELLED",11
+"407","0001-0559","Southwest Airlines Co.","Wichita, KS: Wichita Dwight D Eisenhower National","CANCELLED",1
+"408","0001-0559","SkyWest Airlines Inc.","Williston, ND: Sloulin Field International","CANCELLED",5
+"409","0001-0559","American Airlines Inc.","Wilmington, NC: Wilmington International","CANCELLED",1
+"410","0001-0559","ExpressJet Airlines Inc.","Wilmington, NC: Wilmington International","CANCELLED",2
+"411","0001-0559","SkyWest Airlines Inc.","Aberdeen, SD: Aberdeen Regional","DELAYED",41
+"412","0001-0559","JetBlue Airways","Aguadilla, PR: Rafael Hernandez","DELAYED",130
+"413","0001-0559","Spirit Air Lines","Aguadilla, PR: Rafael Hernandez","DELAYED",74
+"414","0001-0559","United Air Lines Inc.","Aguadilla, PR: Rafael Hernandez","DELAYED",103
+"415","0001-0559","Delta Air Lines Inc.","Akron, OH: Akron-Canton Regional","DELAYED",7
+"416","0001-0559","ExpressJet Airlines Inc.","Akron, OH: Akron-Canton Regional","DELAYED",3
+"417","0001-0559","Southwest Airlines Co.","Akron, OH: Akron-Canton Regional","DELAYED",8
+"418","0001-0559","ExpressJet Airlines Inc.","Albany, GA: Southwest Georgia Regional","DELAYED",15
+"419","0001-0559","Delta Air Lines Inc.","Albany, NY: Albany International","DELAYED",16
+"420","0001-0559","ExpressJet Airlines Inc.","Albany, NY: Albany International","DELAYED",3
+"421","0001-0559","Southwest Airlines Co.","Albany, NY: Albany International","DELAYED",15
+"422","0001-0559","United Air Lines Inc.","Albany, NY: Albany International","DELAYED",1
+"423","0001-0559","American Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport","DELAYED",13
+"424","0001-0559","Delta Air Lines Inc.","Albuquerque, NM: Albuquerque International Sunport","DELAYED",10
+"425","0001-0559","Southwest Airlines Co.","Albuquerque, NM: Albuquerque International Sunport","DELAYED",19
+"426","0001-0559","United Air Lines Inc.","Albuquerque, NM: Albuquerque International Sunport","DELAYED",3
+"427","0001-0559","ExpressJet Airlines Inc.","Alexandria, LA: Alexandria International","DELAYED",5
+"428","0001-0559","Delta Air Lines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International","DELAYED",9
+"429","0001-0559","ExpressJet Airlines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International","DELAYED",5
+"430","0001-0559","SkyWest Airlines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International","DELAYED",4
+"431","0001-0559","SkyWest Airlines Inc.","Alpena, MI: Alpena County Regional","DELAYED",26
+"432","0001-0559","Southwest Airlines Co.","Amarillo, TX: Rick Husband Amarillo International","DELAYED",3
+"433","0001-0559","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",174
+"434","0001-0559","American Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",9
+"435","0001-0559","Delta Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",71
+"436","0001-0559","JetBlue Airways","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",17
+"437","0001-0559","United Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",33
+"438","0001-0559","Delta Air Lines Inc.","Appleton, WI: Appleton International","DELAYED",22
+"439","0001-0559","ExpressJet Airlines Inc.","Appleton, WI: Appleton International","DELAYED",31
+"440","0001-0559","SkyWest Airlines Inc.","Appleton, WI: Appleton International","DELAYED",4
+"441","0001-0559","SkyWest Airlines Inc.","Arcata/Eureka, CA: Arcata","DELAYED",2
+"442","0001-0559","Delta Air Lines Inc.","Asheville, NC: Asheville Regional","DELAYED",5
+"443","0001-0559","ExpressJet Airlines Inc.","Asheville, NC: Asheville Regional","DELAYED",11
+"444","0001-0559","American Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",12
+"445","0001-0559","Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",4
+"446","0001-0559","SkyWest Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",4
+"447","0001-0559","Southwest Airlines Co.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",52
+"448","0001-0559","United Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",5
+"449","0001-0559","Delta Air Lines Inc.","Augusta, GA: Augusta Regional at Bush Field","DELAYED",9
+"450","0001-0559","ExpressJet Airlines Inc.","Augusta, GA: Augusta Regional at Bush Field","DELAYED",8
+"451","0001-0559","American Airlines Inc.","Austin, TX: Austin - Bergstrom International","DELAYED",25
+"452","0001-0559","Delta Air Lines Inc.","Austin, TX: Austin - Bergstrom International","DELAYED",12
+"453","0001-0559","JetBlue Airways","Austin, TX: Austin - Bergstrom International","DELAYED",7
+"454","0001-0559","SkyWest Airlines Inc.","Austin, TX: Austin - Bergstrom International","DELAYED",4
+"455","0001-0559","Southwest Airlines Co.","Austin, TX: Austin - Bergstrom International","DELAYED",23
+"456","0001-0559","United Air Lines Inc.","Austin, TX: Austin - Bergstrom International","DELAYED",9
+"457","0001-0559","SkyWest Airlines Inc.","Bakersfield, CA: Meadows Field","DELAYED",18
+"458","0001-0559","American Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DELAYED",23
+"459","0001-0559","Delta Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DELAYED",8
+"460","0001-0559","United Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DELAYED",17
+"461","0001-0559","ExpressJet Airlines Inc.","Bangor, ME: Bangor International","DELAYED",3
+"462","0001-0559","ExpressJet Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field","DELAYED",41
+"463","0001-0559","SkyWest Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field","DELAYED",2
+"464","0001-0559","SkyWest Airlines Inc.","Bemidji, MN: Bemidji Regional","DELAYED",33
+"465","0001-0559","SkyWest Airlines Inc.","Bend/Redmond, OR: Roberts Field","DELAYED",26
+"466","0001-0559","Delta Air Lines Inc.","Billings, MT: Billings Logan International","DELAYED",12
+"467","0001-0559","SkyWest Airlines Inc.","Billings, MT: Billings Logan International","DELAYED",12
+"468","0001-0559","United Air Lines Inc.","Billings, MT: Billings Logan International","DELAYED",1
+"469","0001-0559","SkyWest Airlines Inc.","Binghamton, NY: Greater Binghamton/Edwin A. Link Field","DELAYED",16
+"470","0001-0559","Delta Air Lines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International","DELAYED",14
+"471","0001-0559","Southwest Airlines Co.","Birmingham, AL: Birmingham-Shuttlesworth International","DELAYED",4
+"472","0001-0559","Delta Air Lines Inc.","Bismarck/Mandan, ND: Bismarck Municipal","DELAYED",14
+"473","0001-0559","ExpressJet Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal","DELAYED",4
+"474","0001-0559","SkyWest Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal","DELAYED",5
+"475","0001-0559","Delta Air Lines Inc.","Bloomington/Normal, IL: Central Illinois Regional","DELAYED",10
+"476","0001-0559","Delta Air Lines Inc.","Boise, ID: Boise Air Terminal","DELAYED",14
+"477","0001-0559","SkyWest Airlines Inc.","Boise, ID: Boise Air Terminal","DELAYED",4
+"478","0001-0559","American Airlines Inc.","Boston, MA: Logan International","DELAYED",105
+"479","0001-0559","Delta Air Lines Inc.","Boston, MA: Logan International","DELAYED",34
+"480","0001-0559","JetBlue Airways","Boston, MA: Logan International","DELAYED",46
+"481","0001-0559","Southwest Airlines Co.","Boston, MA: Logan International","DELAYED",71
+"482","0001-0559","Spirit Air Lines","Boston, MA: Logan International","DELAYED",48
+"483","0001-0559","United Air Lines Inc.","Boston, MA: Logan International","DELAYED",36
+"484","0001-0559","Delta Air Lines Inc.","Bozeman, MT: Bozeman Yellowstone International","DELAYED",22
+"485","0001-0559","SkyWest Airlines Inc.","Bozeman, MT: Bozeman Yellowstone International","DELAYED",5
+"486","0001-0559","SkyWest Airlines Inc.","Brainerd, MN: Brainerd Lakes Regional","DELAYED",5
+"487","0001-0559","ExpressJet Airlines Inc.","Brownsville, TX: Brownsville South Padre Island International","DELAYED",8
+"488","0001-0559","SkyWest Airlines Inc.","Brownsville, TX: Brownsville South Padre Island International","DELAYED",3
+"489","0001-0559","Delta Air Lines Inc.","Buffalo, NY: Buffalo Niagara International","DELAYED",7
+"490","0001-0559","ExpressJet Airlines Inc.","Buffalo, NY: Buffalo Niagara International","DELAYED",2
+"491","0001-0559","JetBlue Airways","Buffalo, NY: Buffalo Niagara International","DELAYED",20
+"492","0001-0559","Southwest Airlines Co.","Buffalo, NY: Buffalo Niagara International","DELAYED",16
+"493","0001-0559","ExpressJet Airlines Inc.","Burlington, VT: Burlington International","DELAYED",40
+"494","0001-0559","JetBlue Airways","Burlington, VT: Burlington International","DELAYED",24
+"495","0001-0559","Delta Air Lines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa","DELAYED",7
+"496","0001-0559","ExpressJet Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa","DELAYED",6
+"497","0001-0559","SkyWest Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa","DELAYED",3
+"498","0001-0559","Delta Air Lines Inc.","Charleston, SC: Charleston AFB/International","DELAYED",2
+"499","0001-0559","Southwest Airlines Co.","Charleston, SC: Charleston AFB/International","DELAYED",4
+"500","0001-0559","United Air Lines Inc.","Charleston, SC: Charleston AFB/International","DELAYED",1
+"501","0001-0559","ExpressJet Airlines Inc.","Charleston/Dunbar, WV: Yeager","DELAYED",10
+"502","0001-0559","American Airlines Inc.","Charlotte, NC: Charlotte Douglas International","DELAYED",26
+"503","0001-0559","Delta Air Lines Inc.","Charlotte, NC: Charlotte Douglas International","DELAYED",23
+"504","0001-0559","Southwest Airlines Co.","Charlotte, NC: Charlotte Douglas International","DELAYED",7
+"505","0001-0559","United Air Lines Inc.","Charlotte, NC: Charlotte Douglas International","DELAYED",2
+"506","0001-0559","Delta Air Lines Inc.","Charlottesville, VA: Charlottesville Albemarle","DELAYED",9
+"507","0001-0559","ExpressJet Airlines Inc.","Charlottesville, VA: Charlottesville Albemarle","DELAYED",3
+"508","0001-0559","SkyWest Airlines Inc.","Charlottesville, VA: Charlottesville Albemarle","DELAYED",44
+"509","0001-0559","Delta Air Lines Inc.","Chattanooga, TN: Lovell Field","DELAYED",7
+"510","0001-0559","ExpressJet Airlines Inc.","Chattanooga, TN: Lovell Field","DELAYED",9
+"511","0001-0559","Delta Air Lines Inc.","Chicago, IL: Chicago Midway International","DELAYED",1
+"512","0001-0559","ExpressJet Airlines Inc.","Chicago, IL: Chicago Midway International","DELAYED",1
+"513","0001-0559","Southwest Airlines Co.","Chicago, IL: Chicago Midway International","DELAYED",97
+"514","0001-0559","American Airlines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",159
+"515","0001-0559","Delta Air Lines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",21
+"516","0001-0559","ExpressJet Airlines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",4
+"517","0001-0559","Frontier Airlines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",12
+"518","0001-0559","SkyWest Airlines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",10
+"519","0001-0559","Spirit Air Lines","Chicago, IL: Chicago O'Hare International","DELAYED",70
+"520","0001-0559","United Air Lines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",60
+"521","0001-0559","Delta Air Lines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","DELAYED",7
+"522","0001-0559","ExpressJet Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","DELAYED",7
+"523","0001-0559","Frontier Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","DELAYED",5
+"524","0001-0559","SkyWest Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","DELAYED",6
+"525","0001-0559","American Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","DELAYED",16
+"526","0001-0559","ExpressJet Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","DELAYED",27
+"527","0001-0559","SkyWest Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","DELAYED",11
+"528","0001-0559","Southwest Airlines Co.","Cleveland, OH: Cleveland-Hopkins International","DELAYED",14
+"529","0001-0559","United Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International","DELAYED",2
+"530","0001-0559","ExpressJet Airlines Inc.","College Station/Bryan, TX: Easterwood Field","DELAYED",12
+"531","0001-0559","American Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal","DELAYED",2
+"532","0001-0559","Frontier Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal","DELAYED",2
+"533","0001-0559","SkyWest Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal","DELAYED",30
+"534","0001-0559","Delta Air Lines Inc.","Columbia, SC: Columbia Metropolitan","DELAYED",10
+"535","0001-0559","ExpressJet Airlines Inc.","Columbus, GA: Columbus Airport","DELAYED",3
+"536","0001-0559","Delta Air Lines Inc.","Columbus, OH: Port Columbus International","DELAYED",23
+"537","0001-0559","ExpressJet Airlines Inc.","Columbus, OH: Port Columbus International","DELAYED",1
+"538","0001-0559","Southwest Airlines Co.","Columbus, OH: Port Columbus International","DELAYED",26
+"539","0001-0559","SkyWest Airlines Inc.","Corpus Christi, TX: Corpus Christi International","DELAYED",6
+"540","0001-0559","American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",146
+"541","0001-0559","Delta Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",18
+"542","0001-0559","ExpressJet Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",1
+"543","0001-0559","SkyWest Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",22
+"544","0001-0559","United Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",18
+"545","0001-0559","Delta Air Lines Inc.","Dayton, OH: James M Cox/Dayton International","DELAYED",5
+"546","0001-0559","ExpressJet Airlines Inc.","Dayton, OH: James M Cox/Dayton International","DELAYED",5
+"547","0001-0559","SkyWest Airlines Inc.","Dayton, OH: James M Cox/Dayton International","DELAYED",1
+"548","0001-0559","Southwest Airlines Co.","Dayton, OH: James M Cox/Dayton International","DELAYED",6
+"549","0001-0559","Delta Air Lines Inc.","Daytona Beach, FL: Daytona Beach International","DELAYED",3
+"550","0001-0559","American Airlines Inc.","Denver, CO: Denver International","DELAYED",112
+"551","0001-0559","Delta Air Lines Inc.","Denver, CO: Denver International","DELAYED",36
+"552","0001-0559","Frontier Airlines Inc.","Denver, CO: Denver International","DELAYED",109
+"553","0001-0559","SkyWest Airlines Inc.","Denver, CO: Denver International","DELAYED",2
+"554","0001-0559","Southwest Airlines Co.","Denver, CO: Denver International","DELAYED",58
+"555","0001-0559","United Air Lines Inc.","Denver, CO: Denver International","DELAYED",15
+"556","0001-0559","American Airlines Inc.","Des Moines, IA: Des Moines International","DELAYED",5
+"557","0001-0559","Delta Air Lines Inc.","Des Moines, IA: Des Moines International","DELAYED",11
+"558","0001-0559","ExpressJet Airlines Inc.","Des Moines, IA: Des Moines International","DELAYED",38
+"559","0001-0559","SkyWest Airlines Inc.","Des Moines, IA: Des Moines International","DELAYED",14
+"560","0001-0559","Southwest Airlines Co.","Des Moines, IA: Des Moines International","DELAYED",2
+"561","0001-0559","United Air Lines Inc.","Des Moines, IA: Des Moines International","DELAYED",5
+"562","0001-0559","American Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","DELAYED",32
+"563","0001-0559","Delta Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County","DELAYED",1
+"564","0001-0559","SkyWest Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","DELAYED",10
+"565","0001-0559","Southwest Airlines Co.","Detroit, MI: Detroit Metro Wayne County","DELAYED",40
+"566","0001-0559","United Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County","DELAYED",8
+"567","0001-0559","SkyWest Airlines Inc.","Devils Lake, ND: Devils Lake Regional","DELAYED",30
+"568","0001-0559","ExpressJet Airlines Inc.","Dothan, AL: Dothan Regional","DELAYED",22
+"569","0001-0559","Delta Air Lines Inc.","Duluth, MN: Duluth International","DELAYED",1
+"570","0001-0559","SkyWest Airlines Inc.","Duluth, MN: Duluth International","DELAYED",6
+"571","0001-0559","SkyWest Airlines Inc.","Eau Claire, WI: Chippewa Valley Regional","DELAYED",13
+"572","0001-0559","American Airlines Inc.","El Paso, TX: El Paso International","DELAYED",1
+"573","0001-0559","Delta Air Lines Inc.","El Paso, TX: El Paso International","DELAYED",5
+"574","0001-0559","Southwest Airlines Co.","El Paso, TX: El Paso International","DELAYED",25
+"575","0001-0559","SkyWest Airlines Inc.","Elko, NV: Elko Regional","DELAYED",2
+"576","0001-0559","ExpressJet Airlines Inc.","Elmira/Corning, NY: Elmira/Corning Regional","DELAYED",1
+"577","0001-0559","SkyWest Airlines Inc.","Escanaba, MI: Delta County","DELAYED",2
+"578","0001-0559","SkyWest Airlines Inc.","Eugene, OR: Mahlon Sweet Field","DELAYED",47
+"579","0001-0559","United Air Lines Inc.","Eugene, OR: Mahlon Sweet Field","DELAYED",2
+"580","0001-0559","Delta Air Lines Inc.","Evansville, IN: Evansville Regional","DELAYED",6
+"581","0001-0559","Alaska Airlines Inc.","Fairbanks, AK: Fairbanks International","DELAYED",30
+"582","0001-0559","Delta Air Lines Inc.","Fairbanks, AK: Fairbanks International","DELAYED",26
+"583","0001-0559","Delta Air Lines Inc.","Fargo, ND: Hector International","DELAYED",34
+"584","0001-0559","Delta Air Lines Inc.","Fayetteville, AR: Northwest Arkansas Regional","DELAYED",12
+"585","0001-0559","SkyWest Airlines Inc.","Fayetteville, AR: Northwest Arkansas Regional","DELAYED",1
+"586","0001-0559","Delta Air Lines Inc.","Fayetteville, NC: Fayetteville Regional/Grannis Field","DELAYED",2
+"587","0001-0559","Delta Air Lines Inc.","Flint, MI: Bishop International","DELAYED",10
+"588","0001-0559","ExpressJet Airlines Inc.","Flint, MI: Bishop International","DELAYED",1
+"589","0001-0559","Southwest Airlines Co.","Flint, MI: Bishop International","DELAYED",6
+"590","0001-0559","American Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",4
+"591","0001-0559","Delta Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",2
+"592","0001-0559","JetBlue Airways","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",5
+"593","0001-0559","Southwest Airlines Co.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",19
+"594","0001-0559","Spirit Air Lines","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",5
+"595","0001-0559","United Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",5
+"596","0001-0559","American Airlines Inc.","Fort Myers, FL: Southwest Florida International","DELAYED",3
+"597","0001-0559","Delta Air Lines Inc.","Fort Myers, FL: Southwest Florida International","DELAYED",10
+"598","0001-0559","Southwest Airlines Co.","Fort Myers, FL: Southwest Florida International","DELAYED",7
+"599","0001-0559","United Air Lines Inc.","Fort Myers, FL: Southwest Florida International","DELAYED",7
+"600","0001-0559","ExpressJet Airlines Inc.","Fort Smith, AR: Fort Smith Regional","DELAYED",2
+"601","0001-0559","American Airlines Inc.","Fresno, CA: Fresno Yosemite International","DELAYED",15
+"602","0001-0559","SkyWest Airlines Inc.","Fresno, CA: Fresno Yosemite International","DELAYED",54
+"603","0001-0559","SkyWest Airlines Inc.","Gillette, WY: Gillette Campbell County","DELAYED",6
+"604","0001-0559","SkyWest Airlines Inc.","Grand Forks, ND: Grand Forks International","DELAYED",16
+"605","0001-0559","Delta Air Lines Inc.","Grand Rapids, MI: Gerald R. Ford International","DELAYED",15
+"606","0001-0559","ExpressJet Airlines Inc.","Grand Rapids, MI: Gerald R. Ford International","DELAYED",3
+"607","0001-0559","Southwest Airlines Co.","Grand Rapids, MI: Gerald R. Ford International","DELAYED",14
+"608","0001-0559","SkyWest Airlines Inc.","Great Falls, MT: Great Falls International","DELAYED",30
+"609","0001-0559","Delta Air Lines Inc.","Green Bay, WI: Green Bay Austin Straubel International","DELAYED",6
+"610","0001-0559","ExpressJet Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","DELAYED",38
+"611","0001-0559","SkyWest Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","DELAYED",8
+"612","0001-0559","Delta Air Lines Inc.","Greensboro/High Point, NC: Piedmont Triad International","DELAYED",10
+"613","0001-0559","Delta Air Lines Inc.","Greer, SC: Greenville-Spartanburg International","DELAYED",14
+"614","0001-0559","ExpressJet Airlines Inc.","Greer, SC: Greenville-Spartanburg International","DELAYED",1
+"615","0001-0559","Delta Air Lines Inc.","Gulfport/Biloxi, MS: Gulfport-Biloxi International","DELAYED",6
+"616","0001-0559","ExpressJet Airlines Inc.","Gulfport/Biloxi, MS: Gulfport-Biloxi International","DELAYED",1
+"617","0001-0559","SkyWest Airlines Inc.","Hancock/Houghton, MI: Houghton County Memorial","DELAYED",22
+"618","0001-0559","ExpressJet Airlines Inc.","Harlingen/San Benito, TX: Valley International","DELAYED",5
+"619","0001-0559","SkyWest Airlines Inc.","Harlingen/San Benito, TX: Valley International","DELAYED",5
+"620","0001-0559","Southwest Airlines Co.","Harlingen/San Benito, TX: Valley International","DELAYED",3
+"621","0001-0559","Delta Air Lines Inc.","Harrisburg, PA: Harrisburg International","DELAYED",5
+"622","0001-0559","ExpressJet Airlines Inc.","Harrisburg, PA: Harrisburg International","DELAYED",2
+"623","0001-0559","SkyWest Airlines Inc.","Harrisburg, PA: Harrisburg International","DELAYED",6
+"624","0001-0559","Delta Air Lines Inc.","Hartford, CT: Bradley International","DELAYED",20
+"625","0001-0559","ExpressJet Airlines Inc.","Hartford, CT: Bradley International","DELAYED",4
+"626","0001-0559","Southwest Airlines Co.","Hartford, CT: Bradley International","DELAYED",21
+"627","0001-0559","United Air Lines Inc.","Hartford, CT: Bradley International","DELAYED",1
+"628","0001-0559","SkyWest Airlines Inc.","Helena, MT: Helena Regional","DELAYED",21
+"629","0001-0559","Hawaiian Airlines Inc.","Honolulu, HI: Honolulu International","DELAYED",22
+"630","0001-0559","American Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",79
+"631","0001-0559","Delta Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",1
+"632","0001-0559","ExpressJet Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",6
+"633","0001-0559","Frontier Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",6
+"634","0001-0559","SkyWest Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",6
+"635","0001-0559","United Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",24
+"636","0001-0559","Southwest Airlines Co.","Houston, TX: William P Hobby","DELAYED",73
+"637","0001-0559","Delta Air Lines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field","DELAYED",15
+"638","0001-0559","ExpressJet Airlines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field","DELAYED",4
+"639","0001-0559","American Airlines Inc.","Indianapolis, IN: Indianapolis International","DELAYED",11
+"640","0001-0559","Delta Air Lines Inc.","Indianapolis, IN: Indianapolis International","DELAYED",14
+"641","0001-0559","ExpressJet Airlines Inc.","Indianapolis, IN: Indianapolis International","DELAYED",1
+"642","0001-0559","Southwest Airlines Co.","Indianapolis, IN: Indianapolis International","DELAYED",23
+"643","0001-0559","SkyWest Airlines Inc.","International Falls, MN: Falls International Einarson Field","DELAYED",2
+"644","0001-0559","SkyWest Airlines Inc.","Iron Mountain/Kingsfd, MI: Ford","DELAYED",5
+"645","0001-0559","Southwest Airlines Co.","Islip, NY: Long Island MacArthur","DELAYED",9
+"646","0001-0559","Delta Air Lines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International","DELAYED",3
+"647","0001-0559","ExpressJet Airlines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International","DELAYED",11
+"648","0001-0559","Delta Air Lines Inc.","Jacksonville, FL: Jacksonville International","DELAYED",8
+"649","0001-0559","ExpressJet Airlines Inc.","Jacksonville, FL: Jacksonville International","DELAYED",3
+"650","0001-0559","SkyWest Airlines Inc.","Jacksonville, FL: Jacksonville International","DELAYED",1
+"651","0001-0559","ExpressJet Airlines Inc.","Jacksonville/Camp Lejeune, NC: Albert J Ellis","DELAYED",12
+"652","0001-0559","Alaska Airlines Inc.","Juneau, AK: Juneau International","DELAYED",38
+"653","0001-0559","Delta Air Lines Inc.","Kahului, HI: Kahului Airport","DELAYED",6
+"654","0001-0559","ExpressJet Airlines Inc.","Kalamazoo, MI: Kalamazoo/Battle Creek International","DELAYED",7
+"655","0001-0559","SkyWest Airlines Inc.","Kalamazoo, MI: Kalamazoo/Battle Creek International","DELAYED",1
+"656","0001-0559","Delta Air Lines Inc.","Kalispell, MT: Glacier Park International","DELAYED",2
+"657","0001-0559","SkyWest Airlines Inc.","Kalispell, MT: Glacier Park International","DELAYED",2
+"658","0001-0559","American Airlines Inc.","Kansas City, MO: Kansas City International","DELAYED",32
+"659","0001-0559","Delta Air Lines Inc.","Kansas City, MO: Kansas City International","DELAYED",35
+"660","0001-0559","ExpressJet Airlines Inc.","Kansas City, MO: Kansas City International","DELAYED",1
+"661","0001-0559","SkyWest Airlines Inc.","Kansas City, MO: Kansas City International","DELAYED",27
+"662","0001-0559","Southwest Airlines Co.","Kansas City, MO: Kansas City International","DELAYED",63
+"663","0001-0559","United Air Lines Inc.","Kansas City, MO: Kansas City International","DELAYED",16
+"664","0001-0559","ExpressJet Airlines Inc.","Killeen, TX: Robert Gray AAF","DELAYED",20
+"665","0001-0559","ExpressJet Airlines Inc.","Knoxville, TN: McGhee Tyson","DELAYED",2
+"666","0001-0559","Delta Air Lines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field","DELAYED",4
+"667","0001-0559","ExpressJet Airlines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field","DELAYED",1
+"668","0001-0559","SkyWest Airlines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field","DELAYED",6
+"669","0001-0559","ExpressJet Airlines Inc.","Lake Charles, LA: Lake Charles Regional","DELAYED",13
+"670","0001-0559","ExpressJet Airlines Inc.","Lansing, MI: Capital Region International","DELAYED",2
+"671","0001-0559","SkyWest Airlines Inc.","Lansing, MI: Capital Region International","DELAYED",6
+"672","0001-0559","ExpressJet Airlines Inc.","Laredo, TX: Laredo International","DELAYED",2
+"673","0001-0559","American Airlines Inc.","Las Vegas, NV: McCarran International","DELAYED",132
+"674","0001-0559","Delta Air Lines Inc.","Las Vegas, NV: McCarran International","DELAYED",30
+"675","0001-0559","Frontier Airlines Inc.","Las Vegas, NV: McCarran International","DELAYED",190
+"676","0001-0559","Hawaiian Airlines Inc.","Las Vegas, NV: McCarran International","DELAYED",60
+"677","0001-0559","Southwest Airlines Co.","Las Vegas, NV: McCarran International","DELAYED",49
+"678","0001-0559","Spirit Air Lines","Las Vegas, NV: McCarran International","DELAYED",284
+"679","0001-0559","United Air Lines Inc.","Las Vegas, NV: McCarran International","DELAYED",33
+"680","0001-0559","Virgin America","Las Vegas, NV: McCarran International","DELAYED",2
+"681","0001-0559","ExpressJet Airlines Inc.","Lawton/Fort Sill, OK: Lawton-Fort Sill Regional","DELAYED",27
+"682","0001-0559","SkyWest Airlines Inc.","Lewiston, ID: Lewiston Nez Perce County","DELAYED",7
+"683","0001-0559","Delta Air Lines Inc.","Lexington, KY: Blue Grass","DELAYED",4
+"684","0001-0559","ExpressJet Airlines Inc.","Lexington, KY: Blue Grass","DELAYED",35
+"685","0001-0559","ExpressJet Airlines Inc.","Lincoln, NE: Lincoln Airport","DELAYED",11
+"686","0001-0559","Delta Air Lines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","DELAYED",6
+"687","0001-0559","ExpressJet Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","DELAYED",12
+"688","0001-0559","Southwest Airlines Co.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","DELAYED",9
+"689","0001-0559","American Airlines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",478
+"690","0001-0559","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",88
+"691","0001-0559","Frontier Airlines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",90
+"692","0001-0559","JetBlue Airways","Los Angeles, CA: Los Angeles International","DELAYED",10
+"693","0001-0559","SkyWest Airlines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",1
+"694","0001-0559","Southwest Airlines Co.","Los Angeles, CA: Los Angeles International","DELAYED",31
+"695","0001-0559","United Air Lines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",191
+"696","0001-0559","Delta Air Lines Inc.","Louisville, KY: Louisville International-Standiford Field","DELAYED",6
+"697","0001-0559","Southwest Airlines Co.","Louisville, KY: Louisville International-Standiford Field","DELAYED",1
+"698","0001-0559","Southwest Airlines Co.","Lubbock, TX: Lubbock Preston Smith International","DELAYED",10
+"699","0001-0559","Delta Air Lines Inc.","Madison, WI: Dane County Regional-Truax Field","DELAYED",28
+"700","0001-0559","ExpressJet Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","DELAYED",5
+"701","0001-0559","SkyWest Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","DELAYED",2
+"702","0001-0559","United Air Lines Inc.","Madison, WI: Dane County Regional-Truax Field","DELAYED",3
+"703","0001-0559","Delta Air Lines Inc.","Manchester, NH: Manchester-Boston Regional","DELAYED",11
+"704","0001-0559","ExpressJet Airlines Inc.","Manchester, NH: Manchester-Boston Regional","DELAYED",14
+"705","0001-0559","Southwest Airlines Co.","Manchester, NH: Manchester-Boston Regional","DELAYED",26
+"706","0001-0559","SkyWest Airlines Inc.","Marquette, MI: Sawyer International","DELAYED",15
+"707","0001-0559","SkyWest Airlines Inc.","Medford, OR: Rogue Valley International - Medford","DELAYED",33
+"708","0001-0559","Delta Air Lines Inc.","Melbourne, FL: Melbourne International","DELAYED",4
+"709","0001-0559","American Airlines Inc.","Memphis, TN: Memphis International","DELAYED",7
+"710","0001-0559","Delta Air Lines Inc.","Memphis, TN: Memphis International","DELAYED",15
+"711","0001-0559","ExpressJet Airlines Inc.","Memphis, TN: Memphis International","DELAYED",1
+"712","0001-0559","Southwest Airlines Co.","Memphis, TN: Memphis International","DELAYED",19
+"713","0001-0559","American Airlines Inc.","Miami, FL: Miami International","DELAYED",30
+"714","0001-0559","Delta Air Lines Inc.","Miami, FL: Miami International","DELAYED",5
+"715","0001-0559","United Air Lines Inc.","Miami, FL: Miami International","DELAYED",10
+"716","0001-0559","ExpressJet Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port","DELAYED",2
+"717","0001-0559","SkyWest Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port","DELAYED",1
+"718","0001-0559","Southwest Airlines Co.","Midland/Odessa, TX: Midland International Air and Space Port","DELAYED",3
+"719","0001-0559","Delta Air Lines Inc.","Milwaukee, WI: General Mitchell International","DELAYED",20
+"720","0001-0559","ExpressJet Airlines Inc.","Milwaukee, WI: General Mitchell International","DELAYED",17
+"721","0001-0559","Frontier Airlines Inc.","Milwaukee, WI: General Mitchell International","DELAYED",19
+"722","0001-0559","SkyWest Airlines Inc.","Milwaukee, WI: General Mitchell International","DELAYED",81
+"723","0001-0559","Southwest Airlines Co.","Milwaukee, WI: General Mitchell International","DELAYED",50
+"724","0001-0559","American Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",130
+"725","0001-0559","Delta Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",20
+"726","0001-0559","Frontier Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",16
+"727","0001-0559","SkyWest Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",24
+"728","0001-0559","Southwest Airlines Co.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",35
+"729","0001-0559","Spirit Air Lines","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",40
+"730","0001-0559","United Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DELAYED",18
+"731","0001-0559","SkyWest Airlines Inc.","Minot, ND: Minot International","DELAYED",11
+"732","0001-0559","Delta Air Lines Inc.","Missoula, MT: Missoula International","DELAYED",19
+"733","0001-0559","SkyWest Airlines Inc.","Missoula, MT: Missoula International","DELAYED",2
+"734","0001-0559","Delta Air Lines Inc.","Mobile, AL: Mobile Regional","DELAYED",2
+"735","0001-0559","ExpressJet Airlines Inc.","Mobile, AL: Mobile Regional","DELAYED",12
+"736","0001-0559","ExpressJet Airlines Inc.","Moline, IL: Quad City International","DELAYED",10
+"737","0001-0559","SkyWest Airlines Inc.","Moline, IL: Quad City International","DELAYED",2
+"738","0001-0559","ExpressJet Airlines Inc.","Monroe, LA: Monroe Regional","DELAYED",21
+"739","0001-0559","SkyWest Airlines Inc.","Monterey, CA: Monterey Regional","DELAYED",13
+"740","0001-0559","ExpressJet Airlines Inc.","Montgomery, AL: Montgomery Regional","DELAYED",27
+"741","0001-0559","ExpressJet Airlines Inc.","Mosinee, WI: Central Wisconsin","DELAYED",13
+"742","0001-0559","SkyWest Airlines Inc.","Mosinee, WI: Central Wisconsin","DELAYED",3
+"743","0001-0559","American Airlines Inc.","Nashville, TN: Nashville International","DELAYED",25
+"744","0001-0559","Delta Air Lines Inc.","Nashville, TN: Nashville International","DELAYED",16
+"745","0001-0559","ExpressJet Airlines Inc.","Nashville, TN: Nashville International","DELAYED",1
+"746","0001-0559","SkyWest Airlines Inc.","Nashville, TN: Nashville International","DELAYED",11
+"747","0001-0559","Southwest Airlines Co.","Nashville, TN: Nashville International","DELAYED",47
+"748","0001-0559","United Air Lines Inc.","Nashville, TN: Nashville International","DELAYED",14
+"749","0001-0559","ExpressJet Airlines Inc.","New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional","DELAYED",15
+"750","0001-0559","American Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",1
+"751","0001-0559","Delta Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",9
+"752","0001-0559","ExpressJet Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",3
+"753","0001-0559","SkyWest Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",8
+"754","0001-0559","Southwest Airlines Co.","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",21
+"755","0001-0559","United Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","DELAYED",17
+"756","0001-0559","American Airlines Inc.","New York, NY: John F. Kennedy International","DELAYED",64
+"757","0001-0559","JetBlue Airways","New York, NY: John F. Kennedy International","DELAYED",79
+"758","0001-0559","American Airlines Inc.","New York, NY: LaGuardia","DELAYED",63
+"759","0001-0559","ExpressJet Airlines Inc.","New York, NY: LaGuardia","DELAYED",2
+"760","0001-0559","United Air Lines Inc.","New York, NY: LaGuardia","DELAYED",14
+"761","0001-0559","American Airlines Inc.","Newark, NJ: Newark Liberty International","DELAYED",48
+"762","0001-0559","Delta Air Lines Inc.","Newark, NJ: Newark Liberty International","DELAYED",7
+"763","0001-0559","ExpressJet Airlines Inc.","Newark, NJ: Newark Liberty International","DELAYED",1
+"764","0001-0559","JetBlue Airways","Newark, NJ: Newark Liberty International","DELAYED",10
+"765","0001-0559","United Air Lines Inc.","Newark, NJ: Newark Liberty International","DELAYED",43
+"766","0001-0559","JetBlue Airways","Newburgh/Poughkeepsie, NY: Stewart International","DELAYED",3
+"767","0001-0559","Delta Air Lines Inc.","Newport News/Williamsburg, VA: Newport News/Williamsburg International","DELAYED",9
+"768","0001-0559","ExpressJet Airlines Inc.","Newport News/Williamsburg, VA: Newport News/Williamsburg International","DELAYED",5
+"769","0001-0559","Spirit Air Lines","Niagara Falls, NY: Niagara Falls International","DELAYED",47
+"770","0001-0559","American Airlines Inc.","Norfolk, VA: Norfolk International","DELAYED",4
+"771","0001-0559","Delta Air Lines Inc.","Norfolk, VA: Norfolk International","DELAYED",26
+"772","0001-0559","ExpressJet Airlines Inc.","Norfolk, VA: Norfolk International","DELAYED",8
+"773","0001-0559","Southwest Airlines Co.","Norfolk, VA: Norfolk International","DELAYED",10
+"774","0001-0559","Delta Air Lines Inc.","Oakland, CA: Metropolitan Oakland International","DELAYED",7
+"775","0001-0559","Southwest Airlines Co.","Oakland, CA: Metropolitan Oakland International","DELAYED",30
+"776","0001-0559","American Airlines Inc.","Oklahoma City, OK: Will Rogers World","DELAYED",16
+"777","0001-0559","Delta Air Lines Inc.","Oklahoma City, OK: Will Rogers World","DELAYED",2
+"778","0001-0559","ExpressJet Airlines Inc.","Oklahoma City, OK: Will Rogers World","DELAYED",8
+"779","0001-0559","SkyWest Airlines Inc.","Oklahoma City, OK: Will Rogers World","DELAYED",1
+"780","0001-0559","Southwest Airlines Co.","Oklahoma City, OK: Will Rogers World","DELAYED",15
+"781","0001-0559","American Airlines Inc.","Omaha, NE: Eppley Airfield","DELAYED",6
+"782","0001-0559","Delta Air Lines Inc.","Omaha, NE: Eppley Airfield","DELAYED",29
+"783","0001-0559","ExpressJet Airlines Inc.","Omaha, NE: Eppley Airfield","DELAYED",18
+"784","0001-0559","SkyWest Airlines Inc.","Omaha, NE: Eppley Airfield","DELAYED",2
+"785","0001-0559","Southwest Airlines Co.","Omaha, NE: Eppley Airfield","DELAYED",13
+"786","0001-0559","United Air Lines Inc.","Omaha, NE: Eppley Airfield","DELAYED",14
+"787","0001-0559","American Airlines Inc.","Ontario, CA: Ontario International","DELAYED",19
+"788","0001-0559","SkyWest Airlines Inc.","Ontario, CA: Ontario International","DELAYED",12
+"789","0001-0559","Southwest Airlines Co.","Ontario, CA: Ontario International","DELAYED",17
+"790","0001-0559","United Air Lines Inc.","Ontario, CA: Ontario International","DELAYED",6
+"791","0001-0559","Virgin America","Ontario, CA: Ontario International","DELAYED",1
+"792","0001-0559","American Airlines Inc.","Orlando, FL: Orlando International","DELAYED",34
+"793","0001-0559","Delta Air Lines Inc.","Orlando, FL: Orlando International","DELAYED",8
+"794","0001-0559","Frontier Airlines Inc.","Orlando, FL: Orlando International","DELAYED",27
+"795","0001-0559","JetBlue Airways","Orlando, FL: Orlando International","DELAYED",5
+"796","0001-0559","United Air Lines Inc.","Orlando, FL: Orlando International","DELAYED",11
+"797","0001-0559","American Airlines Inc.","Palm Springs, CA: Palm Springs International","DELAYED",1
+"798","0001-0559","United Air Lines Inc.","Palm Springs, CA: Palm Springs International","DELAYED",5
+"799","0001-0559","Delta Air Lines Inc.","Panama City, FL: Northwest Florida Beaches International","DELAYED",7
+"800","0001-0559","Southwest Airlines Co.","Panama City, FL: Northwest Florida Beaches International","DELAYED",1
+"801","0001-0559","Delta Air Lines Inc.","Pasco/Kennewick/Richland, WA: Tri Cities","DELAYED",2
+"802","0001-0559","SkyWest Airlines Inc.","Pasco/Kennewick/Richland, WA: Tri Cities","DELAYED",43
+"803","0001-0559","Delta Air Lines Inc.","Pensacola, FL: Pensacola International","DELAYED",8
+"804","0001-0559","ExpressJet Airlines Inc.","Peoria, IL: General Downing - Peoria International","DELAYED",46
+"805","0001-0559","SkyWest Airlines Inc.","Peoria, IL: General Downing - Peoria International","DELAYED",6
+"806","0001-0559","American Airlines Inc.","Philadelphia, PA: Philadelphia International","DELAYED",64
+"807","0001-0559","Delta Air Lines Inc.","Philadelphia, PA: Philadelphia International","DELAYED",17
+"808","0001-0559","ExpressJet Airlines Inc.","Philadelphia, PA: Philadelphia International","DELAYED",1
+"809","0001-0559","Frontier Airlines Inc.","Philadelphia, PA: Philadelphia International","DELAYED",8
+"810","0001-0559","Southwest Airlines Co.","Philadelphia, PA: Philadelphia International","DELAYED",16
+"811","0001-0559","United Air Lines Inc.","Philadelphia, PA: Philadelphia International","DELAYED",14
+"812","0001-0559","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",247
+"813","0001-0559","Delta Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",27
+"814","0001-0559","Frontier Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",23
+"815","0001-0559","SkyWest Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",8
+"816","0001-0559","Southwest Airlines Co.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",26
+"817","0001-0559","Spirit Air Lines","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",103
+"818","0001-0559","United Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",19
+"819","0001-0559","American Airlines Inc.","Pittsburgh, PA: Pittsburgh International","DELAYED",11
+"820","0001-0559","Delta Air Lines Inc.","Pittsburgh, PA: Pittsburgh International","DELAYED",2
+"821","0001-0559","SkyWest Airlines Inc.","Pittsburgh, PA: Pittsburgh International","DELAYED",4
+"822","0001-0559","Southwest Airlines Co.","Pittsburgh, PA: Pittsburgh International","DELAYED",31
+"823","0001-0559","United Air Lines Inc.","Pittsburgh, PA: Pittsburgh International","DELAYED",4
+"824","0001-0559","Spirit Air Lines","Plattsburgh, NY: Plattsburgh International","DELAYED",55
+"825","0001-0559","JetBlue Airways","Ponce, PR: Mercedita","DELAYED",101
+"826","0001-0559","Delta Air Lines Inc.","Portland, ME: Portland International Jetport","DELAYED",24
+"827","0001-0559","ExpressJet Airlines Inc.","Portland, ME: Portland International Jetport","DELAYED",11
+"828","0001-0559","JetBlue Airways","Portland, ME: Portland International Jetport","DELAYED",23
+"829","0001-0559","Southwest Airlines Co.","Portland, ME: Portland International Jetport","DELAYED",15
+"830","0001-0559","United Air Lines Inc.","Portland, ME: Portland International Jetport","DELAYED",2
+"831","0001-0559","American Airlines Inc.","Portland, OR: Portland International","DELAYED",54
+"832","0001-0559","Delta Air Lines Inc.","Portland, OR: Portland International","DELAYED",10
+"833","0001-0559","Frontier Airlines Inc.","Portland, OR: Portland International","DELAYED",16
+"834","0001-0559","SkyWest Airlines Inc.","Portland, OR: Portland International","DELAYED",16
+"835","0001-0559","Southwest Airlines Co.","Portland, OR: Portland International","DELAYED",30
+"836","0001-0559","United Air Lines Inc.","Portland, OR: Portland International","DELAYED",35
+"837","0001-0559","Delta Air Lines Inc.","Providence, RI: Theodore Francis Green State","DELAYED",26
+"838","0001-0559","ExpressJet Airlines Inc.","Providence, RI: Theodore Francis Green State","DELAYED",1
+"839","0001-0559","Southwest Airlines Co.","Providence, RI: Theodore Francis Green State","DELAYED",27
+"840","0001-0559","American Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",59
+"841","0001-0559","Delta Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",20
+"842","0001-0559","SkyWest Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",2
+"843","0001-0559","Southwest Airlines Co.","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",14
+"844","0001-0559","United Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DELAYED",1
+"845","0001-0559","ExpressJet Airlines Inc.","Rapid City, SD: Rapid City Regional","DELAYED",2
+"846","0001-0559","SkyWest Airlines Inc.","Rapid City, SD: Rapid City Regional","DELAYED",13
+"847","0001-0559","SkyWest Airlines Inc.","Redding, CA: Redding Municipal","DELAYED",8
+"848","0001-0559","American Airlines Inc.","Reno, NV: Reno/Tahoe International","DELAYED",13
+"849","0001-0559","SkyWest Airlines Inc.","Reno, NV: Reno/Tahoe International","DELAYED",9
+"850","0001-0559","Southwest Airlines Co.","Reno, NV: Reno/Tahoe International","DELAYED",14
+"851","0001-0559","United Air Lines Inc.","Reno, NV: Reno/Tahoe International","DELAYED",23
+"852","0001-0559","American Airlines Inc.","Richmond, VA: Richmond International","DELAYED",24
+"853","0001-0559","Delta Air Lines Inc.","Richmond, VA: Richmond International","DELAYED",21
+"854","0001-0559","ExpressJet Airlines Inc.","Richmond, VA: Richmond International","DELAYED",5
+"855","0001-0559","Southwest Airlines Co.","Richmond, VA: Richmond International","DELAYED",12
+"856","0001-0559","Delta Air Lines Inc.","Rochester, NY: Greater Rochester International","DELAYED",18
+"857","0001-0559","ExpressJet Airlines Inc.","Rochester, NY: Greater Rochester International","DELAYED",6
+"858","0001-0559","JetBlue Airways","Rochester, NY: Greater Rochester International","DELAYED",31
+"859","0001-0559","Southwest Airlines Co.","Rochester, NY: Greater Rochester International","DELAYED",7
+"860","0001-0559","United Air Lines Inc.","Rochester, NY: Greater Rochester International","DELAYED",3
+"861","0001-0559","SkyWest Airlines Inc.","Rock Springs, WY: Rock Springs Sweetwater County","DELAYED",2
+"862","0001-0559","American Airlines Inc.","Sacramento, CA: Sacramento International","DELAYED",21
+"863","0001-0559","Delta Air Lines Inc.","Sacramento, CA: Sacramento International","DELAYED",6
+"864","0001-0559","SkyWest Airlines Inc.","Sacramento, CA: Sacramento International","DELAYED",29
+"865","0001-0559","Southwest Airlines Co.","Sacramento, CA: Sacramento International","DELAYED",37
+"866","0001-0559","United Air Lines Inc.","Sacramento, CA: Sacramento International","DELAYED",23
+"867","0001-0559","ExpressJet Airlines Inc.","Saginaw/Bay City/Midland, MI: MBS International","DELAYED",1
+"868","0001-0559","SkyWest Airlines Inc.","Saginaw/Bay City/Midland, MI: MBS International","DELAYED",5
+"869","0001-0559","American Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",84
+"870","0001-0559","Delta Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",44
+"871","0001-0559","Frontier Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",14
+"872","0001-0559","SkyWest Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",29
+"873","0001-0559","Southwest Airlines Co.","Salt Lake City, UT: Salt Lake City International","DELAYED",5
+"874","0001-0559","United Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",13
+"875","0001-0559","ExpressJet Airlines Inc.","San Angelo, TX: San Angelo Regional/Mathis Field","DELAYED",32
+"876","0001-0559","American Airlines Inc.","San Antonio, TX: San Antonio International","DELAYED",28
+"877","0001-0559","Delta Air Lines Inc.","San Antonio, TX: San Antonio International","DELAYED",4
+"878","0001-0559","SkyWest Airlines Inc.","San Antonio, TX: San Antonio International","DELAYED",17
+"879","0001-0559","Southwest Airlines Co.","San Antonio, TX: San Antonio International","DELAYED",41
+"880","0001-0559","United Air Lines Inc.","San Antonio, TX: San Antonio International","DELAYED",2
+"881","0001-0559","American Airlines Inc.","San Francisco, CA: San Francisco International","DELAYED",146
+"882","0001-0559","Delta Air Lines Inc.","San Francisco, CA: San Francisco International","DELAYED",42
+"883","0001-0559","Frontier Airlines Inc.","San Francisco, CA: San Francisco International","DELAYED",32
+"884","0001-0559","JetBlue Airways","San Francisco, CA: San Francisco International","DELAYED",26
+"885","0001-0559","Southwest Airlines Co.","San Francisco, CA: San Francisco International","DELAYED",18
+"886","0001-0559","United Air Lines Inc.","San Francisco, CA: San Francisco International","DELAYED",128
+"887","0001-0559","American Airlines Inc.","San Juan, PR: Luis Munoz Marin International","DELAYED",2
+"888","0001-0559","JetBlue Airways","San Juan, PR: Luis Munoz Marin International","DELAYED",356
+"889","0001-0559","Southwest Airlines Co.","San Juan, PR: Luis Munoz Marin International","DELAYED",2
+"890","0001-0559","United Air Lines Inc.","San Juan, PR: Luis Munoz Marin International","DELAYED",71
+"891","0001-0559","SkyWest Airlines Inc.","San Luis Obispo, CA: San Luis County Regional","DELAYED",7
+"892","0001-0559","SkyWest Airlines Inc.","Santa Barbara, CA: Santa Barbara Municipal","DELAYED",34
+"893","0001-0559","ExpressJet Airlines Inc.","Santa Fe, NM: Santa Fe Municipal","DELAYED",3
+"894","0001-0559","SkyWest Airlines Inc.","Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field","DELAYED",4
+"895","0001-0559","Delta Air Lines Inc.","Sarasota/Bradenton, FL: Sarasota/Bradenton International","DELAYED",10
+"896","0001-0559","SkyWest Airlines Inc.","Sault Ste. Marie, MI: Chippewa County International","DELAYED",35
+"897","0001-0559","Delta Air Lines Inc.","Savannah, GA: Savannah/Hilton Head International","DELAYED",10
+"898","0001-0559","ExpressJet Airlines Inc.","Savannah, GA: Savannah/Hilton Head International","DELAYED",1
+"899","0001-0559","Delta Air Lines Inc.","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International","DELAYED",13
+"900","0001-0559","ExpressJet Airlines Inc.","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International","DELAYED",5
+"901","0001-0559","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",81
+"902","0001-0559","American Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",145
+"903","0001-0559","Delta Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",40
+"904","0001-0559","Frontier Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",20
+"905","0001-0559","SkyWest Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",3
+"906","0001-0559","Southwest Airlines Co.","Seattle, WA: Seattle/Tacoma International","DELAYED",39
+"907","0001-0559","United Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",62
+"908","0001-0559","ExpressJet Airlines Inc.","Shreveport, LA: Shreveport Regional","DELAYED",73
+"909","0001-0559","Delta Air Lines Inc.","Sioux Falls, SD: Joe Foss Field","DELAYED",19
+"910","0001-0559","ExpressJet Airlines Inc.","Sioux Falls, SD: Joe Foss Field","DELAYED",2
+"911","0001-0559","SkyWest Airlines Inc.","Sioux Falls, SD: Joe Foss Field","DELAYED",3
+"912","0001-0559","Alaska Airlines Inc.","Spokane, WA: Spokane International","DELAYED",27
+"913","0001-0559","Delta Air Lines Inc.","Spokane, WA: Spokane International","DELAYED",1
+"914","0001-0559","SkyWest Airlines Inc.","Spokane, WA: Spokane International","DELAYED",14
+"915","0001-0559","Southwest Airlines Co.","Spokane, WA: Spokane International","DELAYED",9
+"916","0001-0559","United Air Lines Inc.","Spokane, WA: Spokane International","DELAYED",20
+"917","0001-0559","ExpressJet Airlines Inc.","Springfield, IL: Abraham Lincoln Capital","DELAYED",9
+"918","0001-0559","SkyWest Airlines Inc.","Springfield, IL: Abraham Lincoln Capital","DELAYED",18
+"919","0001-0559","Delta Air Lines Inc.","Springfield, MO: Springfield-Branson National","DELAYED",6
+"920","0001-0559","American Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","DELAYED",18
+"921","0001-0559","Delta Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International","DELAYED",13
+"922","0001-0559","ExpressJet Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","DELAYED",25
+"923","0001-0559","SkyWest Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","DELAYED",2
+"924","0001-0559","Southwest Airlines Co.","St. Louis, MO: Lambert-St. Louis International","DELAYED",42
+"925","0001-0559","United Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International","DELAYED",1
+"926","0001-0559","Delta Air Lines Inc.","Syracuse, NY: Syracuse Hancock International","DELAYED",34
+"927","0001-0559","ExpressJet Airlines Inc.","Syracuse, NY: Syracuse Hancock International","DELAYED",3
+"928","0001-0559","JetBlue Airways","Syracuse, NY: Syracuse Hancock International","DELAYED",35
+"929","0001-0559","SkyWest Airlines Inc.","Syracuse, NY: Syracuse Hancock International","DELAYED",5
+"930","0001-0559","Delta Air Lines Inc.","Tallahassee, FL: Tallahassee International","DELAYED",15
+"931","0001-0559","ExpressJet Airlines Inc.","Tallahassee, FL: Tallahassee International","DELAYED",1
+"932","0001-0559","American Airlines Inc.","Tampa, FL: Tampa International","DELAYED",12
+"933","0001-0559","Delta Air Lines Inc.","Tampa, FL: Tampa International","DELAYED",7
+"934","0001-0559","Southwest Airlines Co.","Tampa, FL: Tampa International","DELAYED",16
+"935","0001-0559","United Air Lines Inc.","Tampa, FL: Tampa International","DELAYED",4
+"936","0001-0559","Delta Air Lines Inc.","Traverse City, MI: Cherry Capital","DELAYED",10
+"937","0001-0559","ExpressJet Airlines Inc.","Traverse City, MI: Cherry Capital","DELAYED",3
+"938","0001-0559","SkyWest Airlines Inc.","Traverse City, MI: Cherry Capital","DELAYED",2
+"939","0001-0559","American Airlines Inc.","Tucson, AZ: Tucson International","DELAYED",32
+"940","0001-0559","ExpressJet Airlines Inc.","Tucson, AZ: Tucson International","DELAYED",2
+"941","0001-0559","SkyWest Airlines Inc.","Tucson, AZ: Tucson International","DELAYED",13
+"942","0001-0559","Southwest Airlines Co.","Tucson, AZ: Tucson International","DELAYED",5
+"943","0001-0559","American Airlines Inc.","Tulsa, OK: Tulsa International","DELAYED",18
+"944","0001-0559","Delta Air Lines Inc.","Tulsa, OK: Tulsa International","DELAYED",8
+"945","0001-0559","ExpressJet Airlines Inc.","Tulsa, OK: Tulsa International","DELAYED",1
+"946","0001-0559","Southwest Airlines Co.","Tulsa, OK: Tulsa International","DELAYED",8
+"947","0001-0559","ExpressJet Airlines Inc.","Tyler, TX: Tyler Pounds Regional","DELAYED",1
+"948","0001-0559","ExpressJet Airlines Inc.","Valdosta, GA: Valdosta Regional","DELAYED",13
+"949","0001-0559","Delta Air Lines Inc.","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach","DELAYED",14
+"950","0001-0559","ExpressJet Airlines Inc.","Waco, TX: Waco Regional","DELAYED",29
+"951","0001-0559","American Airlines Inc.","Washington, DC: Ronald Reagan Washington National","DELAYED",37
+"952","0001-0559","United Air Lines Inc.","Washington, DC: Ronald Reagan Washington National","DELAYED",13
+"953","0001-0559","Delta Air Lines Inc.","Washington, DC: Washington Dulles International","DELAYED",4
+"954","0001-0559","ExpressJet Airlines Inc.","Washington, DC: Washington Dulles International","DELAYED",2
+"955","0001-0559","United Air Lines Inc.","Washington, DC: Washington Dulles International","DELAYED",6
+"956","0001-0559","American Airlines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","DELAYED",8
+"957","0001-0559","Delta Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","DELAYED",8
+"958","0001-0559","JetBlue Airways","West Palm Beach/Palm Beach, FL: Palm Beach International","DELAYED",1
+"959","0001-0559","Southwest Airlines Co.","West Palm Beach/Palm Beach, FL: Palm Beach International","DELAYED",7
+"960","0001-0559","ExpressJet Airlines Inc.","White Plains, NY: Westchester County","DELAYED",5
+"961","0001-0559","ExpressJet Airlines Inc.","Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal","DELAYED",20
+"962","0001-0559","American Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National","DELAYED",4
+"963","0001-0559","Delta Air Lines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National","DELAYED",22
+"964","0001-0559","SkyWest Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National","DELAYED",28
+"965","0001-0559","Southwest Airlines Co.","Wichita, KS: Wichita Dwight D Eisenhower National","DELAYED",6
+"966","0001-0559","SkyWest Airlines Inc.","Williston, ND: Sloulin Field International","DELAYED",6
+"967","0001-0559","American Airlines Inc.","Wilmington, NC: Wilmington International","DELAYED",4
+"968","0001-0559","Delta Air Lines Inc.","Wilmington, NC: Wilmington International","DELAYED",3
+"969","0001-0559","ExpressJet Airlines Inc.","Wilmington, NC: Wilmington International","DELAYED",13
+"970","0001-0559","SkyWest Airlines Inc.","Aberdeen, SD: Aberdeen Regional","DIVERTED",1
+"971","0001-0559","United Air Lines Inc.","Aguadilla, PR: Rafael Hernandez","DIVERTED",1
+"972","0001-0559","Southwest Airlines Co.","Akron, OH: Akron-Canton Regional","DIVERTED",1
+"973","0001-0559","Southwest Airlines Co.","Albany, NY: Albany International","DIVERTED",1
+"974","0001-0559","Southwest Airlines Co.","Albuquerque, NM: Albuquerque International Sunport","DIVERTED",1
+"975","0001-0559","Delta Air Lines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International","DIVERTED",1
+"976","0001-0559","SkyWest Airlines Inc.","Alpena, MI: Alpena County Regional","DIVERTED",5
+"977","0001-0559","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DIVERTED",1
+"978","0001-0559","SkyWest Airlines Inc.","Appleton, WI: Appleton International","DIVERTED",1
+"979","0001-0559","American Airlines Inc.","Austin, TX: Austin - Bergstrom International","DIVERTED",1
+"980","0001-0559","SkyWest Airlines Inc.","Austin, TX: Austin - Bergstrom International","DIVERTED",1
+"981","0001-0559","American Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DIVERTED",2
+"982","0001-0559","United Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DIVERTED",1
+"983","0001-0559","ExpressJet Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field","DIVERTED",1
+"984","0001-0559","SkyWest Airlines Inc.","Billings, MT: Billings Logan International","DIVERTED",1
+"985","0001-0559","American Airlines Inc.","Boston, MA: Logan International","DIVERTED",5
+"986","0001-0559","Delta Air Lines Inc.","Boston, MA: Logan International","DIVERTED",1
+"987","0001-0559","Southwest Airlines Co.","Boston, MA: Logan International","DIVERTED",4
+"988","0001-0559","Spirit Air Lines","Boston, MA: Logan International","DIVERTED",2
+"989","0001-0559","United Air Lines Inc.","Boston, MA: Logan International","DIVERTED",1
+"990","0001-0559","Delta Air Lines Inc.","Bozeman, MT: Bozeman Yellowstone International","DIVERTED",2
+"991","0001-0559","Southwest Airlines Co.","Buffalo, NY: Buffalo Niagara International","DIVERTED",1
+"992","0001-0559","ExpressJet Airlines Inc.","Burlington, VT: Burlington International","DIVERTED",1
+"993","0001-0559","American Airlines Inc.","Charlotte, NC: Charlotte Douglas International","DIVERTED",1
+"994","0001-0559","Southwest Airlines Co.","Chicago, IL: Chicago Midway International","DIVERTED",3
+"995","0001-0559","American Airlines Inc.","Chicago, IL: Chicago O'Hare International","DIVERTED",11
+"996","0001-0559","United Air Lines Inc.","Chicago, IL: Chicago O'Hare International","DIVERTED",1
+"997","0001-0559","American Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","DIVERTED",1
+"998","0001-0559","ExpressJet Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","DIVERTED",1
+"999","0001-0559","SkyWest Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","DIVERTED",1
+"1000","0001-0559","SkyWest Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal","DIVERTED",1
+"1001","0001-0559","Delta Air Lines Inc.","Columbia, SC: Columbia Metropolitan","DIVERTED",1
+"1002","0001-0559","Southwest Airlines Co.","Columbus, OH: Port Columbus International","DIVERTED",2
+"1003","0001-0559","American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DIVERTED",1
+"1004","0001-0559","Frontier Airlines Inc.","Denver, CO: Denver International","DIVERTED",1
+"1005","0001-0559","Southwest Airlines Co.","Denver, CO: Denver International","DIVERTED",2
+"1006","0001-0559","ExpressJet Airlines Inc.","Des Moines, IA: Des Moines International","DIVERTED",1
+"1007","0001-0559","American Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","DIVERTED",1
+"1008","0001-0559","Southwest Airlines Co.","Detroit, MI: Detroit Metro Wayne County","DIVERTED",3
+"1009","0001-0559","United Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County","DIVERTED",1
+"1010","0001-0559","SkyWest Airlines Inc.","Devils Lake, ND: Devils Lake Regional","DIVERTED",5
+"1011","0001-0559","SkyWest Airlines Inc.","Eugene, OR: Mahlon Sweet Field","DIVERTED",1
+"1012","0001-0559","Alaska Airlines Inc.","Fairbanks, AK: Fairbanks International","DIVERTED",2
+"1013","0001-0559","Delta Air Lines Inc.","Fairbanks, AK: Fairbanks International","DIVERTED",1
+"1014","0001-0559","American Airlines Inc.","Fort Myers, FL: Southwest Florida International","DIVERTED",1
+"1015","0001-0559","SkyWest Airlines Inc.","Fresno, CA: Fresno Yosemite International","DIVERTED",1
+"1016","0001-0559","SkyWest Airlines Inc.","Gillette, WY: Gillette Campbell County","DIVERTED",1
+"1017","0001-0559","SkyWest Airlines Inc.","Grand Forks, ND: Grand Forks International","DIVERTED",1
+"1018","0001-0559","Southwest Airlines Co.","Grand Rapids, MI: Gerald R. Ford International","DIVERTED",1
+"1019","0001-0559","SkyWest Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","DIVERTED",1
+"1020","0001-0559","Southwest Airlines Co.","Hartford, CT: Bradley International","DIVERTED",2
+"1021","0001-0559","SkyWest Airlines Inc.","Helena, MT: Helena Regional","DIVERTED",1
+"1022","0001-0559","Hawaiian Airlines Inc.","Honolulu, HI: Honolulu International","DIVERTED",2
+"1023","0001-0559","American Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DIVERTED",1
+"1024","0001-0559","Southwest Airlines Co.","Houston, TX: William P Hobby","DIVERTED",3
+"1025","0001-0559","SkyWest Airlines Inc.","International Falls, MN: Falls International Einarson Field","DIVERTED",9
+"1026","0001-0559","ExpressJet Airlines Inc.","Jacksonville, FL: Jacksonville International","DIVERTED",1
+"1027","0001-0559","SkyWest Airlines Inc.","Kalispell, MT: Glacier Park International","DIVERTED",1
+"1028","0001-0559","Southwest Airlines Co.","Kansas City, MO: Kansas City International","DIVERTED",2
+"1029","0001-0559","United Air Lines Inc.","Kansas City, MO: Kansas City International","DIVERTED",1
+"1030","0001-0559","ExpressJet Airlines Inc.","Killeen, TX: Robert Gray AAF","DIVERTED",2
+"1031","0001-0559","ExpressJet Airlines Inc.","Lake Charles, LA: Lake Charles Regional","DIVERTED",1
+"1032","0001-0559","American Airlines Inc.","Las Vegas, NV: McCarran International","DIVERTED",2
+"1033","0001-0559","Delta Air Lines Inc.","Las Vegas, NV: McCarran International","DIVERTED",1
+"1034","0001-0559","Frontier Airlines Inc.","Las Vegas, NV: McCarran International","DIVERTED",1
+"1035","0001-0559","Hawaiian Airlines Inc.","Las Vegas, NV: McCarran International","DIVERTED",1
+"1036","0001-0559","Spirit Air Lines","Las Vegas, NV: McCarran International","DIVERTED",3
+"1037","0001-0559","United Air Lines Inc.","Las Vegas, NV: McCarran International","DIVERTED",1
+"1038","0001-0559","Delta Air Lines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","DIVERTED",1
+"1039","0001-0559","Southwest Airlines Co.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","DIVERTED",1
+"1040","0001-0559","American Airlines Inc.","Los Angeles, CA: Los Angeles International","DIVERTED",5
+"1041","0001-0559","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International","DIVERTED",2
+"1042","0001-0559","Southwest Airlines Co.","Los Angeles, CA: Los Angeles International","DIVERTED",1
+"1043","0001-0559","United Air Lines Inc.","Los Angeles, CA: Los Angeles International","DIVERTED",5
+"1044","0001-0559","Delta Air Lines Inc.","Madison, WI: Dane County Regional-Truax Field","DIVERTED",1
+"1045","0001-0559","American Airlines Inc.","Miami, FL: Miami International","DIVERTED",1
+"1046","0001-0559","Southwest Airlines Co.","Milwaukee, WI: General Mitchell International","DIVERTED",4
+"1047","0001-0559","American Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DIVERTED",3
+"1048","0001-0559","SkyWest Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DIVERTED",1
+"1049","0001-0559","Southwest Airlines Co.","Minneapolis, MN: Minneapolis-St Paul International","DIVERTED",1
+"1050","0001-0559","Spirit Air Lines","Minneapolis, MN: Minneapolis-St Paul International","DIVERTED",1
+"1051","0001-0559","SkyWest Airlines Inc.","Missoula, MT: Missoula International","DIVERTED",1
+"1052","0001-0559","ExpressJet Airlines Inc.","Monroe, LA: Monroe Regional","DIVERTED",1
+"1053","0001-0559","SkyWest Airlines Inc.","Nashville, TN: Nashville International","DIVERTED",1
+"1054","0001-0559","United Air Lines Inc.","Nashville, TN: Nashville International","DIVERTED",1
+"1055","0001-0559","American Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","DIVERTED",1
+"1056","0001-0559","JetBlue Airways","New York, NY: John F. Kennedy International","DIVERTED",4
+"1057","0001-0559","American Airlines Inc.","New York, NY: LaGuardia","DIVERTED",2
+"1058","0001-0559","United Air Lines Inc.","New York, NY: LaGuardia","DIVERTED",1
+"1059","0001-0559","American Airlines Inc.","Newark, NJ: Newark Liberty International","DIVERTED",1
+"1060","0001-0559","United Air Lines Inc.","Newark, NJ: Newark Liberty International","DIVERTED",1
+"1061","0001-0559","Spirit Air Lines","Niagara Falls, NY: Niagara Falls International","DIVERTED",2
+"1062","0001-0559","Southwest Airlines Co.","Oakland, CA: Metropolitan Oakland International","DIVERTED",1
+"1063","0001-0559","Southwest Airlines Co.","Oklahoma City, OK: Will Rogers World","DIVERTED",1
+"1064","0001-0559","ExpressJet Airlines Inc.","Omaha, NE: Eppley Airfield","DIVERTED",1
+"1065","0001-0559","Southwest Airlines Co.","Omaha, NE: Eppley Airfield","DIVERTED",1
+"1066","0001-0559","American Airlines Inc.","Ontario, CA: Ontario International","DIVERTED",1
+"1067","0001-0559","Southwest Airlines Co.","Ontario, CA: Ontario International","DIVERTED",1
+"1068","0001-0559","American Airlines Inc.","Orlando, FL: Orlando International","DIVERTED",1
+"1069","0001-0559","ExpressJet Airlines Inc.","Peoria, IL: General Downing - Peoria International","DIVERTED",1
+"1070","0001-0559","American Airlines Inc.","Philadelphia, PA: Philadelphia International","DIVERTED",2
+"1071","0001-0559","Frontier Airlines Inc.","Philadelphia, PA: Philadelphia International","DIVERTED",1
+"1072","0001-0559","Southwest Airlines Co.","Philadelphia, PA: Philadelphia International","DIVERTED",2
+"1073","0001-0559","United Air Lines Inc.","Philadelphia, PA: Philadelphia International","DIVERTED",2
+"1074","0001-0559","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DIVERTED",1
+"1075","0001-0559","Southwest Airlines Co.","Phoenix, AZ: Phoenix Sky Harbor International","DIVERTED",1
+"1076","0001-0559","Spirit Air Lines","Phoenix, AZ: Phoenix Sky Harbor International","DIVERTED",2
+"1077","0001-0559","SkyWest Airlines Inc.","Pittsburgh, PA: Pittsburgh International","DIVERTED",1
+"1078","0001-0559","Southwest Airlines Co.","Pittsburgh, PA: Pittsburgh International","DIVERTED",3
+"1079","0001-0559","Spirit Air Lines","Plattsburgh, NY: Plattsburgh International","DIVERTED",1
+"1080","0001-0559","American Airlines Inc.","Portland, OR: Portland International","DIVERTED",2
+"1081","0001-0559","Delta Air Lines Inc.","Portland, OR: Portland International","DIVERTED",1
+"1082","0001-0559","Southwest Airlines Co.","Portland, OR: Portland International","DIVERTED",1
+"1083","0001-0559","United Air Lines Inc.","Portland, OR: Portland International","DIVERTED",3
+"1084","0001-0559","Delta Air Lines Inc.","Providence, RI: Theodore Francis Green State","DIVERTED",1
+"1085","0001-0559","Southwest Airlines Co.","Providence, RI: Theodore Francis Green State","DIVERTED",1
+"1086","0001-0559","American Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","DIVERTED",1
+"1087","0001-0559","Southwest Airlines Co.","Raleigh/Durham, NC: Raleigh-Durham International","DIVERTED",2
+"1088","0001-0559","American Airlines Inc.","Reno, NV: Reno/Tahoe International","DIVERTED",1
+"1089","0001-0559","United Air Lines Inc.","Reno, NV: Reno/Tahoe International","DIVERTED",1
+"1090","0001-0559","American Airlines Inc.","Richmond, VA: Richmond International","DIVERTED",1
+"1091","0001-0559","American Airlines Inc.","Sacramento, CA: Sacramento International","DIVERTED",1
+"1092","0001-0559","SkyWest Airlines Inc.","Sacramento, CA: Sacramento International","DIVERTED",1
+"1093","0001-0559","American Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DIVERTED",1
+"1094","0001-0559","SkyWest Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DIVERTED",1
+"1095","0001-0559","American Airlines Inc.","San Antonio, TX: San Antonio International","DIVERTED",1
+"1096","0001-0559","American Airlines Inc.","San Francisco, CA: San Francisco International","DIVERTED",2
+"1097","0001-0559","Frontier Airlines Inc.","San Francisco, CA: San Francisco International","DIVERTED",1
+"1098","0001-0559","Southwest Airlines Co.","San Francisco, CA: San Francisco International","DIVERTED",1
+"1099","0001-0559","United Air Lines Inc.","San Francisco, CA: San Francisco International","DIVERTED",1
+"1100","0001-0559","JetBlue Airways","San Juan, PR: Luis Munoz Marin International","DIVERTED",2
+"1101","0001-0559","Southwest Airlines Co.","San Juan, PR: Luis Munoz Marin International","DIVERTED",1
+"1102","0001-0559","United Air Lines Inc.","San Juan, PR: Luis Munoz Marin International","DIVERTED",1
+"1103","0001-0559","SkyWest Airlines Inc.","San Luis Obispo, CA: San Luis County Regional","DIVERTED",1
+"1104","0001-0559","SkyWest Airlines Inc.","Santa Barbara, CA: Santa Barbara Municipal","DIVERTED",1
+"1105","0001-0559","SkyWest Airlines Inc.","Sault Ste. Marie, MI: Chippewa County International","DIVERTED",2
+"1106","0001-0559","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DIVERTED",1
+"1107","0001-0559","American Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DIVERTED",2
+"1108","0001-0559","Delta Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","DIVERTED",1
+"1109","0001-0559","Southwest Airlines Co.","Seattle, WA: Seattle/Tacoma International","DIVERTED",1
+"1110","0001-0559","United Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","DIVERTED",3
+"1111","0001-0559","ExpressJet Airlines Inc.","Shreveport, LA: Shreveport Regional","DIVERTED",2
+"1112","0001-0559","American Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","DIVERTED",1
+"1113","0001-0559","Delta Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International","DIVERTED",1
+"1114","0001-0559","SkyWest Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","DIVERTED",1
+"1115","0001-0559","Southwest Airlines Co.","St. Louis, MO: Lambert-St. Louis International","DIVERTED",1
+"1116","0001-0559","ExpressJet Airlines Inc.","Tallahassee, FL: Tallahassee International","DIVERTED",1
+"1117","0001-0559","SkyWest Airlines Inc.","Tucson, AZ: Tucson International","DIVERTED",1
+"1118","0001-0559","American Airlines Inc.","Tulsa, OK: Tulsa International","DIVERTED",1
+"1119","0001-0559","American Airlines Inc.","Washington, DC: Ronald Reagan Washington National","DIVERTED",1
+"1120","0001-0559","United Air Lines Inc.","Washington, DC: Ronald Reagan Washington National","DIVERTED",1
+"1121","0001-0559","Delta Air Lines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National","DIVERTED",1
+"1122","0001-0559","SkyWest Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National","DIVERTED",1
+"1123","0001-0559","SkyWest Airlines Inc.","Aberdeen, SD: Aberdeen Regional","ON_TIME",301
+"1124","0001-0559","JetBlue Airways","Aguadilla, PR: Rafael Hernandez","ON_TIME",655
+"1125","0001-0559","Spirit Air Lines","Aguadilla, PR: Rafael Hernandez","ON_TIME",175
+"1126","0001-0559","United Air Lines Inc.","Aguadilla, PR: Rafael Hernandez","ON_TIME",254
+"1127","0001-0559","Delta Air Lines Inc.","Akron, OH: Akron-Canton Regional","ON_TIME",67
+"1128","0001-0559","ExpressJet Airlines Inc.","Akron, OH: Akron-Canton Regional","ON_TIME",24
+"1129","0001-0559","SkyWest Airlines Inc.","Akron, OH: Akron-Canton Regional","ON_TIME",22
+"1130","0001-0559","Southwest Airlines Co.","Akron, OH: Akron-Canton Regional","ON_TIME",27
+"1131","0001-0559","ExpressJet Airlines Inc.","Albany, GA: Southwest Georgia Regional","ON_TIME",244
+"1132","0001-0559","Delta Air Lines Inc.","Albany, NY: Albany International","ON_TIME",184
+"1133","0001-0559","ExpressJet Airlines Inc.","Albany, NY: Albany International","ON_TIME",32
+"1134","0001-0559","SkyWest Airlines Inc.","Albany, NY: Albany International","ON_TIME",1
+"1135","0001-0559","Southwest Airlines Co.","Albany, NY: Albany International","ON_TIME",391
+"1136","0001-0559","United Air Lines Inc.","Albany, NY: Albany International","ON_TIME",17
+"1137","0001-0559","American Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport","ON_TIME",181
+"1138","0001-0559","Delta Air Lines Inc.","Albuquerque, NM: Albuquerque International Sunport","ON_TIME",108
+"1139","0001-0559","SkyWest Airlines Inc.","Albuquerque, NM: Albuquerque International Sunport","ON_TIME",2
+"1140","0001-0559","Southwest Airlines Co.","Albuquerque, NM: Albuquerque International Sunport","ON_TIME",533
+"1141","0001-0559","United Air Lines Inc.","Albuquerque, NM: Albuquerque International Sunport","ON_TIME",14
+"1142","0001-0559","ExpressJet Airlines Inc.","Alexandria, LA: Alexandria International","ON_TIME",94
+"1143","0001-0559","Delta Air Lines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International","ON_TIME",117
+"1144","0001-0559","ExpressJet Airlines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International","ON_TIME",38
+"1145","0001-0559","SkyWest Airlines Inc.","Allentown/Bethlehem/Easton, PA: Lehigh Valley International","ON_TIME",36
+"1146","0001-0559","SkyWest Airlines Inc.","Alpena, MI: Alpena County Regional","ON_TIME",230
+"1147","0001-0559","American Airlines Inc.","Amarillo, TX: Rick Husband Amarillo International","ON_TIME",1
+"1148","0001-0559","Southwest Airlines Co.","Amarillo, TX: Rick Husband Amarillo International","ON_TIME",111
+"1149","0001-0559","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",1757
+"1150","0001-0559","American Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",77
+"1151","0001-0559","Delta Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",873
+"1152","0001-0559","JetBlue Airways","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",223
+"1153","0001-0559","United Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",74
+"1154","0001-0559","Delta Air Lines Inc.","Appleton, WI: Appleton International","ON_TIME",285
+"1155","0001-0559","ExpressJet Airlines Inc.","Appleton, WI: Appleton International","ON_TIME",297
+"1156","0001-0559","SkyWest Airlines Inc.","Appleton, WI: Appleton International","ON_TIME",28
+"1157","0001-0559","SkyWest Airlines Inc.","Arcata/Eureka, CA: Arcata","ON_TIME",32
+"1158","0001-0559","Delta Air Lines Inc.","Asheville, NC: Asheville Regional","ON_TIME",100
+"1159","0001-0559","ExpressJet Airlines Inc.","Asheville, NC: Asheville Regional","ON_TIME",105
+"1160","0001-0559","American Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",315
+"1161","0001-0559","Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",26
+"1162","0001-0559","ExpressJet Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",1
+"1163","0001-0559","Frontier Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",4
+"1164","0001-0559","SkyWest Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",8
+"1165","0001-0559","Southwest Airlines Co.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",607
+"1166","0001-0559","United Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",140
+"1167","0001-0559","Delta Air Lines Inc.","Augusta, GA: Augusta Regional at Bush Field","ON_TIME",147
+"1168","0001-0559","ExpressJet Airlines Inc.","Augusta, GA: Augusta Regional at Bush Field","ON_TIME",89
+"1169","0001-0559","American Airlines Inc.","Austin, TX: Austin - Bergstrom International","ON_TIME",405
+"1170","0001-0559","Delta Air Lines Inc.","Austin, TX: Austin - Bergstrom International","ON_TIME",137
+"1171","0001-0559","JetBlue Airways","Austin, TX: Austin - Bergstrom International","ON_TIME",64
+"1172","0001-0559","SkyWest Airlines Inc.","Austin, TX: Austin - Bergstrom International","ON_TIME",52
+"1173","0001-0559","Southwest Airlines Co.","Austin, TX: Austin - Bergstrom International","ON_TIME",881
+"1174","0001-0559","United Air Lines Inc.","Austin, TX: Austin - Bergstrom International","ON_TIME",156
+"1175","0001-0559","SkyWest Airlines Inc.","Bakersfield, CA: Meadows Field","ON_TIME",341
+"1176","0001-0559","American Airlines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","ON_TIME",347
+"1177","0001-0559","Delta Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","ON_TIME",123
+"1178","0001-0559","United Air Lines Inc.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","ON_TIME",284
+"1179","0001-0559","ExpressJet Airlines Inc.","Bangor, ME: Bangor International","ON_TIME",40
+"1180","0001-0559","ExpressJet Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field","ON_TIME",359
+"1181","0001-0559","SkyWest Airlines Inc.","Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field","ON_TIME",30
+"1182","0001-0559","SkyWest Airlines Inc.","Bemidji, MN: Bemidji Regional","ON_TIME",312
+"1183","0001-0559","SkyWest Airlines Inc.","Bend/Redmond, OR: Roberts Field","ON_TIME",355
+"1184","0001-0559","Delta Air Lines Inc.","Billings, MT: Billings Logan International","ON_TIME",122
+"1185","0001-0559","SkyWest Airlines Inc.","Billings, MT: Billings Logan International","ON_TIME",168
+"1186","0001-0559","United Air Lines Inc.","Billings, MT: Billings Logan International","ON_TIME",53
+"1187","0001-0559","SkyWest Airlines Inc.","Binghamton, NY: Greater Binghamton/Edwin A. Link Field","ON_TIME",98
+"1188","0001-0559","Delta Air Lines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International","ON_TIME",315
+"1189","0001-0559","ExpressJet Airlines Inc.","Birmingham, AL: Birmingham-Shuttlesworth International","ON_TIME",4
+"1190","0001-0559","Southwest Airlines Co.","Birmingham, AL: Birmingham-Shuttlesworth International","ON_TIME",257
+"1191","0001-0559","Delta Air Lines Inc.","Bismarck/Mandan, ND: Bismarck Municipal","ON_TIME",166
+"1192","0001-0559","ExpressJet Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal","ON_TIME",28
+"1193","0001-0559","SkyWest Airlines Inc.","Bismarck/Mandan, ND: Bismarck Municipal","ON_TIME",25
+"1194","0001-0559","Delta Air Lines Inc.","Bloomington/Normal, IL: Central Illinois Regional","ON_TIME",69
+"1195","0001-0559","Delta Air Lines Inc.","Boise, ID: Boise Air Terminal","ON_TIME",338
+"1196","0001-0559","SkyWest Airlines Inc.","Boise, ID: Boise Air Terminal","ON_TIME",10
+"1197","0001-0559","Southwest Airlines Co.","Boise, ID: Boise Air Terminal","ON_TIME",1
+"1198","0001-0559","American Airlines Inc.","Boston, MA: Logan International","ON_TIME",1304
+"1199","0001-0559","Delta Air Lines Inc.","Boston, MA: Logan International","ON_TIME",633
+"1200","0001-0559","JetBlue Airways","Boston, MA: Logan International","ON_TIME",539
+"1201","0001-0559","Southwest Airlines Co.","Boston, MA: Logan International","ON_TIME",964
+"1202","0001-0559","Spirit Air Lines","Boston, MA: Logan International","ON_TIME",307
+"1203","0001-0559","United Air Lines Inc.","Boston, MA: Logan International","ON_TIME",735
+"1204","0001-0559","Delta Air Lines Inc.","Bozeman, MT: Bozeman Yellowstone International","ON_TIME",314
+"1205","0001-0559","SkyWest Airlines Inc.","Bozeman, MT: Bozeman Yellowstone International","ON_TIME",14
+"1206","0001-0559","SkyWest Airlines Inc.","Brainerd, MN: Brainerd Lakes Regional","ON_TIME",75
+"1207","0001-0559","ExpressJet Airlines Inc.","Brownsville, TX: Brownsville South Padre Island International","ON_TIME",132
+"1208","0001-0559","SkyWest Airlines Inc.","Brownsville, TX: Brownsville South Padre Island International","ON_TIME",148
+"1209","0001-0559","Delta Air Lines Inc.","Buffalo, NY: Buffalo Niagara International","ON_TIME",131
+"1210","0001-0559","ExpressJet Airlines Inc.","Buffalo, NY: Buffalo Niagara International","ON_TIME",11
+"1211","0001-0559","JetBlue Airways","Buffalo, NY: Buffalo Niagara International","ON_TIME",335
+"1212","0001-0559","Southwest Airlines Co.","Buffalo, NY: Buffalo Niagara International","ON_TIME",490
+"1213","0001-0559","United Air Lines Inc.","Buffalo, NY: Buffalo Niagara International","ON_TIME",30
+"1214","0001-0559","ExpressJet Airlines Inc.","Burlington, VT: Burlington International","ON_TIME",262
+"1215","0001-0559","JetBlue Airways","Burlington, VT: Burlington International","ON_TIME",331
+"1216","0001-0559","Delta Air Lines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa","ON_TIME",84
+"1217","0001-0559","ExpressJet Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa","ON_TIME",212
+"1218","0001-0559","SkyWest Airlines Inc.","Cedar Rapids/Iowa City, IA: The Eastern Iowa","ON_TIME",37
+"1219","0001-0559","American Airlines Inc.","Charleston, SC: Charleston AFB/International","ON_TIME",2
+"1220","0001-0559","Delta Air Lines Inc.","Charleston, SC: Charleston AFB/International","ON_TIME",16
+"1221","0001-0559","ExpressJet Airlines Inc.","Charleston, SC: Charleston AFB/International","ON_TIME",7
+"1222","0001-0559","Southwest Airlines Co.","Charleston, SC: Charleston AFB/International","ON_TIME",48
+"1223","0001-0559","Delta Air Lines Inc.","Charleston/Dunbar, WV: Yeager","ON_TIME",1
+"1224","0001-0559","ExpressJet Airlines Inc.","Charleston/Dunbar, WV: Yeager","ON_TIME",22
+"1225","0001-0559","SkyWest Airlines Inc.","Charleston/Dunbar, WV: Yeager","ON_TIME",2
+"1226","0001-0559","American Airlines Inc.","Charlotte, NC: Charlotte Douglas International","ON_TIME",199
+"1227","0001-0559","Delta Air Lines Inc.","Charlotte, NC: Charlotte Douglas International","ON_TIME",213
+"1228","0001-0559","ExpressJet Airlines Inc.","Charlotte, NC: Charlotte Douglas International","ON_TIME",4
+"1229","0001-0559","SkyWest Airlines Inc.","Charlotte, NC: Charlotte Douglas International","ON_TIME",2
+"1230","0001-0559","Southwest Airlines Co.","Charlotte, NC: Charlotte Douglas International","ON_TIME",115
+"1231","0001-0559","United Air Lines Inc.","Charlotte, NC: Charlotte Douglas International","ON_TIME",49
+"1232","0001-0559","Delta Air Lines Inc.","Charlottesville, VA: Charlottesville Albemarle","ON_TIME",148
+"1233","0001-0559","ExpressJet Airlines Inc.","Charlottesville, VA: Charlottesville Albemarle","ON_TIME",30
+"1234","0001-0559","SkyWest Airlines Inc.","Charlottesville, VA: Charlottesville Albemarle","ON_TIME",308
+"1235","0001-0559","Delta Air Lines Inc.","Chattanooga, TN: Lovell Field","ON_TIME",97
+"1236","0001-0559","ExpressJet Airlines Inc.","Chattanooga, TN: Lovell Field","ON_TIME",122
+"1237","0001-0559","ExpressJet Airlines Inc.","Chicago, IL: Chicago Midway International","ON_TIME",18
+"1238","0001-0559","Southwest Airlines Co.","Chicago, IL: Chicago Midway International","ON_TIME",1996
+"1239","0001-0559","American Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",1414
+"1240","0001-0559","Delta Air Lines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",201
+"1241","0001-0559","ExpressJet Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",36
+"1242","0001-0559","Frontier Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",69
+"1243","0001-0559","SkyWest Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",46
+"1244","0001-0559","Spirit Air Lines","Chicago, IL: Chicago O'Hare International","ON_TIME",644
+"1245","0001-0559","United Air Lines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",650
+"1246","0001-0559","Delta Air Lines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","ON_TIME",103
+"1247","0001-0559","ExpressJet Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","ON_TIME",34
+"1248","0001-0559","Frontier Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","ON_TIME",92
+"1249","0001-0559","SkyWest Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","ON_TIME",16
+"1250","0001-0559","American Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",109
+"1251","0001-0559","ExpressJet Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",109
+"1252","0001-0559","SkyWest Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",65
+"1253","0001-0559","Southwest Airlines Co.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",242
+"1254","0001-0559","United Air Lines Inc.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",16
+"1255","0001-0559","ExpressJet Airlines Inc.","College Station/Bryan, TX: Easterwood Field","ON_TIME",132
+"1256","0001-0559","American Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal","ON_TIME",19
+"1257","0001-0559","Frontier Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal","ON_TIME",38
+"1258","0001-0559","SkyWest Airlines Inc.","Colorado Springs, CO: City of Colorado Springs Municipal","ON_TIME",167
+"1259","0001-0559","Delta Air Lines Inc.","Columbia, SC: Columbia Metropolitan","ON_TIME",259
+"1260","0001-0559","ExpressJet Airlines Inc.","Columbia, SC: Columbia Metropolitan","ON_TIME",4
+"1261","0001-0559","ExpressJet Airlines Inc.","Columbus, GA: Columbus Airport","ON_TIME",52
+"1262","0001-0559","American Airlines Inc.","Columbus, OH: Port Columbus International","ON_TIME",3
+"1263","0001-0559","Delta Air Lines Inc.","Columbus, OH: Port Columbus International","ON_TIME",283
+"1264","0001-0559","SkyWest Airlines Inc.","Columbus, OH: Port Columbus International","ON_TIME",3
+"1265","0001-0559","Southwest Airlines Co.","Columbus, OH: Port Columbus International","ON_TIME",519
+"1266","0001-0559","ExpressJet Airlines Inc.","Corpus Christi, TX: Corpus Christi International","ON_TIME",31
+"1267","0001-0559","SkyWest Airlines Inc.","Corpus Christi, TX: Corpus Christi International","ON_TIME",81
+"1268","0001-0559","American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",1054
+"1269","0001-0559","Delta Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",335
+"1270","0001-0559","ExpressJet Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",4
+"1271","0001-0559","Frontier Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",2
+"1272","0001-0559","SkyWest Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",152
+"1273","0001-0559","United Air Lines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",260
+"1274","0001-0559","Delta Air Lines Inc.","Dayton, OH: James M Cox/Dayton International","ON_TIME",143
+"1275","0001-0559","ExpressJet Airlines Inc.","Dayton, OH: James M Cox/Dayton International","ON_TIME",46
+"1276","0001-0559","SkyWest Airlines Inc.","Dayton, OH: James M Cox/Dayton International","ON_TIME",16
+"1277","0001-0559","Southwest Airlines Co.","Dayton, OH: James M Cox/Dayton International","ON_TIME",75
+"1278","0001-0559","Delta Air Lines Inc.","Daytona Beach, FL: Daytona Beach International","ON_TIME",89
+"1279","0001-0559","American Airlines Inc.","Denver, CO: Denver International","ON_TIME",988
+"1280","0001-0559","Delta Air Lines Inc.","Denver, CO: Denver International","ON_TIME",271
+"1281","0001-0559","Frontier Airlines Inc.","Denver, CO: Denver International","ON_TIME",267
+"1282","0001-0559","SkyWest Airlines Inc.","Denver, CO: Denver International","ON_TIME",19
+"1283","0001-0559","Southwest Airlines Co.","Denver, CO: Denver International","ON_TIME",1223
+"1284","0001-0559","United Air Lines Inc.","Denver, CO: Denver International","ON_TIME",307
+"1285","0001-0559","American Airlines Inc.","Des Moines, IA: Des Moines International","ON_TIME",89
+"1286","0001-0559","Delta Air Lines Inc.","Des Moines, IA: Des Moines International","ON_TIME",217
+"1287","0001-0559","ExpressJet Airlines Inc.","Des Moines, IA: Des Moines International","ON_TIME",165
+"1288","0001-0559","SkyWest Airlines Inc.","Des Moines, IA: Des Moines International","ON_TIME",98
+"1289","0001-0559","Southwest Airlines Co.","Des Moines, IA: Des Moines International","ON_TIME",26
+"1290","0001-0559","United Air Lines Inc.","Des Moines, IA: Des Moines International","ON_TIME",33
+"1291","0001-0559","American Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","ON_TIME",274
+"1292","0001-0559","Delta Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County","ON_TIME",19
+"1293","0001-0559","SkyWest Airlines Inc.","Detroit, MI: Detroit Metro Wayne County","ON_TIME",46
+"1294","0001-0559","Southwest Airlines Co.","Detroit, MI: Detroit Metro Wayne County","ON_TIME",444
+"1295","0001-0559","United Air Lines Inc.","Detroit, MI: Detroit Metro Wayne County","ON_TIME",77
+"1296","0001-0559","SkyWest Airlines Inc.","Devils Lake, ND: Devils Lake Regional","ON_TIME",285
+"1297","0001-0559","ExpressJet Airlines Inc.","Dothan, AL: Dothan Regional","ON_TIME",245
+"1298","0001-0559","Delta Air Lines Inc.","Duluth, MN: Duluth International","ON_TIME",12
+"1299","0001-0559","SkyWest Airlines Inc.","Duluth, MN: Duluth International","ON_TIME",132
+"1300","0001-0559","SkyWest Airlines Inc.","Durango, CO: Durango La Plata County","ON_TIME",16
+"1301","0001-0559","SkyWest Airlines Inc.","Eau Claire, WI: Chippewa Valley Regional","ON_TIME",283
+"1302","0001-0559","Delta Air Lines Inc.","El Paso, TX: El Paso International","ON_TIME",51
+"1303","0001-0559","SkyWest Airlines Inc.","El Paso, TX: El Paso International","ON_TIME",1
+"1304","0001-0559","Southwest Airlines Co.","El Paso, TX: El Paso International","ON_TIME",413
+"1305","0001-0559","SkyWest Airlines Inc.","Elko, NV: Elko Regional","ON_TIME",98
+"1306","0001-0559","ExpressJet Airlines Inc.","Elmira/Corning, NY: Elmira/Corning Regional","ON_TIME",22
+"1307","0001-0559","SkyWest Airlines Inc.","Escanaba, MI: Delta County","ON_TIME",48
+"1308","0001-0559","SkyWest Airlines Inc.","Eugene, OR: Mahlon Sweet Field","ON_TIME",274
+"1309","0001-0559","United Air Lines Inc.","Eugene, OR: Mahlon Sweet Field","ON_TIME",74
+"1310","0001-0559","Delta Air Lines Inc.","Evansville, IN: Evansville Regional","ON_TIME",88
+"1311","0001-0559","ExpressJet Airlines Inc.","Evansville, IN: Evansville Regional","ON_TIME",2
+"1312","0001-0559","Alaska Airlines Inc.","Fairbanks, AK: Fairbanks International","ON_TIME",332
+"1313","0001-0559","Delta Air Lines Inc.","Fairbanks, AK: Fairbanks International","ON_TIME",110
+"1314","0001-0559","Delta Air Lines Inc.","Fargo, ND: Hector International","ON_TIME",286
+"1315","0001-0559","ExpressJet Airlines Inc.","Fargo, ND: Hector International","ON_TIME",3
+"1316","0001-0559","SkyWest Airlines Inc.","Fargo, ND: Hector International","ON_TIME",19
+"1317","0001-0559","Delta Air Lines Inc.","Fayetteville, AR: Northwest Arkansas Regional","ON_TIME",99
+"1318","0001-0559","ExpressJet Airlines Inc.","Fayetteville, AR: Northwest Arkansas Regional","ON_TIME",4
+"1319","0001-0559","SkyWest Airlines Inc.","Fayetteville, AR: Northwest Arkansas Regional","ON_TIME",12
+"1320","0001-0559","Delta Air Lines Inc.","Fayetteville, NC: Fayetteville Regional/Grannis Field","ON_TIME",54
+"1321","0001-0559","Delta Air Lines Inc.","Flint, MI: Bishop International","ON_TIME",107
+"1322","0001-0559","ExpressJet Airlines Inc.","Flint, MI: Bishop International","ON_TIME",14
+"1323","0001-0559","Southwest Airlines Co.","Flint, MI: Bishop International","ON_TIME",143
+"1324","0001-0559","American Airlines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",134
+"1325","0001-0559","Delta Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",246
+"1326","0001-0559","JetBlue Airways","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",99
+"1327","0001-0559","Southwest Airlines Co.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",522
+"1328","0001-0559","Spirit Air Lines","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",5
+"1329","0001-0559","United Air Lines Inc.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",107
+"1330","0001-0559","American Airlines Inc.","Fort Myers, FL: Southwest Florida International","ON_TIME",38
+"1331","0001-0559","Delta Air Lines Inc.","Fort Myers, FL: Southwest Florida International","ON_TIME",286
+"1332","0001-0559","JetBlue Airways","Fort Myers, FL: Southwest Florida International","ON_TIME",3
+"1333","0001-0559","Southwest Airlines Co.","Fort Myers, FL: Southwest Florida International","ON_TIME",200
+"1334","0001-0559","United Air Lines Inc.","Fort Myers, FL: Southwest Florida International","ON_TIME",170
+"1335","0001-0559","ExpressJet Airlines Inc.","Fort Smith, AR: Fort Smith Regional","ON_TIME",53
+"1336","0001-0559","American Airlines Inc.","Fresno, CA: Fresno Yosemite International","ON_TIME",119
+"1337","0001-0559","SkyWest Airlines Inc.","Fresno, CA: Fresno Yosemite International","ON_TIME",306
+"1338","0001-0559","SkyWest Airlines Inc.","Gillette, WY: Gillette Campbell County","ON_TIME",81
+"1339","0001-0559","SkyWest Airlines Inc.","Grand Forks, ND: Grand Forks International","ON_TIME",152
+"1340","0001-0559","Delta Air Lines Inc.","Grand Rapids, MI: Gerald R. Ford International","ON_TIME",267
+"1341","0001-0559","ExpressJet Airlines Inc.","Grand Rapids, MI: Gerald R. Ford International","ON_TIME",22
+"1342","0001-0559","SkyWest Airlines Inc.","Grand Rapids, MI: Gerald R. Ford International","ON_TIME",1
+"1343","0001-0559","Southwest Airlines Co.","Grand Rapids, MI: Gerald R. Ford International","ON_TIME",277
+"1344","0001-0559","SkyWest Airlines Inc.","Great Falls, MT: Great Falls International","ON_TIME",194
+"1345","0001-0559","Delta Air Lines Inc.","Green Bay, WI: Green Bay Austin Straubel International","ON_TIME",79
+"1346","0001-0559","ExpressJet Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","ON_TIME",367
+"1347","0001-0559","SkyWest Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","ON_TIME",86
+"1348","0001-0559","Delta Air Lines Inc.","Greensboro/High Point, NC: Piedmont Triad International","ON_TIME",244
+"1349","0001-0559","ExpressJet Airlines Inc.","Greensboro/High Point, NC: Piedmont Triad International","ON_TIME",3
+"1350","0001-0559","Delta Air Lines Inc.","Greer, SC: Greenville-Spartanburg International","ON_TIME",270
+"1351","0001-0559","ExpressJet Airlines Inc.","Greer, SC: Greenville-Spartanburg International","ON_TIME",32
+"1352","0001-0559","SkyWest Airlines Inc.","Greer, SC: Greenville-Spartanburg International","ON_TIME",1
+"1353","0001-0559","Southwest Airlines Co.","Greer, SC: Greenville-Spartanburg International","ON_TIME",2
+"1354","0001-0559","Delta Air Lines Inc.","Gulfport/Biloxi, MS: Gulfport-Biloxi International","ON_TIME",64
+"1355","0001-0559","ExpressJet Airlines Inc.","Gulfport/Biloxi, MS: Gulfport-Biloxi International","ON_TIME",21
+"1356","0001-0559","SkyWest Airlines Inc.","Hancock/Houghton, MI: Houghton County Memorial","ON_TIME",174
+"1357","0001-0559","ExpressJet Airlines Inc.","Harlingen/San Benito, TX: Valley International","ON_TIME",128
+"1358","0001-0559","SkyWest Airlines Inc.","Harlingen/San Benito, TX: Valley International","ON_TIME",116
+"1359","0001-0559","Southwest Airlines Co.","Harlingen/San Benito, TX: Valley International","ON_TIME",43
+"1360","0001-0559","Delta Air Lines Inc.","Harrisburg, PA: Harrisburg International","ON_TIME",54
+"1361","0001-0559","ExpressJet Airlines Inc.","Harrisburg, PA: Harrisburg International","ON_TIME",36
+"1362","0001-0559","SkyWest Airlines Inc.","Harrisburg, PA: Harrisburg International","ON_TIME",63
+"1363","0001-0559","American Airlines Inc.","Hartford, CT: Bradley International","ON_TIME",1
+"1364","0001-0559","Delta Air Lines Inc.","Hartford, CT: Bradley International","ON_TIME",270
+"1365","0001-0559","ExpressJet Airlines Inc.","Hartford, CT: Bradley International","ON_TIME",38
+"1366","0001-0559","Southwest Airlines Co.","Hartford, CT: Bradley International","ON_TIME",332
+"1367","0001-0559","United Air Lines Inc.","Hartford, CT: Bradley International","ON_TIME",8
+"1368","0001-0559","SkyWest Airlines Inc.","Helena, MT: Helena Regional","ON_TIME",289
+"1369","0001-0559","ExpressJet Airlines Inc.","Hobbs, NM: Lea County Regional","ON_TIME",1
+"1370","0001-0559","American Airlines Inc.","Honolulu, HI: Honolulu International","ON_TIME",1
+"1371","0001-0559","Hawaiian Airlines Inc.","Honolulu, HI: Honolulu International","ON_TIME",2039
+"1372","0001-0559","United Air Lines Inc.","Honolulu, HI: Honolulu International","ON_TIME",3
+"1373","0001-0559","American Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",918
+"1374","0001-0559","Delta Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",18
+"1375","0001-0559","ExpressJet Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",52
+"1376","0001-0559","Frontier Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",92
+"1377","0001-0559","SkyWest Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",19
+"1378","0001-0559","United Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",407
+"1379","0001-0559","American Airlines Inc.","Houston, TX: William P Hobby","ON_TIME",9
+"1380","0001-0559","ExpressJet Airlines Inc.","Houston, TX: William P Hobby","ON_TIME",1
+"1381","0001-0559","Southwest Airlines Co.","Houston, TX: William P Hobby","ON_TIME",1134
+"1382","0001-0559","Delta Air Lines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field","ON_TIME",259
+"1383","0001-0559","ExpressJet Airlines Inc.","Huntsville, AL: Huntsville International-Carl T Jones Field","ON_TIME",39
+"1384","0001-0559","American Airlines Inc.","Indianapolis, IN: Indianapolis International","ON_TIME",163
+"1385","0001-0559","Delta Air Lines Inc.","Indianapolis, IN: Indianapolis International","ON_TIME",223
+"1386","0001-0559","SkyWest Airlines Inc.","Indianapolis, IN: Indianapolis International","ON_TIME",1
+"1387","0001-0559","Southwest Airlines Co.","Indianapolis, IN: Indianapolis International","ON_TIME",382
+"1388","0001-0559","United Air Lines Inc.","Indianapolis, IN: Indianapolis International","ON_TIME",2
+"1389","0001-0559","SkyWest Airlines Inc.","International Falls, MN: Falls International Einarson Field","ON_TIME",102
+"1390","0001-0559","SkyWest Airlines Inc.","Iron Mountain/Kingsfd, MI: Ford","ON_TIME",52
+"1391","0001-0559","Southwest Airlines Co.","Islip, NY: Long Island MacArthur","ON_TIME",293
+"1392","0001-0559","Delta Air Lines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International","ON_TIME",112
+"1393","0001-0559","ExpressJet Airlines Inc.","Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International","ON_TIME",117
+"1394","0001-0559","Delta Air Lines Inc.","Jacksonville, FL: Jacksonville International","ON_TIME",245
+"1395","0001-0559","ExpressJet Airlines Inc.","Jacksonville, FL: Jacksonville International","ON_TIME",19
+"1396","0001-0559","SkyWest Airlines Inc.","Jacksonville, FL: Jacksonville International","ON_TIME",28
+"1397","0001-0559","Southwest Airlines Co.","Jacksonville, FL: Jacksonville International","ON_TIME",38
+"1398","0001-0559","United Air Lines Inc.","Jacksonville, FL: Jacksonville International","ON_TIME",4
+"1399","0001-0559","Delta Air Lines Inc.","Jacksonville/Camp Lejeune, NC: Albert J Ellis","ON_TIME",1
+"1400","0001-0559","ExpressJet Airlines Inc.","Jacksonville/Camp Lejeune, NC: Albert J Ellis","ON_TIME",122
+"1401","0001-0559","Alaska Airlines Inc.","Juneau, AK: Juneau International","ON_TIME",315
+"1402","0001-0559","American Airlines Inc.","Kahului, HI: Kahului Airport","ON_TIME",1
+"1403","0001-0559","Delta Air Lines Inc.","Kahului, HI: Kahului Airport","ON_TIME",24
+"1404","0001-0559","United Air Lines Inc.","Kahului, HI: Kahului Airport","ON_TIME",8
+"1405","0001-0559","ExpressJet Airlines Inc.","Kalamazoo, MI: Kalamazoo/Battle Creek International","ON_TIME",94
+"1406","0001-0559","SkyWest Airlines Inc.","Kalamazoo, MI: Kalamazoo/Battle Creek International","ON_TIME",8
+"1407","0001-0559","Delta Air Lines Inc.","Kalispell, MT: Glacier Park International","ON_TIME",52
+"1408","0001-0559","SkyWest Airlines Inc.","Kalispell, MT: Glacier Park International","ON_TIME",11
+"1409","0001-0559","American Airlines Inc.","Kansas City, MO: Kansas City International","ON_TIME",263
+"1410","0001-0559","Delta Air Lines Inc.","Kansas City, MO: Kansas City International","ON_TIME",505
+"1411","0001-0559","ExpressJet Airlines Inc.","Kansas City, MO: Kansas City International","ON_TIME",2
+"1412","0001-0559","Frontier Airlines Inc.","Kansas City, MO: Kansas City International","ON_TIME",1
+"1413","0001-0559","SkyWest Airlines Inc.","Kansas City, MO: Kansas City International","ON_TIME",158
+"1414","0001-0559","Southwest Airlines Co.","Kansas City, MO: Kansas City International","ON_TIME",1001
+"1415","0001-0559","United Air Lines Inc.","Kansas City, MO: Kansas City International","ON_TIME",197
+"1416","0001-0559","ExpressJet Airlines Inc.","Killeen, TX: Robert Gray AAF","ON_TIME",413
+"1417","0001-0559","ExpressJet Airlines Inc.","Knoxville, TN: McGhee Tyson","ON_TIME",1
+"1418","0001-0559","American Airlines Inc.","Kona, HI: Kona International Airport at Keahole","ON_TIME",1
+"1419","0001-0559","SkyWest Airlines Inc.","La Crosse, WI: La Crosse Regional","ON_TIME",11
+"1420","0001-0559","Delta Air Lines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field","ON_TIME",44
+"1421","0001-0559","ExpressJet Airlines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field","ON_TIME",21
+"1422","0001-0559","SkyWest Airlines Inc.","Lafayette, LA: Lafayette Regional Paul Fournet Field","ON_TIME",68
+"1423","0001-0559","ExpressJet Airlines Inc.","Lake Charles, LA: Lake Charles Regional","ON_TIME",209
+"1424","0001-0559","ExpressJet Airlines Inc.","Lansing, MI: Capital Region International","ON_TIME",12
+"1425","0001-0559","SkyWest Airlines Inc.","Lansing, MI: Capital Region International","ON_TIME",63
+"1426","0001-0559","ExpressJet Airlines Inc.","Laredo, TX: Laredo International","ON_TIME",60
+"1427","0001-0559","American Airlines Inc.","Las Vegas, NV: McCarran International","ON_TIME",1120
+"1428","0001-0559","Delta Air Lines Inc.","Las Vegas, NV: McCarran International","ON_TIME",421
+"1429","0001-0559","Frontier Airlines Inc.","Las Vegas, NV: McCarran International","ON_TIME",594
+"1430","0001-0559","Hawaiian Airlines Inc.","Las Vegas, NV: McCarran International","ON_TIME",305
+"1431","0001-0559","SkyWest Airlines Inc.","Las Vegas, NV: McCarran International","ON_TIME",14
+"1432","0001-0559","Southwest Airlines Co.","Las Vegas, NV: McCarran International","ON_TIME",1201
+"1433","0001-0559","Spirit Air Lines","Las Vegas, NV: McCarran International","ON_TIME",1232
+"1434","0001-0559","United Air Lines Inc.","Las Vegas, NV: McCarran International","ON_TIME",550
+"1435","0001-0559","Virgin America","Las Vegas, NV: McCarran International","ON_TIME",95
+"1436","0001-0559","ExpressJet Airlines Inc.","Lawton/Fort Sill, OK: Lawton-Fort Sill Regional","ON_TIME",298
+"1437","0001-0559","SkyWest Airlines Inc.","Lewiston, ID: Lewiston Nez Perce County","ON_TIME",345
+"1438","0001-0559","Delta Air Lines Inc.","Lexington, KY: Blue Grass","ON_TIME",43
+"1439","0001-0559","ExpressJet Airlines Inc.","Lexington, KY: Blue Grass","ON_TIME",179
+"1440","0001-0559","American Airlines Inc.","Lihue, HI: Lihue Airport","ON_TIME",1
+"1441","0001-0559","ExpressJet Airlines Inc.","Lincoln, NE: Lincoln Airport","ON_TIME",105
+"1442","0001-0559","SkyWest Airlines Inc.","Lincoln, NE: Lincoln Airport","ON_TIME",3
+"1443","0001-0559","Delta Air Lines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","ON_TIME",171
+"1444","0001-0559","ExpressJet Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","ON_TIME",34
+"1445","0001-0559","SkyWest Airlines Inc.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","ON_TIME",23
+"1446","0001-0559","Southwest Airlines Co.","Little Rock, AR: Bill and Hillary Clinton Nat Adams Field","ON_TIME",273
+"1447","0001-0559","American Airlines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",1913
+"1448","0001-0559","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",741
+"1449","0001-0559","Frontier Airlines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",264
+"1450","0001-0559","JetBlue Airways","Los Angeles, CA: Los Angeles International","ON_TIME",31
+"1451","0001-0559","SkyWest Airlines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",5
+"1452","0001-0559","Southwest Airlines Co.","Los Angeles, CA: Los Angeles International","ON_TIME",1032
+"1453","0001-0559","United Air Lines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",1490
+"1454","0001-0559","American Airlines Inc.","Louisville, KY: Louisville International-Standiford Field","ON_TIME",1
+"1455","0001-0559","Delta Air Lines Inc.","Louisville, KY: Louisville International-Standiford Field","ON_TIME",213
+"1456","0001-0559","Southwest Airlines Co.","Louisville, KY: Louisville International-Standiford Field","ON_TIME",89
+"1457","0001-0559","American Airlines Inc.","Lubbock, TX: Lubbock Preston Smith International","ON_TIME",3
+"1458","0001-0559","Southwest Airlines Co.","Lubbock, TX: Lubbock Preston Smith International","ON_TIME",184
+"1459","0001-0559","Delta Air Lines Inc.","Madison, WI: Dane County Regional-Truax Field","ON_TIME",373
+"1460","0001-0559","ExpressJet Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","ON_TIME",69
+"1461","0001-0559","SkyWest Airlines Inc.","Madison, WI: Dane County Regional-Truax Field","ON_TIME",11
+"1462","0001-0559","United Air Lines Inc.","Madison, WI: Dane County Regional-Truax Field","ON_TIME",57
+"1463","0001-0559","Delta Air Lines Inc.","Manchester, NH: Manchester-Boston Regional","ON_TIME",100
+"1464","0001-0559","ExpressJet Airlines Inc.","Manchester, NH: Manchester-Boston Regional","ON_TIME",97
+"1465","0001-0559","Southwest Airlines Co.","Manchester, NH: Manchester-Boston Regional","ON_TIME",556
+"1466","0001-0559","SkyWest Airlines Inc.","Marquette, MI: Sawyer International","ON_TIME",107
+"1467","0001-0559","SkyWest Airlines Inc.","Medford, OR: Rogue Valley International - Medford","ON_TIME",415
+"1468","0001-0559","Delta Air Lines Inc.","Melbourne, FL: Melbourne International","ON_TIME",113
+"1469","0001-0559","American Airlines Inc.","Memphis, TN: Memphis International","ON_TIME",52
+"1470","0001-0559","Delta Air Lines Inc.","Memphis, TN: Memphis International","ON_TIME",201
+"1471","0001-0559","SkyWest Airlines Inc.","Memphis, TN: Memphis International","ON_TIME",1
+"1472","0001-0559","Southwest Airlines Co.","Memphis, TN: Memphis International","ON_TIME",301
+"1473","0001-0559","American Airlines Inc.","Miami, FL: Miami International","ON_TIME",251
+"1474","0001-0559","Delta Air Lines Inc.","Miami, FL: Miami International","ON_TIME",289
+"1475","0001-0559","United Air Lines Inc.","Miami, FL: Miami International","ON_TIME",114
+"1476","0001-0559","ExpressJet Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port","ON_TIME",42
+"1477","0001-0559","SkyWest Airlines Inc.","Midland/Odessa, TX: Midland International Air and Space Port","ON_TIME",16
+"1478","0001-0559","Southwest Airlines Co.","Midland/Odessa, TX: Midland International Air and Space Port","ON_TIME",73
+"1479","0001-0559","Delta Air Lines Inc.","Milwaukee, WI: General Mitchell International","ON_TIME",241
+"1480","0001-0559","ExpressJet Airlines Inc.","Milwaukee, WI: General Mitchell International","ON_TIME",212
+"1481","0001-0559","Frontier Airlines Inc.","Milwaukee, WI: General Mitchell International","ON_TIME",21
+"1482","0001-0559","SkyWest Airlines Inc.","Milwaukee, WI: General Mitchell International","ON_TIME",639
+"1483","0001-0559","Southwest Airlines Co.","Milwaukee, WI: General Mitchell International","ON_TIME",803
+"1484","0001-0559","American Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",1127
+"1485","0001-0559","Delta Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",346
+"1486","0001-0559","ExpressJet Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",1
+"1487","0001-0559","Frontier Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",246
+"1488","0001-0559","SkyWest Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",173
+"1489","0001-0559","Southwest Airlines Co.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",733
+"1490","0001-0559","Spirit Air Lines","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",109
+"1491","0001-0559","United Air Lines Inc.","Minneapolis, MN: Minneapolis-St Paul International","ON_TIME",291
+"1492","0001-0559","SkyWest Airlines Inc.","Minot, ND: Minot International","ON_TIME",69
+"1493","0001-0559","ExpressJet Airlines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International","ON_TIME",2
+"1494","0001-0559","United Air Lines Inc.","Mission/McAllen/Edinburg, TX: McAllen Miller International","ON_TIME",2
+"1495","0001-0559","Delta Air Lines Inc.","Missoula, MT: Missoula International","ON_TIME",268
+"1496","0001-0559","SkyWest Airlines Inc.","Missoula, MT: Missoula International","ON_TIME",23
+"1497","0001-0559","Delta Air Lines Inc.","Mobile, AL: Mobile Regional","ON_TIME",51
+"1498","0001-0559","ExpressJet Airlines Inc.","Mobile, AL: Mobile Regional","ON_TIME",123
+"1499","0001-0559","ExpressJet Airlines Inc.","Moline, IL: Quad City International","ON_TIME",133
+"1500","0001-0559","SkyWest Airlines Inc.","Moline, IL: Quad City International","ON_TIME",45
+"1501","0001-0559","ExpressJet Airlines Inc.","Monroe, LA: Monroe Regional","ON_TIME",198
+"1502","0001-0559","SkyWest Airlines Inc.","Monterey, CA: Monterey Regional","ON_TIME",139
+"1503","0001-0559","ExpressJet Airlines Inc.","Montgomery, AL: Montgomery Regional","ON_TIME",286
+"1504","0001-0559","ExpressJet Airlines Inc.","Mosinee, WI: Central Wisconsin","ON_TIME",175
+"1505","0001-0559","SkyWest Airlines Inc.","Mosinee, WI: Central Wisconsin","ON_TIME",39
+"1506","0001-0559","American Airlines Inc.","Nashville, TN: Nashville International","ON_TIME",159
+"1507","0001-0559","Delta Air Lines Inc.","Nashville, TN: Nashville International","ON_TIME",264
+"1508","0001-0559","ExpressJet Airlines Inc.","Nashville, TN: Nashville International","ON_TIME",6
+"1509","0001-0559","SkyWest Airlines Inc.","Nashville, TN: Nashville International","ON_TIME",72
+"1510","0001-0559","Southwest Airlines Co.","Nashville, TN: Nashville International","ON_TIME",808
+"1511","0001-0559","United Air Lines Inc.","Nashville, TN: Nashville International","ON_TIME",85
+"1512","0001-0559","ExpressJet Airlines Inc.","New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional","ON_TIME",165
+"1513","0001-0559","American Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",12
+"1514","0001-0559","Delta Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",116
+"1515","0001-0559","ExpressJet Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",25
+"1516","0001-0559","SkyWest Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",68
+"1517","0001-0559","Southwest Airlines Co.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",584
+"1518","0001-0559","United Air Lines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",247
+"1519","0001-0559","American Airlines Inc.","New York, NY: John F. Kennedy International","ON_TIME",325
+"1520","0001-0559","JetBlue Airways","New York, NY: John F. Kennedy International","ON_TIME",583
+"1521","0001-0559","American Airlines Inc.","New York, NY: LaGuardia","ON_TIME",959
+"1522","0001-0559","Delta Air Lines Inc.","New York, NY: LaGuardia","ON_TIME",1
+"1523","0001-0559","ExpressJet Airlines Inc.","New York, NY: LaGuardia","ON_TIME",29
+"1524","0001-0559","United Air Lines Inc.","New York, NY: LaGuardia","ON_TIME",273
+"1525","0001-0559","American Airlines Inc.","Newark, NJ: Newark Liberty International","ON_TIME",554
+"1526","0001-0559","Delta Air Lines Inc.","Newark, NJ: Newark Liberty International","ON_TIME",40
+"1527","0001-0559","ExpressJet Airlines Inc.","Newark, NJ: Newark Liberty International","ON_TIME",19
+"1528","0001-0559","JetBlue Airways","Newark, NJ: Newark Liberty International","ON_TIME",140
+"1529","0001-0559","United Air Lines Inc.","Newark, NJ: Newark Liberty International","ON_TIME",481
+"1530","0001-0559","JetBlue Airways","Newburgh/Poughkeepsie, NY: Stewart International","ON_TIME",39
+"1531","0001-0559","Delta Air Lines Inc.","Newport News/Williamsburg, VA: Newport News/Williamsburg International","ON_TIME",141
+"1532","0001-0559","ExpressJet Airlines Inc.","Newport News/Williamsburg, VA: Newport News/Williamsburg International","ON_TIME",53
+"1533","0001-0559","Spirit Air Lines","Niagara Falls, NY: Niagara Falls International","ON_TIME",158
+"1534","0001-0559","American Airlines Inc.","Norfolk, VA: Norfolk International","ON_TIME",97
+"1535","0001-0559","Delta Air Lines Inc.","Norfolk, VA: Norfolk International","ON_TIME",350
+"1536","0001-0559","ExpressJet Airlines Inc.","Norfolk, VA: Norfolk International","ON_TIME",62
+"1537","0001-0559","SkyWest Airlines Inc.","Norfolk, VA: Norfolk International","ON_TIME",3
+"1538","0001-0559","Southwest Airlines Co.","Norfolk, VA: Norfolk International","ON_TIME",288
+"1539","0001-0559","Delta Air Lines Inc.","Oakland, CA: Metropolitan Oakland International","ON_TIME",91
+"1540","0001-0559","SkyWest Airlines Inc.","Oakland, CA: Metropolitan Oakland International","ON_TIME",2
+"1541","0001-0559","Southwest Airlines Co.","Oakland, CA: Metropolitan Oakland International","ON_TIME",1142
+"1542","0001-0559","American Airlines Inc.","Oklahoma City, OK: Will Rogers World","ON_TIME",206
+"1543","0001-0559","Delta Air Lines Inc.","Oklahoma City, OK: Will Rogers World","ON_TIME",72
+"1544","0001-0559","ExpressJet Airlines Inc.","Oklahoma City, OK: Will Rogers World","ON_TIME",79
+"1545","0001-0559","SkyWest Airlines Inc.","Oklahoma City, OK: Will Rogers World","ON_TIME",29
+"1546","0001-0559","Southwest Airlines Co.","Oklahoma City, OK: Will Rogers World","ON_TIME",316
+"1547","0001-0559","United Air Lines Inc.","Oklahoma City, OK: Will Rogers World","ON_TIME",1
+"1548","0001-0559","American Airlines Inc.","Omaha, NE: Eppley Airfield","ON_TIME",121
+"1549","0001-0559","Delta Air Lines Inc.","Omaha, NE: Eppley Airfield","ON_TIME",336
+"1550","0001-0559","ExpressJet Airlines Inc.","Omaha, NE: Eppley Airfield","ON_TIME",103
+"1551","0001-0559","SkyWest Airlines Inc.","Omaha, NE: Eppley Airfield","ON_TIME",41
+"1552","0001-0559","Southwest Airlines Co.","Omaha, NE: Eppley Airfield","ON_TIME",323
+"1553","0001-0559","United Air Lines Inc.","Omaha, NE: Eppley Airfield","ON_TIME",107
+"1554","0001-0559","American Airlines Inc.","Ontario, CA: Ontario International","ON_TIME",184
+"1555","0001-0559","SkyWest Airlines Inc.","Ontario, CA: Ontario International","ON_TIME",296
+"1556","0001-0559","Southwest Airlines Co.","Ontario, CA: Ontario International","ON_TIME",392
+"1557","0001-0559","United Air Lines Inc.","Ontario, CA: Ontario International","ON_TIME",106
+"1558","0001-0559","American Airlines Inc.","Orlando, FL: Orlando International","ON_TIME",613
+"1559","0001-0559","Delta Air Lines Inc.","Orlando, FL: Orlando International","ON_TIME",328
+"1560","0001-0559","Frontier Airlines Inc.","Orlando, FL: Orlando International","ON_TIME",147
+"1561","0001-0559","JetBlue Airways","Orlando, FL: Orlando International","ON_TIME",86
+"1562","0001-0559","United Air Lines Inc.","Orlando, FL: Orlando International","ON_TIME",212
+"1563","0001-0559","SkyWest Airlines Inc.","Palm Springs, CA: Palm Springs International","ON_TIME",1
+"1564","0001-0559","United Air Lines Inc.","Palm Springs, CA: Palm Springs International","ON_TIME",50
+"1565","0001-0559","Delta Air Lines Inc.","Panama City, FL: Northwest Florida Beaches International","ON_TIME",82
+"1566","0001-0559","Southwest Airlines Co.","Panama City, FL: Northwest Florida Beaches International","ON_TIME",7
+"1567","0001-0559","Delta Air Lines Inc.","Pasco/Kennewick/Richland, WA: Tri Cities","ON_TIME",2
+"1568","0001-0559","SkyWest Airlines Inc.","Pasco/Kennewick/Richland, WA: Tri Cities","ON_TIME",519
+"1569","0001-0559","Delta Air Lines Inc.","Pensacola, FL: Pensacola International","ON_TIME",212
+"1570","0001-0559","SkyWest Airlines Inc.","Pensacola, FL: Pensacola International","ON_TIME",1
+"1571","0001-0559","ExpressJet Airlines Inc.","Peoria, IL: General Downing - Peoria International","ON_TIME",301
+"1572","0001-0559","SkyWest Airlines Inc.","Peoria, IL: General Downing - Peoria International","ON_TIME",38
+"1573","0001-0559","American Airlines Inc.","Philadelphia, PA: Philadelphia International","ON_TIME",482
+"1574","0001-0559","Delta Air Lines Inc.","Philadelphia, PA: Philadelphia International","ON_TIME",255
+"1575","0001-0559","Frontier Airlines Inc.","Philadelphia, PA: Philadelphia International","ON_TIME",100
+"1576","0001-0559","Southwest Airlines Co.","Philadelphia, PA: Philadelphia International","ON_TIME",469
+"1577","0001-0559","United Air Lines Inc.","Philadelphia, PA: Philadelphia International","ON_TIME",224
+"1578","0001-0559","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",2110
+"1579","0001-0559","Delta Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",404
+"1580","0001-0559","Frontier Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",249
+"1581","0001-0559","SkyWest Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",47
+"1582","0001-0559","Southwest Airlines Co.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",869
+"1583","0001-0559","Spirit Air Lines","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",404
+"1584","0001-0559","United Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",451
+"1585","0001-0559","American Airlines Inc.","Pittsburgh, PA: Pittsburgh International","ON_TIME",341
+"1586","0001-0559","Delta Air Lines Inc.","Pittsburgh, PA: Pittsburgh International","ON_TIME",115
+"1587","0001-0559","ExpressJet Airlines Inc.","Pittsburgh, PA: Pittsburgh International","ON_TIME",4
+"1588","0001-0559","SkyWest Airlines Inc.","Pittsburgh, PA: Pittsburgh International","ON_TIME",30
+"1589","0001-0559","Southwest Airlines Co.","Pittsburgh, PA: Pittsburgh International","ON_TIME",687
+"1590","0001-0559","United Air Lines Inc.","Pittsburgh, PA: Pittsburgh International","ON_TIME",73
+"1591","0001-0559","Spirit Air Lines","Plattsburgh, NY: Plattsburgh International","ON_TIME",187
+"1592","0001-0559","JetBlue Airways","Ponce, PR: Mercedita","ON_TIME",609
+"1593","0001-0559","American Airlines Inc.","Portland, ME: Portland International Jetport","ON_TIME",3
+"1594","0001-0559","Delta Air Lines Inc.","Portland, ME: Portland International Jetport","ON_TIME",124
+"1595","0001-0559","ExpressJet Airlines Inc.","Portland, ME: Portland International Jetport","ON_TIME",51
+"1596","0001-0559","JetBlue Airways","Portland, ME: Portland International Jetport","ON_TIME",332
+"1597","0001-0559","Southwest Airlines Co.","Portland, ME: Portland International Jetport","ON_TIME",242
+"1598","0001-0559","United Air Lines Inc.","Portland, ME: Portland International Jetport","ON_TIME",5
+"1599","0001-0559","American Airlines Inc.","Portland, OR: Portland International","ON_TIME",810
+"1600","0001-0559","Delta Air Lines Inc.","Portland, OR: Portland International","ON_TIME",183
+"1601","0001-0559","Frontier Airlines Inc.","Portland, OR: Portland International","ON_TIME",110
+"1602","0001-0559","SkyWest Airlines Inc.","Portland, OR: Portland International","ON_TIME",129
+"1603","0001-0559","Southwest Airlines Co.","Portland, OR: Portland International","ON_TIME",779
+"1604","0001-0559","United Air Lines Inc.","Portland, OR: Portland International","ON_TIME",747
+"1605","0001-0559","American Airlines Inc.","Providence, RI: Theodore Francis Green State","ON_TIME",1
+"1606","0001-0559","Delta Air Lines Inc.","Providence, RI: Theodore Francis Green State","ON_TIME",333
+"1607","0001-0559","ExpressJet Airlines Inc.","Providence, RI: Theodore Francis Green State","ON_TIME",22
+"1608","0001-0559","SkyWest Airlines Inc.","Providence, RI: Theodore Francis Green State","ON_TIME",1
+"1609","0001-0559","Southwest Airlines Co.","Providence, RI: Theodore Francis Green State","ON_TIME",648
+"1610","0001-0559","American Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",740
+"1611","0001-0559","Delta Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",228
+"1612","0001-0559","ExpressJet Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",1
+"1613","0001-0559","JetBlue Airways","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",1
+"1614","0001-0559","SkyWest Airlines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",1
+"1615","0001-0559","Southwest Airlines Co.","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",468
+"1616","0001-0559","United Air Lines Inc.","Raleigh/Durham, NC: Raleigh-Durham International","ON_TIME",65
+"1617","0001-0559","Delta Air Lines Inc.","Rapid City, SD: Rapid City Regional","ON_TIME",3
+"1618","0001-0559","ExpressJet Airlines Inc.","Rapid City, SD: Rapid City Regional","ON_TIME",4
+"1619","0001-0559","SkyWest Airlines Inc.","Rapid City, SD: Rapid City Regional","ON_TIME",75
+"1620","0001-0559","SkyWest Airlines Inc.","Redding, CA: Redding Municipal","ON_TIME",159
+"1621","0001-0559","American Airlines Inc.","Reno, NV: Reno/Tahoe International","ON_TIME",62
+"1622","0001-0559","SkyWest Airlines Inc.","Reno, NV: Reno/Tahoe International","ON_TIME",68
+"1623","0001-0559","Southwest Airlines Co.","Reno, NV: Reno/Tahoe International","ON_TIME",368
+"1624","0001-0559","United Air Lines Inc.","Reno, NV: Reno/Tahoe International","ON_TIME",344
+"1625","0001-0559","American Airlines Inc.","Richmond, VA: Richmond International","ON_TIME",295
+"1626","0001-0559","Delta Air Lines Inc.","Richmond, VA: Richmond International","ON_TIME",296
+"1627","0001-0559","ExpressJet Airlines Inc.","Richmond, VA: Richmond International","ON_TIME",60
+"1628","0001-0559","Southwest Airlines Co.","Richmond, VA: Richmond International","ON_TIME",154
+"1629","0001-0559","SkyWest Airlines Inc.","Rochester, MN: Rochester International","ON_TIME",13
+"1630","0001-0559","Delta Air Lines Inc.","Rochester, NY: Greater Rochester International","ON_TIME",136
+"1631","0001-0559","ExpressJet Airlines Inc.","Rochester, NY: Greater Rochester International","ON_TIME",32
+"1632","0001-0559","JetBlue Airways","Rochester, NY: Greater Rochester International","ON_TIME",322
+"1633","0001-0559","Southwest Airlines Co.","Rochester, NY: Greater Rochester International","ON_TIME",173
+"1634","0001-0559","United Air Lines Inc.","Rochester, NY: Greater Rochester International","ON_TIME",73
+"1635","0001-0559","SkyWest Airlines Inc.","Rock Springs, WY: Rock Springs Sweetwater County","ON_TIME",8
+"1636","0001-0559","American Airlines Inc.","Sacramento, CA: Sacramento International","ON_TIME",50
+"1637","0001-0559","Delta Air Lines Inc.","Sacramento, CA: Sacramento International","ON_TIME",32
+"1638","0001-0559","SkyWest Airlines Inc.","Sacramento, CA: Sacramento International","ON_TIME",273
+"1639","0001-0559","Southwest Airlines Co.","Sacramento, CA: Sacramento International","ON_TIME",1078
+"1640","0001-0559","United Air Lines Inc.","Sacramento, CA: Sacramento International","ON_TIME",487
+"1641","0001-0559","ExpressJet Airlines Inc.","Saginaw/Bay City/Midland, MI: MBS International","ON_TIME",24
+"1642","0001-0559","SkyWest Airlines Inc.","Saginaw/Bay City/Midland, MI: MBS International","ON_TIME",53
+"1643","0001-0559","American Airlines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",548
+"1644","0001-0559","Delta Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",556
+"1645","0001-0559","Frontier Airlines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",163
+"1646","0001-0559","SkyWest Airlines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",291
+"1647","0001-0559","Southwest Airlines Co.","Salt Lake City, UT: Salt Lake City International","ON_TIME",272
+"1648","0001-0559","United Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",227
+"1649","0001-0559","ExpressJet Airlines Inc.","San Angelo, TX: San Angelo Regional/Mathis Field","ON_TIME",212
+"1650","0001-0559","American Airlines Inc.","San Antonio, TX: San Antonio International","ON_TIME",450
+"1651","0001-0559","Delta Air Lines Inc.","San Antonio, TX: San Antonio International","ON_TIME",68
+"1652","0001-0559","SkyWest Airlines Inc.","San Antonio, TX: San Antonio International","ON_TIME",108
+"1653","0001-0559","Southwest Airlines Co.","San Antonio, TX: San Antonio International","ON_TIME",854
+"1654","0001-0559","United Air Lines Inc.","San Antonio, TX: San Antonio International","ON_TIME",66
+"1655","0001-0559","American Airlines Inc.","San Francisco, CA: San Francisco International","ON_TIME",962
+"1656","0001-0559","Delta Air Lines Inc.","San Francisco, CA: San Francisco International","ON_TIME",317
+"1657","0001-0559","Frontier Airlines Inc.","San Francisco, CA: San Francisco International","ON_TIME",113
+"1658","0001-0559","JetBlue Airways","San Francisco, CA: San Francisco International","ON_TIME",44
+"1659","0001-0559","Southwest Airlines Co.","San Francisco, CA: San Francisco International","ON_TIME",445
+"1660","0001-0559","United Air Lines Inc.","San Francisco, CA: San Francisco International","ON_TIME",1173
+"1661","0001-0559","Delta Air Lines Inc.","San Jose, CA: Norman Y. Mineta San Jose International","ON_TIME",1
+"1662","0001-0559","SkyWest Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International","ON_TIME",1
+"1663","0001-0559","American Airlines Inc.","San Juan, PR: Luis Munoz Marin International","ON_TIME",51
+"1664","0001-0559","JetBlue Airways","San Juan, PR: Luis Munoz Marin International","ON_TIME",1227
+"1665","0001-0559","Southwest Airlines Co.","San Juan, PR: Luis Munoz Marin International","ON_TIME",54
+"1666","0001-0559","United Air Lines Inc.","San Juan, PR: Luis Munoz Marin International","ON_TIME",349
+"1667","0001-0559","SkyWest Airlines Inc.","San Luis Obispo, CA: San Luis County Regional","ON_TIME",149
+"1668","0001-0559","SkyWest Airlines Inc.","Santa Barbara, CA: Santa Barbara Municipal","ON_TIME",360
+"1669","0001-0559","ExpressJet Airlines Inc.","Santa Fe, NM: Santa Fe Municipal","ON_TIME",14
+"1670","0001-0559","SkyWest Airlines Inc.","Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field","ON_TIME",44
+"1671","0001-0559","Delta Air Lines Inc.","Sarasota/Bradenton, FL: Sarasota/Bradenton International","ON_TIME",235
+"1672","0001-0559","SkyWest Airlines Inc.","Sault Ste. Marie, MI: Chippewa County International","ON_TIME",241
+"1673","0001-0559","Delta Air Lines Inc.","Savannah, GA: Savannah/Hilton Head International","ON_TIME",246
+"1674","0001-0559","Delta Air Lines Inc.","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International","ON_TIME",71
+"1675","0001-0559","ExpressJet Airlines Inc.","Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International","ON_TIME",73
+"1676","0001-0559","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",929
+"1677","0001-0559","American Airlines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",1000
+"1678","0001-0559","Delta Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",791
+"1679","0001-0559","Frontier Airlines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",52
+"1680","0001-0559","SkyWest Airlines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",13
+"1681","0001-0559","Southwest Airlines Co.","Seattle, WA: Seattle/Tacoma International","ON_TIME",727
+"1682","0001-0559","United Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",1058
+"1683","0001-0559","ExpressJet Airlines Inc.","Shreveport, LA: Shreveport Regional","ON_TIME",698
+"1684","0001-0559","Delta Air Lines Inc.","Sioux Falls, SD: Joe Foss Field","ON_TIME",160
+"1685","0001-0559","ExpressJet Airlines Inc.","Sioux Falls, SD: Joe Foss Field","ON_TIME",19
+"1686","0001-0559","SkyWest Airlines Inc.","Sioux Falls, SD: Joe Foss Field","ON_TIME",20
+"1687","0001-0559","Alaska Airlines Inc.","Spokane, WA: Spokane International","ON_TIME",338
+"1688","0001-0559","Delta Air Lines Inc.","Spokane, WA: Spokane International","ON_TIME",26
+"1689","0001-0559","SkyWest Airlines Inc.","Spokane, WA: Spokane International","ON_TIME",147
+"1690","0001-0559","Southwest Airlines Co.","Spokane, WA: Spokane International","ON_TIME",165
+"1691","0001-0559","United Air Lines Inc.","Spokane, WA: Spokane International","ON_TIME",341
+"1692","0001-0559","ExpressJet Airlines Inc.","Springfield, IL: Abraham Lincoln Capital","ON_TIME",51
+"1693","0001-0559","SkyWest Airlines Inc.","Springfield, IL: Abraham Lincoln Capital","ON_TIME",334
+"1694","0001-0559","Delta Air Lines Inc.","Springfield, MO: Springfield-Branson National","ON_TIME",71
+"1695","0001-0559","SkyWest Airlines Inc.","Springfield, MO: Springfield-Branson National","ON_TIME",1
+"1696","0001-0559","American Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",329
+"1697","0001-0559","Delta Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",207
+"1698","0001-0559","ExpressJet Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",126
+"1699","0001-0559","SkyWest Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",22
+"1700","0001-0559","Southwest Airlines Co.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",864
+"1701","0001-0559","United Air Lines Inc.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",1
+"1702","0001-0559","Delta Air Lines Inc.","Syracuse, NY: Syracuse Hancock International","ON_TIME",293
+"1703","0001-0559","ExpressJet Airlines Inc.","Syracuse, NY: Syracuse Hancock International","ON_TIME",46
+"1704","0001-0559","JetBlue Airways","Syracuse, NY: Syracuse Hancock International","ON_TIME",319
+"1705","0001-0559","SkyWest Airlines Inc.","Syracuse, NY: Syracuse Hancock International","ON_TIME",21
+"1706","0001-0559","Delta Air Lines Inc.","Tallahassee, FL: Tallahassee International","ON_TIME",235
+"1707","0001-0559","ExpressJet Airlines Inc.","Tallahassee, FL: Tallahassee International","ON_TIME",16
+"1708","0001-0559","American Airlines Inc.","Tampa, FL: Tampa International","ON_TIME",358
+"1709","0001-0559","Delta Air Lines Inc.","Tampa, FL: Tampa International","ON_TIME",257
+"1710","0001-0559","Southwest Airlines Co.","Tampa, FL: Tampa International","ON_TIME",370
+"1711","0001-0559","United Air Lines Inc.","Tampa, FL: Tampa International","ON_TIME",107
+"1712","0001-0559","Delta Air Lines Inc.","Traverse City, MI: Cherry Capital","ON_TIME",129
+"1713","0001-0559","ExpressJet Airlines Inc.","Traverse City, MI: Cherry Capital","ON_TIME",40
+"1714","0001-0559","SkyWest Airlines Inc.","Traverse City, MI: Cherry Capital","ON_TIME",21
+"1715","0001-0559","American Airlines Inc.","Tucson, AZ: Tucson International","ON_TIME",380
+"1716","0001-0559","ExpressJet Airlines Inc.","Tucson, AZ: Tucson International","ON_TIME",2
+"1717","0001-0559","SkyWest Airlines Inc.","Tucson, AZ: Tucson International","ON_TIME",288
+"1718","0001-0559","Southwest Airlines Co.","Tucson, AZ: Tucson International","ON_TIME",228
+"1719","0001-0559","American Airlines Inc.","Tulsa, OK: Tulsa International","ON_TIME",351
+"1720","0001-0559","Delta Air Lines Inc.","Tulsa, OK: Tulsa International","ON_TIME",103
+"1721","0001-0559","Southwest Airlines Co.","Tulsa, OK: Tulsa International","ON_TIME",141
+"1722","0001-0559","ExpressJet Airlines Inc.","Tyler, TX: Tyler Pounds Regional","ON_TIME",55
+"1723","0001-0559","ExpressJet Airlines Inc.","Valdosta, GA: Valdosta Regional","ON_TIME",239
+"1724","0001-0559","Delta Air Lines Inc.","Valparaiso, FL: Eglin AFB Destin Fort Walton Beach","ON_TIME",317
+"1725","0001-0559","ExpressJet Airlines Inc.","Waco, TX: Waco Regional","ON_TIME",263
+"1726","0001-0559","American Airlines Inc.","Washington, DC: Ronald Reagan Washington National","ON_TIME",609
+"1727","0001-0559","United Air Lines Inc.","Washington, DC: Ronald Reagan Washington National","ON_TIME",273
+"1728","0001-0559","American Airlines Inc.","Washington, DC: Washington Dulles International","ON_TIME",3
+"1729","0001-0559","Delta Air Lines Inc.","Washington, DC: Washington Dulles International","ON_TIME",35
+"1730","0001-0559","ExpressJet Airlines Inc.","Washington, DC: Washington Dulles International","ON_TIME",12
+"1731","0001-0559","Southwest Airlines Co.","Washington, DC: Washington Dulles International","ON_TIME",2
+"1732","0001-0559","United Air Lines Inc.","Washington, DC: Washington Dulles International","ON_TIME",69
+"1733","0001-0559","American Airlines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","ON_TIME",74
+"1734","0001-0559","Delta Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","ON_TIME",334
+"1735","0001-0559","JetBlue Airways","West Palm Beach/Palm Beach, FL: Palm Beach International","ON_TIME",9
+"1736","0001-0559","Southwest Airlines Co.","West Palm Beach/Palm Beach, FL: Palm Beach International","ON_TIME",240
+"1737","0001-0559","United Air Lines Inc.","West Palm Beach/Palm Beach, FL: Palm Beach International","ON_TIME",21
+"1738","0001-0559","ExpressJet Airlines Inc.","White Plains, NY: Westchester County","ON_TIME",36
+"1739","0001-0559","ExpressJet Airlines Inc.","Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal","ON_TIME",243
+"1740","0001-0559","American Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National","ON_TIME",28
+"1741","0001-0559","Delta Air Lines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National","ON_TIME",264
+"1742","0001-0559","ExpressJet Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National","ON_TIME",1
+"1743","0001-0559","SkyWest Airlines Inc.","Wichita, KS: Wichita Dwight D Eisenhower National","ON_TIME",324
+"1744","0001-0559","Southwest Airlines Co.","Wichita, KS: Wichita Dwight D Eisenhower National","ON_TIME",126
+"1745","0001-0559","SkyWest Airlines Inc.","Williston, ND: Sloulin Field International","ON_TIME",99
+"1746","0001-0559","American Airlines Inc.","Wilmington, NC: Wilmington International","ON_TIME",94
+"1747","0001-0559","Delta Air Lines Inc.","Wilmington, NC: Wilmington International","ON_TIME",37
+"1748","0001-0559","ExpressJet Airlines Inc.","Wilmington, NC: Wilmington International","ON_TIME",52

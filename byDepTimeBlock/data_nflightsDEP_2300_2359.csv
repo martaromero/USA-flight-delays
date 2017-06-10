@@ -1,0 +1,428 @@
+"","TIME_BLOCK","NAME_AIRLINE","NAME_AIRPORT","FLIGHT_STATE","NFLIGHTS"
+"1","2300-2359","JetBlue Airways","Albuquerque, NM: Albuquerque International Sunport","CANCELLED",5
+"2","2300-2359","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","CANCELLED",2
+"3","2300-2359","American Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","CANCELLED",3
+"4","2300-2359","JetBlue Airways","Anchorage, AK: Ted Stevens Anchorage International","CANCELLED",1
+"5","2300-2359","United Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","CANCELLED",6
+"6","2300-2359","Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",42
+"7","2300-2359","ExpressJet Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",13
+"8","2300-2359","Frontier Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","CANCELLED",2
+"9","2300-2359","JetBlue Airways","Boston, MA: Logan International","CANCELLED",2
+"10","2300-2359","United Air Lines Inc.","Chicago, IL: Chicago O'Hare International","CANCELLED",1
+"11","2300-2359","American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",9
+"12","2300-2359","ExpressJet Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",1
+"13","2300-2359","Spirit Air Lines","Dallas/Fort Worth, TX: Dallas/Fort Worth International","CANCELLED",11
+"14","2300-2359","American Airlines Inc.","Denver, CO: Denver International","CANCELLED",3
+"15","2300-2359","Delta Air Lines Inc.","Denver, CO: Denver International","CANCELLED",1
+"16","2300-2359","Frontier Airlines Inc.","Denver, CO: Denver International","CANCELLED",20
+"17","2300-2359","JetBlue Airways","Denver, CO: Denver International","CANCELLED",13
+"18","2300-2359","SkyWest Airlines Inc.","Denver, CO: Denver International","CANCELLED",1
+"19","2300-2359","Southwest Airlines Co.","Denver, CO: Denver International","CANCELLED",1
+"20","2300-2359","Spirit Air Lines","Denver, CO: Denver International","CANCELLED",6
+"21","2300-2359","United Air Lines Inc.","Denver, CO: Denver International","CANCELLED",3
+"22","2300-2359","Alaska Airlines Inc.","Fairbanks, AK: Fairbanks International","CANCELLED",3
+"23","2300-2359","SkyWest Airlines Inc.","Fargo, ND: Hector International","CANCELLED",1
+"24","2300-2359","JetBlue Airways","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","CANCELLED",7
+"25","2300-2359","Spirit Air Lines","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","CANCELLED",7
+"26","2300-2359","American Airlines Inc.","Honolulu, HI: Honolulu International","CANCELLED",5
+"27","2300-2359","SkyWest Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","CANCELLED",1
+"28","2300-2359","United Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","CANCELLED",2
+"29","2300-2359","SkyWest Airlines Inc.","Jamestown, ND: Jamestown Regional","CANCELLED",22
+"30","2300-2359","Alaska Airlines Inc.","Kahului, HI: Kahului Airport","CANCELLED",2
+"31","2300-2359","American Airlines Inc.","Kahului, HI: Kahului Airport","CANCELLED",1
+"32","2300-2359","American Airlines Inc.","Kona, HI: Kona International Airport at Keahole","CANCELLED",1
+"33","2300-2359","Alaska Airlines Inc.","Las Vegas, NV: McCarran International","CANCELLED",3
+"34","2300-2359","Delta Air Lines Inc.","Las Vegas, NV: McCarran International","CANCELLED",3
+"35","2300-2359","Frontier Airlines Inc.","Las Vegas, NV: McCarran International","CANCELLED",11
+"36","2300-2359","JetBlue Airways","Las Vegas, NV: McCarran International","CANCELLED",4
+"37","2300-2359","Spirit Air Lines","Las Vegas, NV: McCarran International","CANCELLED",27
+"38","2300-2359","United Air Lines Inc.","Las Vegas, NV: McCarran International","CANCELLED",5
+"39","2300-2359","Alaska Airlines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",2
+"40","2300-2359","American Airlines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",15
+"41","2300-2359","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",4
+"42","2300-2359","JetBlue Airways","Los Angeles, CA: Los Angeles International","CANCELLED",2
+"43","2300-2359","SkyWest Airlines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",12
+"44","2300-2359","Spirit Air Lines","Los Angeles, CA: Los Angeles International","CANCELLED",8
+"45","2300-2359","United Air Lines Inc.","Los Angeles, CA: Los Angeles International","CANCELLED",12
+"46","2300-2359","Virgin America","Los Angeles, CA: Los Angeles International","CANCELLED",9
+"47","2300-2359","JetBlue Airways","New York, NY: John F. Kennedy International","CANCELLED",18
+"48","2300-2359","ExpressJet Airlines Inc.","Newark, NJ: Newark Liberty International","CANCELLED",6
+"49","2300-2359","JetBlue Airways","Newark, NJ: Newark Liberty International","CANCELLED",1
+"50","2300-2359","United Air Lines Inc.","Newark, NJ: Newark Liberty International","CANCELLED",1
+"51","2300-2359","Delta Air Lines Inc.","Oakland, CA: Metropolitan Oakland International","CANCELLED",2
+"52","2300-2359","JetBlue Airways","Orlando, FL: Orlando International","CANCELLED",4
+"53","2300-2359","JetBlue Airways","Palm Springs, CA: Palm Springs International","CANCELLED",3
+"54","2300-2359","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",14
+"55","2300-2359","United Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","CANCELLED",5
+"56","2300-2359","Delta Air Lines Inc.","Portland, OR: Portland International","CANCELLED",1
+"57","2300-2359","JetBlue Airways","Portland, OR: Portland International","CANCELLED",4
+"58","2300-2359","Spirit Air Lines","Portland, OR: Portland International","CANCELLED",8
+"59","2300-2359","United Air Lines Inc.","Portland, OR: Portland International","CANCELLED",4
+"60","2300-2359","JetBlue Airways","Reno, NV: Reno/Tahoe International","CANCELLED",5
+"61","2300-2359","American Airlines Inc.","Sacramento, CA: Sacramento International","CANCELLED",1
+"62","2300-2359","Delta Air Lines Inc.","Sacramento, CA: Sacramento International","CANCELLED",1
+"63","2300-2359","JetBlue Airways","Sacramento, CA: Sacramento International","CANCELLED",5
+"64","2300-2359","Delta Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","CANCELLED",5
+"65","2300-2359","JetBlue Airways","Salt Lake City, UT: Salt Lake City International","CANCELLED",3
+"66","2300-2359","American Airlines Inc.","San Diego, CA: San Diego International","CANCELLED",2
+"67","2300-2359","American Airlines Inc.","San Francisco, CA: San Francisco International","CANCELLED",6
+"68","2300-2359","Delta Air Lines Inc.","San Francisco, CA: San Francisco International","CANCELLED",1
+"69","2300-2359","Frontier Airlines Inc.","San Francisco, CA: San Francisco International","CANCELLED",5
+"70","2300-2359","JetBlue Airways","San Francisco, CA: San Francisco International","CANCELLED",2
+"71","2300-2359","SkyWest Airlines Inc.","San Francisco, CA: San Francisco International","CANCELLED",7
+"72","2300-2359","United Air Lines Inc.","San Francisco, CA: San Francisco International","CANCELLED",10
+"73","2300-2359","Virgin America","San Francisco, CA: San Francisco International","CANCELLED",4
+"74","2300-2359","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International","CANCELLED",2
+"75","2300-2359","American Airlines Inc.","Seattle, WA: Seattle/Tacoma International","CANCELLED",3
+"76","2300-2359","Delta Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","CANCELLED",2
+"77","2300-2359","JetBlue Airways","Seattle, WA: Seattle/Tacoma International","CANCELLED",1
+"78","2300-2359","United Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","CANCELLED",5
+"79","2300-2359","JetBlue Airways","Albuquerque, NM: Albuquerque International Sunport","DELAYED",98
+"80","2300-2359","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",103
+"81","2300-2359","American Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",28
+"82","2300-2359","Delta Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",1
+"83","2300-2359","JetBlue Airways","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",23
+"84","2300-2359","United Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DELAYED",36
+"85","2300-2359","Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",828
+"86","2300-2359","ExpressJet Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",104
+"87","2300-2359","Frontier Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",14
+"88","2300-2359","Southwest Airlines Co.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DELAYED",1
+"89","2300-2359","Frontier Airlines Inc.","Austin, TX: Austin - Bergstrom International","DELAYED",31
+"90","2300-2359","Virgin America","Austin, TX: Austin - Bergstrom International","DELAYED",1
+"91","2300-2359","Southwest Airlines Co.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","DELAYED",37
+"92","2300-2359","JetBlue Airways","Boston, MA: Logan International","DELAYED",106
+"93","2300-2359","Southwest Airlines Co.","Boston, MA: Logan International","DELAYED",8
+"94","2300-2359","American Airlines Inc.","Charlotte, NC: Charlotte Douglas International","DELAYED",2
+"95","2300-2359","Southwest Airlines Co.","Chicago, IL: Chicago Midway International","DELAYED",13
+"96","2300-2359","Alaska Airlines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",8
+"97","2300-2359","ExpressJet Airlines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",2
+"98","2300-2359","SkyWest Airlines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",2
+"99","2300-2359","United Air Lines Inc.","Chicago, IL: Chicago O'Hare International","DELAYED",27
+"100","2300-2359","American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",105
+"101","2300-2359","ExpressJet Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",8
+"102","2300-2359","Spirit Air Lines","Dallas/Fort Worth, TX: Dallas/Fort Worth International","DELAYED",193
+"103","2300-2359","American Airlines Inc.","Denver, CO: Denver International","DELAYED",52
+"104","2300-2359","Delta Air Lines Inc.","Denver, CO: Denver International","DELAYED",33
+"105","2300-2359","Frontier Airlines Inc.","Denver, CO: Denver International","DELAYED",641
+"106","2300-2359","JetBlue Airways","Denver, CO: Denver International","DELAYED",227
+"107","2300-2359","SkyWest Airlines Inc.","Denver, CO: Denver International","DELAYED",1
+"108","2300-2359","Southwest Airlines Co.","Denver, CO: Denver International","DELAYED",40
+"109","2300-2359","Spirit Air Lines","Denver, CO: Denver International","DELAYED",84
+"110","2300-2359","United Air Lines Inc.","Denver, CO: Denver International","DELAYED",28
+"111","2300-2359","SkyWest Airlines Inc.","Eugene, OR: Mahlon Sweet Field","DELAYED",1
+"112","2300-2359","Alaska Airlines Inc.","Fairbanks, AK: Fairbanks International","DELAYED",11
+"113","2300-2359","JetBlue Airways","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",121
+"114","2300-2359","Spirit Air Lines","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DELAYED",84
+"115","2300-2359","JetBlue Airways","Hartford, CT: Bradley International","DELAYED",49
+"116","2300-2359","Alaska Airlines Inc.","Honolulu, HI: Honolulu International","DELAYED",2
+"117","2300-2359","American Airlines Inc.","Honolulu, HI: Honolulu International","DELAYED",23
+"118","2300-2359","Delta Air Lines Inc.","Honolulu, HI: Honolulu International","DELAYED",20
+"119","2300-2359","Hawaiian Airlines Inc.","Honolulu, HI: Honolulu International","DELAYED",11
+"120","2300-2359","United Air Lines Inc.","Honolulu, HI: Honolulu International","DELAYED",18
+"121","2300-2359","ExpressJet Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",2
+"122","2300-2359","SkyWest Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",23
+"123","2300-2359","United Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","DELAYED",75
+"124","2300-2359","SkyWest Airlines Inc.","Jamestown, ND: Jamestown Regional","DELAYED",39
+"125","2300-2359","Alaska Airlines Inc.","Kahului, HI: Kahului Airport","DELAYED",11
+"126","2300-2359","American Airlines Inc.","Kahului, HI: Kahului Airport","DELAYED",45
+"127","2300-2359","Delta Air Lines Inc.","Kahului, HI: Kahului Airport","DELAYED",28
+"128","2300-2359","Hawaiian Airlines Inc.","Kahului, HI: Kahului Airport","DELAYED",13
+"129","2300-2359","United Air Lines Inc.","Kahului, HI: Kahului Airport","DELAYED",15
+"130","2300-2359","Virgin America","Kahului, HI: Kahului Airport","DELAYED",12
+"131","2300-2359","Alaska Airlines Inc.","Kona, HI: Kona International Airport at Keahole","DELAYED",10
+"132","2300-2359","American Airlines Inc.","Kona, HI: Kona International Airport at Keahole","DELAYED",17
+"133","2300-2359","United Air Lines Inc.","Kona, HI: Kona International Airport at Keahole","DELAYED",3
+"134","2300-2359","Alaska Airlines Inc.","Las Vegas, NV: McCarran International","DELAYED",20
+"135","2300-2359","American Airlines Inc.","Las Vegas, NV: McCarran International","DELAYED",25
+"136","2300-2359","Delta Air Lines Inc.","Las Vegas, NV: McCarran International","DELAYED",77
+"137","2300-2359","Frontier Airlines Inc.","Las Vegas, NV: McCarran International","DELAYED",212
+"138","2300-2359","JetBlue Airways","Las Vegas, NV: McCarran International","DELAYED",263
+"139","2300-2359","Southwest Airlines Co.","Las Vegas, NV: McCarran International","DELAYED",5
+"140","2300-2359","Spirit Air Lines","Las Vegas, NV: McCarran International","DELAYED",216
+"141","2300-2359","United Air Lines Inc.","Las Vegas, NV: McCarran International","DELAYED",58
+"142","2300-2359","SkyWest Airlines Inc.","Lewiston, ID: Lewiston Nez Perce County","DELAYED",1
+"143","2300-2359","Alaska Airlines Inc.","Lihue, HI: Lihue Airport","DELAYED",9
+"144","2300-2359","American Airlines Inc.","Lihue, HI: Lihue Airport","DELAYED",11
+"145","2300-2359","United Air Lines Inc.","Lihue, HI: Lihue Airport","DELAYED",1
+"146","2300-2359","Alaska Airlines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",107
+"147","2300-2359","American Airlines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",495
+"148","2300-2359","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",181
+"149","2300-2359","Frontier Airlines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",4
+"150","2300-2359","JetBlue Airways","Los Angeles, CA: Los Angeles International","DELAYED",169
+"151","2300-2359","SkyWest Airlines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",84
+"152","2300-2359","Spirit Air Lines","Los Angeles, CA: Los Angeles International","DELAYED",188
+"153","2300-2359","United Air Lines Inc.","Los Angeles, CA: Los Angeles International","DELAYED",419
+"154","2300-2359","Virgin America","Los Angeles, CA: Los Angeles International","DELAYED",236
+"155","2300-2359","American Airlines Inc.","Miami, FL: Miami International","DELAYED",3
+"156","2300-2359","JetBlue Airways","New York, NY: John F. Kennedy International","DELAYED",315
+"157","2300-2359","ExpressJet Airlines Inc.","Newark, NJ: Newark Liberty International","DELAYED",4
+"158","2300-2359","JetBlue Airways","Newark, NJ: Newark Liberty International","DELAYED",36
+"159","2300-2359","United Air Lines Inc.","Newark, NJ: Newark Liberty International","DELAYED",7
+"160","2300-2359","Delta Air Lines Inc.","Oakland, CA: Metropolitan Oakland International","DELAYED",10
+"161","2300-2359","JetBlue Airways","Oakland, CA: Metropolitan Oakland International","DELAYED",34
+"162","2300-2359","Southwest Airlines Co.","Ontario, CA: Ontario International","DELAYED",8
+"163","2300-2359","JetBlue Airways","Orlando, FL: Orlando International","DELAYED",64
+"164","2300-2359","Southwest Airlines Co.","Orlando, FL: Orlando International","DELAYED",5
+"165","2300-2359","Hawaiian Airlines Inc.","Pago Pago, TT: Pago Pago International","DELAYED",21
+"166","2300-2359","JetBlue Airways","Palm Springs, CA: Palm Springs International","DELAYED",28
+"167","2300-2359","American Airlines Inc.","Philadelphia, PA: Philadelphia International","DELAYED",5
+"168","2300-2359","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",267
+"169","2300-2359","Delta Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",21
+"170","2300-2359","JetBlue Airways","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",91
+"171","2300-2359","SkyWest Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",1
+"172","2300-2359","Southwest Airlines Co.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",6
+"173","2300-2359","United Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DELAYED",27
+"174","2300-2359","Alaska Airlines Inc.","Portland, OR: Portland International","DELAYED",2
+"175","2300-2359","American Airlines Inc.","Portland, OR: Portland International","DELAYED",6
+"176","2300-2359","Delta Air Lines Inc.","Portland, OR: Portland International","DELAYED",22
+"177","2300-2359","JetBlue Airways","Portland, OR: Portland International","DELAYED",45
+"178","2300-2359","SkyWest Airlines Inc.","Portland, OR: Portland International","DELAYED",23
+"179","2300-2359","Spirit Air Lines","Portland, OR: Portland International","DELAYED",61
+"180","2300-2359","United Air Lines Inc.","Portland, OR: Portland International","DELAYED",82
+"181","2300-2359","JetBlue Airways","Reno, NV: Reno/Tahoe International","DELAYED",71
+"182","2300-2359","American Airlines Inc.","Sacramento, CA: Sacramento International","DELAYED",30
+"183","2300-2359","Delta Air Lines Inc.","Sacramento, CA: Sacramento International","DELAYED",29
+"184","2300-2359","JetBlue Airways","Sacramento, CA: Sacramento International","DELAYED",76
+"185","2300-2359","Southwest Airlines Co.","Sacramento, CA: Sacramento International","DELAYED",9
+"186","2300-2359","United Air Lines Inc.","Sacramento, CA: Sacramento International","DELAYED",18
+"187","2300-2359","American Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",16
+"188","2300-2359","Delta Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",96
+"189","2300-2359","JetBlue Airways","Salt Lake City, UT: Salt Lake City International","DELAYED",219
+"190","2300-2359","SkyWest Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DELAYED",1
+"191","2300-2359","Frontier Airlines Inc.","San Antonio, TX: San Antonio International","DELAYED",29
+"192","2300-2359","Delta Air Lines Inc.","San Diego, CA: San Diego International","DELAYED",2
+"193","2300-2359","American Airlines Inc.","San Francisco, CA: San Francisco International","DELAYED",169
+"194","2300-2359","Delta Air Lines Inc.","San Francisco, CA: San Francisco International","DELAYED",101
+"195","2300-2359","Frontier Airlines Inc.","San Francisco, CA: San Francisco International","DELAYED",44
+"196","2300-2359","JetBlue Airways","San Francisco, CA: San Francisco International","DELAYED",136
+"197","2300-2359","SkyWest Airlines Inc.","San Francisco, CA: San Francisco International","DELAYED",92
+"198","2300-2359","United Air Lines Inc.","San Francisco, CA: San Francisco International","DELAYED",424
+"199","2300-2359","Virgin America","San Francisco, CA: San Francisco International","DELAYED",77
+"200","2300-2359","Delta Air Lines Inc.","San Jose, CA: Norman Y. Mineta San Jose International","DELAYED",5
+"201","2300-2359","JetBlue Airways","San Jose, CA: Norman Y. Mineta San Jose International","DELAYED",27
+"202","2300-2359","JetBlue Airways","San Juan, PR: Luis Munoz Marin International","DELAYED",2
+"203","2300-2359","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",210
+"204","2300-2359","American Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",76
+"205","2300-2359","Delta Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",61
+"206","2300-2359","Frontier Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",13
+"207","2300-2359","JetBlue Airways","Seattle, WA: Seattle/Tacoma International","DELAYED",102
+"208","2300-2359","SkyWest Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",1
+"209","2300-2359","United Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","DELAYED",136
+"210","2300-2359","JetBlue Airways","Tampa, FL: Tampa International","DELAYED",1
+"211","2300-2359","Southwest Airlines Co.","Tampa, FL: Tampa International","DELAYED",5
+"212","2300-2359","JetBlue Airways","Washington, DC: Ronald Reagan Washington National","DELAYED",1
+"213","2300-2359","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DIVERTED",5
+"214","2300-2359","United Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","DIVERTED",3
+"215","2300-2359","Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DIVERTED",6
+"216","2300-2359","ExpressJet Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","DIVERTED",1
+"217","2300-2359","Alaska Airlines Inc.","Chicago, IL: Chicago O'Hare International","DIVERTED",1
+"218","2300-2359","American Airlines Inc.","Denver, CO: Denver International","DIVERTED",2
+"219","2300-2359","Frontier Airlines Inc.","Denver, CO: Denver International","DIVERTED",1
+"220","2300-2359","Southwest Airlines Co.","Denver, CO: Denver International","DIVERTED",1
+"221","2300-2359","JetBlue Airways","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DIVERTED",1
+"222","2300-2359","Spirit Air Lines","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","DIVERTED",1
+"223","2300-2359","SkyWest Airlines Inc.","Green Bay, WI: Green Bay Austin Straubel International","DIVERTED",1
+"224","2300-2359","SkyWest Airlines Inc.","Hays, KS: Hays Regional","DIVERTED",1
+"225","2300-2359","Alaska Airlines Inc.","Honolulu, HI: Honolulu International","DIVERTED",1
+"226","2300-2359","ExpressJet Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","DIVERTED",1
+"227","2300-2359","American Airlines Inc.","Kahului, HI: Kahului Airport","DIVERTED",1
+"228","2300-2359","United Air Lines Inc.","Kahului, HI: Kahului Airport","DIVERTED",1
+"229","2300-2359","Alaska Airlines Inc.","Kona, HI: Kona International Airport at Keahole","DIVERTED",1
+"230","2300-2359","American Airlines Inc.","Kona, HI: Kona International Airport at Keahole","DIVERTED",1
+"231","2300-2359","American Airlines Inc.","Las Vegas, NV: McCarran International","DIVERTED",1
+"232","2300-2359","Delta Air Lines Inc.","Las Vegas, NV: McCarran International","DIVERTED",1
+"233","2300-2359","Frontier Airlines Inc.","Las Vegas, NV: McCarran International","DIVERTED",1
+"234","2300-2359","JetBlue Airways","Las Vegas, NV: McCarran International","DIVERTED",1
+"235","2300-2359","Spirit Air Lines","Las Vegas, NV: McCarran International","DIVERTED",1
+"236","2300-2359","Alaska Airlines Inc.","Los Angeles, CA: Los Angeles International","DIVERTED",2
+"237","2300-2359","American Airlines Inc.","Los Angeles, CA: Los Angeles International","DIVERTED",5
+"238","2300-2359","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International","DIVERTED",2
+"239","2300-2359","JetBlue Airways","Los Angeles, CA: Los Angeles International","DIVERTED",1
+"240","2300-2359","Spirit Air Lines","Los Angeles, CA: Los Angeles International","DIVERTED",1
+"241","2300-2359","United Air Lines Inc.","Los Angeles, CA: Los Angeles International","DIVERTED",7
+"242","2300-2359","SkyWest Airlines Inc.","Minneapolis, MN: Minneapolis-St Paul International","DIVERTED",1
+"243","2300-2359","JetBlue Airways","New York, NY: John F. Kennedy International","DIVERTED",5
+"244","2300-2359","Delta Air Lines Inc.","Oakland, CA: Metropolitan Oakland International","DIVERTED",1
+"245","2300-2359","Frontier Airlines Inc.","Orlando, FL: Orlando International","DIVERTED",1
+"246","2300-2359","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DIVERTED",4
+"247","2300-2359","Delta Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DIVERTED",1
+"248","2300-2359","United Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","DIVERTED",1
+"249","2300-2359","United Air Lines Inc.","Portland, OR: Portland International","DIVERTED",4
+"250","2300-2359","JetBlue Airways","Reno, NV: Reno/Tahoe International","DIVERTED",2
+"251","2300-2359","American Airlines Inc.","Sacramento, CA: Sacramento International","DIVERTED",1
+"252","2300-2359","Delta Air Lines Inc.","Sacramento, CA: Sacramento International","DIVERTED",1
+"253","2300-2359","JetBlue Airways","Sacramento, CA: Sacramento International","DIVERTED",2
+"254","2300-2359","American Airlines Inc.","Salt Lake City, UT: Salt Lake City International","DIVERTED",1
+"255","2300-2359","Delta Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","DIVERTED",1
+"256","2300-2359","JetBlue Airways","Salt Lake City, UT: Salt Lake City International","DIVERTED",1
+"257","2300-2359","ExpressJet Airlines Inc.","San Antonio, TX: San Antonio International","DIVERTED",1
+"258","2300-2359","Delta Air Lines Inc.","San Francisco, CA: San Francisco International","DIVERTED",2
+"259","2300-2359","JetBlue Airways","San Francisco, CA: San Francisco International","DIVERTED",2
+"260","2300-2359","SkyWest Airlines Inc.","San Francisco, CA: San Francisco International","DIVERTED",3
+"261","2300-2359","United Air Lines Inc.","San Francisco, CA: San Francisco International","DIVERTED",6
+"262","2300-2359","Virgin America","San Francisco, CA: San Francisco International","DIVERTED",1
+"263","2300-2359","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DIVERTED",6
+"264","2300-2359","American Airlines Inc.","Seattle, WA: Seattle/Tacoma International","DIVERTED",2
+"265","2300-2359","Delta Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","DIVERTED",1
+"266","2300-2359","United Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","DIVERTED",3
+"267","2300-2359","SkyWest Airlines Inc.","Syracuse, NY: Syracuse Hancock International","DIVERTED",1
+"268","2300-2359","JetBlue Airways","Albuquerque, NM: Albuquerque International Sunport","ON_TIME",223
+"269","2300-2359","Alaska Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",1096
+"270","2300-2359","American Airlines Inc.","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",200
+"271","2300-2359","Delta Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",11
+"272","2300-2359","JetBlue Airways","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",100
+"273","2300-2359","United Air Lines Inc.","Anchorage, AK: Ted Stevens Anchorage International","ON_TIME",316
+"274","2300-2359","Delta Air Lines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",3634
+"275","2300-2359","ExpressJet Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",735
+"276","2300-2359","Frontier Airlines Inc.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",62
+"277","2300-2359","Southwest Airlines Co.","Atlanta, GA: Hartsfield-Jackson Atlanta International","ON_TIME",12
+"278","2300-2359","Frontier Airlines Inc.","Austin, TX: Austin - Bergstrom International","ON_TIME",46
+"279","2300-2359","Virgin America","Austin, TX: Austin - Bergstrom International","ON_TIME",1
+"280","2300-2359","Southwest Airlines Co.","Baltimore, MD: Baltimore/Washington International Thurgood Marshall","ON_TIME",149
+"281","2300-2359","JetBlue Airways","Boston, MA: Logan International","ON_TIME",173
+"282","2300-2359","Southwest Airlines Co.","Boston, MA: Logan International","ON_TIME",17
+"283","2300-2359","United Air Lines Inc.","Boston, MA: Logan International","ON_TIME",2
+"284","2300-2359","United Air Lines Inc.","Bozeman, MT: Bozeman Yellowstone International","ON_TIME",1
+"285","2300-2359","American Airlines Inc.","Charlotte, NC: Charlotte Douglas International","ON_TIME",6
+"286","2300-2359","Southwest Airlines Co.","Chicago, IL: Chicago Midway International","ON_TIME",49
+"287","2300-2359","Alaska Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",30
+"288","2300-2359","American Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",1
+"289","2300-2359","ExpressJet Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",11
+"290","2300-2359","Frontier Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",1
+"291","2300-2359","SkyWest Airlines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",13
+"292","2300-2359","United Air Lines Inc.","Chicago, IL: Chicago O'Hare International","ON_TIME",91
+"293","2300-2359","SkyWest Airlines Inc.","Cincinnati, OH: Cincinnati/Northern Kentucky International","ON_TIME",1
+"294","2300-2359","Frontier Airlines Inc.","Cleveland, OH: Cleveland-Hopkins International","ON_TIME",1
+"295","2300-2359","American Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",236
+"296","2300-2359","ExpressJet Airlines Inc.","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",24
+"297","2300-2359","Spirit Air Lines","Dallas/Fort Worth, TX: Dallas/Fort Worth International","ON_TIME",470
+"298","2300-2359","American Airlines Inc.","Denver, CO: Denver International","ON_TIME",310
+"299","2300-2359","Delta Air Lines Inc.","Denver, CO: Denver International","ON_TIME",95
+"300","2300-2359","Frontier Airlines Inc.","Denver, CO: Denver International","ON_TIME",1323
+"301","2300-2359","JetBlue Airways","Denver, CO: Denver International","ON_TIME",475
+"302","2300-2359","SkyWest Airlines Inc.","Denver, CO: Denver International","ON_TIME",19
+"303","2300-2359","Southwest Airlines Co.","Denver, CO: Denver International","ON_TIME",139
+"304","2300-2359","Spirit Air Lines","Denver, CO: Denver International","ON_TIME",276
+"305","2300-2359","United Air Lines Inc.","Denver, CO: Denver International","ON_TIME",276
+"306","2300-2359","SkyWest Airlines Inc.","Eugene, OR: Mahlon Sweet Field","ON_TIME",1
+"307","2300-2359","Alaska Airlines Inc.","Fairbanks, AK: Fairbanks International","ON_TIME",256
+"308","2300-2359","JetBlue Airways","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",313
+"309","2300-2359","Southwest Airlines Co.","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",1
+"310","2300-2359","Spirit Air Lines","Fort Lauderdale, FL: Fort Lauderdale-Hollywood International","ON_TIME",165
+"311","2300-2359","JetBlue Airways","Hartford, CT: Bradley International","ON_TIME",59
+"312","2300-2359","Alaska Airlines Inc.","Honolulu, HI: Honolulu International","ON_TIME",30
+"313","2300-2359","American Airlines Inc.","Honolulu, HI: Honolulu International","ON_TIME",136
+"314","2300-2359","Delta Air Lines Inc.","Honolulu, HI: Honolulu International","ON_TIME",92
+"315","2300-2359","Hawaiian Airlines Inc.","Honolulu, HI: Honolulu International","ON_TIME",78
+"316","2300-2359","United Air Lines Inc.","Honolulu, HI: Honolulu International","ON_TIME",144
+"317","2300-2359","ExpressJet Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",43
+"318","2300-2359","SkyWest Airlines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",118
+"319","2300-2359","United Air Lines Inc.","Houston, TX: George Bush Intercontinental/Houston","ON_TIME",400
+"320","2300-2359","Frontier Airlines Inc.","Indianapolis, IN: Indianapolis International","ON_TIME",1
+"321","2300-2359","SkyWest Airlines Inc.","Jamestown, ND: Jamestown Regional","ON_TIME",268
+"322","2300-2359","Alaska Airlines Inc.","Kahului, HI: Kahului Airport","ON_TIME",117
+"323","2300-2359","American Airlines Inc.","Kahului, HI: Kahului Airport","ON_TIME",218
+"324","2300-2359","Delta Air Lines Inc.","Kahului, HI: Kahului Airport","ON_TIME",157
+"325","2300-2359","Hawaiian Airlines Inc.","Kahului, HI: Kahului Airport","ON_TIME",205
+"326","2300-2359","United Air Lines Inc.","Kahului, HI: Kahului Airport","ON_TIME",176
+"327","2300-2359","Virgin America","Kahului, HI: Kahului Airport","ON_TIME",86
+"328","2300-2359","Alaska Airlines Inc.","Kona, HI: Kona International Airport at Keahole","ON_TIME",145
+"329","2300-2359","American Airlines Inc.","Kona, HI: Kona International Airport at Keahole","ON_TIME",125
+"330","2300-2359","United Air Lines Inc.","Kona, HI: Kona International Airport at Keahole","ON_TIME",11
+"331","2300-2359","Alaska Airlines Inc.","Las Vegas, NV: McCarran International","ON_TIME",216
+"332","2300-2359","American Airlines Inc.","Las Vegas, NV: McCarran International","ON_TIME",124
+"333","2300-2359","Delta Air Lines Inc.","Las Vegas, NV: McCarran International","ON_TIME",727
+"334","2300-2359","Frontier Airlines Inc.","Las Vegas, NV: McCarran International","ON_TIME",770
+"335","2300-2359","JetBlue Airways","Las Vegas, NV: McCarran International","ON_TIME",462
+"336","2300-2359","SkyWest Airlines Inc.","Las Vegas, NV: McCarran International","ON_TIME",1
+"337","2300-2359","Southwest Airlines Co.","Las Vegas, NV: McCarran International","ON_TIME",9
+"338","2300-2359","Spirit Air Lines","Las Vegas, NV: McCarran International","ON_TIME",755
+"339","2300-2359","United Air Lines Inc.","Las Vegas, NV: McCarran International","ON_TIME",523
+"340","2300-2359","Virgin America","Las Vegas, NV: McCarran International","ON_TIME",1
+"341","2300-2359","Alaska Airlines Inc.","Lihue, HI: Lihue Airport","ON_TIME",114
+"342","2300-2359","American Airlines Inc.","Lihue, HI: Lihue Airport","ON_TIME",131
+"343","2300-2359","United Air Lines Inc.","Lihue, HI: Lihue Airport","ON_TIME",1
+"344","2300-2359","Alaska Airlines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",594
+"345","2300-2359","American Airlines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",1285
+"346","2300-2359","Delta Air Lines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",685
+"347","2300-2359","Frontier Airlines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",37
+"348","2300-2359","JetBlue Airways","Los Angeles, CA: Los Angeles International","ON_TIME",249
+"349","2300-2359","SkyWest Airlines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",497
+"350","2300-2359","Southwest Airlines Co.","Los Angeles, CA: Los Angeles International","ON_TIME",2
+"351","2300-2359","Spirit Air Lines","Los Angeles, CA: Los Angeles International","ON_TIME",431
+"352","2300-2359","United Air Lines Inc.","Los Angeles, CA: Los Angeles International","ON_TIME",1273
+"353","2300-2359","Virgin America","Los Angeles, CA: Los Angeles International","ON_TIME",842
+"354","2300-2359","American Airlines Inc.","Miami, FL: Miami International","ON_TIME",10
+"355","2300-2359","ExpressJet Airlines Inc.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",1
+"356","2300-2359","Southwest Airlines Co.","New Orleans, LA: Louis Armstrong New Orleans International","ON_TIME",1
+"357","2300-2359","JetBlue Airways","New York, NY: John F. Kennedy International","ON_TIME",745
+"358","2300-2359","Southwest Airlines Co.","New York, NY: LaGuardia","ON_TIME",1
+"359","2300-2359","ExpressJet Airlines Inc.","Newark, NJ: Newark Liberty International","ON_TIME",36
+"360","2300-2359","JetBlue Airways","Newark, NJ: Newark Liberty International","ON_TIME",50
+"361","2300-2359","United Air Lines Inc.","Newark, NJ: Newark Liberty International","ON_TIME",47
+"362","2300-2359","Alaska Airlines Inc.","Nome, AK: Nome Airport","ON_TIME",1
+"363","2300-2359","Delta Air Lines Inc.","Oakland, CA: Metropolitan Oakland International","ON_TIME",41
+"364","2300-2359","JetBlue Airways","Oakland, CA: Metropolitan Oakland International","ON_TIME",68
+"365","2300-2359","Southwest Airlines Co.","Oakland, CA: Metropolitan Oakland International","ON_TIME",1
+"366","2300-2359","Southwest Airlines Co.","Ontario, CA: Ontario International","ON_TIME",5
+"367","2300-2359","Frontier Airlines Inc.","Orlando, FL: Orlando International","ON_TIME",1
+"368","2300-2359","JetBlue Airways","Orlando, FL: Orlando International","ON_TIME",316
+"369","2300-2359","Southwest Airlines Co.","Orlando, FL: Orlando International","ON_TIME",25
+"370","2300-2359","Hawaiian Airlines Inc.","Pago Pago, TT: Pago Pago International","ON_TIME",100
+"371","2300-2359","JetBlue Airways","Palm Springs, CA: Palm Springs International","ON_TIME",48
+"372","2300-2359","SkyWest Airlines Inc.","Palm Springs, CA: Palm Springs International","ON_TIME",1
+"373","2300-2359","United Air Lines Inc.","Palm Springs, CA: Palm Springs International","ON_TIME",1
+"374","2300-2359","American Airlines Inc.","Philadelphia, PA: Philadelphia International","ON_TIME",5
+"375","2300-2359","Frontier Airlines Inc.","Philadelphia, PA: Philadelphia International","ON_TIME",4
+"376","2300-2359","American Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",1092
+"377","2300-2359","Delta Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",394
+"378","2300-2359","Frontier Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",1
+"379","2300-2359","JetBlue Airways","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",232
+"380","2300-2359","SkyWest Airlines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",9
+"381","2300-2359","Southwest Airlines Co.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",7
+"382","2300-2359","United Air Lines Inc.","Phoenix, AZ: Phoenix Sky Harbor International","ON_TIME",251
+"383","2300-2359","Alaska Airlines Inc.","Portland, OR: Portland International","ON_TIME",81
+"384","2300-2359","American Airlines Inc.","Portland, OR: Portland International","ON_TIME",25
+"385","2300-2359","Delta Air Lines Inc.","Portland, OR: Portland International","ON_TIME",180
+"386","2300-2359","JetBlue Airways","Portland, OR: Portland International","ON_TIME",82
+"387","2300-2359","SkyWest Airlines Inc.","Portland, OR: Portland International","ON_TIME",291
+"388","2300-2359","Southwest Airlines Co.","Portland, OR: Portland International","ON_TIME",12
+"389","2300-2359","Spirit Air Lines","Portland, OR: Portland International","ON_TIME",140
+"390","2300-2359","United Air Lines Inc.","Portland, OR: Portland International","ON_TIME",575
+"391","2300-2359","JetBlue Airways","Reno, NV: Reno/Tahoe International","ON_TIME",223
+"392","2300-2359","American Airlines Inc.","Sacramento, CA: Sacramento International","ON_TIME",63
+"393","2300-2359","Delta Air Lines Inc.","Sacramento, CA: Sacramento International","ON_TIME",154
+"394","2300-2359","JetBlue Airways","Sacramento, CA: Sacramento International","ON_TIME",171
+"395","2300-2359","Southwest Airlines Co.","Sacramento, CA: Sacramento International","ON_TIME",5
+"396","2300-2359","United Air Lines Inc.","Sacramento, CA: Sacramento International","ON_TIME",70
+"397","2300-2359","American Airlines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",65
+"398","2300-2359","Delta Air Lines Inc.","Salt Lake City, UT: Salt Lake City International","ON_TIME",694
+"399","2300-2359","JetBlue Airways","Salt Lake City, UT: Salt Lake City International","ON_TIME",367
+"400","2300-2359","Frontier Airlines Inc.","San Antonio, TX: San Antonio International","ON_TIME",28
+"401","2300-2359","American Airlines Inc.","San Diego, CA: San Diego International","ON_TIME",47
+"402","2300-2359","Delta Air Lines Inc.","San Diego, CA: San Diego International","ON_TIME",62
+"403","2300-2359","Frontier Airlines Inc.","San Diego, CA: San Diego International","ON_TIME",1
+"404","2300-2359","American Airlines Inc.","San Francisco, CA: San Francisco International","ON_TIME",661
+"405","2300-2359","Delta Air Lines Inc.","San Francisco, CA: San Francisco International","ON_TIME",416
+"406","2300-2359","Frontier Airlines Inc.","San Francisco, CA: San Francisco International","ON_TIME",54
+"407","2300-2359","JetBlue Airways","San Francisco, CA: San Francisco International","ON_TIME",233
+"408","2300-2359","SkyWest Airlines Inc.","San Francisco, CA: San Francisco International","ON_TIME",533
+"409","2300-2359","United Air Lines Inc.","San Francisco, CA: San Francisco International","ON_TIME",2083
+"410","2300-2359","Virgin America","San Francisco, CA: San Francisco International","ON_TIME",426
+"411","2300-2359","American Airlines Inc.","San Jose, CA: Norman Y. Mineta San Jose International","ON_TIME",4
+"412","2300-2359","Delta Air Lines Inc.","San Jose, CA: Norman Y. Mineta San Jose International","ON_TIME",39
+"413","2300-2359","JetBlue Airways","San Jose, CA: Norman Y. Mineta San Jose International","ON_TIME",95
+"414","2300-2359","United Air Lines Inc.","San Jose, CA: Norman Y. Mineta San Jose International","ON_TIME",1
+"415","2300-2359","JetBlue Airways","San Juan, PR: Luis Munoz Marin International","ON_TIME",1
+"416","2300-2359","Alaska Airlines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",1802
+"417","2300-2359","American Airlines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",439
+"418","2300-2359","Delta Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",573
+"419","2300-2359","Frontier Airlines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",64
+"420","2300-2359","JetBlue Airways","Seattle, WA: Seattle/Tacoma International","ON_TIME",231
+"421","2300-2359","United Air Lines Inc.","Seattle, WA: Seattle/Tacoma International","ON_TIME",715
+"422","2300-2359","Frontier Airlines Inc.","St. Louis, MO: Lambert-St. Louis International","ON_TIME",2
+"423","2300-2359","JetBlue Airways","Tampa, FL: Tampa International","ON_TIME",2
+"424","2300-2359","Southwest Airlines Co.","Tampa, FL: Tampa International","ON_TIME",11
+"425","2300-2359","American Airlines Inc.","Tucson, AZ: Tucson International","ON_TIME",10
+"426","2300-2359","American Airlines Inc.","Washington, DC: Ronald Reagan Washington National","ON_TIME",1
+"427","2300-2359","JetBlue Airways","Washington, DC: Ronald Reagan Washington National","ON_TIME",2
