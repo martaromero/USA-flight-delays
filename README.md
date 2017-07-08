@@ -51,3 +51,7 @@ library(DT)
 library(lubridate)
 library(DBI)
 runGitHub("USA-flight-delays", "martaromero")
+
+PRERREQUISITOS:
+- R
+- RStudio
